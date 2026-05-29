@@ -3,9 +3,9 @@
 // SPDX-License-Identifier: MIT
 
 export async function preloadTemplates(): Promise<Handlebars.TemplateDelegate[]> {
-  const templatePaths: string[] = [
-    // Add paths to "modules/GURPSRulesLookup/templates"
-  ];
+    const templatePaths: string[] = [
+        // Add paths to "modules/GURPSRulesLookup/templates"
+    ];
 
-   return loadTemplates(templatePaths);
+    return loadTemplates(templatePaths);
 }
