@@ -7,5 +7,5 @@ export async function preloadTemplates(): Promise<Handlebars.TemplateDelegate[]>
     // Add paths to "modules/GURPSRulesLookup/templates"
   ];
 
-  return loadTemplates(templatePaths);
+   return loadTemplates(templatePaths);
 }
