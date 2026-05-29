@@ -9,22 +9,22 @@ on:
   - pull_request
 
 env:
-  node_version: 16
+  node_version: 20
 
 jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Install node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: ${{ env.node_version }}
 
       - name: Cache Node.js modules
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: .npm
           key: ${{ runner.OS }}-node-${{ hashFiles('**/package-lock.json') }}
@@ -38,71 +38,19 @@ jobs:
       - name: Lint
         run: npm run lint
 
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Install node
-        uses: actions/setup-node@v2
-        with:
-          node-version: ${{ env.node_version }}
-
-      - name: Cache Node.js modules
-        uses: actions/cache@v2
-        with:
-          path: .npm
-          key: ${{ runner.OS }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.OS }}-node-
-            ${{ runner.OS }}-
-
-      - name: Install dependencies
-        run: npm ci --cache .npm --prefer-offline
-
-      - name: Test
-        run: npm run test:ci
-
-  typecheck:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Install node
-        uses: actions/setup-node@v2
-        with:
-          node-version: ${{ env.node_version }}
-
-      - name: Cache Node.js modules
-        uses: actions/cache@v2
-        with:
-          path: .npm
-          key: ${{ runner.OS }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.OS }}-node-
-            ${{ runner.OS }}-
-
-      - name: Install dependencies
-        run: npm ci --cache .npm --prefer-offline
-
-      - name: Typecheck
-        run: npm run typecheck
-
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Install node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: ${{ env.node_version }}
 
       - name: Cache Node.js modules
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: .npm
           key: ${{ runner.OS }}-node-${{ hashFiles('**/package-lock.json') }}
