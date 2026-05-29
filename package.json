@@ -1,0 +1,70 @@
+{
+  "private": true,
+  "name": "GURPSRulesLookup",
+  "description": "<description of the package>",
+  "license": "<please choose an appropriate license. https://choosealicense.com/ is a great place to get more information if you are unsure>",
+  "homepage": "<optionally the URL to your repository or another homepage>",
+  "repository": {
+    "type": "git",
+    "url": "<optionally the URL to your repository>"
+  },
+  "bugs": {
+    "url": "<optionally the URL to your issues list>"
+  },
+  "contributors": [
+    {
+      "name": "<your name>",
+      "email": "<optionally your e-mail address>"
+    }
+  ],
+  "type": "module",
+  "scripts": {
+    "build": "gulp build",
+    "build:watch": "gulp watch",
+    "link-project": "gulp link",
+    "clean": "gulp clean",
+    "clean:link": "gulp link --clean",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint --ext .ts,.js,.cjs,.mjs .",
+    "lint:fix": "eslint --ext .ts,.js,.cjs,.mjs --fix .",
+    "format": "prettier --write \"./**/*.(ts|js|cjs|mjs|json|yml|less)\"",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:ci": "jest --ci --reporters=default --reporters=jest-junit",
+    "postinstall": "husky install"
+  },
+  "devDependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "^13.346.0-beta.20250812191140",
+    "@rollup/plugin-node-resolve": "^16.0.3",
+    "@rollup/plugin-typescript": "^12.3.0",
+    "@rollup/stream": "^3.0.1",
+    "@typescript-eslint/eslint-plugin": "^8.60.0",
+    "@typescript-eslint/parser": "^8.60.0",
+    "eslint": "^10.4.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-jest": "^29.15.2",
+    "eslint-plugin-prettier": "^5.5.6",
+    "fs-extra": "^11.3.5",
+    "gulp": "^5.0.1",
+    "gulp-less": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "husky": "^9.1.7",
+    "jest": "^30.4.2",
+    "jest-environment-jsdom": "^30.4.1",
+    "jest-junit": "^17.0.0",
+    "less": "^3.13.1",
+    "lint-staged": "^17.0.5",
+    "prettier": "^3.8.3",
+    "rollup": "^2.80.0",
+    "ts-jest": "^29.4.11",
+    "tslib": "^2.8.1",
+    "typescript": "^6.0.3",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0",
+    "yargs": "^18.0.0"
+  },
+  "lint-staged": {
+    "*.(ts|js|cjs|mjs)": "eslint --fix",
+    "*.(json|yml|less)": "prettier --write"
+  }
+}
