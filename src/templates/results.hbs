@@ -1,0 +1,13 @@
+<div class='GurpsRulesLookupResults'>
+    {{#if results.length}}
+        {{#each results}}
+            <div class='GurpsRulesLookupResult'>
+                <div class='GurpsRulesLookupRule'><strong>{{this.Rule}}</strong></div> 
+                <div class='GurpsRulesLookupBook'>{{this.Book}} p.{{this.Page}}</div>
+                <div class='GurpsRulesLookupLink' data-action="pdf" data-pdf="{{this.Link}}">{{{pdflink this.Link}}}</div>
+            </div>
+        {{/each}}
+    {{else}}
+        <p class='GurpsRulesLookupNoResults'>No results found.</p>
+    {{/if}}
+</div>

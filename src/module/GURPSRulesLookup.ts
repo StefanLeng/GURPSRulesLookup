@@ -2,6 +2,8 @@
 //
 // SPDX-License-Identifier: MIT
 
+import { SearchSidebar } from './SearchSidebar.ts';
+
 /**
  * This is your TypeScript entry file for Foundry VTT.
  * Register custom settings, sheets, and constants using the Foundry API.
@@ -15,22 +17,21 @@
  */
 
 // Import TypeScript modules
-import { registerSettings } from './settings.js';
-import { preloadTemplates } from './preloadTemplates.js';
 
 // Initialize module
 Hooks.once('init', async () => {
     console.log('GURPSRulesLookup | Initializing GURPSRulesLookup');
 
-    // Assign custom classes and constants here
+    CONFIG.ui.sidebar.TABS.rulesSearch = {
+        icon: `fa-solid fa-search`,
+        tooltip: `GURPS Rules Lookup`,
+    };
+    CONFIG.ui.rulesSearch = SearchSidebar;
 
-    // Register custom module settings
-    registerSettings();
-
-    // Preload Handlebars templates
-    await preloadTemplates();
-
-    // Register custom sheets (if any)
+    // Inject the custom tab right before settings
+    const temp = CONFIG.ui.sidebar.TABS.settings;
+    delete CONFIG.ui.sidebar.TABS.settings;
+    CONFIG.ui.sidebar.TABS.settings = temp;
 });
 
 // Setup module

@@ -1,0 +1,9683 @@
+[
+  {
+    "Rule": "Academic Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "6",
+    "Link": "PU3:6"
+  },
+  {
+    "Rule": "Accuracy and Aimed Fire",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "372",
+    "Link": "B372"
+  },
+  {
+    "Rule": "Acid",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Acrobatic Attack",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "107",
+    "Link": "MA107"
+  },
+  {
+    "Rule": "Acrobatic Dodge",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "375",
+    "Link": "B375"
+  },
+  {
+    "Rule": "Acrobatic Feint Perk",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "5",
+    "Link": "PU2:5"
+  },
+  {
+    "Rule": "Acrobatic Guard",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "12",
+    "Link": "DF2:12"
+  },
+  {
+    "Rule": "Acrobatic Kick Perk",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "5",
+    "Link": "PU2:5"
+  },
+  {
+    "Rule": "Acrobatic Stand",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Martial Arts",
+    "Page": "98",
+    "Link": "MA98"
+  },
+  {
+    "Rule": "Actions after being Grappled",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "371",
+    "Link": "B371"
+  },
+  {
+    "Rule": "Active Defense Rolls at -4 while Stunned",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "420",
+    "Link": "B420"
+  },
+  {
+    "Rule": "Addictive Drugs",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "440",
+    "Link": "B440"
+  },
+  {
+    "Rule": "Adept 125 pt Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "34",
+    "Link": "DF15:34"
+  },
+  {
+    "Rule": "Advantage List",
+    "Category": [
+      "Reference",
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "297",
+    "Link": "B297"
+  },
+  {
+    "Rule": "Aerial Scouting and Mapping  (Dungeon Fantasy)",
+    "Category": [
+      "Activities",
+      "Physical Act"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "27",
+    "Link": "DF16:27"
+  },
+  {
+    "Rule": "Agent",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "4",
+    "Link": "DF15:4"
+  },
+  {
+    "Rule": "Agony",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Agricultural Gods (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "8",
+    "Link": "DF7:8"
+  },
+  {
+    "Rule": "Agricultural Productivity Table",
+    "Category": [
+      "Resources",
+      "Reference"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "10",
+    "Link": "LTC3:10"
+  },
+  {
+    "Rule": "Aim Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "364",
+    "Link": "B364"
+  },
+  {
+    "Rule": "Aim Maneuver (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "97",
+    "Link": "MA97"
+  },
+  {
+    "Rule": "Aiming Fixed-Mount Weapons",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech",
+    "Page": "80",
+    "Link": "LT80"
+  },
+  {
+    "Rule": "Alchemical Charms",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "9",
+    "Link": "DFMI1:9"
+  },
+  {
+    "Rule": "Alchemy (Magic)",
+    "Category": [
+      "Magic",
+      "Profession"
+    ],
+    "Book": "Magic",
+    "Page": "210",
+    "Link": "M210"
+  },
+  {
+    "Rule": "Alchemy to Chemistry",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "23",
+    "Link": "LTC1:23"
+  },
+  {
+    "Rule": "Alien Friend Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "6",
+    "Link": "PU3:6"
+  },
+  {
+    "Rule": "Allied Tradesman",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "9",
+    "Link": "TUM9"
+  },
+  {
+    "Rule": "All-Out Attack (Long) (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "97",
+    "Link": "MA97"
+  },
+  {
+    "Rule": "All-Out Attack Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "365",
+    "Link": "B365"
+  },
+  {
+    "Rule": "All-Out Attack Maneuver (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "97",
+    "Link": "MA97"
+  },
+  {
+    "Rule": "All-Out Attack while Grappling",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "114",
+    "Link": "MA114"
+  },
+  {
+    "Rule": "All-Out Defense",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "366",
+    "Link": "B366"
+  },
+  {
+    "Rule": "Allowable Magical Perks per Magical Style",
+    "Category": [
+      "Reference",
+      "Trait",
+      "Magic"
+    ],
+    "Book": "Thaumatology: Magical Styles",
+    "Page": "12",
+    "Link": "TMS12"
+  },
+  {
+    "Rule": "Allure Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "6",
+    "Link": "PU3:6"
+  },
+  {
+    "Rule": "Alternate Arrows",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "73",
+    "Link": "LT73"
+  },
+  {
+    "Rule": "Amenities in Taverns",
+    "Category": [
+      "Resources"
+    ],
+    "Book": "Dungeon Fantasy 10",
+    "Page": "4",
+    "Link": "DF10:4"
+  },
+  {
+    "Rule": "Angels and Demons (Dungeon Fantasy)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "32",
+    "Link": "DF9:32"
+  },
+  {
+    "Rule": "Animal Friend Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "6",
+    "Link": "PU3:6"
+  },
+  {
+    "Rule": "Animal Handler Trainer",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "32",
+    "Link": "MAG32"
+  },
+  {
+    "Rule": "Animal Productivity Table",
+    "Category": [
+      "Resources",
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "10",
+    "Link": "LTC3:10"
+  },
+  {
+    "Rule": "Animal Totems",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Powers: Totems and Nature Spirits",
+    "Page": "10",
+    "Link": "PTNS10"
+  },
+  {
+    "Rule": "Antiquary Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "6",
+    "Link": "PU3:6"
+  },
+  {
+    "Rule": "Appearance Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "4",
+    "Link": "PU2:4"
+  },
+  {
+    "Rule": "Apprentice",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "6",
+    "Link": "DF15:6"
+  },
+  {
+    "Rule": "Arcane Familiar Allies",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "20",
+    "Link": "DF5:20"
+  },
+  {
+    "Rule": "Archer",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "8",
+    "Link": "DF15:8"
+  },
+  {
+    "Rule": "Aristocrat Swashbuckler (Denizens)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "6",
+    "Link": "DFDS6"
+  },
+  {
+    "Rule": "Arm Lock",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "403",
+    "Link": "B403"
+  },
+  {
+    "Rule": "Arm or Wrist Lock Technique (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "65",
+    "Link": "MA65"
+  },
+  {
+    "Rule": "Armor Enchantment Table",
+    "Category": [
+      "Magic",
+      "Armor",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "4",
+    "Link": "DFMI1:4"
+  },
+  {
+    "Rule": "Armor Gaps",
+    "Category": [
+      "Armor",
+      "Combat"
+    ],
+    "Book": "Low Tech",
+    "Page": "101",
+    "Link": "LT101"
+  },
+  {
+    "Rule": "Armor Locations Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Low Tech Instant Armor",
+    "Page": "16",
+    "Link": "LTIA16"
+  },
+  {
+    "Rule": "Armor Quality",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech",
+    "Page": "109",
+    "Link": "LT109"
+  },
+  {
+    "Rule": "Armor Special Materials Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Low Tech Instant Armor",
+    "Page": "17",
+    "Link": "LTIA17"
+  },
+  {
+    "Rule": "Armor Special Modifications Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Low Tech Instant Armor",
+    "Page": "18",
+    "Link": "LTIA18"
+  },
+  {
+    "Rule": "Armor that Doesn't Fit",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech",
+    "Page": "103",
+    "Link": "LT103"
+  },
+  {
+    "Rule": "Artificer (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "4",
+    "Link": "DF4:4"
+  },
+  {
+    "Rule": "Artificer Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "7",
+    "Link": "DF13:7"
+  },
+  {
+    "Rule": "Artificer Gods (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "9",
+    "Link": "DF7:9"
+  },
+  {
+    "Rule": "Artificer Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "17",
+    "Link": "DF11:17"
+  },
+  {
+    "Rule": "Artificer Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "6",
+    "Link": "PU3:6"
+  },
+  {
+    "Rule": "Aspected Magery",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "67",
+    "Link": "B67"
+  },
+  {
+    "Rule": "Assassin (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "9",
+    "Link": "DF12:9"
+  },
+  {
+    "Rule": "Athletics in Combat",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "12",
+    "Link": "DF2:12"
+  },
+  {
+    "Rule": "Attack Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "365",
+    "Link": "B365"
+  },
+  {
+    "Rule": "Attack Maneuver (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "98",
+    "Link": "MA98"
+  },
+  {
+    "Rule": "Attacking an Area Rather than a Person",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "414",
+    "Link": "B414"
+  },
+  {
+    "Rule": "Attacking an Arm or Leg Joint",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "137",
+    "Link": "MA137"
+  },
+  {
+    "Rule": "Attacking Armor Straps",
+    "Category": [
+      "Combat",
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "25",
+    "Link": "LT2:25"
+  },
+  {
+    "Rule": "Attacking Multiple Targets in One Turn",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "127",
+    "Link": "MA127"
+  },
+  {
+    "Rule": "Aura of Chaos",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "84",
+    "Link": "PDFC84"
+  },
+  {
+    "Rule": "Aura of Cloud-Walking",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "85",
+    "Link": "PDFC85"
+  },
+  {
+    "Rule": "Aura of Courage",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "85",
+    "Link": "PDFC85"
+  },
+  {
+    "Rule": "Aura of Cowardice",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "86",
+    "Link": "PDFC86"
+  },
+  {
+    "Rule": "Aura of Darkness",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "86",
+    "Link": "PDFC86"
+  },
+  {
+    "Rule": "Aura of Fascination",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "86",
+    "Link": "PDFC86"
+  },
+  {
+    "Rule": "Aura of Focus",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "87",
+    "Link": "PDFC87"
+  },
+  {
+    "Rule": "Aura of Frailty",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "87",
+    "Link": "PDFC87"
+  },
+  {
+    "Rule": "Aura of Might",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "88",
+    "Link": "PDFC88"
+  },
+  {
+    "Rule": "Aura of Mortality",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "88",
+    "Link": "PDFC88"
+  },
+  {
+    "Rule": "Aura of Protection",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "88",
+    "Link": "PDFC88"
+  },
+  {
+    "Rule": "Aura of Resistance",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "89",
+    "Link": "PDFC89"
+  },
+  {
+    "Rule": "Aura of True Sight",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "89",
+    "Link": "PDFC89"
+  },
+  {
+    "Rule": "Aura of Vigor",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "89",
+    "Link": "PDFC89"
+  },
+  {
+    "Rule": "Aura of Warding",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "90",
+    "Link": "PDFC90"
+  },
+  {
+    "Rule": "Aura of Water-Walking",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "90",
+    "Link": "PDFC90"
+  },
+  {
+    "Rule": "Aura Skills and Techniques",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "83",
+    "Link": "PDFC84"
+  },
+  {
+    "Rule": "Auras of Power",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "83",
+    "Link": "PDFC83"
+  },
+  {
+    "Rule": "Auras Other Power Modifiers Options",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "89",
+    "Link": "PDFC89"
+  },
+  {
+    "Rule": "Awe and Confusion Check Table",
+    "Category": [
+      "Reference",
+      "Injury"
+    ],
+    "Book": "Powers",
+    "Page": "85",
+    "Link": "P85"
+  },
+  {
+    "Rule": "Backbreaker Technique",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "82",
+    "Link": "MA82"
+  },
+  {
+    "Rule": "Backstabbing",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "11",
+    "Link": "DF2:11"
+  },
+  {
+    "Rule": "Bad Footing Walking Through Shallow Water",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Basic",
+    "Page": "387",
+    "Link": "B387"
+  },
+  {
+    "Rule": "Bandaging Restores 1 HP",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "424",
+    "Link": "B424"
+  },
+  {
+    "Rule": "Bandit (Denizens PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "5",
+    "Link": "DFDT5"
+  },
+  {
+    "Rule": "Banister Sliding in Combat",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Martial Arts",
+    "Page": "105",
+    "Link": "MA105"
+  },
+  {
+    "Rule": "Barbarian (PC Class Denizens)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "4",
+    "Link": "DFDB4"
+  },
+  {
+    "Rule": "Barbarian (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "4",
+    "Link": "DF1:4"
+  },
+  {
+    "Rule": "Barbarian Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "8",
+    "Link": "DF13:8"
+  },
+  {
+    "Rule": "Barbarian Gear (Denizens)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "25",
+    "Link": "DFDB25"
+  },
+  {
+    "Rule": "Barbarian Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "18",
+    "Link": "DF11:18"
+  },
+  {
+    "Rule": "Barbarian Rage Abilities",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "22",
+    "Link": "DFDB22"
+  },
+  {
+    "Rule": "Barbaric Perks (Denizens)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "17",
+    "Link": "DFDB17"
+  },
+  {
+    "Rule": "Barbaric Power-Ups (Denizens)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "16",
+    "Link": "DFDB16"
+  },
+  {
+    "Rule": "Bard (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "5",
+    "Link": "DF1:5"
+  },
+  {
+    "Rule": "Bard Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "9",
+    "Link": "DF13:9"
+  },
+  {
+    "Rule": "Bard Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "19",
+    "Link": "DF11:19"
+  },
+  {
+    "Rule": "Bard Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "6",
+    "Link": "PU3:6"
+  },
+  {
+    "Rule": "Barding Horse Armor Table",
+    "Category": [
+      "Reference",
+      "Mount"
+    ],
+    "Book": "Basic",
+    "Page": "286",
+    "Link": "B286"
+  },
+  {
+    "Rule": "Bard-Song Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "21",
+    "Link": "DF1:21"
+  },
+  {
+    "Rule": "Basic Lift and Encumbrance Table",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "17",
+    "Link": "B17"
+  },
+  {
+    "Rule": "Bear Hug while Grappling",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "117",
+    "Link": "MA117"
+  },
+  {
+    "Rule": "Beastmaster Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "6",
+    "Link": "PU3:6"
+  },
+  {
+    "Rule": "Beats in Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "100",
+    "Link": "MA100"
+  },
+  {
+    "Rule": "Berserker Barbarian",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "9",
+    "Link": "DFDB9"
+  },
+  {
+    "Rule": "Biting in Close Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "115",
+    "Link": "MA115"
+  },
+  {
+    "Rule": "Black Powder and making Black Powder",
+    "Category": [
+      "Gear",
+      "Profession"
+    ],
+    "Book": "Low Tech",
+    "Page": "85",
+    "Link": "LT85"
+  },
+  {
+    "Rule": "Blade Composition",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
+    "Rule": "Bleeding",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "420",
+    "Link": "B420"
+  },
+  {
+    "Rule": "Blessed Be (Defining Different Forms of Blessed)",
+    "Category": [
+      "Trait",
+      "Divinity"
+    ],
+    "Book": "Pyramid #3/78",
+    "Page": "4",
+    "Link": "PY78:4"
+  },
+  {
+    "Rule": "Blocking Spell Mastery Perk",
+    "Category": [
+      "Trait",
+      "Magic"
+    ],
+    "Book": "Thaumatology: Magical Styles",
+    "Page": "23",
+    "Link": "TMS23"
+  },
+  {
+    "Rule": "Blood Agent",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "437",
+    "Link": "B437"
+  },
+  {
+    "Rule": "Blunderbusses and Shotguns Table",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "92",
+    "Link": "LT92"
+  },
+  {
+    "Rule": "Blunt Trauma",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "379",
+    "Link": "B379"
+  },
+  {
+    "Rule": "Body Armor Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Low Tech Instant Armor",
+    "Page": "4",
+    "Link": "LTIA4"
+  },
+  {
+    "Rule": "Bolas Special Ranged Rules",
+    "Category": [
+      "Combat",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "410",
+    "Link": "B410"
+  },
+  {
+    "Rule": "Bombards Table",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "88",
+    "Link": "LT88"
+  },
+  {
+    "Rule": "Bonesetting Hard Technique",
+    "Category": [
+      "Professions",
+      "Injury"
+    ],
+    "Book": "Low Tech",
+    "Page": "12",
+    "Link": "LT12"
+  },
+  {
+    "Rule": "Born Entertainer Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "6",
+    "Link": "PU3:6"
+  },
+  {
+    "Rule": "Born Sailor Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "13",
+    "Link": "PU3:13"
+  },
+  {
+    "Rule": "Born Soldier Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "12",
+    "Link": "PU3:12"
+  },
+  {
+    "Rule": "Born Spacer Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "7",
+    "Link": "PU3:7"
+  },
+  {
+    "Rule": "Born Tactician Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "12",
+    "Link": "PU3:12"
+  },
+  {
+    "Rule": "Born to be Wired Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "8",
+    "Link": "PU3:8"
+  },
+  {
+    "Rule": "Born War-Leader Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "12",
+    "Link": "PU3:12"
+  },
+  {
+    "Rule": "Bows Crossbows and Rated ST",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "74",
+    "Link": "LT74"
+  },
+  {
+    "Rule": "Boxing Striking Skill",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "182",
+    "Link": "B182"
+  },
+  {
+    "Rule": "Bracing a Crossbow or Firearm",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "364",
+    "Link": "B364"
+  },
+  {
+    "Rule": "Brawling Striking Skill",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "182",
+    "Link": "B182"
+  },
+  {
+    "Rule": "Break Free from a Grapple",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "371",
+    "Link": "B371"
+  },
+  {
+    "Rule": "Breaking Down Doors Forced Entry",
+    "Category": [
+      "Activities",
+      "Skills",
+      "Physical Act"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "18",
+    "Link": "DF2:18"
+  },
+  {
+    "Rule": "Brewing and Distilling",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "32",
+    "Link": "LTC3:32"
+  },
+  {
+    "Rule": "Brute",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "9",
+    "Link": "DF15:9"
+  },
+  {
+    "Rule": "Brutish Thief",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "12",
+    "Link": "DFDT12"
+  },
+  {
+    "Rule": "Buccaneer Swashbuckler (Denizens)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "8",
+    "Link": "DFDS8"
+  },
+  {
+    "Rule": "Building Construction Materials Quality Time",
+    "Category": [
+      "Profession",
+      "Gear"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "33",
+    "Link": "LTC3:33"
+  },
+  {
+    "Rule": "Burglar (Denizens PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "7",
+    "Link": "DFDT7"
+  },
+  {
+    "Rule": "Burlgar 125 pt Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "34",
+    "Link": "DF15:34"
+  },
+  {
+    "Rule": "Business Acument Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "7",
+    "Link": "PU3:7"
+  },
+  {
+    "Rule": "Butchering Meat",
+    "Category": [
+      "Activities",
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "6",
+    "Link": "LTC3:6"
+  },
+  {
+    "Rule": "Buying and Selling Gear Merchant (Dungeon Fantasy)",
+    "Category": [
+      "Gear",
+      "Profession"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "23",
+    "Link": "DF1:23"
+  },
+  {
+    "Rule": "Buying Magical Styles",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Thaumatology: Magical Styles",
+    "Page": "19",
+    "Link": "TMS19"
+  },
+  {
+    "Rule": "Camping in the Wild (Dungeon Fantasy)",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "24",
+    "Link": "DF16:24"
+  },
+  {
+    "Rule": "Canceling Spells",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "10",
+    "Link": "M10"
+  },
+  {
+    "Rule": "Cannon Table",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "89",
+    "Link": "LT89"
+  },
+  {
+    "Rule": "Cannot Read Music Quirk",
+    "Category": [
+      "Attributes",
+      "Trait"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "19",
+    "Link": "LTC1:19"
+  },
+  {
+    "Rule": "Cargo Ships",
+    "Category": [
+      "Resources",
+      "Vehicle"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "40",
+    "Link": "LTC3:40"
+  },
+  {
+    "Rule": "Cargo Ships Table",
+    "Category": [
+      "Reference",
+      "Vehicle"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "41",
+    "Link": "LTC3:41"
+  },
+  {
+    "Rule": "Carrying a Shield-hand Weapon",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "287",
+    "Link": "B287"
+  },
+  {
+    "Rule": "Carrying a Shield-hand Weapon (Low Tech)",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "19",
+    "Link": "LT2:19"
+  },
+  {
+    "Rule": "Casting Magic Item Table",
+    "Category": [
+      "Magic",
+      "Weapon",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "11",
+    "Link": "DFMI1:11"
+  },
+  {
+    "Rule": "Casting Spells Through a Staff",
+    "Category": [
+      "Magic",
+      "Weapon"
+    ],
+    "Book": "Magic",
+    "Page": "13",
+    "Link": "M13"
+  },
+  {
+    "Rule": "Casting Spells While Maintaining Other Spells",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "10",
+    "Link": "M10"
+  },
+  {
+    "Rule": "Catching a Thrown Object",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "355",
+    "Link": "B355"
+  },
+  {
+    "Rule": "Catching Fire",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "434",
+    "Link": "B434"
+  },
+  {
+    "Rule": "Ceremonial Magic",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "238",
+    "Link": "B238"
+  },
+  {
+    "Rule": "Ceremonial Magic (Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "12",
+    "Link": "M12"
+  },
+  {
+    "Rule": "Champion 125 pt Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "35",
+    "Link": "DF15:35"
+  },
+  {
+    "Rule": "Change Posture Maneuver",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "364",
+    "Link": "B364"
+  },
+  {
+    "Rule": "Change Posture Maneuver (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Martial Arts",
+    "Page": "98",
+    "Link": "MA98"
+  },
+  {
+    "Rule": "Changing Grips for Different Reach",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "383",
+    "Link": "B383"
+  },
+  {
+    "Rule": "Changing Postures",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Martial Arts",
+    "Page": "98",
+    "Link": "MA98"
+  },
+  {
+    "Rule": "Chaos Druids (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Pyramid #3/78",
+    "Page": "16",
+    "Link": "PY78:16"
+  },
+  {
+    "Rule": "Chaos Warriors (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Pyramid #3/78",
+    "Page": "17",
+    "Link": "PY78:17"
+  },
+  {
+    "Rule": "Charged Magic Item Table",
+    "Category": [
+      "Magic",
+      "Weapon",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "16",
+    "Link": "DFMI1:16"
+  },
+  {
+    "Rule": "Charlatan",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "204",
+    "Link": "BS204"
+  },
+  {
+    "Rule": "Chi Mastery Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "21",
+    "Link": "DF1:21"
+  },
+  {
+    "Rule": "Chi Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "7",
+    "Link": "PU3:7"
+  },
+  {
+    "Rule": "Choke Hold",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Choke Hold Technique (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "69",
+    "Link": "MA69"
+  },
+  {
+    "Rule": "Choke or Strangle Grappled Foe",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "370",
+    "Link": "B370"
+  },
+  {
+    "Rule": "Choking",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Circuit Sense Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "8",
+    "Link": "PU3:8"
+  },
+  {
+    "Rule": "City Gods (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "11",
+    "Link": "DF7:11"
+  },
+  {
+    "Rule": "Cleric (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "6",
+    "Link": "DF1:6"
+  },
+  {
+    "Rule": "Cleric Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "10",
+    "Link": "DF13:10"
+  },
+  {
+    "Rule": "Cleric Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "21",
+    "Link": "DF11:21"
+  },
+  {
+    "Rule": "Climbing",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "349",
+    "Link": "B349"
+  },
+  {
+    "Rule": "Climbing Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "183",
+    "Link": "B183"
+  },
+  {
+    "Rule": "Climbing Trees +5 to Climbing Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "29",
+    "Link": "DF16:29"
+  },
+  {
+    "Rule": "Cloaks Special Melee Rules",
+    "Category": [
+      "Combat",
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Close Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "391",
+    "Link": "B391"
+  },
+  {
+    "Rule": "Close to Earth Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "8",
+    "Link": "PU3:8"
+  },
+  {
+    "Rule": "Close to Heaven Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "8",
+    "Link": "PU3:8"
+  },
+  {
+    "Rule": "Close to Hell Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "8",
+    "Link": "PU3:8"
+  },
+  {
+    "Rule": "Clothing",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Low Tech",
+    "Page": "97",
+    "Link": "LT97"
+  },
+  {
+    "Rule": "Clothing and Status",
+    "Category": [
+      "Gear",
+      "Setting",
+      "Environment"
+    ],
+    "Book": "Low Tech",
+    "Page": "99",
+    "Link": "LT99"
+  },
+  {
+    "Rule": "Clothworking",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "30",
+    "Link": "LTC3:30"
+  },
+  {
+    "Rule": "Clown Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "8",
+    "Link": "PU3:8"
+  },
+  {
+    "Rule": "Code of Honor (Shamans) (Dungeon Fantasy)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "18",
+    "Link": "DF9:18"
+  },
+  {
+    "Rule": "Coin Condition",
+    "Category": [
+      "Currency"
+    ],
+    "Book": "Dungeon Fantasy Treasures 1",
+    "Page": "9",
+    "Link": "DFT1:9"
+  },
+  {
+    "Rule": "Coin Denomination Table",
+    "Category": [
+      "Currency",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy Treasures 1",
+    "Page": "6",
+    "Link": "DFT1:6"
+  },
+  {
+    "Rule": "Coin Size Table",
+    "Category": [
+      "Currency",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy Treasures 1",
+    "Page": "7",
+    "Link": "DFT1:7"
+  },
+  {
+    "Rule": "Coin Weights and Ingots",
+    "Category": [
+      "Currency"
+    ],
+    "Book": "Dungeon Fantasy Treasures 1",
+    "Page": "8",
+    "Link": "DFT1:8"
+  },
+  {
+    "Rule": "Coma",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "429",
+    "Link": "B429"
+  },
+  {
+    "Rule": "Combat Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "4",
+    "Link": "PU2:4"
+  },
+  {
+    "Rule": "Combining Imbue Skills",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "13",
+    "Link": "PU1:13"
+  },
+  {
+    "Rule": "Committed Attack Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "99",
+    "Link": "MA99"
+  },
+  {
+    "Rule": "Committed Attack while Grappling",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "114",
+    "Link": "MA114"
+  },
+  {
+    "Rule": "Common Action Times in Combat",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "383",
+    "Link": "B383"
+  },
+  {
+    "Rule": "Common Item Enchantments",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "7",
+    "Link": "DFMI1:7"
+  },
+  {
+    "Rule": "Common Magical Items",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "30",
+    "Link": "DF1:30"
+  },
+  {
+    "Rule": "Common Magical Potions",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "29",
+    "Link": "DF1:29"
+  },
+  {
+    "Rule": "Components of a Magical Style",
+    "Category": [
+      "Skills",
+      "Trait"
+    ],
+    "Book": "Thaumatology: Magical Styles",
+    "Page": "4",
+    "Link": "TMS4"
+  },
+  {
+    "Rule": "Computer Wizard Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "9",
+    "Link": "PU3:9"
+  },
+  {
+    "Rule": "Concealing Armor",
+    "Category": [
+      "Armor",
+      "Physical Act"
+    ],
+    "Book": "Low Tech",
+    "Page": "102",
+    "Link": "LT102"
+  },
+  {
+    "Rule": "Concentrate Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "366",
+    "Link": "B366"
+  },
+  {
+    "Rule": "Conjured Enhancement (Dungeon Fantasy)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "4",
+    "Link": "DF9:4"
+  },
+  {
+    "Rule": "Consulting Mage",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "10",
+    "Link": "TUM10"
+  },
+  {
+    "Rule": "Contact Agent",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "437",
+    "Link": "B437"
+  },
+  {
+    "Rule": "Corrosion Damage Reducing DR",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "379",
+    "Link": "B379"
+  },
+  {
+    "Rule": "Cost of Talents (Number of Skills vs Point Cost)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "4",
+    "Link": "PU3:4"
+  },
+  {
+    "Rule": "Coughing or Sneezing",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Counterattack Technique",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "70",
+    "Link": "MA70"
+  },
+  {
+    "Rule": "Counting Coins",
+    "Category": [
+      "Currency",
+      "Physical Act",
+      "Activities"
+    ],
+    "Book": "Dungeon Fantasy Treasures 1",
+    "Page": "11",
+    "Link": "DFT1:11"
+  },
+  {
+    "Rule": "Courtier",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Banestorm",
+    "Page": "205",
+    "Link": "BS205"
+  },
+  {
+    "Rule": "Cover from Ranged Fire",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "407",
+    "Link": "B407"
+  },
+  {
+    "Rule": "Craftiness Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "9",
+    "Link": "PU3:9"
+  },
+  {
+    "Rule": "Creating Fine Metalwork",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "27",
+    "Link": "LTC3:27"
+  },
+  {
+    "Rule": "Criminal Mage",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "10",
+    "Link": "TUM10"
+  },
+  {
+    "Rule": "Crippling Injury",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "420",
+    "Link": "B420"
+  },
+  {
+    "Rule": "Critical Headblow Table",
+    "Category": [
+      "Reference",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "556",
+    "Link": "B556"
+  },
+  {
+    "Rule": "Critical Hit Table",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "556",
+    "Link": "B556"
+  },
+  {
+    "Rule": "Critical Miss Table",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "556",
+    "Link": "B556"
+  },
+  {
+    "Rule": "Cross Parry",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "121",
+    "Link": "MA121"
+  },
+  {
+    "Rule": "Crossbows Special Ranged Rules",
+    "Category": [
+      "Combat",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "410",
+    "Link": "B410"
+  },
+  {
+    "Rule": "Crouching",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "368",
+    "Link": "B368"
+  },
+  {
+    "Rule": "Cultist",
+    "Category": [
+      "Template",
+      "NPC",
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "18",
+    "Link": "DF15:18"
+  },
+  {
+    "Rule": "Cultural Chameleon Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "9",
+    "Link": "PU3:9"
+  },
+  {
+    "Rule": "Cultural Familiarity",
+    "Category": [
+      "Attributes",
+      "Trait",
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "23",
+    "Link": "B23"
+  },
+  {
+    "Rule": "Cunning Folk Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "9",
+    "Link": "PU3:9"
+  },
+  {
+    "Rule": "Cutpurse",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "10",
+    "Link": "DF15:10"
+  },
+  {
+    "Rule": "Cutthroat (Denizens PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "8",
+    "Link": "DFDT8"
+  },
+  {
+    "Rule": "Cyberneticist Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "9",
+    "Link": "PU3:9"
+  },
+  {
+    "Rule": "Damage Done to Weapons",
+    "Category": [
+      "Combat",
+      "Weapon"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "23",
+    "Link": "LT2:23"
+  },
+  {
+    "Rule": "Damage from Thrown Objects",
+    "Category": [
+      "Injury",
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "355",
+    "Link": "B355"
+  },
+  {
+    "Rule": "Damage to Armor and Shields",
+    "Category": [
+      "Armor",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "484",
+    "Link": "B484"
+  },
+  {
+    "Rule": "Daze",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Death Gods (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "13",
+    "Link": "DF7:13"
+  },
+  {
+    "Rule": "Deceptive Attack",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "369",
+    "Link": "B369"
+  },
+  {
+    "Rule": "Defaults and Talents",
+    "Category": [
+      "Skills",
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "4",
+    "Link": "PU3:4"
+  },
+  {
+    "Rule": "Defense in Close Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "392",
+    "Link": "B392"
+  },
+  {
+    "Rule": "Defense while being Grappled",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "121",
+    "Link": "MA121"
+  },
+  {
+    "Rule": "Defense While Grappling a Foe",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "121",
+    "Link": "MA121"
+  },
+  {
+    "Rule": "Defensive Attack Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "100",
+    "Link": "MA100"
+  },
+  {
+    "Rule": "Defensive Feint",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "101",
+    "Link": "MA101"
+  },
+  {
+    "Rule": "Delvers Gear Kits",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "5",
+    "Link": "DF13:5"
+  },
+  {
+    "Rule": "Demonic Critical Spell Failure Table",
+    "Category": [
+      "Reference",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "258",
+    "Link": "T258"
+  },
+  {
+    "Rule": "Demonic Talismans",
+    "Category": [
+      "Gear",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "22",
+    "Link": "DF20:22"
+  },
+  {
+    "Rule": "Demonological Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "7",
+    "Link": "DF9:7"
+  },
+  {
+    "Rule": "Demonologist (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "5",
+    "Link": "DF9:5"
+  },
+  {
+    "Rule": "Demonologist Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "25",
+    "Link": "DF13:25"
+  },
+  {
+    "Rule": "Demonologist Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "24",
+    "Link": "DF11:24"
+  },
+  {
+    "Rule": "Demon-Slayer (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "6",
+    "Link": "DF20:6"
+  },
+  {
+    "Rule": "Demon-Slayer Advantages",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "4",
+    "Link": "DF20:4"
+  },
+  {
+    "Rule": "Demon-Slayer Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "19",
+    "Link": "DF20:19"
+  },
+  {
+    "Rule": "Demon-Slayer Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "6",
+    "Link": "DF20:6"
+  },
+  {
+    "Rule": "Demon-Slayer Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "8",
+    "Link": "DF20:8"
+  },
+  {
+    "Rule": "Devilkin (Imps) (Dungeon Fantasy)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "33",
+    "Link": "DF9:33"
+  },
+  {
+    "Rule": "Devotion Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "9",
+    "Link": "PU3:9"
+  },
+  {
+    "Rule": "Dictum of Fate (Aura) (Pyramid Magazine)",
+    "Category": [
+      "Auras"
+    ],
+    "Book": "Pyramid #3/78",
+    "Page": "14",
+    "Link": "PY78:14"
+  },
+  {
+    "Rule": "Digestive Agent",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "437",
+    "Link": "B437"
+  },
+  {
+    "Rule": "Digging",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "350",
+    "Link": "B350"
+  },
+  {
+    "Rule": "Disadvantage List",
+    "Category": [
+      "Reference",
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "299",
+    "Link": "B299"
+  },
+  {
+    "Rule": "Disarming an Opponent",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "401",
+    "Link": "B401"
+  },
+  {
+    "Rule": "Distraction and Injury While Spellcasting",
+    "Category": [
+      "Magic",
+      "Injury"
+    ],
+    "Book": "Magic",
+    "Page": "7",
+    "Link": "M7"
+  },
+  {
+    "Rule": "Dive for Cover",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "377",
+    "Link": "B377"
+  },
+  {
+    "Rule": "Dive to Avoid a Melee Attack",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "123",
+    "Link": "MA123"
+  },
+  {
+    "Rule": "Divergent Tech Levels TL(X+Y)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "513",
+    "Link": "B513"
+  },
+  {
+    "Rule": "Divine (Un)Holy Allies",
+    "Category": [
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "12",
+    "Link": "DF5:12"
+  },
+  {
+    "Rule": "Divine Favor Advantage",
+    "Category": [
+      "Trait",
+      "Divinity"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "4",
+    "Link": "PDF4"
+  },
+  {
+    "Rule": "Divine Favor Modifiers",
+    "Category": [
+      "Reference",
+      "Divinity"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "5",
+    "Link": "PDF5"
+  },
+  {
+    "Rule": "Divine Miracle Table",
+    "Category": [
+      "Reference",
+      "Divinity"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "17",
+    "Link": "PDF17"
+  },
+  {
+    "Rule": "Divine Spellcast Critical Failure Table",
+    "Category": [
+      "Reference",
+      "Divinity"
+    ],
+    "Book": "Thaumatology",
+    "Page": "257",
+    "Link": "T257"
+  },
+  {
+    "Rule": "Do Nothing",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "364",
+    "Link": "B364"
+  },
+  {
+    "Rule": "Doctor",
+    "Category": [
+      "Template",
+      "Profession"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "28",
+    "Link": "MAG28"
+  },
+  {
+    "Rule": "Dodge and Drop",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "377",
+    "Link": "B377"
+  },
+  {
+    "Rule": "Drag or Carry Grappled Person",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "371",
+    "Link": "B371"
+  },
+  {
+    "Rule": "Dressed to Kill Swashbucklers Clothing",
+    "Category": [
+      "Gear",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "30",
+    "Link": "DFDS30"
+  },
+  {
+    "Rule": "Drinkable and Utility Potions",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "20",
+    "Link": "DFMI1:20"
+  },
+  {
+    "Rule": "Drinking and Intoxication",
+    "Category": [
+      "Poison",
+      "Activities"
+    ],
+    "Book": "Basic",
+    "Page": "439",
+    "Link": "B439"
+  },
+  {
+    "Rule": "Drivers Reflexes Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "10",
+    "Link": "PU3:10"
+  },
+  {
+    "Rule": "Drowsy",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Drugs (Low Tech)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Low Tech",
+    "Page": "150",
+    "Link": "LT150"
+  },
+  {
+    "Rule": "Druid (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "7",
+    "Link": "DF1:7"
+  },
+  {
+    "Rule": "Druid Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "13",
+    "Link": "DF13:13"
+  },
+  {
+    "Rule": "Druid Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "24",
+    "Link": "DF11:24"
+  },
+  {
+    "Rule": "Druidic Animal Allies",
+    "Category": [
+      "Creatures",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "5",
+    "Link": "DF5:5"
+  },
+  {
+    "Rule": "Druidic Arts Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "22",
+    "Link": "DF1:22"
+  },
+  {
+    "Rule": "Drunk",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Drunken Fighting Perk",
+    "Category": [
+      "Combat",
+      "Trait"
+    ],
+    "Book": "Martial Arts",
+    "Page": "50",
+    "Link": "MA50"
+  },
+  {
+    "Rule": "Dual-Weapon Attack Technique",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "83",
+    "Link": "MA83"
+  },
+  {
+    "Rule": "Dual-Wielding Ambidexterity",
+    "Category": [
+      "Combat",
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "39",
+    "Link": "B39"
+  },
+  {
+    "Rule": "Duelist Swashbuckler (Denizens)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "10",
+    "Link": "DFDS10"
+  },
+  {
+    "Rule": "Dungeon Artificer Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "10",
+    "Link": "PU3:10"
+  },
+  {
+    "Rule": "Dungeon Fantasy Changes to Magic Spells",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "20",
+    "Link": "DF1:20"
+  },
+  {
+    "Rule": "Dungeon Parkour",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "7",
+    "Link": "DF2:7"
+  },
+  {
+    "Rule": "Dungeon Specialist Thief",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "12",
+    "Link": "DFDT12"
+  },
+  {
+    "Rule": "Duration of Crippling Injuries",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "422",
+    "Link": "B422"
+  },
+  {
+    "Rule": "Earth Gods (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "14",
+    "Link": "DF7:14"
+  },
+  {
+    "Rule": "Echoist (Green Robe)",
+    "Category": [
+      "Template",
+      "Magic"
+    ],
+    "Book": "Magical Styles: Dungeon Magic",
+    "Page": "38",
+    "Link": "MSDM38"
+  },
+  {
+    "Rule": "Ecstasy",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Education",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Basic",
+    "Page": "293",
+    "Link": "B293"
+  },
+  {
+    "Rule": "Effects of Fatigue Loss",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "426",
+    "Link": "B426"
+  },
+  {
+    "Rule": "Elbow Strike",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Elbow Strike (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "71",
+    "Link": "MA71"
+  },
+  {
+    "Rule": "Elder Gift Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "10",
+    "Link": "PU3:10"
+  },
+  {
+    "Rule": "Electricity",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "432",
+    "Link": "B432"
+  },
+  {
+    "Rule": "Elementalist Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "25",
+    "Link": "DF13:25"
+  },
+  {
+    "Rule": "Elementalist Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "10",
+    "Link": "DF9:10"
+  },
+  {
+    "Rule": "Elementalist Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "25",
+    "Link": "DF11:25"
+  },
+  {
+    "Rule": "Elementalists (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "9",
+    "Link": "DF9:9"
+  },
+  {
+    "Rule": "Elementals (Dungeon Fantasy)",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "26",
+    "Link": "DF9:26"
+  },
+  {
+    "Rule": "Emissaries of the Gods (Dungeon Fantasy)",
+    "Category": [
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "36",
+    "Link": "DF9:36"
+  },
+  {
+    "Rule": "Empath Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "10",
+    "Link": "PU3:10"
+  },
+  {
+    "Rule": "Enchanted Item Dealer",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "11",
+    "Link": "TUM11"
+  },
+  {
+    "Rule": "Enchanted Jewelry",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "8",
+    "Link": "DFMI1:8"
+  },
+  {
+    "Rule": "Enchanting Magic Items",
+    "Category": [
+      "Magic",
+      "Profession"
+    ],
+    "Book": "Magic",
+    "Page": "16",
+    "Link": "M16"
+  },
+  {
+    "Rule": "Encouragement Through Leadership Skill Roll",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "11",
+    "Link": "DF2:11"
+  },
+  {
+    "Rule": "Energy Reserve (Powers)",
+    "Category": [
+      "Magic",
+      "Trait"
+    ],
+    "Book": "Powers",
+    "Page": "119",
+    "Link": "P119"
+  },
+  {
+    "Rule": "Energy Reserve Limited to Type",
+    "Category": [
+      "Magic",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 3",
+    "Page": "39",
+    "Link": "DF3:39"
+  },
+  {
+    "Rule": "Enhancement Imbuement Skills",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "6",
+    "Link": "PU1:6"
+  },
+  {
+    "Rule": "Entertainer",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Banestorm",
+    "Page": "206",
+    "Link": "BS206"
+  },
+  {
+    "Rule": "Equipment Camping and Survival",
+    "Category": [
+      "Gear",
+      "Activities"
+    ],
+    "Book": "Basic",
+    "Page": "288",
+    "Link": "B288"
+  },
+  {
+    "Rule": "Equipment Communications and Information",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "288",
+    "Link": "B288"
+  },
+  {
+    "Rule": "Equipment Containers and Storage (Low Tech)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Low Tech",
+    "Page": "34",
+    "Link": "LT34"
+  },
+  {
+    "Rule": "Equipment Domestic Conveniences (Low Tech)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Low Tech",
+    "Page": "33",
+    "Link": "LT33"
+  },
+  {
+    "Rule": "Equipment Entertainment (Low Tech)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Low Tech",
+    "Page": "39",
+    "Link": "LT39"
+  },
+  {
+    "Rule": "Equipment Equestrian Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "289",
+    "Link": "B289"
+  },
+  {
+    "Rule": "Equipment Law Enforcement Thief Spy Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "289",
+    "Link": "B289"
+  },
+  {
+    "Rule": "Equipment Luxuries (Low Tech)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Low Tech",
+    "Page": "36",
+    "Link": "LT36"
+  },
+  {
+    "Rule": "Equipment Medical Gear",
+    "Category": [
+      "Gear",
+      "Profession",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "289",
+    "Link": "B289"
+  },
+  {
+    "Rule": "Equipment Modifiers",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "345",
+    "Link": "B345"
+  },
+  {
+    "Rule": "Equipment Optics and Sensors",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "289",
+    "Link": "B289"
+  },
+  {
+    "Rule": "Equipment Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "8",
+    "Link": "PU2:8"
+  },
+  {
+    "Rule": "Equipment Shelter (Low Tech)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Low Tech",
+    "Page": "31",
+    "Link": "LT31"
+  },
+  {
+    "Rule": "Equipment Tools",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "289",
+    "Link": "B289"
+  },
+  {
+    "Rule": "Equipment Transportation",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "289",
+    "Link": "B289"
+  },
+  {
+    "Rule": "Equipment Weapon and Combat Accessories",
+    "Category": [
+      "Gear",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "289",
+    "Link": "B289"
+  },
+  {
+    "Rule": "Euphoria",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Evading (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Martial Arts",
+    "Page": "105",
+    "Link": "MA105"
+  },
+  {
+    "Rule": "Evading in the Same Hex",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "368",
+    "Link": "B368"
+  },
+  {
+    "Rule": "Evaluate Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "364",
+    "Link": "B364"
+  },
+  {
+    "Rule": "Evaluate Maneuver (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "100",
+    "Link": "MA100"
+  },
+  {
+    "Rule": "Evil Cleric (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 3",
+    "Page": "23",
+    "Link": "DF3:23"
+  },
+  {
+    "Rule": "Evil Cleric Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "27",
+    "Link": "DF11:27"
+  },
+  {
+    "Rule": "Evil Cleric Spells (Dungeon Fantasy)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 3",
+    "Page": "24",
+    "Link": "DF3:24"
+  },
+  {
+    "Rule": "Evil Computer Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "9",
+    "Link": "PU3:9"
+  },
+  {
+    "Rule": "Exorcist",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "12",
+    "Link": "TUM12"
+  },
+  {
+    "Rule": "Exotic Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "9",
+    "Link": "PU2:9"
+  },
+  {
+    "Rule": "Explorer Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "10",
+    "Link": "PU3:10"
+  },
+  {
+    "Rule": "Explosions and Blast Radius",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "414",
+    "Link": "B414"
+  },
+  {
+    "Rule": "Extra Effort",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "357",
+    "Link": "B357"
+  },
+  {
+    "Rule": "Extra Effort (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "131",
+    "Link": "MA131"
+  },
+  {
+    "Rule": "Extracting Useful Venom or Monster Bits",
+    "Category": [
+      "Activities",
+      "Poison"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "13",
+    "Link": "DF2:13"
+  },
+  {
+    "Rule": "Extreme Cold",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "430",
+    "Link": "B430"
+  },
+  {
+    "Rule": "Extreme Heat",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "434",
+    "Link": "B434"
+  },
+  {
+    "Rule": "Facing Changes",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "387",
+    "Link": "B387"
+  },
+  {
+    "Rule": "Falling Damage",
+    "Category": [
+      "Physical Act",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "430",
+    "Link": "B430"
+  },
+  {
+    "Rule": "Fantasy Powers and Power Sources",
+    "Category": [
+      "Magic",
+      "Divinity"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "24",
+    "Link": "MAYFS24"
+  },
+  {
+    "Rule": "Fatigue Loss from Battles Longer than Ten Seconds",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "426",
+    "Link": "B426"
+  },
+  {
+    "Rule": "Feint Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "365",
+    "Link": "B365"
+  },
+  {
+    "Rule": "Feint Maneuver (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "100",
+    "Link": "MA100"
+  },
+  {
+    "Rule": "Feints and Multiple Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "127",
+    "Link": "MA127"
+  },
+  {
+    "Rule": "Feints while Shooting",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "121",
+    "Link": "MA121"
+  },
+  {
+    "Rule": "Fencing Parry",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Fencing Parry (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "122",
+    "Link": "MA122"
+  },
+  {
+    "Rule": "Fencing Weapons Special Melee Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Feverish Defense",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "357",
+    "Link": "B357"
+  },
+  {
+    "Rule": "Feverish Defense (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "131",
+    "Link": "MA131"
+  },
+  {
+    "Rule": "Fighting While Seated Technique",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "83",
+    "Link": "MA83"
+  },
+  {
+    "Rule": "Finding Disarming and Rearming Traps",
+    "Category": [
+      "Activities",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "8",
+    "Link": "DF2:8"
+  },
+  {
+    "Rule": "Fire Gods (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "16",
+    "Link": "DF7:16"
+  },
+  {
+    "Rule": "Firearm Quality",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "95",
+    "Link": "LT95"
+  },
+  {
+    "Rule": "Firearms Table",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "278",
+    "Link": "B278"
+  },
+  {
+    "Rule": "First Aid Table",
+    "Category": [
+      "Reference",
+      "Injury, Profession"
+    ],
+    "Book": "Basic",
+    "Page": "424",
+    "Link": "B424"
+  },
+  {
+    "Rule": "Fishing",
+    "Category": [
+      "Activities",
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "7",
+    "Link": "LT3:7"
+  },
+  {
+    "Rule": "Flails Special Melee Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "405",
+    "Link": "B405"
+  },
+  {
+    "Rule": "Flaiming Arrows Special Ranged Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "410",
+    "Link": "B410"
+  },
+  {
+    "Rule": "Flame",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "433",
+    "Link": "B433"
+  },
+  {
+    "Rule": "Flamethrowers Table",
+    "Category": [
+      "Reference",
+      "Weapon",
+      "Combat"
+    ],
+    "Book": "Low Tech",
+    "Page": "86",
+    "Link": "LT86"
+  },
+  {
+    "Rule": "Flexible Armor",
+    "Category": [
+      "Combat",
+      "Armor"
+    ],
+    "Book": "Basic",
+    "Page": "379",
+    "Link": "B379"
+  },
+  {
+    "Rule": "Fluidist (Blue Robe)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Magic"
+    ],
+    "Book": "Magical Styles: Dungeon Magic",
+    "Page": "33",
+    "Link": "MSDM33"
+  },
+  {
+    "Rule": "Flurry of Blows",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "357",
+    "Link": "B357"
+  },
+  {
+    "Rule": "Flurry of Blows (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "131",
+    "Link": "MA131"
+  },
+  {
+    "Rule": "Flying Lunge Technique",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "83",
+    "Link": "MA83"
+  },
+  {
+    "Rule": "Flying Tackle",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "372",
+    "Link": "B372"
+  },
+  {
+    "Rule": "Focused Fury Perk",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "5",
+    "Link": "PU2:5"
+  },
+  {
+    "Rule": "Follow-Up Poison",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "437",
+    "Link": "B437"
+  },
+  {
+    "Rule": "Foraging",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Basic",
+    "Page": "427",
+    "Link": "B427"
+  },
+  {
+    "Rule": "Forceful Chi Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "7",
+    "Link": "PU3:7"
+  },
+  {
+    "Rule": "Forensic Sorcerer",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "12",
+    "Link": "TUM12"
+  },
+  {
+    "Rule": "Forest Guardian Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "10",
+    "Link": "PU3:10"
+  },
+  {
+    "Rule": "Fright Check Table",
+    "Category": [
+      "Reference",
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "360",
+    "Link": "B360"
+  },
+  {
+    "Rule": "Fright Checks",
+    "Category": [
+      "Attributes",
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "360",
+    "Link": "B360"
+  },
+  {
+    "Rule": "Fright Checks The Rule of 14",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "360",
+    "Link": "B360"
+  },
+  {
+    "Rule": "Gadgeteer 125 pt Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "36",
+    "Link": "DF15:36"
+  },
+  {
+    "Rule": "Garrotes Special Melee Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "405",
+    "Link": "B405"
+  },
+  {
+    "Rule": "Gates and Magic",
+    "Category": [
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy 22",
+    "Page": "8",
+    "Link": "DF22:8"
+  },
+  {
+    "Rule": "Gathering",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "5",
+    "Link": "LT3:5"
+  },
+  {
+    "Rule": "Gathering Food and Water (Dungeon Fantasy)",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "42",
+    "Link": "DF16:42"
+  },
+  {
+    "Rule": "Gems Carats and Pricing",
+    "Category": [
+      "Gear",
+      "Currency"
+    ],
+    "Book": "Dungeon Fantasy 8",
+    "Page": "19",
+    "Link": "DF8:19"
+  },
+  {
+    "Rule": "General Injury and Lost HP",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "419",
+    "Link": "B419"
+  },
+  {
+    "Rule": "General Prayer (1d seconds of silent prayer)",
+    "Category": [
+      "Activities",
+      "Divinity"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "5",
+    "Link": "PDF5"
+  },
+  {
+    "Rule": "Genin 125 pt Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "37",
+    "Link": "DF15:37"
+  },
+  {
+    "Rule": "Ghosts Totems and Guardians",
+    "Category": [
+      "Creatures",
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "21",
+    "Link": "DF9:21"
+  },
+  {
+    "Rule": "Giant Step",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "131",
+    "Link": "MA131"
+  },
+  {
+    "Rule": "Gifted Artist Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "10",
+    "Link": "PU3:10"
+  },
+  {
+    "Rule": "Gkadiator Equipment",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "38",
+    "Link": "MAG38"
+  },
+  {
+    "Rule": "Gladiator",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "28",
+    "Link": "MAG28"
+  },
+  {
+    "Rule": "Gladiator Armor",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "35",
+    "Link": "MAG35"
+  },
+  {
+    "Rule": "Gladiator Shields",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "37",
+    "Link": "MAG37"
+  },
+  {
+    "Rule": "Gladiator Weapons",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "34",
+    "Link": "MAG34"
+  },
+  {
+    "Rule": "Glamour Girl",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "13",
+    "Link": "TUM13"
+  },
+  {
+    "Rule": "Glassmaking",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "29",
+    "Link": "LTC3:29"
+  },
+  {
+    "Rule": "Gloves and Footwear Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Low Tech Instant Armor",
+    "Page": "15",
+    "Link": "LTIA15"
+  },
+  {
+    "Rule": "Gods of Frenzy (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "32",
+    "Link": "DF7:32"
+  },
+  {
+    "Rule": "Gods of Healing (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "18",
+    "Link": "DF7:18"
+  },
+  {
+    "Rule": "Gods of Love and Fertility (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "20",
+    "Link": "DF7:20"
+  },
+  {
+    "Rule": "Gods of Luck (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "32",
+    "Link": "DF7:32"
+  },
+  {
+    "Rule": "Gods of Messengers and Rogues (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "22",
+    "Link": "DF7:22"
+  },
+  {
+    "Rule": "Gods of Night (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "23",
+    "Link": "DF7:23"
+  },
+  {
+    "Rule": "Gods of Rivers (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "32",
+    "Link": "DF7:32"
+  },
+  {
+    "Rule": "Gods of Scholarship (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "32",
+    "Link": "DF7:32"
+  },
+  {
+    "Rule": "Gods of the Hunt (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "17",
+    "Link": "DF7:17"
+  },
+  {
+    "Rule": "Gonnes Table",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "91",
+    "Link": "LT91"
+  },
+  {
+    "Rule": "Goodwife Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "10",
+    "Link": "PU3:10"
+  },
+  {
+    "Rule": "Grabbing a Shield",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "112",
+    "Link": "MA112"
+  },
+  {
+    "Rule": "Great Lunge",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "131",
+    "Link": "MA131"
+  },
+  {
+    "Rule": "Green Thumb Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "11",
+    "Link": "PU3:11"
+  },
+  {
+    "Rule": "Guard",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "21",
+    "Link": "DF15:21"
+  },
+  {
+    "Rule": "Guild Assistance Table",
+    "Category": [
+      "Reference",
+      "Profession"
+    ],
+    "Book": "Dungeon Fantasy 17",
+    "Page": "8",
+    "Link": "DF17:8"
+  },
+  {
+    "Rule": "Guild Spellcasting Upon Request",
+    "Category": [
+      "Services",
+      "Magic",
+      "Profession"
+    ],
+    "Book": "Dungeon Fantasy 17",
+    "Page": "9",
+    "Link": "DF17:9"
+  },
+  {
+    "Rule": "Guild Training",
+    "Category": [
+      "Skills",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy 17",
+    "Page": "9",
+    "Link": "DF17:9"
+  },
+  {
+    "Rule": "Haggling while Selling Loot",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "14",
+    "Link": "DF2:14"
+  },
+  {
+    "Rule": "Half-Damage Range",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "378",
+    "Link": "B378"
+  },
+  {
+    "Rule": "Halfling Marksmanship Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "11",
+    "Link": "PU3:11"
+  },
+  {
+    "Rule": "Hallucinating",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "429",
+    "Link": "B429"
+  },
+  {
+    "Rule": "Hand Grenades and Incendiaries Table",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "277",
+    "Link": "B277"
+  },
+  {
+    "Rule": "Hand Grenades Special Ranged Rules",
+    "Category": [
+      "Combat",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "410",
+    "Link": "B410"
+  },
+  {
+    "Rule": "Hangovers from Drinking",
+    "Category": [
+      "Poison",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "440",
+    "Link": "B440"
+  },
+  {
+    "Rule": "Harenarius",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "32",
+    "Link": "MAG32"
+  },
+  {
+    "Rule": "Harpoons Special Ranged Rules",
+    "Category": [
+      "Combat",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "411",
+    "Link": "B411"
+  },
+  {
+    "Rule": "Harsh Climates and Nasty Weather",
+    "Category": [
+      "Environment",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "30",
+    "Link": "DF16:30"
+  },
+  {
+    "Rule": "Head Butt Technique (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "74",
+    "Link": "MA74"
+  },
+  {
+    "Rule": "Head Lock Technique (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "74",
+    "Link": "MA74"
+  },
+  {
+    "Rule": "Headgear and Neck Protection Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Low Tech Instant Armor",
+    "Page": "13",
+    "Link": "LTIA13"
+  },
+  {
+    "Rule": "Healer",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Banestorm",
+    "Page": "208",
+    "Link": "BS208"
+  },
+  {
+    "Rule": "Healer Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "11",
+    "Link": "PU3:11"
+  },
+  {
+    "Rule": "Healing Herbs (Dungeon Fantasy)",
+    "Category": [
+      "Gear",
+      "Injury",
+      "Profession"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "44",
+    "Link": "DF16:44"
+  },
+  {
+    "Rule": "Heart Attack",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "429",
+    "Link": "B429"
+  },
+  {
+    "Rule": "Heavy Weapon Table",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "281",
+    "Link": "B281"
+  },
+  {
+    "Rule": "Helmet Padding",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Instant Armor",
+    "Page": "18",
+    "Link": "LTIA18"
+  },
+  {
+    "Rule": "Herbal Pharmacy List",
+    "Category": [
+      "Reference",
+      "Injury, Profession"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "26",
+    "Link": "LTC1:26"
+  },
+  {
+    "Rule": "Herding",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "10",
+    "Link": "LTC3:10"
+  },
+  {
+    "Rule": "Heroic Charge",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "131",
+    "Link": "MA131"
+  },
+  {
+    "Rule": "Hidden Weapons",
+    "Category": [
+      "Skills",
+      "Weapon"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "12",
+    "Link": "DF2:12"
+  },
+  {
+    "Rule": "Higher Purpose",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "59",
+    "Link": "B59"
+  },
+  {
+    "Rule": "Higher Purpose (Mage-Hunting)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "9",
+    "Link": "DF20:9"
+  },
+  {
+    "Rule": "Higher Purpose (Slay Demons)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "5",
+    "Link": "DF20:5"
+  },
+  {
+    "Rule": "Higher Purpose (Slay Undead)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "15",
+    "Link": "DF20:15"
+  },
+  {
+    "Rule": "Hiking",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "351",
+    "Link": "B351"
+  },
+  {
+    "Rule": "Hirelings Pay Rates",
+    "Category": [
+      "Reference",
+      "Profession"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "32",
+    "Link": "DF15:32"
+  },
+  {
+    "Rule": "Hit Location",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "398",
+    "Link": "B398"
+  },
+  {
+    "Rule": "Hitting the Wrong Target",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "389",
+    "Link": "B389"
+  },
+  {
+    "Rule": "Hivemind Mindshare",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Powers",
+    "Page": "148",
+    "Link": "P148"
+  },
+  {
+    "Rule": "Holding Your Breath",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "351",
+    "Link": "B351"
+  },
+  {
+    "Rule": "Holy Hand Grenades",
+    "Category": [
+      "Weapon",
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "21",
+    "Link": "DF20:21"
+  },
+  {
+    "Rule": "Holy Might Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait",
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "22",
+    "Link": "DF1:22"
+  },
+  {
+    "Rule": "Holy Warrior (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "7",
+    "Link": "DF1:7"
+  },
+  {
+    "Rule": "Holy Warrior Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "14",
+    "Link": "DF13:14"
+  },
+  {
+    "Rule": "Holy Warrior Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "28",
+    "Link": "DF11:28"
+  },
+  {
+    "Rule": "Holy Warriors of Order (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Pyramid #3/78",
+    "Page": "14",
+    "Link": "PY78:14"
+  },
+  {
+    "Rule": "Hospitals",
+    "Category": [
+      "Professions",
+      "Setting"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "24",
+    "Link": "LTC1:24"
+  },
+  {
+    "Rule": "Hot Pilot Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "11",
+    "Link": "PU3:11"
+  },
+  {
+    "Rule": "HP and DR of Objects and Cover",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "557",
+    "Link": "B557"
+  },
+  {
+    "Rule": "Hunting",
+    "Category": [
+      "Activities",
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "5",
+    "Link": "LT3:5"
+  },
+  {
+    "Rule": "Hurting Yourself",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "379",
+    "Link": "B379"
+  },
+  {
+    "Rule": "Identifying and Determining Value of Loot",
+    "Category": [
+      "Gear",
+      "Profession"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "14",
+    "Link": "DF2:14"
+  },
+  {
+    "Rule": "Identifying Potions by Sipping",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "14",
+    "Link": "DF2:14"
+  },
+  {
+    "Rule": "Illusion Critical Spell Failure Table",
+    "Category": [
+      "Reference",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "258",
+    "Link": "T258"
+  },
+  {
+    "Rule": "Imbue Advantage",
+    "Category": [
+      "Trait",
+      "Magic"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "4",
+    "Link": "PU1:4"
+  },
+  {
+    "Rule": "Imbuement Talent",
+    "Category": [
+      "Trait",
+      "Magic"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "17",
+    "Link": "PU1:17"
+  },
+  {
+    "Rule": "Imbuements in Dungeon Fantasy (per Class)",
+    "Category": [
+      "Trait",
+      "Magic"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "14",
+    "Link": "PU1:14"
+  },
+  {
+    "Rule": "Impersonator Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "11",
+    "Link": "PU3:11"
+  },
+  {
+    "Rule": "Improvised Weapons",
+    "Category": [
+      "Weapon",
+      "Combat"
+    ],
+    "Book": "Low Tech",
+    "Page": "63",
+    "Link": "LT63"
+  },
+  {
+    "Rule": "Industrial Magic",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Fantasy",
+    "Page": "67",
+    "Link": "F67"
+  },
+  {
+    "Rule": "Inflicting Pain with Locks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "119",
+    "Link": "MA119"
+  },
+  {
+    "Rule": "Initiate",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "12",
+    "Link": "DF15:12"
+  },
+  {
+    "Rule": "Injury to Unliving, Homogenous, and Diffuse Targets",
+    "Category": [
+      "Reference",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "380",
+    "Link": "B380"
+  },
+  {
+    "Rule": "Inner Balance Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "7",
+    "Link": "PU3:7"
+  },
+  {
+    "Rule": "Innkeeper (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 10",
+    "Page": "8",
+    "Link": "DF10:8"
+  },
+  {
+    "Rule": "Innkeeper Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "19",
+    "Link": "DF13:19"
+  },
+  {
+    "Rule": "Innkeeper Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "28",
+    "Link": "DF11:28"
+  },
+  {
+    "Rule": "Instant Death from Injury",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "423",
+    "Link": "B423"
+  },
+  {
+    "Rule": "Intuitive Admiral Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "12",
+    "Link": "PU3:12"
+  },
+  {
+    "Rule": "Intuitive Statesman Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "11",
+    "Link": "PU3:11"
+  },
+  {
+    "Rule": "Iron Mage (Red Robe)",
+    "Category": [
+      "Template",
+      "Magic"
+    ],
+    "Book": "Magical Styles: Dungeon Magic",
+    "Page": "34",
+    "Link": "MSDM34"
+  },
+  {
+    "Rule": "Jack of all Trades Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "11",
+    "Link": "PU3:11"
+  },
+  {
+    "Rule": "Jewelry Gems and Pricing",
+    "Category": [
+      "Gear",
+      "Currency",
+      "Profession"
+    ],
+    "Book": "Low Tech",
+    "Page": "38",
+    "Link": "LT:38"
+  },
+  {
+    "Rule": "Judo Grappling Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "203",
+    "Link": "B203"
+  },
+  {
+    "Rule": "Judo Throw Technique (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "75",
+    "Link": "MA75"
+  },
+  {
+    "Rule": "Jumper (Spirit) (Dungeon Fantasy)",
+    "Category": [
+      "Magic",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "5",
+    "Link": "DF9:5"
+  },
+  {
+    "Rule": "Jumping Distance",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "352",
+    "Link": "B352"
+  },
+  {
+    "Rule": "Jumping During Combat",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "352",
+    "Link": "B352"
+  },
+  {
+    "Rule": "Jumping Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "203",
+    "Link": "B203"
+  },
+  {
+    "Rule": "Karate Striking Skill",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "203",
+    "Link": "B203"
+  },
+  {
+    "Rule": "Kicking Technique (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "75",
+    "Link": "MA75"
+  },
+  {
+    "Rule": "Killer",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "14",
+    "Link": "DF15:14"
+  },
+  {
+    "Rule": "Killing Strike Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "5",
+    "Link": "DF12:5"
+  },
+  {
+    "Rule": "Kiss the Wall",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "118",
+    "Link": "MA118"
+  },
+  {
+    "Rule": "Knee Strike",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Knee Strike Technique (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "76",
+    "Link": "MA76"
+  },
+  {
+    "Rule": "Knight (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "8",
+    "Link": "DF1:8"
+  },
+  {
+    "Rule": "Knight Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "19",
+    "Link": "DF13:19"
+  },
+  {
+    "Rule": "Knight Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "29",
+    "Link": "DF11:29"
+  },
+  {
+    "Rule": "Knight-Errant",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Banestorm",
+    "Page": "208",
+    "Link": "BS208"
+  },
+  {
+    "Rule": "Knock Two Foes Together",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "118",
+    "Link": "MA118"
+  },
+  {
+    "Rule": "Knockback",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "378",
+    "Link": "B378"
+  },
+  {
+    "Rule": "Knockdown and Stunning",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "420",
+    "Link": "B420"
+  },
+  {
+    "Rule": "Laborer",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "22",
+    "Link": "DF15:22"
+  },
+  {
+    "Rule": "Lanista",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "29",
+    "Link": "MAG29"
+  },
+  {
+    "Rule": "Lariats Special Ranged Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "411",
+    "Link": "B411"
+  },
+  {
+    "Rule": "Layered Armor",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Basic",
+    "Page": "286",
+    "Link": "B286"
+  },
+  {
+    "Rule": "Layered Armor (Low Tech)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech",
+    "Page": "103",
+    "Link": "LT103"
+  },
+  {
+    "Rule": "Learned 125 pt Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "37",
+    "Link": "DF15:37"
+  },
+  {
+    "Rule": "Learned Prayers (one second of silent prayer)",
+    "Category": [
+      "Activities",
+      "Divinity"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "6",
+    "Link": "PDF6"
+  },
+  {
+    "Rule": "Learning from Books",
+    "Category": [
+      "Activities",
+      "Skills"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "29",
+    "Link": "LTC1:29"
+  },
+  {
+    "Rule": "Learning New Skills",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "292",
+    "Link": "B292"
+  },
+  {
+    "Rule": "Learning New Styles During Play (Martial Arts)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "146",
+    "Link": "MA146"
+  },
+  {
+    "Rule": "Leg Lock Technique (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "76",
+    "Link": "MA76"
+  },
+  {
+    "Rule": "Lethal Strike",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Lifesaving with Swimming Skill",
+    "Category": [
+      "Physical Act",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "355",
+    "Link": "B355"
+  },
+  {
+    "Rule": "Lifting and Moving Things",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "353",
+    "Link": "B353"
+  },
+  {
+    "Rule": "Lifting and Moving Things During Combat",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "353",
+    "Link": "B353"
+  },
+  {
+    "Rule": "Limb Armor Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Low Tech Instant Armor",
+    "Page": "7",
+    "Link": "LTIA7"
+  },
+  {
+    "Rule": "Limited Magery (Fantasy)",
+    "Category": [
+      "Magic",
+      "Trait"
+    ],
+    "Book": "Fantasy",
+    "Page": "129",
+    "Link": "F129"
+  },
+  {
+    "Rule": "Long Weapons in Close Combat",
+    "Category": [
+      "Combat",
+      "Weapon"
+    ],
+    "Book": "Martial Arts",
+    "Page": "117",
+    "Link": "MA117"
+  },
+  {
+    "Rule": "Long-Distance Modifiers for Spells",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Magic",
+    "Page": "14",
+    "Link": "M14"
+  },
+  {
+    "Rule": "Lost HP Thresholds",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "419",
+    "Link": "B419"
+  },
+  {
+    "Rule": "Low Fighting Technique (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "77",
+    "Link": "MA77"
+  },
+  {
+    "Rule": "Low-Tech Armor Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Basic",
+    "Page": "283",
+    "Link": "B283"
+  },
+  {
+    "Rule": "Ludus Guard (NPC)",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "32",
+    "Link": "MAG32"
+  },
+  {
+    "Rule": "Lycanthropes (Banestorm)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "200",
+    "Link": "BS200"
+  },
+  {
+    "Rule": "Magery Exceeding Usual Limit in Casting",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "9",
+    "Link": "M9"
+  },
+  {
+    "Rule": "Mages Guild Rank",
+    "Category": [
+      "Trait",
+      "Setting"
+    ],
+    "Book": "Thaumatology: Magical Styles",
+    "Page": "21",
+    "Link": "TMS21"
+  },
+  {
+    "Rule": "Mages Guilds",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "4",
+    "Link": "TUM4"
+  },
+  {
+    "Rule": "Mage-Slayer (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "11",
+    "Link": "DF20:11"
+  },
+  {
+    "Rule": "Mage-Slayer Advantages",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "9",
+    "Link": "DF20:9"
+  },
+  {
+    "Rule": "Mage-Slayer Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "19",
+    "Link": "DF20:19"
+  },
+  {
+    "Rule": "Mage-Slayer Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "10",
+    "Link": "DF20:10"
+  },
+  {
+    "Rule": "Mage-Slayer Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "13",
+    "Link": "DF20:13"
+  },
+  {
+    "Rule": "Mage-Slayer Skills",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "11",
+    "Link": "DF20:11"
+  },
+  {
+    "Rule": "Magic Aspected Locations and Items",
+    "Category": [
+      "Magic",
+      "Environment"
+    ],
+    "Book": "Fantasy",
+    "Page": "43",
+    "Link": "F43"
+  },
+  {
+    "Rule": "Magic Rituals by Spell Skill Level",
+    "Category": [
+      "Magic",
+      "Skills"
+    ],
+    "Book": "Magic",
+    "Page": "8",
+    "Link": "M8"
+  },
+  {
+    "Rule": "Magic Scrolls",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "14",
+    "Link": "DF4:14"
+  },
+  {
+    "Rule": "Magic Spells List",
+    "Category": [
+      "Reference",
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "223",
+    "Link": "M223"
+  },
+  {
+    "Rule": "Magic Staff Spell",
+    "Category": [
+      "Magic",
+      "Weapon"
+    ],
+    "Book": "Magic",
+    "Page": "70",
+    "Link": "M70"
+  },
+  {
+    "Rule": "Magic Staffs",
+    "Category": [
+      "Magic",
+      "Weapon"
+    ],
+    "Book": "Magic",
+    "Page": "13",
+    "Link": "M13"
+  },
+  {
+    "Rule": "Magical Binding Oaths",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Fantasy",
+    "Page": "147",
+    "Link": "F147"
+  },
+  {
+    "Rule": "Magical Factories",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "5",
+    "Link": "TUM5"
+  },
+  {
+    "Rule": "Magical Gates and Portals",
+    "Category": [
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Magic",
+    "Page": "80",
+    "Link": "M80"
+  },
+  {
+    "Rule": "Magical Mafias or Streetgangs",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "6",
+    "Link": "TUM6"
+  },
+  {
+    "Rule": "Magical Research Institutes",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "6",
+    "Link": "TUM6"
+  },
+  {
+    "Rule": "Magical School Familiarity Perk",
+    "Category": [
+      "Trait",
+      "Magic"
+    ],
+    "Book": "Thaumatology: Magical Styles",
+    "Page": "20",
+    "Link": "TMS20"
+  },
+  {
+    "Rule": "Major Blessings",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "10",
+    "Link": "PDF10"
+  },
+  {
+    "Rule": "Major Wounds",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "420",
+    "Link": "B420"
+  },
+  {
+    "Rule": "Makeshift Weapons Table (Wilderness)",
+    "Category": [
+      "Weapon",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "45",
+    "Link": "DF16:45"
+  },
+  {
+    "Rule": "Making Antidotes with Herbs",
+    "Category": [
+      "Activities",
+      "Profession"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "13",
+    "Link": "DF2:13"
+  },
+  {
+    "Rule": "Malfunctioning Guns and Explosives",
+    "Category": [
+      "Combat",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "407",
+    "Link": "B407"
+  },
+  {
+    "Rule": "Mana Levels (Magic)",
+    "Category": [
+      "Magic",
+      "Environment"
+    ],
+    "Book": "Magic",
+    "Page": "6",
+    "Link": "M6"
+  },
+  {
+    "Rule": "Manufacturing",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "22",
+    "Link": "LTC3:22"
+  },
+  {
+    "Rule": "Mariner Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "13",
+    "Link": "PU3:13"
+  },
+  {
+    "Rule": "Martial Artist (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "9",
+    "Link": "DF1:9"
+  },
+  {
+    "Rule": "Martial Artist Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "21",
+    "Link": "DF13:21"
+  },
+  {
+    "Rule": "Martial Artist Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "29",
+    "Link": "DF11:29"
+  },
+  {
+    "Rule": "Master Builder Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "11",
+    "Link": "PU3:11"
+  },
+  {
+    "Rule": "Mastermind (Denizens PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "9",
+    "Link": "DFDT9"
+  },
+  {
+    "Rule": "Material Undead Servants",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "25",
+    "Link": "DF9:25"
+  },
+  {
+    "Rule": "Mathematical Ability Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "12",
+    "Link": "PU3:12"
+  },
+  {
+    "Rule": "Mechanical Artillery Table (Low Tech)",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "82",
+    "Link": "LT82"
+  },
+  {
+    "Rule": "Medical Care",
+    "Category": [
+      "Profession",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "424",
+    "Link": "B424"
+  },
+  {
+    "Rule": "Meditation and Body Disciplines",
+    "Category": [
+      "Activities",
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "16",
+    "Link": "LTC1:16"
+  },
+  {
+    "Rule": "Melee Attacks Through Occupied Hex",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "388",
+    "Link": "B388"
+  },
+  {
+    "Rule": "Melee Combat at Different Heights",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "402",
+    "Link": "B402"
+  },
+  {
+    "Rule": "Melee Weapons Table",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Melee Weapons Table (Low Tech)",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Memetics Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "12",
+    "Link": "PU3:12"
+  },
+  {
+    "Rule": "Mental Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "12",
+    "Link": "PU2:12"
+  },
+  {
+    "Rule": "Mercenary",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Banestorm",
+    "Page": "209",
+    "Link": "BS209"
+  },
+  {
+    "Rule": "Merchant",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Banestorm",
+    "Page": "210",
+    "Link": "BS210"
+  },
+  {
+    "Rule": "Mesmerist Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "12",
+    "Link": "PU3:12"
+  },
+  {
+    "Rule": "Mighty Blow",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "357",
+    "Link": "B357"
+  },
+  {
+    "Rule": "Mighty Blow (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "131",
+    "Link": "MA131"
+  },
+  {
+    "Rule": "Mining and Excavation",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "20",
+    "Link": "LTC3:20"
+  },
+  {
+    "Rule": "Minor Blessings",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "8",
+    "Link": "PDF8"
+  },
+  {
+    "Rule": "Minor Obstruction in Movement",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Basic",
+    "Page": "387",
+    "Link": "B387"
+  },
+  {
+    "Rule": "Miraculous Power",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "13",
+    "Link": "PDF13"
+  },
+  {
+    "Rule": "Mirror-Mage (White Robe)",
+    "Category": [
+      "Template",
+      "Magic"
+    ],
+    "Book": "Magical Styles: Dungeon Magic",
+    "Page": "41",
+    "Link": "MSDM41"
+  },
+  {
+    "Rule": "Missed Sleep",
+    "Category": [
+      "Physical Act",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "426",
+    "Link": "B426"
+  },
+  {
+    "Rule": "Mister Smash Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "13",
+    "Link": "PU3:13"
+  },
+  {
+    "Rule": "Molotov Cocktails Special Ranged Rules",
+    "Category": [
+      "Combat",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "411",
+    "Link": "B411"
+  },
+  {
+    "Rule": "Monk 125 pt Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "37",
+    "Link": "DF15:37"
+  },
+  {
+    "Rule": "Mortal Foe",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 3",
+    "Page": "40",
+    "Link": "DF3:40"
+  },
+  {
+    "Rule": "Mortal Wounds",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "423",
+    "Link": "B423"
+  },
+  {
+    "Rule": "Mounted Combat",
+    "Category": [
+      "Combat",
+      "Mounts"
+    ],
+    "Book": "Basic",
+    "Page": "396",
+    "Link": "B396"
+  },
+  {
+    "Rule": "Mounted Shooting Technique (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Mounts"
+    ],
+    "Book": "Martial Arts",
+    "Page": "77",
+    "Link": "MA77"
+  },
+  {
+    "Rule": "Mounting",
+    "Category": [
+      "Mounts"
+    ],
+    "Book": "Basic",
+    "Page": "396",
+    "Link": "B396"
+  },
+  {
+    "Rule": "Mounts and Pack Animals",
+    "Category": [
+      "Mounts"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "5",
+    "Link": "DF13:5"
+  },
+  {
+    "Rule": "Mounts Table (Dungeon Fantasy)",
+    "Category": [
+      "Mounts"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "18",
+    "Link": "DF16:18"
+  },
+  {
+    "Rule": "Move and Attack Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "365",
+    "Link": "B365"
+  },
+  {
+    "Rule": "Move and Attack Maneuver (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "107",
+    "Link": "MA107"
+  },
+  {
+    "Rule": "Move Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "364",
+    "Link": "B364"
+  },
+  {
+    "Rule": "Move Maneuver (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "105",
+    "Link": "MA105"
+  },
+  {
+    "Rule": "Movement Point Costs",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "387",
+    "Link": "B387"
+  },
+  {
+    "Rule": "Multiple Blocks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "123",
+    "Link": "MA123"
+  },
+  {
+    "Rule": "Multiple Dodges Limits",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "123",
+    "Link": "MA123"
+  },
+  {
+    "Rule": "Multiple Fast-Draw",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "103",
+    "Link": "MA103"
+  },
+  {
+    "Rule": "Multiple Parries",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "376",
+    "Link": "B376"
+  },
+  {
+    "Rule": "Multiple People in Close Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "392",
+    "Link": "B392"
+  },
+  {
+    "Rule": "Muscle-Powered Ranged Weapons Table",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
+    "Rule": "Muscle-Powered Ranged Weapons Table (Low Tech)",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "76",
+    "Link": "LT76"
+  },
+  {
+    "Rule": "Musical Ability Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "13",
+    "Link": "PU3:13"
+  },
+  {
+    "Rule": "Musical Instruments",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "24",
+    "Link": "DF1:24"
+  },
+  {
+    "Rule": "Musical Instruments (Low Tech)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "17",
+    "Link": "LTC1:17"
+  },
+  {
+    "Rule": "Musician",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "32",
+    "Link": "MAG32"
+  },
+  {
+    "Rule": "Muskets Table",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "93",
+    "Link": "LT93"
+  },
+  {
+    "Rule": "Mystic",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Banestorm",
+    "Page": "212",
+    "Link": "BS212"
+  },
+  {
+    "Rule": "Native Guide",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "11",
+    "Link": "DF16:11"
+  },
+  {
+    "Rule": "Natural Athlete Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "13",
+    "Link": "PU3:13"
+  },
+  {
+    "Rule": "Natural Copper Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "13",
+    "Link": "PU3:13"
+  },
+  {
+    "Rule": "Natural Diver Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "13",
+    "Link": "PU3:13"
+  },
+  {
+    "Rule": "Natural Poisons in the Wild (Dungeon Fantasy)",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "45",
+    "Link": "DF16:45"
+  },
+  {
+    "Rule": "Natural Recovery 1 HP per Day with HT roll",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "424",
+    "Link": "B424"
+  },
+  {
+    "Rule": "Natural Scientist Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "13",
+    "Link": "PU3:13"
+  },
+  {
+    "Rule": "Nature Spirits",
+    "Category": [
+      "Trait",
+      "Magic"
+    ],
+    "Book": "Powers: Totems and Nature Spirits",
+    "Page": "15",
+    "Link": "PTNS15"
+  },
+  {
+    "Rule": "Nature Spirits (Dungeon Fantasy)",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "37",
+    "Link": "DF9:37"
+  },
+  {
+    "Rule": "Nauseated",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Neck Snap",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Neck Snap Technique (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "77",
+    "Link": "77"
+  },
+  {
+    "Rule": "Necromancer (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "12",
+    "Link": "DF9:12"
+  },
+  {
+    "Rule": "Necromancer Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "25",
+    "Link": "DF13:25"
+  },
+  {
+    "Rule": "Necromancer Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "30",
+    "Link": "DF11:30"
+  },
+  {
+    "Rule": "Necromantic Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "14",
+    "Link": "DF9:14"
+  },
+  {
+    "Rule": "Nets Special Ranged Rules",
+    "Category": [
+      "Combat",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "411",
+    "Link": "B411"
+  },
+  {
+    "Rule": "New Hit Locations in Martial Arts",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "137",
+    "Link": "MA137"
+  },
+  {
+    "Rule": "New Magical Style Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Thaumatology: Magical Styles",
+    "Page": "20",
+    "Link": "TMS20"
+  },
+  {
+    "Rule": "Ninja (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "8",
+    "Link": "DF12:8"
+  },
+  {
+    "Rule": "Ninja Chemicals Poisons Powders",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "16",
+    "Link": "DF12:16"
+  },
+  {
+    "Rule": "Ninja Gear (Dungeon Fantasy 12)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "12",
+    "Link": "DF12:12"
+  },
+  {
+    "Rule": "Ninja Gear (Loadouts)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "22",
+    "Link": "DF13:22"
+  },
+  {
+    "Rule": "Ninja Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "7",
+    "Link": "PU3:7"
+  },
+  {
+    "Rule": "Ninja Tools Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "5",
+    "Link": "DF12:5"
+  },
+  {
+    "Rule": "Ninja Training Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "4",
+    "Link": "DF12:4"
+  },
+  {
+    "Rule": "Ninja Weapon Modifier Weapon Black",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
+  },
+  {
+    "Rule": "No More than 1 Off and 1 Def Extra Effort per Turn",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "131",
+    "Link": "MA131"
+  },
+  {
+    "Rule": "Non-Human Hit Location Tables",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "552",
+    "Link": "B552"
+  },
+  {
+    "Rule": "Occultist Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "14",
+    "Link": "PU3:14"
+  },
+  {
+    "Rule": "Occupations",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "45",
+    "Link": "LTC3:45"
+  },
+  {
+    "Rule": "Off-Hand Weapon Training Perk",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "50",
+    "Link": "MA50"
+  },
+  {
+    "Rule": "Old n Bold Swashbuckler",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "13",
+    "Link": "DFDS13"
+  },
+  {
+    "Rule": "One Hand Grappling",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "116",
+    "Link": "MA116"
+  },
+  {
+    "Rule": "One Perk per 25 Starting Character Points",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "3",
+    "Link": "PU2:3"
+  },
+  {
+    "Rule": "One Second to Return a Pistol to a Holster",
+    "Category": [
+      "Combat",
+      "Weapon",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "383",
+    "Link": "B383"
+  },
+  {
+    "Rule": "One-Eye Disadvantage",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "147",
+    "Link": "B147"
+  },
+  {
+    "Rule": "One-Hand Disadvantage",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "147",
+    "Link": "B147"
+  },
+  {
+    "Rule": "One-Use Magic Items",
+    "Category": [
+      "Magic",
+      "Item",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "18",
+    "Link": "DFMI1:18"
+  },
+  {
+    "Rule": "Opportunity Fire",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "390",
+    "Link": "B390"
+  },
+  {
+    "Rule": "Options in Close Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "114",
+    "Link": "MA114"
+  },
+  {
+    "Rule": "Outdoorsman Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "14",
+    "Link": "PU3:14"
+  },
+  {
+    "Rule": "Overdosing on Drugs",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "441",
+    "Link": "B441"
+  },
+  {
+    "Rule": "Overshooting",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "390",
+    "Link": "B390"
+  },
+  {
+    "Rule": "Paced Running",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "354",
+    "Link": "B354"
+  },
+  {
+    "Rule": "Pack Tactics Perk",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "25",
+    "Link": "MAYFS25"
+  },
+  {
+    "Rule": "Paegnarius",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "33",
+    "Link": "MAG33"
+  },
+  {
+    "Rule": "Pain",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Painting Dyeing and Pigmentation",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "31",
+    "Link": "LTC3:31"
+  },
+  {
+    "Rule": "Paralysis",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "429",
+    "Link": "B429"
+  },
+  {
+    "Rule": "Parapsychologist Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "14",
+    "Link": "PU3:14"
+  },
+  {
+    "Rule": "Parries with Legs or Feet",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "123",
+    "Link": "MA123"
+  },
+  {
+    "Rule": "Parrying an Unarmed Attack",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "327",
+    "Link": "B327"
+  },
+  {
+    "Rule": "Parrying Heavy Weapons",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "376",
+    "Link": "B376"
+  },
+  {
+    "Rule": "Parrying with Two Handed Weapons",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "123",
+    "Link": "MA123"
+  },
+  {
+    "Rule": "Peasant Hero",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Banestorm",
+    "Page": "214",
+    "Link": "BS214"
+  },
+  {
+    "Rule": "Pentaclist (Orange Robe)",
+    "Category": [
+      "Template",
+      "Magic"
+    ],
+    "Book": "Magical Styles: Dungeon Magic",
+    "Page": "40",
+    "Link": "MSDM40"
+  },
+  {
+    "Rule": "Personal Artillery Table (Low Tech)",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "83",
+    "Link": "LT83"
+  },
+  {
+    "Rule": "Petards (Fantasy) (Jean Luc)",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Fantasy",
+    "Page": "143",
+    "Link": "F143"
+  },
+  {
+    "Rule": "Philosophical Swashbuckler",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "13",
+    "Link": "DFDS13"
+  },
+  {
+    "Rule": "Physical Appearance Levels",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "21",
+    "Link": "B21"
+  },
+  {
+    "Rule": "Physical Build Table",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "18",
+    "Link": "B18"
+  },
+  {
+    "Rule": "Physical Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "13",
+    "Link": "PU2:13"
+  },
+  {
+    "Rule": "Physician (NPC)",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "33",
+    "Link": "MAG33"
+  },
+  {
+    "Rule": "Pickaxe Penchant Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "14",
+    "Link": "PU3:14"
+  },
+  {
+    "Rule": "Picks Special Melee Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "405",
+    "Link": "B405"
+  },
+  {
+    "Rule": "Pin after Grapple",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "370",
+    "Link": "B370"
+  },
+  {
+    "Rule": "Pistols and Rifles Tables",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "94",
+    "Link": "LT94"
+  },
+  {
+    "Rule": "Poet Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "14",
+    "Link": "PU3:14"
+  },
+  {
+    "Rule": "Poison Attributes",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "438",
+    "Link": "B438"
+  },
+  {
+    "Rule": "Pop Culture Maven Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "14",
+    "Link": "PU3:14"
+  },
+  {
+    "Rule": "Pop-Up Attack",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "390",
+    "Link": "B390"
+  },
+  {
+    "Rule": "Portly Swashbuckler",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "14",
+    "Link": "DFDS14"
+  },
+  {
+    "Rule": "Postures Table",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "551",
+    "Link": "B551"
+  },
+  {
+    "Rule": "Potion Seller",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "14",
+    "Link": "TUM14"
+  },
+  {
+    "Rule": "Pottery",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "27",
+    "Link": "LTC3:27"
+  },
+  {
+    "Rule": "Power Grappling Perk",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "51",
+    "Link": "MA51"
+  },
+  {
+    "Rule": "Power Item Power-Ups",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Dungeon Fantasy 18",
+    "Page": "11",
+    "Link": "DF18:11"
+  },
+  {
+    "Rule": "Power Item Types",
+    "Category": [
+      "Weapon",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 18",
+    "Page": "7",
+    "Link": "DF18:7"
+  },
+  {
+    "Rule": "Power Item Usage",
+    "Category": [
+      "Weapon",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 18",
+    "Page": "9",
+    "Link": "DF18:9"
+  },
+  {
+    "Rule": "Power Item Value",
+    "Category": [
+      "Weapon",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 18",
+    "Page": "4",
+    "Link": "DF18:4"
+  },
+  {
+    "Rule": "Power Items (Dungeon Fantasy)",
+    "Category": [
+      "Weapon",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "28",
+    "Link": "DF1:28"
+  },
+  {
+    "Rule": "Power Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "11",
+    "Link": "PU2:11"
+  },
+  {
+    "Rule": "Powerstone Costs",
+    "Category": [
+      "Reference",
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "20",
+    "Link": "M20"
+  },
+  {
+    "Rule": "Power-Ups for Dungeon Magical Styles",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Magical Styles: Dungeon Magic",
+    "Page": "42",
+    "Link": "MSDM42"
+  },
+  {
+    "Rule": "Practical Poisoning",
+    "Category": [
+      "Poison",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "12",
+    "Link": "DF2:12"
+  },
+  {
+    "Rule": "Predictive Shot",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "121",
+    "Link": "MA121"
+  },
+  {
+    "Rule": "Pressure and The Bends",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "435",
+    "Link": "B435"
+  },
+  {
+    "Rule": "Priest 125 pt Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "38",
+    "Link": "DF15:38"
+  },
+  {
+    "Rule": "Priest of Chaos (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Pyramid #3/78",
+    "Page": "16",
+    "Link": "PY78:16"
+  },
+  {
+    "Rule": "Priest of Order (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Pyramid #3/78",
+    "Page": "14",
+    "Link": "PY78:14"
+  },
+  {
+    "Rule": "Professional References Template",
+    "Category": [
+      "Reference",
+      "Profession"
+    ],
+    "Book": "Dungeon Fantasy 17",
+    "Page": "10",
+    "Link": "DF17:10"
+  },
+  {
+    "Rule": "Professional Skills",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "49",
+    "Link": "LTC3:49"
+  },
+  {
+    "Rule": "Projectile Magic Items",
+    "Category": [
+      "Magic",
+      "Weapon",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "18",
+    "Link": "DFMI1:18"
+  },
+  {
+    "Rule": "Psientist Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "15",
+    "Link": "PU3:15"
+  },
+  {
+    "Rule": "Pugilist",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "30",
+    "Link": "MAG30"
+  },
+  {
+    "Rule": "Pulling Punches",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "401",
+    "Link": "B401"
+  },
+  {
+    "Rule": "Push Kick Technique (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "78",
+    "Link": "MA78"
+  },
+  {
+    "Rule": "Quick Mount Technique (Martial Arts)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "78",
+    "Link": "MA78"
+  },
+  {
+    "Rule": "Quick Readying a Weapon on the Ground",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "104",
+    "Link": "MA104"
+  },
+  {
+    "Rule": "Quick Sheathing",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "102",
+    "Link": "MA102"
+  },
+  {
+    "Rule": "Quick Shooting Bows",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "119",
+    "Link": "MA119"
+  },
+  {
+    "Rule": "Radiation and Radiation Treatment",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "436",
+    "Link": "B436"
+  },
+  {
+    "Rule": "Rage Barbarian (Denizens)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "6",
+    "Link": "DFDB6"
+  },
+  {
+    "Rule": "Rage Power PM Wrath",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "22",
+    "Link": "DFDB22"
+  },
+  {
+    "Rule": "Ranged Combat at Different Heights",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "407",
+    "Link": "B407"
+  },
+  {
+    "Rule": "Rapid Recovery",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "131",
+    "Link": "MA131"
+  },
+  {
+    "Rule": "Rapid Strike",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "370",
+    "Link": "B370"
+  },
+  {
+    "Rule": "Rapid Strike (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "127",
+    "Link": "MA127"
+  },
+  {
+    "Rule": "Rapid Strike with Thrown Weapons",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "120",
+    "Link": "MA120"
+  },
+  {
+    "Rule": "Rare Artifacts",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "22",
+    "Link": "DFMI1:22"
+  },
+  {
+    "Rule": "Rate of Fire (RoF) and Reloading",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "373",
+    "Link": "B373"
+  },
+  {
+    "Rule": "Ready Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "366",
+    "Link": "B366"
+  },
+  {
+    "Rule": "Ready Maneuver (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "101",
+    "Link": "MA101"
+  },
+  {
+    "Rule": "Readying a Shield or Cloak",
+    "Category": [
+      "Combat",
+      "Armor",
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "383",
+    "Link": "B383"
+  },
+  {
+    "Rule": "Reality Warping Critial Spell Failure Table",
+    "Category": [
+      "Reference",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "259",
+    "Link": "T259"
+  },
+  {
+    "Rule": "Recovering from Unconsciousness",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "423",
+    "Link": "B423"
+  },
+  {
+    "Rule": "Reduced Time for Powers",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "108",
+    "Link": "B108"
+  },
+  {
+    "Rule": "Refined Savage Barbarian",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "10",
+    "Link": "DFDB10"
+  },
+  {
+    "Rule": "Repairing Armor and Shields",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "25",
+    "Link": "LT2:25"
+  },
+  {
+    "Rule": "Repeated Skill Roll Tries at Cumulative -1 per Attempt",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "348",
+    "Link": "B348"
+  },
+  {
+    "Rule": "Respiratory Agent",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "437",
+    "Link": "B437"
+  },
+  {
+    "Rule": "Ressurection",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "16",
+    "Link": "PDF16"
+  },
+  {
+    "Rule": "Restricted Dodge Against Firearms",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "123",
+    "Link": "MA123"
+  },
+  {
+    "Rule": "Resuscitation",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "425",
+    "Link": "B425"
+  },
+  {
+    "Rule": "Retching",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "429",
+    "Link": "B429"
+  },
+  {
+    "Rule": "Retreat Defense",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "377",
+    "Link": "B377"
+  },
+  {
+    "Rule": "Retreat Defense (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "123",
+    "Link": "MA123"
+  },
+  {
+    "Rule": "Reverse Grip",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "111",
+    "Link": "MA111"
+  },
+  {
+    "Rule": "Reverse Grip Technique (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "78",
+    "Link": "MA78"
+  },
+  {
+    "Rule": "Riding Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "19",
+    "Link": "DF16:19"
+  },
+  {
+    "Rule": "Riposte",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "124",
+    "Link": "MA124"
+  },
+  {
+    "Rule": "Rogue Swashbuckler (Denizens)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "11",
+    "Link": "DFDS11"
+  },
+  {
+    "Rule": "Round Fractional Character Points Costs Up",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "9",
+    "Link": "B9"
+  },
+  {
+    "Rule": "Round Fractional Damage Down",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "9",
+    "Link": "B9"
+  },
+  {
+    "Rule": "Ruses in Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "101",
+    "Link": "MA101"
+  },
+  {
+    "Rule": "Sacrificial Dodge",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "375",
+    "Link": "B375"
+  },
+  {
+    "Rule": "Sage",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "15",
+    "Link": "DF15:15"
+  },
+  {
+    "Rule": "Sage Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "15",
+    "Link": "PU3:15"
+  },
+  {
+    "Rule": "Savage Warrior (Denizens)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "7",
+    "Link": "DFDB7"
+  },
+  {
+    "Rule": "Scatter Result of Missed Area Effects",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "414",
+    "Link": "B414"
+  },
+  {
+    "Rule": "Scholar (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "8",
+    "Link": "DF4:8"
+  },
+  {
+    "Rule": "Scholar Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "23",
+    "Link": "DF13:23"
+  },
+  {
+    "Rule": "Scholar Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "31",
+    "Link": "DF11:31"
+  },
+  {
+    "Rule": "Schrödingers and Secret Advantages",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "33",
+    "Link": "B33"
+  },
+  {
+    "Rule": "Schticks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "14",
+    "Link": "PU2:14"
+  },
+  {
+    "Rule": "Scout (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "10",
+    "Link": "DF1:10"
+  },
+  {
+    "Rule": "Scout Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "24",
+    "Link": "DF13:24"
+  },
+  {
+    "Rule": "Scout Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "32",
+    "Link": "DF11:32"
+  },
+  {
+    "Rule": "Sea Gods (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "25",
+    "Link": "DF7:25"
+  },
+  {
+    "Rule": "Sea Raider Barbarian",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "10",
+    "Link": "DFDB10"
+  },
+  {
+    "Rule": "Seafarer Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "14",
+    "Link": "PU3:14"
+  },
+  {
+    "Rule": "Seasickness",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "436",
+    "Link": "B436"
+  },
+  {
+    "Rule": "Seizure",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "429",
+    "Link": "B429"
+  },
+  {
+    "Rule": "Self-Control Rolls for Mental Disadvantages",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "120",
+    "Link": "B120"
+  },
+  {
+    "Rule": "Sense-Based Agent",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "438",
+    "Link": "B438"
+  },
+  {
+    "Rule": "Sensing a Magic Item with Magery",
+    "Category": [
+      "Magic",
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "66",
+    "Link": "B66"
+  },
+  {
+    "Rule": "Servant",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "23",
+    "Link": "DF15:23"
+  },
+  {
+    "Rule": "Shaman (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "16",
+    "Link": "DF9:16"
+  },
+  {
+    "Rule": "Shaman Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "26",
+    "Link": "DF13:26"
+  },
+  {
+    "Rule": "Shaman Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "33",
+    "Link": "DF11:32"
+  },
+  {
+    "Rule": "Shamanic Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "18",
+    "Link": "DF9:18"
+  },
+  {
+    "Rule": "Shape Mastery Perk",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "26",
+    "Link": "MAYFS26"
+  },
+  {
+    "Rule": "Shapeshifting (10 seconds)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "83",
+    "Link": "B83"
+  },
+  {
+    "Rule": "Shapeshifting (Yrth)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "23",
+    "Link": "MAYFS23"
+  },
+  {
+    "Rule": "Shapeshifting in Combat",
+    "Category": [
+      "Combat",
+      "Trait"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "26",
+    "Link": "MAYFS26"
+  },
+  {
+    "Rule": "Shield Bash",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "406",
+    "Link": "B406"
+  },
+  {
+    "Rule": "Shield Push",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "112",
+    "Link": "MA112"
+  },
+  {
+    "Rule": "Shield Rush",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "372",
+    "Link": "B372"
+  },
+  {
+    "Rule": "Shield Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Basic",
+    "Page": "287",
+    "Link": "B287"
+  },
+  {
+    "Rule": "Shield Wall Training Perk",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "51",
+    "Link": "MA51"
+  },
+  {
+    "Rule": "Shields in Close Combat",
+    "Category": [
+      "Combat",
+      "Armor"
+    ],
+    "Book": "Basic",
+    "Page": "392",
+    "Link": "B392"
+  },
+  {
+    "Rule": "Shields Special Melee Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "406",
+    "Link": "B406"
+  },
+  {
+    "Rule": "Shifting Grapples and Freeing Hands",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "117",
+    "Link": "MA117"
+  },
+  {
+    "Rule": "Shirtless Savage Barbarian Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "11",
+    "Link": "DFDB11"
+  },
+  {
+    "Rule": "Shock from Injury",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "381",
+    "Link": "B381"
+  },
+  {
+    "Rule": "Shock Penalty to DX and IQ Applies Only on Next Turn",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "419",
+    "Link": "B419"
+  },
+  {
+    "Rule": "Shooting Blind",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "389",
+    "Link": "B389"
+  },
+  {
+    "Rule": "Shooting from Horseback",
+    "Category": [
+      "Mounts",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "397",
+    "Link": "B397"
+  },
+  {
+    "Rule": "Short Barbarian",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "11",
+    "Link": "DFDB11"
+  },
+  {
+    "Rule": "Shove",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "372",
+    "Link": "B372"
+  },
+  {
+    "Rule": "Shoving People Around after a Grapple",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "118",
+    "Link": "MA118"
+  },
+  {
+    "Rule": "Sideslip",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "124",
+    "Link": "MA124"
+  },
+  {
+    "Rule": "Sight-Reading Technique for Playing Music",
+    "Category": [
+      "Activities",
+      "Skills"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "19",
+    "Link": "LTC1:19"
+  },
+  {
+    "Rule": "Silver Weapons",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
+    "Rule": "Size Modifier Table",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "19",
+    "Link": "B19"
+  },
+  {
+    "Rule": "Skidding in Combat",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Martial Arts",
+    "Page": "105",
+    "Link": "MA105"
+  },
+  {
+    "Rule": "Skill Cost Table",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "170",
+    "Link": "B170"
+  },
+  {
+    "Rule": "Skill List",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "301",
+    "Link": "B301"
+  },
+  {
+    "Rule": "Skill Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "15",
+    "Link": "PU2:15"
+  },
+  {
+    "Rule": "Skill Success Probability",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "171",
+    "Link": "B171"
+  },
+  {
+    "Rule": "Skills for Preparing Crafting Materials",
+    "Category": [
+      "Skills",
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "23",
+    "Link": "LTC3:23"
+  },
+  {
+    "Rule": "Skirmisher (NPC Template)",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "16",
+    "Link": "DF15:16"
+  },
+  {
+    "Rule": "Slam",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "371",
+    "Link": "B371"
+  },
+  {
+    "Rule": "Sleeping in Armor",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Low Tech Instant Armor",
+    "Page": "20",
+    "Link": "LTIA20"
+  },
+  {
+    "Rule": "Slip",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "124",
+    "Link": "MA124"
+  },
+  {
+    "Rule": "Smelting",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "26",
+    "Link": "LTC3:26"
+  },
+  {
+    "Rule": "Smooth Operator Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "15",
+    "Link": "PU3:15"
+  },
+  {
+    "Rule": "Sneaking in Armor",
+    "Category": [
+      "Physical Act",
+      "Skills"
+    ],
+    "Book": "Low Tech",
+    "Page": "103",
+    "Link": "LT103"
+  },
+  {
+    "Rule": "Sobering Up from Intoxication",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "440",
+    "Link": "B440"
+  },
+  {
+    "Rule": "Social Perks",
+    "Category": [
+      "Trait",
+      "Setting"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "17",
+    "Link": "PU2:17"
+  },
+  {
+    "Rule": "Social Scientist Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "15",
+    "Link": "PU3:15"
+  },
+  {
+    "Rule": "Special Armor Attributes",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "27",
+    "Link": "DF1:27"
+  },
+  {
+    "Rule": "Special Weapon Attributes",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "26",
+    "Link": "DF1:26"
+  },
+  {
+    "Rule": "Special Weapon Enchantments",
+    "Category": [
+      "Magic",
+      "Weapon",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "6",
+    "Link": "DFMI1:6"
+  },
+  {
+    "Rule": "Specialized Delver Gear (Dungeon Fantasy)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "23",
+    "Link": "DF1:23"
+  },
+  {
+    "Rule": "Specific Prayer (1d seconds of silent prayer)",
+    "Category": [
+      "Divinity",
+      "Activities"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "6",
+    "Link": "PDF6"
+  },
+  {
+    "Rule": "Spell Prerequisite Counts Table",
+    "Category": [
+      "Reference",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "261",
+    "Link": "T261"
+  },
+  {
+    "Rule": "Spell-Thief (Denizens PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "11",
+    "Link": "DFDT11"
+  },
+  {
+    "Rule": "Spell-Thief Abilities",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "31",
+    "Link": "DFDT31"
+  },
+  {
+    "Rule": "Spinning in Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "105",
+    "Link": "MA105"
+  },
+  {
+    "Rule": "Spirit Roles",
+    "Category": [
+      "Trait",
+      "Setting"
+    ],
+    "Book": "Powers: Totems and Nature Spirits",
+    "Page": "8",
+    "Link": "PTNS8"
+  },
+  {
+    "Rule": "Spirit-Oriented Critical Spell Failure Table",
+    "Category": [
+      "Reference",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "260",
+    "Link": "T260"
+  },
+  {
+    "Rule": "Spirit-Talker Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "15",
+    "Link": "PU3:15"
+  },
+  {
+    "Rule": "Spooked Mounts",
+    "Category": [
+      "Mounts"
+    ],
+    "Book": "Basic",
+    "Page": "397",
+    "Link": "B397"
+  },
+  {
+    "Rule": "Sprawling during a Takedown Attempt",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "119",
+    "Link": "MA119"
+  },
+  {
+    "Rule": "Sprinting",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "354",
+    "Link": "B354"
+  },
+  {
+    "Rule": "Squire (NPC Template)",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "17",
+    "Link": "DF15:17"
+  },
+  {
+    "Rule": "Stabilizing a Mortal Wound",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "424",
+    "Link": "B424"
+  },
+  {
+    "Rule": "Staff Attunement Perk",
+    "Category": [
+      "Trait",
+      "Weapon"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "26",
+    "Link": "MAYFS26"
+  },
+  {
+    "Rule": "Staff-Swinging Swashbuckler Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "14",
+    "Link": "DFDS14"
+  },
+  {
+    "Rule": "Stage Engineer (NPC)",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "33",
+    "Link": "MAG33"
+  },
+  {
+    "Rule": "Stalker Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "15",
+    "Link": "PU3:15"
+  },
+  {
+    "Rule": "Starvation and Dehydration",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "426",
+    "Link": "B426"
+  },
+  {
+    "Rule": "Stealth Penalty -5 to Skill if Moving Faster than 1",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "222",
+    "Link": "B222"
+  },
+  {
+    "Rule": "Stop Hits",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "108",
+    "Link": "MA108"
+  },
+  {
+    "Rule": "Stop Thrust",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "366",
+    "Link": "B366"
+  },
+  {
+    "Rule": "Storm Gods (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "27",
+    "Link": "DF7:27"
+  },
+  {
+    "Rule": "Strangler Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "15",
+    "Link": "PU3:15"
+  },
+  {
+    "Rule": "Stray Ranged Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "390",
+    "Link": "B390"
+  },
+  {
+    "Rule": "Street Smarts Talent (different than Street-Smart)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "16",
+    "Link": "PU3:16"
+  },
+  {
+    "Rule": "Street Wizard",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "14",
+    "Link": "TUM14"
+  },
+  {
+    "Rule": "Street-Smart Talent (different than Street Smarts)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "16",
+    "Link": "PU3:16"
+  },
+  {
+    "Rule": "Strength to Damage Table",
+    "Category": [
+      "Reference",
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "16",
+    "Link": "B16"
+  },
+  {
+    "Rule": "Striker",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "88",
+    "Link": "B88"
+  },
+  {
+    "Rule": "Striker (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "117",
+    "Link": "MA117"
+  },
+  {
+    "Rule": "Striking at a Shield Cloak or Buckler",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "112",
+    "Link": "MA112"
+  },
+  {
+    "Rule": "Striking at a Weapon",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "401",
+    "Link": "B401"
+  },
+  {
+    "Rule": "Striking Into Close Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "392",
+    "Link": "B392"
+  },
+  {
+    "Rule": "Striking with the Pommel of a Weapon",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "111",
+    "Link": "MA111"
+  },
+  {
+    "Rule": "Strong Chi Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "8",
+    "Link": "PU3:8"
+  },
+  {
+    "Rule": "Strongbow Perk",
+    "Category": [
+      "Trait",
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "51",
+    "Link": "MA51"
+  },
+  {
+    "Rule": "Style Cost Breakdown (Martial Arts)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "146",
+    "Link": "MA146"
+  },
+  {
+    "Rule": "Style Familiarity Perk",
+    "Category": [
+      "Trait",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "142",
+    "Link": "MA142"
+  },
+  {
+    "Rule": "Style Perks 1 per 10 CP in Style (Martial Arts)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "146",
+    "Link": "MA146"
+  },
+  {
+    "Rule": "Suave Thief Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "13",
+    "Link": "DFDT13"
+  },
+  {
+    "Rule": "Subduing a Foe",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "401",
+    "Link": "B401"
+  },
+  {
+    "Rule": "Suffocation",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "436",
+    "Link": "B436"
+  },
+  {
+    "Rule": "Summa Rudis",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "33",
+    "Link": "MAG33"
+  },
+  {
+    "Rule": "Sumo Wrestling Grappling Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "223",
+    "Link": "B223"
+  },
+  {
+    "Rule": "Sun Gods (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "28",
+    "Link": "DF7:28"
+  },
+  {
+    "Rule": "Super Spy Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "16",
+    "Link": "PU3:16"
+  },
+  {
+    "Rule": "Superior Equilibrioception Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "16",
+    "Link": "PU3:16"
+  },
+  {
+    "Rule": "Supernatural Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "19",
+    "Link": "PU2:19"
+  },
+  {
+    "Rule": "Surgery",
+    "Category": [
+      "Profession",
+      "Injury"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "24",
+    "Link": "LTC1:24"
+  },
+  {
+    "Rule": "Survivor Barbarian (Denizens)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "8",
+    "Link": "DFDB8"
+  },
+  {
+    "Rule": "Survivor Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "16",
+    "Link": "PU3:16"
+  },
+  {
+    "Rule": "Swarm Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "461",
+    "Link": "B461"
+  },
+  {
+    "Rule": "Swashbuckler (PC Class Denizens)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "4",
+    "Link": "DFDS4"
+  },
+  {
+    "Rule": "Swashbuckler (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "11",
+    "Link": "DF1:11"
+  },
+  {
+    "Rule": "Swashbuckler Audacity",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "25",
+    "Link": "DFDS25"
+  },
+  {
+    "Rule": "Swashbuckler Finesse",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "24",
+    "Link": "DFDS24"
+  },
+  {
+    "Rule": "Swashbuckler Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "26",
+    "Link": "DF13:26"
+  },
+  {
+    "Rule": "Swashbuckler Gear (Denizens)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "30",
+    "Link": "DFDS30"
+  },
+  {
+    "Rule": "Swashbuckler Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "21",
+    "Link": "DFDS21"
+  },
+  {
+    "Rule": "Swashbuckler Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "34",
+    "Link": "DF11:32"
+  },
+  {
+    "Rule": "Swashbuckler Power-Ups (Denizens)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "21",
+    "Link": "DFDS21"
+  },
+  {
+    "Rule": "Sweep Technique",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "81",
+    "Link": "MA81"
+  },
+  {
+    "Rule": "Swimming",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "354",
+    "Link": "B354"
+  },
+  {
+    "Rule": "Swimming Speed",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "354",
+    "Link": "B354"
+  },
+  {
+    "Rule": "Swimming with Extra Effort",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "357",
+    "Link": "B357"
+  },
+  {
+    "Rule": "Symbolic and Runic Magic System",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "205",
+    "Link": "M205"
+  },
+  {
+    "Rule": "Symbols Beside Traits and What They Represent",
+    "Category": [
+      "Attributes",
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "32",
+    "Link": "B32"
+  },
+  {
+    "Rule": "Syntactic Magic System",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "202",
+    "Link": "M202"
+  },
+  {
+    "Rule": "Takedown after Grapple",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "370",
+    "Link": "B370"
+  },
+  {
+    "Rule": "Taking Extra Time with Skills",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "346",
+    "Link": "B346"
+  },
+  {
+    "Rule": "Talent Boosting Imbuement Skills",
+    "Category": [
+      "Trait",
+      "Skills"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "6",
+    "Link": "PU1:6"
+  },
+  {
+    "Rule": "Talker Talent",
+    "Category": [
+      "Trait",
+      "Profession"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "16",
+    "Link": "PU3:16"
+  },
+  {
+    "Rule": "Targeting Chinks in Armor",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "400",
+    "Link": "B400"
+  },
+  {
+    "Rule": "Tavern Amenities (Dungeon Fantasy)",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Dungeon Fantasy 10",
+    "Page": "4",
+    "Link": "DF10:4"
+  },
+  {
+    "Rule": "Teamwork Perk",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Martial Arts",
+    "Page": "52",
+    "Link": "MA52"
+  },
+  {
+    "Rule": "Tech Level and Starting Wealth",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "27",
+    "Link": "B27"
+  },
+  {
+    "Rule": "Technique Cost Table",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "230",
+    "Link": "B230"
+  },
+  {
+    "Rule": "Techniques List",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "304",
+    "Link": "B304"
+  },
+  {
+    "Rule": "Telegraphic Attack",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "113",
+    "Link": "MA113"
+  },
+  {
+    "Rule": "Telescopes TL4",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "22",
+    "Link": "LTC1:22"
+  },
+  {
+    "Rule": "Terrain Type Modifiers for Wilderness Survival",
+    "Category": [
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "22",
+    "Link": "DF16:22"
+  },
+  {
+    "Rule": "Thanatologist Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "16",
+    "Link": "PU3:16"
+  },
+  {
+    "Rule": "Thaumatological Scholar",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "15",
+    "Link": "TUM15"
+  },
+  {
+    "Rule": "Thaumaturgeticist (Yellow-Robe)",
+    "Category": [
+      "Template",
+      "Magic"
+    ],
+    "Book": "Magical Styles: Dungeon Magic",
+    "Page": "37",
+    "Link": "MSDM37"
+  },
+  {
+    "Rule": "The Medieval University Curriculum",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "32",
+    "Link": "LTC1:32"
+  },
+  {
+    "Rule": "Thief (Denizens PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "4",
+    "Link": "DFDT4"
+  },
+  {
+    "Rule": "Thief (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "12",
+    "Link": "DF1:12"
+  },
+  {
+    "Rule": "Thief Concoctions (Denizens)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Thief Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "27",
+    "Link": "DF13:27"
+  },
+  {
+    "Rule": "Thief Gear (Denizens)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Thief Magic Items (Denizens)",
+    "Category": [
+      "Gear",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "37",
+    "Link": "DFDT37"
+  },
+  {
+    "Rule": "Thief Perks (Denizens)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "18",
+    "Link": "DFDT18"
+  },
+  {
+    "Rule": "Thief Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "35",
+    "Link": "DF11:32"
+  },
+  {
+    "Rule": "Thief Power-Ups (Denizens)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "18",
+    "Link": "DFDT18"
+  },
+  {
+    "Rule": "Throwing Distance",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "355",
+    "Link": "B355"
+  },
+  {
+    "Rule": "Throws from Locks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "118",
+    "Link": "MA118"
+  },
+  {
+    "Rule": "Tight Beam Burning Attack",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "399",
+    "Link": "B399"
+  },
+  {
+    "Rule": "Time Required to Grab and Use a Potion",
+    "Category": [
+      "Magic",
+      "Physical Act",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "20",
+    "Link": "DFMI1:20"
+  },
+  {
+    "Rule": "Tip Slash",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "113",
+    "Link": "MA113"
+  },
+  {
+    "Rule": "Tipsy",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Torch-Bearer (NPC Template)",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "25",
+    "Link": "DF15:25"
+  },
+  {
+    "Rule": "Totem-Bearer",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Powers: Totems and Nature Spirits",
+    "Page": "4",
+    "Link": "PTNS4"
+  },
+  {
+    "Rule": "Tough Guy Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "16",
+    "Link": "PU3:16"
+  },
+  {
+    "Rule": "Trait Requirements for Talents Bought In-Game",
+    "Category": [
+      "Skills",
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "23",
+    "Link": "PU3:23"
+  },
+  {
+    "Rule": "Trampling",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Transformation Imbuement Skills",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "11",
+    "Link": "PU1:11"
+  },
+  {
+    "Rule": "Trapping",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "7",
+    "Link": "LT3:7"
+  },
+  {
+    "Rule": "Travel Fatigue (Dungeon Fantasy)",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "24",
+    "Link": "DF16:24"
+  },
+  {
+    "Rule": "Treasure-Hunter 125 pt Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "40",
+    "Link": "DF15:40"
+  },
+  {
+    "Rule": "Treating Poison",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "439",
+    "Link": "B439"
+  },
+  {
+    "Rule": "Trivia Sponge Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "16",
+    "Link": "PU3:16"
+  },
+  {
+    "Rule": "Troubador 125 pt Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "40",
+    "Link": "DF15:40"
+  },
+  {
+    "Rule": "True Faith with the Turning Enhancement",
+    "Category": [
+      "Attributes",
+      "Divinity"
+    ],
+    "Book": "Powers",
+    "Page": "84",
+    "Link": "P84"
+  },
+  {
+    "Rule": "True Names (Fantasy)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy",
+    "Page": "164",
+    "Link": "F164"
+  },
+  {
+    "Rule": "True Names (Thaumatology)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Thaumatology",
+    "Page": "245",
+    "Link": "T245"
+  },
+  {
+    "Rule": "Truth-Seeker Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "17",
+    "Link": "PU3:17"
+  },
+  {
+    "Rule": "Tumbling with Move",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "12",
+    "Link": "DF2:12"
+  },
+  {
+    "Rule": "Turning Your Blade",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "401",
+    "Link": "B401"
+  },
+  {
+    "Rule": "Two Seconds to Return a Weapon to a Scabbard",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "383",
+    "Link": "B383"
+  },
+  {
+    "Rule": "Unarmed Critical Miss Table",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "557",
+    "Link": "B557"
+  },
+  {
+    "Rule": "Unbalanced Parry",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "269",
+    "Link": "B269"
+  },
+  {
+    "Rule": "Unbalanced Parry (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "125",
+    "Link": "MA125"
+  },
+  {
+    "Rule": "Unbalanced Weapons",
+    "Category": [
+      "Combat",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "383",
+    "Link": "B383"
+  },
+  {
+    "Rule": "Undead-Slayer (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "16",
+    "Link": "DF20:16"
+  },
+  {
+    "Rule": "Undead-Slayer Advantages",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "14",
+    "Link": "DF20:14"
+  },
+  {
+    "Rule": "Undead-Slayer Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "19",
+    "Link": "DF20:19"
+  },
+  {
+    "Rule": "Undead-Slayer Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "16",
+    "Link": "DF20:16"
+  },
+  {
+    "Rule": "Undead-Slayer Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "18",
+    "Link": "DF20:18"
+  },
+  {
+    "Rule": "Undead-Slayer Skills",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy 20",
+    "Page": "16",
+    "Link": "DF20:16"
+  },
+  {
+    "Rule": "Underground Engineer",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Banestorm",
+    "Page": "215",
+    "Link": "BS215"
+  },
+  {
+    "Rule": "Underworld Mage (Black Robe)",
+    "Category": [
+      "Template",
+      "Magic"
+    ],
+    "Book": "Magical Styles: Dungeon Magic",
+    "Page": "36",
+    "Link": "MSDM36"
+  },
+  {
+    "Rule": "UnHoly Might Power (Dungeon Fantasy)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 3",
+    "Page": "41",
+    "Link": "DF3:41"
+  },
+  {
+    "Rule": "Unholy Warrior Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "36",
+    "Link": "DF11:32"
+  },
+  {
+    "Rule": "Unseelie Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "17",
+    "Link": "PU3:17"
+  },
+  {
+    "Rule": "Unusual Background Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "20",
+    "Link": "PU2:20"
+  },
+  {
+    "Rule": "Uppercut Technique (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "81",
+    "Link": "MA81"
+  },
+  {
+    "Rule": "Urban Rogue",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Banestorm",
+    "Page": "216",
+    "Link": "BS216"
+  },
+  {
+    "Rule": "Urban Shaman",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Thaumatology: Urban Magics",
+    "Page": "16",
+    "Link": "TUM16"
+  },
+  {
+    "Rule": "Use of Tactics Skill in Combat",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "11",
+    "Link": "DF2:11"
+  },
+  {
+    "Rule": "Using a Power to Make an Active Dodge",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Powers",
+    "Page": "167",
+    "Link": "P167"
+  },
+  {
+    "Rule": "Using and Controlling Magic Items",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Magic",
+    "Page": "19",
+    "Link": "M19"
+  },
+  {
+    "Rule": "Using Casting Magic Items",
+    "Category": [
+      "Magic",
+      "Weapon",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "10",
+    "Link": "DFMI1:10"
+  },
+  {
+    "Rule": "Using Combined Techniques",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Martial Arts",
+    "Page": "64",
+    "Link": "MA64"
+  },
+  {
+    "Rule": "Using Firearms",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech",
+    "Page": "94",
+    "Link": "LT94"
+  },
+  {
+    "Rule": "Using HP Instead of FP or ER to Cast Spells",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "7",
+    "Link": "M7"
+  },
+  {
+    "Rule": "Using Imbuement Skills",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "5",
+    "Link": "PU1:5"
+  },
+  {
+    "Rule": "Vacuum",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "437",
+    "Link": "B437"
+  },
+  {
+    "Rule": "Vehicle Hit Location Table",
+    "Category": [
+      "Reference",
+      "Vehicle"
+    ],
+    "Book": "Basic",
+    "Page": "554",
+    "Link": "B554"
+  },
+  {
+    "Rule": "Vehicles (Fantasy)",
+    "Category": [
+      "Vehicle"
+    ],
+    "Book": "Fantasy",
+    "Page": "141",
+    "Link": "F141"
+  },
+  {
+    "Rule": "Vehicles Table (Dungeon Fantasy)",
+    "Category": [
+      "Reference",
+      "Vehicle"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "19",
+    "Link": "DF16:19"
+  },
+  {
+    "Rule": "Venator",
+    "Category": [
+      "Template",
+      "NPC"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "30",
+    "Link": "MAG30"
+  },
+  {
+    "Rule": "Veteran 125 pt Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 15",
+    "Page": "41",
+    "Link": "DF15:41"
+  },
+  {
+    "Rule": "Visibility",
+    "Category": [
+      "Physical Act",
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "394",
+    "Link": "B394"
+  },
+  {
+    "Rule": "Vow (Ninja Secrecy) (Dungeon Fantasy)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "7",
+    "Link": "DF12:7"
+  },
+  {
+    "Rule": "Wait Maneuver",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "366",
+    "Link": "B366"
+  },
+  {
+    "Rule": "Wait Maneuver (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "108",
+    "Link": "MA108"
+  },
+  {
+    "Rule": "Wands and Staffs",
+    "Category": [
+      "Magic",
+      "Weapon",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "16",
+    "Link": "DFMI1:16"
+  },
+  {
+    "Rule": "War Gods (Dungeon Fantasy)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy 7",
+    "Page": "30",
+    "Link": "DF7:30"
+  },
+  {
+    "Rule": "Watchman",
+    "Category": [
+      "Template",
+      "NPC",
+      "Profession"
+    ],
+    "Book": "Banestorm",
+    "Page": "217",
+    "Link": "BS217"
+  },
+  {
+    "Rule": "Weapon and Armor Crafting",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "25",
+    "Link": "LTC3:25"
+  },
+  {
+    "Rule": "Weapon Bond Perk",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "14",
+    "Link": "DF1:14"
+  },
+  {
+    "Rule": "Weapon Enchantment Table",
+    "Category": [
+      "Magic",
+      "Weapon",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Magic Items 1",
+    "Page": "5",
+    "Link": "DFMI1:5"
+  },
+  {
+    "Rule": "Weapon Quality (Low Tech)",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Low Tech",
+    "Page": "59",
+    "Link": "LT59"
+  },
+  {
+    "Rule": "Weapon Scaling Size Modifier Table",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "21",
+    "Link": "LTC2:21"
+  },
+  {
+    "Rule": "Weapons in Close Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "391",
+    "Link": "B391"
+  },
+  {
+    "Rule": "Were-Creatures",
+    "Category": [
+      "Trait, Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "84",
+    "Link": "B84"
+  },
+  {
+    "Rule": "Whaling",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "8",
+    "Link": "LTC3:8"
+  },
+  {
+    "Rule": "Whips Special Melee Rules",
+    "Category": [
+      "Combat",
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "406",
+    "Link": "B406"
+  },
+  {
+    "Rule": "Whiz Kid Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "17",
+    "Link": "PU3:17"
+  },
+  {
+    "Rule": "Widget-Worker Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 3: Talents",
+    "Page": "17",
+    "Link": "PU3:17"
+  },
+  {
+    "Rule": "Wild Celtic Spellcast Critical Failure Table",
+    "Category": [
+      "Reference",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "256",
+    "Link": "T256"
+  },
+  {
+    "Rule": "Wilderness Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "16",
+    "Link": "DF16:16"
+  },
+  {
+    "Rule": "Wizard (PC Class)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "13",
+    "Link": "DF1:13"
+  },
+  {
+    "Rule": "Wizard Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 13",
+    "Page": "28",
+    "Link": "DF13:28"
+  },
+  {
+    "Rule": "Wizard Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "36",
+    "Link": "DF11:32"
+  },
+  {
+    "Rule": "Wizardry Redefined DF Magic Spell Prerequisites",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Pyramid #3/60",
+    "Page": "4",
+    "Link": "PY60:4"
+  },
+  {
+    "Rule": "Wizards Magically Healing Themselves",
+    "Category": [
+      "Magic",
+      "Injury"
+    ],
+    "Book": "Magic",
+    "Page": "88",
+    "Link": "M88"
+  },
+  {
+    "Rule": "Wizards Power Item Staff and Wand",
+    "Category": [
+      "Weapon",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 18",
+    "Page": "13",
+    "Link": "DF18:13"
+  },
+  {
+    "Rule": "Wizards Staff and Wand of Power",
+    "Category": [
+      "Weapon",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 8",
+    "Page": "42",
+    "Link": "DF8:42"
+  },
+  {
+    "Rule": "Woodsman",
+    "Category": [
+      "Template",
+      "NPC",
+      "Profession"
+    ],
+    "Book": "Banestorm",
+    "Page": "217",
+    "Link": "BS217"
+  },
+  {
+    "Rule": "Woodworking",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "28",
+    "Link": "LTC3:28"
+  },
+  {
+    "Rule": "Worldly Swashbuckler Lens",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "15",
+    "Link": "DFDS15"
+  },
+  {
+    "Rule": "World-Shaking Miracles",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "15",
+    "Link": "PDF15"
+  },
+  {
+    "Rule": "Wounding Modifiers and Injury",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "379",
+    "Link": "B379"
+  },
+  {
+    "Rule": "Wrench Limb",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Wrench Limb Technique (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "82",
+    "Link": "MA82"
+  },
+  {
+    "Rule": "Wrench Spine Technique (Martial Arts)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "82",
+    "Link": "MA82"
+  },
+  {
+    "Rule": "Wrestling Grappling Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "228",
+    "Link": "B228"
+  }
+]

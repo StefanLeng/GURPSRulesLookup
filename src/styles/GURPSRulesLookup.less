@@ -1,4 +1,48 @@
-/* ---------------------------- */
-/*             Less             */
-/* This is your Less entry file */
-/* ---------------------------- */
+section#rulesSearch {
+    height: 100%;
+    display: grid;
+    grid-template-rows: min-content 1fr;
+}
+
+.GurpsRulesLookupSearch {
+    margin: 1em;
+}
+
+.GurpsRulesLookupTitle {
+    color: var(--color-text-primary);
+    font-weight: bold;
+}
+
+.GurpsRulesLookupResults {
+    color: var(--color-text-primary);
+    overflow-y: scroll;
+    height: 0%;
+    min-height: 100%;
+}
+
+.GurpsRulesLookupResult{
+    display: grid;
+    grid-template-areas:
+        "rule rule rule rule"
+        "book book book link";
+    padding: 0.5em 1em 0 1em;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.GurpsRulesLookupRule{
+    grid-area: rule;
+    font-weight: bold;
+}
+
+.GurpsRulesLookupBook{
+    grid-area: book;
+    font-style: italic;
+}
+
+.GurpsRulesLookupLink{
+    grid-area: link;
+} 
+
+.GurpsRulesLookupNoResults {
+    padding: 0.5em 1em 0 1em;
+}
