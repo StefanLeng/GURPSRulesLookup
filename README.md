@@ -1,105 +1,26 @@
-<!--
-SPDX-FileCopyrightText: 2022 Johannes Loher
+# GURPS Rules Lookup
+## Search for GURPS Rules PDF links in Foundry VTT
 
-SPDX-License-Identifier: MIT
--->
+This Foundry VTT module offers a searchable database of PDF links for GURPS rules for the [Gurps Game Aid](https://github.com/crnormand/gurps). 
+The PDfs are not included in the module, you have to purchase them from [Steve Jackson Games] (https://www.sjgames.com/) and set them up in Foundry according to the instructions [here](https://github.com/crnormand/gurps/wiki/User-Guide-%E2%80%90-GURPS-4th-Edition-Game-Aid-for-Foundry-VTT-(Unofficial)#configuring-foundry-to-handle-pdfs).
 
-# GURPSRulesLookup
+The module will add a tab with teh search symbol icon to the right sidebar.. If you right click on the icon, you can open it as a detached window.
 
-Please add your description here.
+This module is based on the original idea of [Tuvulu](https://github.com/Tuvulu123). The rules database is maintained by him, the module code is by [Stefan Leng](https://github.com/StefanLeng).
 
 ## Installation
 
-Please add your installation instructions here.
+This project is still in initial development an has no public release yet.
 
-## Development
+## Legal
 
-### Prerequisites
+The material presented here is my original creation, intended for use with the [GURPS](http://www.sjgames.com/gurps) system from [Steve Jackson Games](ttp://www.sjgames.com). This material is not official and is not endorsed by Steve Jackson Games.
 
-In order to build this module, recent versions of `node` and `npm` are
-required. Most likely, using `yarn` also works, but only `npm` is officially
-supported. We recommend using the latest lts version of `node`. If you use `nvm`
-to manage your `node` versions, you can simply run
-
-```
-nvm install
-```
-
-in the project's root directory.
-
-You also need to install the project's dependencies. To do so, run
-
-```
-npm install
-```
-
-### Building
-
-You can build the project by running
-
-```
-npm run build
-```
-
-Alternatively, you can run
-
-```
-npm run build:watch
-```
-
-to watch for changes and automatically build as necessary.
-
-### Linking the built project to Foundry VTT
-
-In order to provide a fluent development experience, it is recommended to link
-the built module to your local Foundry VTT installation's data folder. In
-order to do so, first add a file called `foundryconfig.json` to the project root
-with the following content:
-
-```
-{
-  "dataPath": ["/absolute/path/to/your/FoundryVTT"]
-}
-```
-
-(if you are using Windows, make sure to use `\` as a path separator instead of
-`/`)
-
-Then run
-
-```
-npm run link-project
-```
-
-On Windows, creating symlinks requires administrator privileges, so
-unfortunately you need to run the above command in an administrator terminal for
-it to work.
-
-You can also link to multiple data folders by specifying multiple paths in the
-`dataPath` array.
-
-### Running the tests
-
-You can run the tests with the following command:
-
-```
-npm test
-```
-
-### Creating a release
-
-The workflow works basically the same as the workflow of the [League Basic JS Module Template], please follow the
-instructions given there.
+[GURPS](http://www.sjgames.com/gurps) is a trademark of Steve Jackson Games, and its rules and art are copyrighted by Steve Jackson Games. All rights are reserved by Steve Jackson Games. This tool is the original creation of Stefan Leng and is released for free distribution under the permissions granted in the [Steve Jackson Games Online Policy](http://www.sjgames.com/general/online_policy.html)
 
 ## Licensing
 
 This project is being developed under the terms of the
 [LIMITED LICENSE AGREEMENT FOR MODULE DEVELOPMENT] for Foundry Virtual Tabletop.
 
-Please add your licensing information here. Add your chosen license as
-`LICENSE` file to the project root and mention it here.  If you don't know which
-license to choose, take a look at [Choose an open source license].
-
-[League Basic JS Module Template]: https://github.com/League-of-Foundry-Developers/FoundryVTT-Module-Template
-[LIMITED LICENSE AGREEMENT FOR MODULE DEVELOPMENT]: https://foundryvtt.com/article/license/
-[Choose an open source license]: https://choosealicense.com/
+For licensing information see [LICENCE.txt](https://github.com/StefanLeng/GURPSRulesLookup/blob/main/src/LICENSE.txt).
