@@ -1,5 +1,14 @@
 [
   {
+    "Rule": "Absurd Rapiers",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Fantasy Tech 2",
+    "Page": "9",
+    "Link": "FT2:9"
+  },
+  {
     "Rule": "Academic Talent",
     "Category": [
       "Trait"
@@ -7,6 +16,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "6",
     "Link": "PU3:6"
+  },
+  {
+    "Rule": "Accelerating Movement",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "395",
+    "Link": "B395"
   },
   {
     "Rule": "Accuracy and Aimed Fire",
@@ -215,6 +233,17 @@
     "Link": "DFMI1:9"
   },
   {
+    "Rule": "Alchemy (Fantasy Tech)",
+    "Category": [
+      "Profession",
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "29",
+    "Link": "FT1:29"
+  },
+  {
     "Rule": "Alchemy (Magic)",
     "Category": [
       "Magic",
@@ -223,6 +252,17 @@
     "Book": "Magic",
     "Page": "210",
     "Link": "M210"
+  },
+  {
+    "Rule": "Alchemy Elixir Cost Table",
+    "Category": [
+      "Reference",
+      "Profession",
+      "Magic"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "30",
+    "Link": "FT1:30"
   },
   {
     "Rule": "Alchemy to Chemistry",
@@ -327,6 +367,16 @@
     "Link": "LT73"
   },
   {
+    "Rule": "Aluminum Metal",
+    "Category": [
+      "Setting",
+      "Material"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "28",
+    "Link": "FT1:28"
+  },
+  {
     "Rule": "Amenities in Taverns",
     "Category": [
       "Resources"
@@ -334,6 +384,15 @@
     "Book": "Dungeon Fantasy 10",
     "Page": "4",
     "Link": "DF10:4"
+  },
+  {
+    "Rule": "An * Next to DR in an Armor Table Indicates Flexible",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Instant Armor",
+    "Page": "4",
+    "Link": "LTIA4"
   },
   {
     "Rule": "Angels and Demons (Dungeon Fantasy)",
@@ -528,6 +587,16 @@
     "Link": "LT103"
   },
   {
+    "Rule": "Armor-Making Skills",
+    "Category": [
+      "Profession",
+      "Skills"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "25",
+    "Link": "LTC3:25"
+  },
+  {
     "Rule": "Artificer (PC Class)",
     "Category": [
       "Template"
@@ -589,6 +658,16 @@
     "Book": "Dungeon Fantasy 12",
     "Page": "9",
     "Link": "DF12:9"
+  },
+  {
+    "Rule": "Astrology",
+    "Category": [
+      "Profession",
+      "Skills"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "30",
+    "Link": "FT1:30"
   },
   {
     "Rule": "Athletics in Combat",
@@ -837,6 +916,16 @@
     "Link": "P85"
   },
   {
+    "Rule": "Azzalum Metal",
+    "Category": [
+      "Setting",
+      "Material"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "27",
+    "Link": "FT1:27"
+  },
+  {
     "Rule": "Backbreaker Technique",
     "Category": [
       "Combat"
@@ -946,6 +1035,35 @@
     "Link": "DFDB22"
   },
   {
+    "Rule": "Barbarian Rage Casting",
+    "Category": [
+      "Combat",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "23",
+    "Link": "DFDB23"
+  },
+  {
+    "Rule": "Barbarian Shouts of Rage",
+    "Category": [
+      "Combat",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "23",
+    "Link": "DFDB23"
+  },
+  {
+    "Rule": "Barbarian Skinchanger",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Denizens Barbarians",
+    "Page": "24",
+    "Link": "DFDB24"
+  },
+  {
     "Rule": "Barbaric Perks (Denizens)",
     "Category": [
       "Trait"
@@ -1003,7 +1121,7 @@
     "Rule": "Barding Horse Armor Table",
     "Category": [
       "Reference",
-      "Mount"
+      "Mounts"
     ],
     "Book": "Basic",
     "Page": "286",
@@ -1192,6 +1310,16 @@
     "Link": "LT12"
   },
   {
+    "Rule": "Bononian Stone",
+    "Category": [
+      "Setting",
+      "Material"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "27",
+    "Link": "FT1:27"
+  },
+  {
     "Rule": "Born Entertainer Talent",
     "Category": [
       "Trait"
@@ -1363,6 +1491,15 @@
     "Link": "LTC3:33"
   },
   {
+    "Rule": "Bulk Rating for Ranged Weapons",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Basic",
+    "Page": "270",
+    "Link": "B270"
+  },
+  {
     "Rule": "Burglar (Denizens PC Class)",
     "Category": [
       "Template"
@@ -1423,6 +1560,15 @@
     "Rule": "Camping in the Wild (Dungeon Fantasy)",
     "Category": [
       "Activities"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "24",
+    "Link": "DF16:24"
+  },
+  {
+    "Rule": "Camping Sites",
+    "Category": [
+      "Environment"
     ],
     "Book": "Dungeon Fantasy 16",
     "Page": "24",
@@ -1603,6 +1749,15 @@
     "Link": "B383"
   },
   {
+    "Rule": "Changing Posture in Armor",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "395",
+    "Link": "B395"
+  },
+  {
     "Rule": "Changing Postures",
     "Category": [
       "Combat",
@@ -1750,6 +1905,15 @@
     "Link": "DF11:21"
   },
   {
+    "Rule": "Climbers Roping Themselves Together",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "29",
+    "Link": "DF16:29"
+  },
+  {
     "Rule": "Climbing",
     "Category": [
       "Physical Act"
@@ -1757,6 +1921,16 @@
     "Book": "Basic",
     "Page": "349",
     "Link": "B349"
+  },
+  {
+    "Rule": "Climbing as a Group",
+    "Category": [
+      "Physical Act",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "29",
+    "Link": "DF16:29"
   },
   {
     "Rule": "Climbing Skill",
@@ -2127,6 +2301,17 @@
     "Link": "B407"
   },
   {
+    "Rule": "Craft Secret Perks",
+    "Category": [
+      "Profession",
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "24",
+    "Link": "LTC3:24"
+  },
+  {
     "Rule": "Craftiness Talent",
     "Category": [
       "Trait"
@@ -2134,6 +2319,17 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "9",
     "Link": "PU3:9"
+  },
+  {
+    "Rule": "Crafting Table for Crafting Items",
+    "Category": [
+      "Profession",
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "24",
+    "Link": "LTC3:24"
   },
   {
     "Rule": "Creating Fine Metalwork",
@@ -2347,6 +2543,15 @@
     "Link": "B369"
   },
   {
+    "Rule": "Default Skill Rule of 20",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "173",
+    "Link": "B173"
+  },
+  {
     "Rule": "Defaults and Talents",
     "Category": [
       "Skills",
@@ -2384,6 +2589,16 @@
     "Link": "MA121"
   },
   {
+    "Rule": "Defenses by Mounts",
+    "Category": [
+      "Mounts",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "42",
+    "Link": "DF16:42"
+  },
+  {
     "Rule": "Defensive Attack Maneuver",
     "Category": [
       "Combat"
@@ -2409,6 +2624,15 @@
     "Book": "Dungeon Fantasy 13",
     "Page": "5",
     "Link": "DF13:5"
+  },
+  {
+    "Rule": "Delvers Webbing for Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "25",
+    "Link": "DF1:25"
   },
   {
     "Rule": "Demonic Critical Spell Failure Table",
@@ -2528,6 +2752,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "9",
     "Link": "PU3:9"
+  },
+  {
+    "Rule": "Diabolical Whips",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Fantasy Tech 2",
+    "Page": "12",
+    "Link": "FT2:12"
   },
   {
     "Rule": "Dictum of Fate (Aura) (Pyramid Magazine)",
@@ -2692,6 +2925,47 @@
     "Link": "B377"
   },
   {
+    "Rule": "Double Defaults and Techniques",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Basic",
+    "Page": "232",
+    "Link": "B232"
+  },
+  {
+    "Rule": "Double-Ended Weapon Fighting",
+    "Category": [
+      "Weapon",
+      "Skills",
+      "Techniques",
+      "Trait"
+    ],
+    "Book": "Fantasy Tech 2",
+    "Page": "6",
+    "Link": "FT2:6"
+  },
+  {
+    "Rule": "Double-Ended Weapons",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Fantasy Tech 2",
+    "Page": "5",
+    "Link": "FT2:5"
+  },
+  {
+    "Rule": "Double-Ended Weapons Table",
+    "Category": [
+      "Reference",
+      "Weapon",
+      "Skills"
+    ],
+    "Book": "Fantasy Tech 2",
+    "Page": "6",
+    "Link": "FT2:6"
+  },
+  {
     "Rule": "Drag or Carry Grappled Person",
     "Category": [
       "Combat"
@@ -2827,7 +3101,8 @@
     "Rule": "Dual-Weapon Attack Technique",
     "Category": [
       "Combat",
-      "Skills"
+      "Skills",
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "83",
@@ -2959,7 +3234,7 @@
     "Rule": "Elbow Strike (Martial Arts)",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "71",
@@ -3278,6 +3553,17 @@
     "Link": "B289"
   },
   {
+    "Rule": "Esoteric Medicine and Gear",
+    "Category": [
+      "Skills",
+      "Injury",
+      "Gear"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "31",
+    "Link": "FT1:31"
+  },
+  {
     "Rule": "Euphoria",
     "Category": [
       "Affliction"
@@ -3297,7 +3583,7 @@
     "Link": "MA105"
   },
   {
-    "Rule": "Evading in the Same Hex",
+    "Rule": "Evading a Foe to go Through Their Hex",
     "Category": [
       "Combat",
       "Physical Act"
@@ -3563,10 +3849,20 @@
     "Link": "MA131"
   },
   {
+    "Rule": "Fighting from the back of a Mount",
+    "Category": [
+      "Mounts",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "fi",
+    "Link": "DF16:42"
+  },
+  {
     "Rule": "Fighting While Seated Technique",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "83",
@@ -3679,6 +3975,26 @@
     "Link": "B379"
   },
   {
+    "Rule": "Flexible Glass",
+    "Category": [
+      "Setting",
+      "Material"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "27",
+    "Link": "FT1:27"
+  },
+  {
+    "Rule": "Flourish Combat Perk to Intimidate",
+    "Category": [
+      "Trait",
+      "Combat"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "15",
+    "Link": "PU2:15"
+  },
+  {
     "Rule": "Fluidist (Blue Robe)",
     "Category": [
       "Template",
@@ -3711,7 +4027,7 @@
     "Rule": "Flying Lunge Technique",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "83",
@@ -3734,6 +4050,16 @@
     "Book": "Power-Ups 2: Perks",
     "Page": "5",
     "Link": "PU2:5"
+  },
+  {
+    "Rule": "Follow-Through Schtick to Intimidate",
+    "Category": [
+      "Trait",
+      "Combat"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "15",
+    "Link": "PU2:15"
   },
   {
     "Rule": "Follow-Up Poison",
@@ -3761,6 +4087,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "7",
     "Link": "PU3:7"
+  },
+  {
+    "Rule": "Fording a River",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "29",
+    "Link": "DF16:29"
   },
   {
     "Rule": "Forensic Sorcerer",
@@ -3809,6 +4144,15 @@
     "Book": "Basic",
     "Page": "360",
     "Link": "B360"
+  },
+  {
+    "Rule": "Full-Metal Weapons",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Fantasy Tech 2",
+    "Page": "4",
+    "Link": "FT2:4"
   },
   {
     "Rule": "Gadgeteer 125 pt Lens",
@@ -3897,6 +4241,15 @@
     "Link": "DF15:37"
   },
   {
+    "Rule": "Getting Lost While Hiking",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "26",
+    "Link": "DF16:26"
+  },
+  {
     "Rule": "Ghosts Totems and Guardians",
     "Category": [
       "Creatures",
@@ -3915,6 +4268,15 @@
     "Book": "Martial Arts",
     "Page": "131",
     "Link": "MA131"
+  },
+  {
+    "Rule": "Giant Swords",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Fantasy Tech 2",
+    "Page": "8",
+    "Link": "FT2:8"
   },
   {
     "Rule": "Gifted Artist Talent",
@@ -3988,6 +4350,16 @@
     "Book": "Low Tech Companion 3",
     "Page": "29",
     "Link": "LTC3:29"
+  },
+  {
+    "Rule": "Glider Table",
+    "Category": [
+      "Reference",
+      "Mechanism"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "18",
+    "Link": "FT1:18"
   },
   {
     "Rule": "Gloves and Footwear Table",
@@ -4109,6 +4481,15 @@
     "Link": "MA112"
   },
   {
+    "Rule": "Grappling Catapult TL4",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "33",
+    "Link": "FT1:33"
+  },
+  {
     "Rule": "Great Lunge",
     "Category": [
       "Combat"
@@ -4118,6 +4499,17 @@
     "Link": "MA131"
   },
   {
+    "Rule": "Greco-Roman Wrestling Style",
+    "Category": [
+      "Combat",
+      "Skills",
+      "Techniques"
+    ],
+    "Book": "Martial Arts",
+    "Page": "205",
+    "Link": "MA205"
+  },
+  {
     "Rule": "Green Thumb Talent",
     "Category": [
       "Trait"
@@ -4125,6 +4517,17 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "11",
     "Link": "PU3:11"
+  },
+  {
+    "Rule": "Grip Mastery Perk",
+    "Category": [
+      "Physical Act",
+      "Combat",
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "6",
+    "Link": "PU2:6"
   },
   {
     "Rule": "Guard",
@@ -4166,6 +4569,15 @@
     "Book": "Dungeon Fantasy 17",
     "Page": "9",
     "Link": "DF17:9"
+  },
+  {
+    "Rule": "Gunpowder",
+    "Category": [
+      "Material"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "34",
+    "Link": "FT1:34"
   },
   {
     "Rule": "Haggling while Selling Loot",
@@ -4267,7 +4679,7 @@
     "Rule": "Head Butt Technique (Martial Arts)",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "74",
@@ -4277,7 +4689,7 @@
     "Rule": "Head Lock Technique (Martial Arts)",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "74",
@@ -4311,6 +4723,17 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "11",
     "Link": "PU3:11"
+  },
+  {
+    "Rule": "Healing and Curative Panacea",
+    "Category": [
+      "Profession",
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "29",
+    "Link": "FT1:29"
   },
   {
     "Rule": "Healing Herbs (Dungeon Fantasy)",
@@ -4426,6 +4849,16 @@
     "Link": "DF20:15"
   },
   {
+    "Rule": "High-Heeled Heroine Clothing Schtick Perk",
+    "Category": [
+      "Trait",
+      "Setting"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "14",
+    "Link": "PU2:14"
+  },
+  {
     "Rule": "Hiking",
     "Category": [
       "Physical Act"
@@ -4537,6 +4970,15 @@
     "Link": "PY78:14"
   },
   {
+    "Rule": "Horse Collars",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "22",
+    "Link": "FT1:22"
+  },
+  {
     "Rule": "Hospitals",
     "Category": [
       "Professions",
@@ -4554,6 +4996,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "11",
     "Link": "PU3:11"
+  },
+  {
+    "Rule": "Hot-Air Balloons",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "17",
+    "Link": "FT1:17"
   },
   {
     "Rule": "HP and DR of Objects and Cover",
@@ -4654,6 +5105,16 @@
   },
   {
     "Rule": "Improvised Weapons",
+    "Category": [
+      "Weapon",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Improvised Weapons (Low Tech)",
     "Category": [
       "Weapon",
       "Combat"
@@ -4807,7 +5268,7 @@
     "Rule": "Judo Throw Technique (Martial Arts)",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "75",
@@ -4865,7 +5326,7 @@
     "Rule": "Kicking Technique (Martial Arts)",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "75",
@@ -4913,7 +5374,7 @@
     "Rule": "Knee Strike Technique (Martial Arts)",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "76",
@@ -5082,7 +5543,7 @@
     "Rule": "Leg Lock Technique (Martial Arts)",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "76",
@@ -5125,6 +5586,15 @@
     "Book": "Basic",
     "Page": "353",
     "Link": "B353"
+  },
+  {
+    "Rule": "Light Sources Providing Light in 2 Yard Radius",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "24",
+    "Link": "DF1:24"
   },
   {
     "Rule": "Limb Armor Table",
@@ -5179,11 +5649,20 @@
     "Rule": "Low Fighting Technique (Martial Arts)",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "77",
     "Link": "MA77"
+  },
+  {
+    "Rule": "Low Tech Electrical Batteries",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "23",
+    "Link": "FT1:23"
   },
   {
     "Rule": "Low-Tech Armor Table",
@@ -5417,6 +5896,15 @@
     "Link": "TMS20"
   },
   {
+    "Rule": "Magnets",
+    "Category": [
+      "Material"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "24",
+    "Link": "FT1:24"
+  },
+  {
     "Rule": "Major Blessings",
     "Category": [
       "Divinity"
@@ -5554,6 +6042,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "12",
     "Link": "PU3:12"
+  },
+  {
+    "Rule": "Mechanical Androids",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "26",
+    "Link": "FT1:26"
   },
   {
     "Rule": "Mechanical Artillery Table (Low Tech)",
@@ -5754,6 +6251,15 @@
     "Link": "PU3:13"
   },
   {
+    "Rule": "Modifying Dice Plus Adds",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "269",
+    "Link": "B269"
+  },
+  {
     "Rule": "Molotov Cocktails Special Ranged Rules",
     "Category": [
       "Combat",
@@ -5882,6 +6388,15 @@
     "Book": "Basic",
     "Page": "387",
     "Link": "B387"
+  },
+  {
+    "Rule": "Multi-Blades",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Fantasy Tech 2",
+    "Page": "10",
+    "Link": "FT2:10"
   },
   {
     "Rule": "Multiple Blocks",
@@ -6111,7 +6626,7 @@
     "Rule": "Neck Snap Technique (Martial Arts)",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "77",
@@ -6209,6 +6724,16 @@
     "Link": "DF12:12"
   },
   {
+    "Rule": "Ninja Gear (Fantasy Tech)",
+    "Category": [
+      "Gear",
+      "Setting"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "28",
+    "Link": "FT1:28"
+  },
+  {
     "Rule": "Ninja Gear (Loadouts)",
     "Category": [
       "Gear"
@@ -6252,6 +6777,15 @@
     "Book": "Dungeon Fantasy 12",
     "Page": "13",
     "Link": "DF12:13"
+  },
+  {
+    "Rule": "No Double Defaults",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "173",
+    "Link": "B173"
   },
   {
     "Rule": "No More than 1 Off and 1 Def Extra Effort per Turn",
@@ -6386,6 +6920,16 @@
     "Link": "MA114"
   },
   {
+    "Rule": "Orichalcum Metal",
+    "Category": [
+      "Setting",
+      "Material"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "27",
+    "Link": "FT1:27"
+  },
+  {
     "Rule": "Outdoorsman Talent",
     "Category": [
       "Trait"
@@ -6459,6 +7003,15 @@
     "Link": "LTC3:31"
   },
   {
+    "Rule": "Parachutes and Gliders",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "17",
+    "Link": "FT1:17"
+  },
+  {
     "Rule": "Paralysis",
     "Category": [
       "Affliction"
@@ -6513,6 +7066,16 @@
     "Link": "MA123"
   },
   {
+    "Rule": "Passengers on a Mount",
+    "Category": [
+      "Mounts",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "42",
+    "Link": "DF16:42"
+  },
+  {
     "Rule": "Peasant Hero",
     "Category": [
       "Template",
@@ -6531,6 +7094,15 @@
     "Book": "Magical Styles: Dungeon Magic",
     "Page": "40",
     "Link": "MSDM40"
+  },
+  {
+    "Rule": "Perpetual Motion Machine",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "23",
+    "Link": "FT1:23"
   },
   {
     "Rule": "Personal Artillery Table (Low Tech)",
@@ -6690,6 +7262,15 @@
     "Book": "Basic",
     "Page": "551",
     "Link": "B551"
+  },
+  {
+    "Rule": "Potion Belt",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "25",
+    "Link": "DF1:25"
   },
   {
     "Rule": "Potion Seller",
@@ -6914,7 +7495,7 @@
     "Rule": "Push Kick Technique (Martial Arts)",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "78",
@@ -6924,7 +7505,8 @@
     "Rule": "Quick Mount Technique (Martial Arts)",
     "Category": [
       "Combat",
-      "Skills"
+      "Skills",
+      "Mounts"
     ],
     "Book": "Martial Arts",
     "Page": "78",
@@ -6956,6 +7538,15 @@
     "Book": "Martial Arts",
     "Page": "119",
     "Link": "MA119"
+  },
+  {
+    "Rule": "Quicksilver Swords",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Fantasy Tech 2",
+    "Page": "12",
+    "Link": "FT2:12"
   },
   {
     "Rule": "Radiation and Radiation Treatment",
@@ -7089,6 +7680,16 @@
     "Link": "T259"
   },
   {
+    "Rule": "Reconnoiter Undetected in the Wild",
+    "Category": [
+      "Skills",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "25",
+    "Link": "DF16:25"
+  },
+  {
     "Rule": "Recovering from Unconsciousness",
     "Category": [
       "Injury"
@@ -7214,6 +7815,15 @@
     "Book": "Martial Arts",
     "Page": "78",
     "Link": "MA78"
+  },
+  {
+    "Rule": "Riding and Draft Animals",
+    "Category": [
+      "Mounts"
+    ],
+    "Book": "Basic",
+    "Page": "459",
+    "Link": "B459"
   },
   {
     "Rule": "Riding Gear",
@@ -7462,6 +8072,15 @@
     "Link": "B66"
   },
   {
+    "Rule": "Serpents Fangs",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Fantasy Tech 2",
+    "Page": "10",
+    "Link": "FT2:10"
+  },
+  {
     "Rule": "Servant",
     "Category": [
       "Template",
@@ -7707,7 +8326,7 @@
     "Rule": "Sight-Reading Technique for Playing Music",
     "Category": [
       "Activities",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Low Tech Companion 1",
     "Page": "19",
@@ -7721,6 +8340,16 @@
     "Book": "Basic",
     "Page": "275",
     "Link": "B275"
+  },
+  {
+    "Rule": "Simple Automata",
+    "Category": [
+      "Setting",
+      "Material"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "26",
+    "Link": "FT1:26"
   },
   {
     "Rule": "Size Modifier Table",
@@ -7835,6 +8464,16 @@
     "Book": "Low Tech Companion 3",
     "Page": "26",
     "Link": "LTC3:26"
+  },
+  {
+    "Rule": "Smite Imbuement Skill",
+    "Category": [
+      "Trait",
+      "Skills"
+    ],
+    "Book": "Powers: Divine Favor",
+    "Page": "12",
+    "Link": "PDF12"
   },
   {
     "Rule": "Smooth Operator Talent",
@@ -7969,6 +8608,15 @@
     "Link": "MA105"
   },
   {
+    "Rule": "Spiral Elevator TL4",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "33",
+    "Link": "FT1:33"
+  },
+  {
     "Rule": "Spirit Roles",
     "Category": [
       "Trait",
@@ -8083,6 +8731,15 @@
     "Link": "PU3:15"
   },
   {
+    "Rule": "Standard Operating Procedure Perk",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "15",
+    "Link": "PU2:15"
+  },
+  {
     "Rule": "Starvation and Dehydration",
     "Category": [
       "Injury"
@@ -8099,6 +8756,24 @@
     "Book": "Basic",
     "Page": "222",
     "Link": "B222"
+  },
+  {
+    "Rule": "Steam-Powered Engines Through TL4",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "22",
+    "Link": "FT1:22"
+  },
+  {
+    "Rule": "Stirrups",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "34",
+    "Link": "FT1:34"
   },
   {
     "Rule": "Stop Hits",
@@ -8259,7 +8934,8 @@
   {
     "Rule": "Style Cost Breakdown (Martial Arts)",
     "Category": [
-      "Skills"
+      "Skills",
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "146",
@@ -8489,7 +9165,7 @@
     "Rule": "Sweep Technique",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "81",
@@ -8503,6 +9179,15 @@
     "Book": "Basic",
     "Page": "354",
     "Link": "B354"
+  },
+  {
+    "Rule": "Swimming in Rough Water",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "29",
+    "Link": "DF16:29"
   },
   {
     "Rule": "Swimming Speed",
@@ -8628,17 +9313,27 @@
     "Rule": "Technique Cost Table",
     "Category": [
       "Reference",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Basic",
     "Page": "230",
     "Link": "B230"
   },
   {
+    "Rule": "Technique Use Limited by Posture",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Martial Arts",
+    "Page": "98",
+    "Link": "MA98"
+  },
+  {
     "Rule": "Techniques List",
     "Category": [
       "Reference",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Basic",
     "Page": "304",
@@ -8849,6 +9544,15 @@
     "Link": "B428"
   },
   {
+    "Rule": "Top Speed 20% Over Move if Sprinting",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "395",
+    "Link": "B395"
+  },
+  {
     "Rule": "Torch-Bearer (NPC Template)",
     "Category": [
       "Template",
@@ -8915,13 +9619,23 @@
     "Link": "LT3:7"
   },
   {
-    "Rule": "Travel Fatigue (Dungeon Fantasy)",
+    "Rule": "Travel Fatigue",
     "Category": [
       "Environment"
     ],
     "Book": "Dungeon Fantasy 16",
     "Page": "24",
     "Link": "DF16:24"
+  },
+  {
+    "Rule": "Travel Speed",
+    "Category": [
+      "Environment",
+      "Physical Act"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "23",
+    "Link": "DF16:23"
   },
   {
     "Rule": "Treasure-Hunter 125 pt Lens",
@@ -9009,6 +9723,16 @@
     "Link": "DF2:12"
   },
   {
+    "Rule": "Turning Radius at High Speeds",
+    "Category": [
+      "Combat",
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "394",
+    "Link": "B394"
+  },
+  {
     "Rule": "Turning Your Blade",
     "Category": [
       "Combat"
@@ -9036,6 +9760,15 @@
     "Book": "Basic",
     "Page": "557",
     "Link": "B557"
+  },
+  {
+    "Rule": "Unattended Mounts",
+    "Category": [
+      "Mounts"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "42",
+    "Link": "DF16:42"
   },
   {
     "Rule": "Unbalanced Parry",
@@ -9248,7 +9981,7 @@
     "Rule": "Using Combined Techniques",
     "Category": [
       "Combat",
-      "Skills"
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "64",
@@ -9409,6 +10142,16 @@
     "Link": "BS217"
   },
   {
+    "Rule": "Watercraft Table",
+    "Category": [
+      "Reference",
+      "Vehicle"
+    ],
+    "Book": "Fantasy Tech 1",
+    "Page": "21",
+    "Link": "FT1:21"
+  },
+  {
     "Rule": "Weapon and Armor Crafting",
     "Category": [
       "Profession"
@@ -9454,6 +10197,16 @@
     "Book": "Low Tech Companion 2",
     "Page": "21",
     "Link": "LTC2:21"
+  },
+  {
+    "Rule": "Weapon-Making Skills",
+    "Category": [
+      "Profession",
+      "Skills"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "25",
+    "Link": "LTC3:25"
   },
   {
     "Rule": "Weapons in Close Combat",
@@ -9656,7 +10409,8 @@
   {
     "Rule": "Wrench Limb Technique (Martial Arts)",
     "Category": [
-      "Combat"
+      "Combat",
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "82",
@@ -9665,11 +10419,23 @@
   {
     "Rule": "Wrench Spine Technique (Martial Arts)",
     "Category": [
-      "Combat"
+      "Combat",
+      "Techniques"
     ],
     "Book": "Martial Arts",
     "Page": "82",
     "Link": "MA82"
+  },
+  {
+    "Rule": "Wrestling Combat Style",
+    "Category": [
+      "Combat",
+      "Skills",
+      "Techniques"
+    ],
+    "Book": "Martial Arts",
+    "Page": "204",
+    "Link": "MA204"
   },
   {
     "Rule": "Wrestling Grappling Skill",
