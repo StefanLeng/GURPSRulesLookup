@@ -906,6 +906,15 @@
     "Link": "PDFC89"
   },
   {
+    "Rule": "Awarding Character Points",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Basic",
+    "Page": "498",
+    "Link": "B498"
+  },
+  {
     "Rule": "Awe and Confusion Check Table",
     "Category": [
       "Reference",
@@ -2516,6 +2525,24 @@
     "Link": "B484"
   },
   {
+    "Rule": "Dark Elf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "13",
+    "Link": "FFE13"
+  },
+  {
+    "Rule": "Dark-Gift Talent",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "18",
+    "Link": "FFE18"
+  },
+  {
     "Rule": "Daze",
     "Category": [
       "Affliction"
@@ -2541,6 +2568,15 @@
     "Book": "Basic",
     "Page": "369",
     "Link": "B369"
+  },
+  {
+    "Rule": "Deep Elf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "13",
+    "Link": "FFE13"
   },
   {
     "Rule": "Default Skill Rule of 20",
@@ -3175,6 +3211,24 @@
     "Link": "B422"
   },
   {
+    "Rule": "Early Maturation",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "212",
+    "Link": "BT212"
+  },
+  {
+    "Rule": "Early Maturation (Fantasy Folk Elves)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "18",
+    "Link": "FFE18"
+  },
+  {
     "Rule": "Earth Gods (Dungeon Fantasy)",
     "Category": [
       "Divinity"
@@ -3250,6 +3304,15 @@
     "Link": "PU3:10"
   },
   {
+    "Rule": "Eldritch Elf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "14",
+    "Link": "FFE14"
+  },
+  {
     "Rule": "Electricity",
     "Category": [
       "Hazard"
@@ -3303,6 +3366,24 @@
     "Book": "Dungeon Fantasy 9",
     "Page": "26",
     "Link": "DF9:26"
+  },
+  {
+    "Rule": "Elven Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 3",
+    "Page": "6",
+    "Link": "DF3:6"
+  },
+  {
+    "Rule": "Elves of Dungeon Fantasy",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "4",
+    "Link": "FFE4"
   },
   {
     "Rule": "Emissaries of the Gods (Dungeon Fantasy)",
@@ -3759,6 +3840,43 @@
     "Link": "MAYFS24"
   },
   {
+    "Rule": "Fate-Bender",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "27",
+    "Link": "DF24:27"
+  },
+  {
+    "Rule": "Fate-Bender Abilities",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "28",
+    "Link": "DF24:28"
+  },
+  {
+    "Rule": "Fate-Bender Impulse Points",
+    "Category": [
+      "Attributes",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "29",
+    "Link": "DF24:29"
+  },
+  {
+    "Rule": "Fate-Bender Power-Ups",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "30",
+    "Link": "DF24:30"
+  },
+  {
     "Rule": "Fatigue Loss from Battles Longer than Ten Seconds",
     "Category": [
       "Injury"
@@ -3910,7 +4028,8 @@
     "Rule": "First Aid Table",
     "Category": [
       "Reference",
-      "Injury, Profession"
+      "Injury",
+      "Profession"
     ],
     "Book": "Basic",
     "Page": "424",
@@ -4200,6 +4319,24 @@
     "Book": "Dungeon Fantasy 16",
     "Page": "42",
     "Link": "DF16:42"
+  },
+  {
+    "Rule": "Gauge Potential",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "8",
+    "Link": "DF24:8"
+  },
+  {
+    "Rule": "Gauge Power",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "9",
+    "Link": "DF24:9"
   },
   {
     "Rule": "Gems Carats and Pricing",
@@ -4598,6 +4735,15 @@
     "Link": "B378"
   },
   {
+    "Rule": "Half-Elf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "14",
+    "Link": "FFE14"
+  },
+  {
     "Rule": "Halfling Marksmanship Talent",
     "Category": [
       "Trait"
@@ -4778,7 +4924,8 @@
     "Rule": "Herbal Pharmacy List",
     "Category": [
       "Reference",
-      "Injury, Profession"
+      "Injury",
+      "Profession"
     ],
     "Book": "Low Tech Companion 1",
     "Page": "26",
@@ -4811,6 +4958,15 @@
     "Book": "Dungeon Fantasy 2",
     "Page": "12",
     "Link": "DF2:12"
+  },
+  {
+    "Rule": "High Elf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "14",
+    "Link": "FFE14"
   },
   {
     "Rule": "Higher Purpose",
@@ -5124,6 +5280,15 @@
     "Link": "LT63"
   },
   {
+    "Rule": "Impulse Buys Cheat Sheet",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "31",
+    "Link": "DF24:31"
+  },
+  {
     "Rule": "Industrial Magic",
     "Category": [
       "Setting",
@@ -5153,7 +5318,7 @@
     "Link": "DF15:12"
   },
   {
-    "Rule": "Injury to Unliving, Homogenous, and Diffuse Targets",
+    "Rule": "Injury to Unliving Homogenous and Diffuse Targets",
     "Category": [
       "Reference",
       "Injury"
@@ -5943,6 +6108,15 @@
     "Link": "DF2:13"
   },
   {
+    "Rule": "Making Wierdness Magnet Matter",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "28",
+    "Link": "DF24:28"
+  },
+  {
     "Rule": "Malfunctioning Guns and Explosives",
     "Category": [
       "Combat",
@@ -6042,6 +6216,24 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "12",
     "Link": "PU3:12"
+  },
+  {
+    "Rule": "Measure Potential",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "10",
+    "Link": "DF24:10"
+  },
+  {
+    "Rule": "Measure Power",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "10",
+    "Link": "DF24:10"
   },
   {
     "Rule": "Mechanical Androids",
@@ -6296,6 +6488,15 @@
     "Book": "Basic",
     "Page": "423",
     "Link": "B423"
+  },
+  {
+    "Rule": "Mountain Elf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "15",
+    "Link": "FFE15"
   },
   {
     "Rule": "Mounted Combat",
@@ -7310,6 +7511,15 @@
     "Link": "DF18:11"
   },
   {
+    "Rule": "Power Item Recharger Advantage",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy 18",
+    "Page": "12",
+    "Link": "DF18:12"
+  },
+  {
     "Rule": "Power Item Types",
     "Category": [
       "Weapon",
@@ -7473,6 +7683,24 @@
     "Link": "PU3:15"
   },
   {
+    "Rule": "Psychic Guidance",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Thaumatology: Magical Styles",
+    "Page": "29",
+    "Link": "TMS29"
+  },
+  {
+    "Rule": "Psychic Guidance (Fantasy Folk Elves)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "18",
+    "Link": "FFE18"
+  },
+  {
     "Rule": "Pugilist",
     "Category": [
       "Template",
@@ -7585,6 +7813,15 @@
     "Link": "B407"
   },
   {
+    "Rule": "Rapid Healing",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "79",
+    "Link": "B79"
+  },
+  {
     "Rule": "Rapid Recovery",
     "Category": [
       "Combat"
@@ -7619,6 +7856,15 @@
     "Book": "Martial Arts",
     "Page": "120",
     "Link": "MA120"
+  },
+  {
+    "Rule": "Rapier Wit",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "79",
+    "Link": "B79"
   },
   {
     "Rule": "Rare Artifacts",
@@ -7998,6 +8244,15 @@
     "Link": "DF11:32"
   },
   {
+    "Rule": "Sea Elf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "15",
+    "Link": "FFE15"
+  },
+  {
     "Rule": "Sea Gods (Dungeon Fantasy)",
     "Category": [
       "Divinity"
@@ -8089,6 +8344,15 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "23",
     "Link": "DF15:23"
+  },
+  {
+    "Rule": "Shadow Elf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "15",
+    "Link": "FFE15"
   },
   {
     "Rule": "Shaman (PC Class)",
@@ -8428,6 +8692,15 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "16",
     "Link": "DF15:16"
+  },
+  {
+    "Rule": "Sky Elf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "16",
+    "Link": "FFE16"
   },
   {
     "Rule": "Slam",
@@ -9581,6 +9854,16 @@
     "Link": "PU3:16"
   },
   {
+    "Rule": "Training Expenses",
+    "Category": [
+      "Setting",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy 3",
+    "Page": "43",
+    "Link": "DF3:43"
+  },
+  {
     "Rule": "Trait Requirements for Talents Bought In-Game",
     "Category": [
       "Skills",
@@ -9655,6 +9938,15 @@
     "Book": "Basic",
     "Page": "439",
     "Link": "B439"
+  },
+  {
+    "Rule": "Tree Walking",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "18",
+    "Link": "FFE18"
   },
   {
     "Rule": "Trivia Sponge Talent",
@@ -9988,6 +10280,87 @@
     "Link": "MA64"
   },
   {
+    "Rule": "Using CP to Buy a Better Skill Roll Margin",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "13",
+    "Link": "DF24:13"
+  },
+  {
+    "Rule": "Using CP to Buy a Heroic End",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "22",
+    "Link": "DF24:22"
+  },
+  {
+    "Rule": "Using CP to Buy Divine Intervention",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "22",
+    "Link": "DF24:22"
+  },
+  {
+    "Rule": "Using CP to Buy Energy 1 CP for 10 Energy",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "18",
+    "Link": "DF24:18"
+  },
+  {
+    "Rule": "Using CP to Buy Money 1 CP for $500",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "16",
+    "Link": "DF24:16"
+  },
+  {
+    "Rule": "Using CP to Buy Recharges",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "16",
+    "Link": "DF24:16"
+  },
+  {
+    "Rule": "Using CP to Buy Ressurection",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "20",
+    "Link": "DF24:20"
+  },
+  {
+    "Rule": "Using CP to Buy Success on a Roll",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "12",
+    "Link": "DF24:12"
+  },
+  {
+    "Rule": "Using CP to Get Reprieves from Disadvantages",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Dungeon Fantasy 24",
+    "Page": "14",
+    "Link": "DF24:14"
+  },
+  {
     "Rule": "Using Firearms",
     "Category": [
       "Combat"
@@ -10220,7 +10593,8 @@
   {
     "Rule": "Were-Creatures",
     "Category": [
-      "Trait, Creatures"
+      "Trait",
+      "Creatures"
     ],
     "Book": "Basic",
     "Page": "84",
@@ -10281,6 +10655,15 @@
     "Book": "Dungeon Fantasy 16",
     "Page": "16",
     "Link": "DF16:16"
+  },
+  {
+    "Rule": "Winged Elf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "16",
+    "Link": "FFE16"
   },
   {
     "Rule": "Wizard (PC Class)",
@@ -10348,6 +10731,15 @@
     "Book": "Dungeon Fantasy 8",
     "Page": "42",
     "Link": "DF8:42"
+  },
+  {
+    "Rule": "Wood Elf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk Elves",
+    "Page": "16",
+    "Link": "FFE16"
   },
   {
     "Rule": "Woodsman",
