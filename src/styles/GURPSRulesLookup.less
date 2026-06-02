@@ -4,8 +4,13 @@ section#rulesSearch.active {
     grid-template-rows: min-content 1fr;
 }
 
+section#rulesSearch-popout {
+    width: 650px;
+}
+
 .GurpsRulesLookupSearch {
-    margin: 1em;
+    color: var(--color-text-primary);
+    margin: 0.5em;
 }
 
 .GurpsRulesLookupTitle {
@@ -23,10 +28,12 @@ section#rulesSearch.active {
 .GurpsRulesLookupResult{
     display: grid;
     grid-template-areas:
-        "rule rule rule rule"
-        "book book book link";
-    padding: 0.5em 1em 0 1em;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+        "rule rule"
+        "book link";
+    margin: 0.5em 0.5em 0em;
+    grid-template-columns: 1fr 4em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px darkgray solid;
 }
 
 .GurpsRulesLookupRule{
@@ -44,5 +51,9 @@ section#rulesSearch.active {
 } 
 
 .GurpsRulesLookupNoResults {
-    padding: 0.5em 1em 0 1em;
+    padding: 0.5em 0.5em 0.5em;
+}
+
+.theme-dark.RulesLookupSidebar {
+    --gga-color-pdflink: lightblue;
 }

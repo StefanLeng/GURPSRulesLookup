@@ -4,7 +4,7 @@
 This Foundry VTT module offers a searchable database of PDF links for GURPS rules for the [Gurps Game Aid](https://github.com/crnormand/gurps). 
 The PDfs are not included in the module, you have to purchase them from [Steve Jackson Games] (https://www.sjgames.com/) and set them up in Foundry according to the instructions [here](https://github.com/crnormand/gurps/wiki/User-Guide-%E2%80%90-GURPS-4th-Edition-Game-Aid-for-Foundry-VTT-(Unofficial)#configuring-foundry-to-handle-pdfs).
 
-The module will add a tab with teh search symbol icon to the right sidebar.. If you right click on the icon, you can open it as a detached window.
+The module will add a tab with the search symbol icon to the right sidebar.. If you right click on the icon, you can open it as a detached window.
 
 This module is based on the original idea of [Tuvulu](https://github.com/Tuvulu123). The rules database is maintained by him, the module code is by [Stefan Leng](https://github.com/StefanLeng).
 
