@@ -1,4 +1,10 @@
 <div class='GurpsRulesLookupSearch'>
     <p class='GurpsRulesLookupTitle'>Gurps Rules Lookup</p>
     <input type="text" placeholder="Enter search query..."  data-action="search" />
+    <p class='GurpsRulesLookupLabel'>Select Categories:</p>
+    <multi-select class='GurpsRulesLookupCategory' data-action="category" placeholder="Select categories...">
+            {{#each categories}}
+                <option value='{{cat}}' {{select-if selected true}} ><span>{{cat}}</span></option>
+            {{/each}}
+    </multi-select>
 </div>
