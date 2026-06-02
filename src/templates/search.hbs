@@ -6,5 +6,11 @@
             {{#each categories}}
                 <option value='{{cat}}' {{select-if selected true}} ><span>{{cat}}</span></option>
             {{/each}}
-    </multi-select>
+    </multi-select> 
+    <p class='GurpsRulesLookupLabel'>Select Books:</p>
+    <multi-select class='GurpsRulesLookupBook' data-action="book" placeholder="Select books...">
+            {{#each books}}
+                <option value='{{book}}' {{select-if selected true}} ><span>{{book}}</span></option>
+            {{/each}}
+    </multi-select> 
 </div>

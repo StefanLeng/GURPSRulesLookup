@@ -26,6 +26,8 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
     #searchTerm: string = '';
     #categories: { cat: string }[] = [];
     #selectedCategories: string[] = [];
+    #Books: string[] = [];
+    #selectedBooks: string[] = [];
     #message: string = 'To many results found. Please refine your search.';
 
     async loadRules() {
@@ -49,6 +51,7 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
                     .map((cat) => {
                         return { cat: cat };
                     });
+                this.#Books = Array.from(new Set(this.#rules.map((r) => r.Book))).sort();
             }
         } catch (err: any) {
             ui?.notifications?.error('GURPS Rules Lookup: Could not load Rules Database' + err.message);
@@ -86,6 +89,9 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
             searchTerm: this.#searchTerm,
             categories: this.#categories.map((c) => {
                 return { cat: c.cat, selected: this.#selectedCategories.includes(c.cat) };
+            }),
+            books: this.#Books.map((book) => {
+                return { book: book, selected: this.#selectedBooks.includes(book) };
             }),
             message: this.#message,
         };
@@ -125,6 +131,7 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
                 this.search();
             });
         }
+
         const categorySelect = this.element.querySelector<HTMLSelectElement>('multi-select[data-action="category"]');
         if (categorySelect) {
             categorySelect.addEventListener('change', (event) => {
@@ -136,6 +143,18 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
                 this.search();
             });
         }
+
+        const bookSelect = this.element.querySelector<HTMLSelectElement>('multi-select[data-action="book"]');
+        if (bookSelect) {
+            bookSelect.addEventListener('change', (event) => {
+                event.preventDefault();
+                const target = event.currentTarget as HTMLSelectElement;
+                const values = Array.from(target.value);
+                if (JSON.stringify(values) === JSON.stringify(this.#selectedBooks)) return;
+                this.#selectedBooks = values;
+                this.search();
+            });
+        }
     }
 
     private search() {
@@ -144,7 +163,8 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
             return (
                 r.Rule.toLowerCase().includes(this.#searchTerm.toLowerCase()) &&
                 (this.#selectedCategories.length === 0 ||
-                    r.Category.some((cat) => this.#selectedCategories.includes(cat)))
+                    r.Category.some((cat) => this.#selectedCategories.includes(cat))) &&
+                (this.#selectedBooks.length === 0 || this.#selectedBooks.includes(r.Book))
             );
         });
         if (this.#results.length === 0) {
