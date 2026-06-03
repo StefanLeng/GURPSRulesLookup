@@ -28,7 +28,7 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
     #selectedCategories: string[] = [];
     #Books: string[] = [];
     #selectedBooks: string[] = [];
-    #message: string = 'To many results found. Please refine your search.';
+    #message: string = 'Too many results found. Please refine your search.';
 
     async loadRules() {
         try {
