@@ -395,6 +395,15 @@
     "Link": "LTIA4"
   },
   {
+    "Rule": "Ancient Super Tech for Reptile Races",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: The Reptilian Races",
+    "Page": "20",
+    "Link": "FFRR20"
+  },
+  {
     "Rule": "Angels and Demons (Dungeon Fantasy)",
     "Category": [
       "Creatures"
@@ -436,7 +445,8 @@
     "Rule": "Animal Totems",
     "Category": [
       "Magic",
-      "Gear"
+      "Gear",
+      "Supernatural"
     ],
     "Book": "Powers: Totems and Nature Spirits",
     "Page": "10",
@@ -1156,6 +1166,15 @@
     "Link": "B17"
   },
   {
+    "Rule": "Basilisk",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 3",
+    "Page": "5",
+    "Link": "DFM3:5"
+  },
+  {
     "Rule": "Bear Hug while Grappling",
     "Category": [
       "Combat"
@@ -1461,6 +1480,16 @@
     "Link": "LTC3:32"
   },
   {
+    "Rule": "Bride of Claithalleth",
+    "Category": [
+      "Template",
+      "Profession"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "18",
+    "Link": "FFWF18"
+  },
+  {
     "Rule": "Brute",
     "Category": [
       "Template",
@@ -1488,6 +1517,15 @@
     "Book": "Dungeon Fantasy Denizens Swashbucklers",
     "Page": "8",
     "Link": "DFDS8"
+  },
+  {
+    "Rule": "Bugbears",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "6",
+    "Link": "DFM1:6"
   },
   {
     "Rule": "Building Construction Materials Quality Time",
@@ -2044,6 +2082,24 @@
     "Link": "PU3:8"
   },
   {
+    "Rule": "Cockatrice",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 3",
+    "Page": "6",
+    "Link": "DFM3:6"
+  },
+  {
+    "Rule": "Code of Honor (Elven)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "18",
+    "Link": "FFE18"
+  },
+  {
     "Rule": "Code of Honor (Shamans) (Dungeon Fantasy)",
     "Category": [
       "Trait"
@@ -2051,6 +2107,15 @@
     "Book": "Dungeon Fantasy 9",
     "Page": "18",
     "Link": "DF9:18"
+  },
+  {
+    "Rule": "Code of Honor (Winged Folk)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "13",
+    "Link": "FFWF13"
   },
   {
     "Rule": "Coin Condition",
@@ -2242,6 +2307,16 @@
     "Book": "Basic",
     "Page": "437",
     "Link": "B437"
+  },
+  {
+    "Rule": "Corpse Golem",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "8",
+    "Link": "DFM1:8"
   },
   {
     "Rule": "Corrosion Damage Reducing DR",
@@ -2467,6 +2542,15 @@
     "Link": "PU3:9"
   },
   {
+    "Rule": "Curse",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Horror",
+    "Page": "12",
+    "Link": "H12"
+  },
+  {
     "Rule": "Cutpurse",
     "Category": [
       "Template",
@@ -2529,7 +2613,7 @@
     "Category": [
       "Template"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "13",
     "Link": "FFE13"
   },
@@ -2538,7 +2622,7 @@
     "Category": [
       "Trait"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "18",
     "Link": "FFE18"
   },
@@ -2574,7 +2658,7 @@
     "Category": [
       "Template"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "13",
     "Link": "FFE13"
   },
@@ -2653,6 +2737,15 @@
     "Link": "MA101"
   },
   {
+    "Rule": "Delusions (Superstitions)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "13",
+    "Link": "FFWF13"
+  },
+  {
     "Rule": "Delvers Gear Kits",
     "Category": [
       "Gear"
@@ -2669,6 +2762,15 @@
     "Book": "Dungeon Fantasy 1",
     "Page": "25",
     "Link": "DF1:25"
+  },
+  {
+    "Rule": "Demon",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "96",
+    "Link": "H96"
   },
   {
     "Rule": "Demonic Critical Spell Failure Table",
@@ -2961,6 +3063,15 @@
     "Link": "B377"
   },
   {
+    "Rule": "Doppelganger",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 3",
+    "Page": "7",
+    "Link": "DFM3:7"
+  },
+  {
     "Rule": "Double Defaults and Techniques",
     "Category": [
       "Techniques"
@@ -3009,6 +3120,15 @@
     "Book": "Basic",
     "Page": "371",
     "Link": "B371"
+  },
+  {
+    "Rule": "Dragon-Blooded",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: The Reptilian Races",
+    "Page": "12",
+    "Link": "FFRR12"
   },
   {
     "Rule": "Dressed to Kill Swashbucklers Clothing",
@@ -3134,6 +3254,15 @@
     "Link": "MA50"
   },
   {
+    "Rule": "Dryad",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 3",
+    "Page": "9",
+    "Link": "DFM3:9"
+  },
+  {
     "Rule": "Dual-Weapon Attack Technique",
     "Category": [
       "Combat",
@@ -3182,6 +3311,17 @@
     "Link": "DF1:20"
   },
   {
+    "Rule": "Dungeon Kobolds",
+    "Category": [
+      "Setting",
+      "NPC",
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Kobolds",
+    "Page": "3",
+    "Link": "FFK3"
+  },
+  {
     "Rule": "Dungeon Parkour",
     "Category": [
       "Combat",
@@ -3224,7 +3364,7 @@
     "Category": [
       "Trait"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "18",
     "Link": "FFE18"
   },
@@ -3308,9 +3448,18 @@
     "Category": [
       "Template"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "14",
     "Link": "FFE14"
+  },
+  {
+    "Rule": "Electric Jelly",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "13",
+    "Link": "DFM1:13"
   },
   {
     "Rule": "Electricity",
@@ -3368,6 +3517,45 @@
     "Link": "DF9:26"
   },
   {
+    "Rule": "Elven Animal Companions",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "25",
+    "Link": "FFE25"
+  },
+  {
+    "Rule": "Elven Bow Table",
+    "Category": [
+      "Reference",
+      "Weapon"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "24",
+    "Link": "FFE24"
+  },
+  {
+    "Rule": "Elven Culture",
+    "Category": [
+      "Setting",
+      "Skills",
+      "Environment"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "6",
+    "Link": "FFE6"
+  },
+  {
+    "Rule": "Elven Elk",
+    "Category": [
+      "Mounts"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "24",
+    "Link": "FFE24"
+  },
+  {
     "Rule": "Elven Gear",
     "Category": [
       "Gear"
@@ -3377,11 +3565,38 @@
     "Link": "DF3:6"
   },
   {
+    "Rule": "Elven Religion",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "9",
+    "Link": "FFE9"
+  },
+  {
+    "Rule": "Elven Seabow",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "24",
+    "Link": "FFE24"
+  },
+  {
+    "Rule": "Elven Warbow",
+    "Category": [
+      "Weapon"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "24",
+    "Link": "FFE24"
+  },
+  {
     "Rule": "Elves of Dungeon Fantasy",
     "Category": [
       "Setting"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "4",
     "Link": "FFE4"
   },
@@ -3728,6 +3943,15 @@
     "Link": "PU3:9"
   },
   {
+    "Rule": "Evil Faerie",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "84",
+    "Link": "H84"
+  },
+  {
     "Rule": "Exorcist",
     "Category": [
       "Template",
@@ -3840,6 +4064,16 @@
     "Link": "MAYFS24"
   },
   {
+    "Rule": "Fast Zombies",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "After the End 2",
+    "Page": "28",
+    "Link": "ATE2:28"
+  },
+  {
     "Rule": "Fate-Bender",
     "Category": [
       "Template"
@@ -3884,6 +4118,15 @@
     "Book": "Basic",
     "Page": "426",
     "Link": "B426"
+  },
+  {
+    "Rule": "Feather Armor",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "24",
+    "Link": "FFWF24"
   },
   {
     "Rule": "Feint Maneuver",
@@ -3965,6 +4208,15 @@
     "Book": "Martial Arts",
     "Page": "131",
     "Link": "MA131"
+  },
+  {
+    "Rule": "Fifty-Foot Ape",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "65",
+    "Link": "H65"
   },
   {
     "Rule": "Fighting from the back of a Mount",
@@ -4236,6 +4488,15 @@
     "Link": "PU3:10"
   },
   {
+    "Rule": "Forest Warden",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "21",
+    "Link": "FFE21"
+  },
+  {
     "Rule": "Fright Check Table",
     "Category": [
       "Reference",
@@ -4321,6 +4582,15 @@
     "Link": "DF16:42"
   },
   {
+    "Rule": "Gaudivore",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Horror",
+    "Page": "12",
+    "Link": "H12"
+  },
+  {
     "Rule": "Gauge Potential",
     "Category": [
       "Trait"
@@ -4387,6 +4657,26 @@
     "Link": "DF16:26"
   },
   {
+    "Rule": "Ghost",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Horror",
+    "Page": "78",
+    "Link": "H78"
+  },
+  {
+    "Rule": "Ghostly Possession Modifiers",
+    "Category": [
+      "Setting",
+      "Supernatural"
+    ],
+    "Book": "Horror",
+    "Page": "80",
+    "Link": "H80"
+  },
+  {
     "Rule": "Ghosts Totems and Guardians",
     "Category": [
       "Creatures",
@@ -4396,6 +4686,44 @@
     "Book": "Dungeon Fantasy 9",
     "Page": "21",
     "Link": "DF9:21"
+  },
+  {
+    "Rule": "Ghoul",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "Horror",
+    "Page": "59",
+    "Link": "H59"
+  },
+  {
+    "Rule": "Giant Ant",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 3",
+    "Page": "10",
+    "Link": "DFM3:10"
+  },
+  {
+    "Rule": "Giant Ape",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "16",
+    "Link": "DFM1:16"
+  },
+  {
+    "Rule": "Giant Octopus",
+    "Category": [
+      "Template",
+      "Creature"
+    ],
+    "Book": "Horror",
+    "Page": "154",
+    "Link": "H154"
   },
   {
     "Rule": "Giant Step",
@@ -4425,6 +4753,15 @@
     "Link": "PU3:10"
   },
   {
+    "Rule": "Giladilofotajovi (Merchant-Mage)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "22",
+    "Link": "FFE22"
+  },
+  {
     "Rule": "Gkadiator Equipment",
     "Category": [
       "Gear"
@@ -4441,6 +4778,15 @@
     "Book": "Martial Arts: Gladiators",
     "Page": "28",
     "Link": "MAG28"
+  },
+  {
+    "Rule": "Gladiator Ape",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "17",
+    "Link": "DFM1:17"
   },
   {
     "Rule": "Gladiator Armor",
@@ -4507,6 +4853,122 @@
     "Book": "Low Tech Instant Armor",
     "Page": "15",
     "Link": "LTIA15"
+  },
+  {
+    "Rule": "Goblin Double-Knife Martial Arts Style",
+    "Category": [
+      "Template",
+      "Skills",
+      "Techniques"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "20",
+    "Link": "FFGH20"
+  },
+  {
+    "Rule": "Goblin Emissary",
+    "Category": [
+      "Template",
+      "Profession"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "19",
+    "Link": "FFGH19"
+  },
+  {
+    "Rule": "Goblin The Way of Confusion Martial Arts Style",
+    "Category": [
+      "Template",
+      "Skills",
+      "Techniques"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "21",
+    "Link": "FFGH21"
+  },
+  {
+    "Rule": "Goblin Warbeast",
+    "Category": [
+      "Mounts",
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "23",
+    "Link": "FFGH23"
+  },
+  {
+    "Rule": "Goblin Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "22",
+    "Link": "FFGH22"
+  },
+  {
+    "Rule": "Goblin Weapons Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "22",
+    "Link": "FFGH22"
+  },
+  {
+    "Rule": "Goblins (Comedy)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "15",
+    "Link": "FFGH15"
+  },
+  {
+    "Rule": "Goblins (Dungeon Fantasy)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "14",
+    "Link": "FFGH14"
+  },
+  {
+    "Rule": "Goblins (Mean)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "12",
+    "Link": "FFGH12"
+  },
+  {
+    "Rule": "Goblins (Spirit)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Supernatural"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "16",
+    "Link": "FFGH16"
+  },
+  {
+    "Rule": "Goblins (Yrth)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "13",
+    "Link": "FFGH13"
   },
   {
     "Rule": "Gods of Frenzy (Dungeon Fantasy)",
@@ -4726,6 +5188,16 @@
     "Link": "DF2:14"
   },
   {
+    "Rule": "Halberd and Fang Martial Arts Style",
+    "Category": [
+      "Skills",
+      "Techniques"
+    ],
+    "Book": "Fantasy Folk: The Reptilian Races",
+    "Page": "20",
+    "Link": "FFRR20"
+  },
+  {
     "Rule": "Half-Damage Range",
     "Category": [
       "Combat"
@@ -4739,7 +5211,7 @@
     "Category": [
       "Template"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "14",
     "Link": "FFE14"
   },
@@ -4810,6 +5282,15 @@
     "Book": "Basic",
     "Page": "411",
     "Link": "B411"
+  },
+  {
+    "Rule": "Harpy",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 3",
+    "Page": "11",
+    "Link": "DFM3:11"
   },
   {
     "Rule": "Harsh Climates and Nasty Weather",
@@ -4964,7 +5445,7 @@
     "Category": [
       "Template"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "14",
     "Link": "FFE14"
   },
@@ -5061,6 +5542,48 @@
     "Link": "P148"
   },
   {
+    "Rule": "Hobgoblin Witch Doctor",
+    "Category": [
+      "Template",
+      "Profession"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "18",
+    "Link": "FFGH18"
+  },
+  {
+    "Rule": "Hobgoblin Witch Doctor (Dungeon Fantasy)",
+    "Category": [
+      "Template",
+      "Profession"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "19",
+    "Link": "FFGH19"
+  },
+  {
+    "Rule": "Hobgoblins (Mean)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "12",
+    "Link": "FFGH12"
+  },
+  {
+    "Rule": "Hobgoblins (Yrth)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Goblins and Hobgoblins",
+    "Page": "14",
+    "Link": "FFGH14"
+  },
+  {
     "Rule": "Holding Your Breath",
     "Category": [
       "Physical Act"
@@ -5124,6 +5647,15 @@
     "Book": "Pyramid #3/78",
     "Page": "14",
     "Link": "PY78:14"
+  },
+  {
+    "Rule": "Horrifying Window",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Horror",
+    "Page": "12",
+    "Link": "H12"
   },
   {
     "Rule": "Horse Collars",
@@ -5190,6 +5722,15 @@
     "Book": "Basic",
     "Page": "379",
     "Link": "B379"
+  },
+  {
+    "Rule": "Ice Wyrm",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "20",
+    "Link": "DFM1:20"
   },
   {
     "Rule": "Identifying and Determining Value of Loot",
@@ -5289,6 +5830,15 @@
     "Link": "DF24:31"
   },
   {
+    "Rule": "Independent Body Parts Advantage",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Horror",
+    "Page": "15",
+    "Link": "H15"
+  },
+  {
     "Rule": "Industrial Magic",
     "Category": [
       "Setting",
@@ -5326,6 +5876,15 @@
     "Book": "Basic",
     "Page": "380",
     "Link": "B380"
+  },
+  {
+    "Rule": "Injurying Reptilian Tails",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Fantasy Folk: The Reptilian Races",
+    "Page": "21",
+    "Link": "FFRR21"
   },
   {
     "Rule": "Inner Balance Talent",
@@ -5443,7 +6002,8 @@
     "Rule": "Jumper (Spirit) (Dungeon Fantasy)",
     "Category": [
       "Magic",
-      "Trait"
+      "Trait",
+      "Supernatural"
     ],
     "Book": "Dungeon Fantasy 9",
     "Page": "5",
@@ -5610,6 +6170,63 @@
     "Link": "B420"
   },
   {
+    "Rule": "Kobold Equipment",
+    "Category": [
+      "Armor",
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "Fantasy Folk: Kobolds",
+    "Page": "14",
+    "Link": "FFK14"
+  },
+  {
+    "Rule": "Kobold Gangleader",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: Kobolds",
+    "Page": "11",
+    "Link": "FFK11"
+  },
+  {
+    "Rule": "Kobold Size and Weapon Reach",
+    "Category": [
+      "Atributes",
+      "Weapons"
+    ],
+    "Book": "Fantasy Folk: Kobolds",
+    "Page": "14",
+    "Link": "FFK14"
+  },
+  {
+    "Rule": "Kobold Sycophant",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: Kobolds",
+    "Page": "12",
+    "Link": "FFK12"
+  },
+  {
+    "Rule": "Kobold Trap-Master",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: Kobolds",
+    "Page": "12",
+    "Link": "FFK12"
+  },
+  {
+    "Rule": "Kobolds (Dungeon Fantasy)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: Kobolds",
+    "Page": "9",
+    "Link": "FFK9"
+  },
+  {
     "Rule": "Laborer",
     "Category": [
       "Template",
@@ -5705,6 +6322,15 @@
     "Link": "MA146"
   },
   {
+    "Rule": "Leech Advantage",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Horror",
+    "Page": "20",
+    "Link": "H20"
+  },
+  {
     "Rule": "Leg Lock Technique (Martial Arts)",
     "Category": [
       "Combat",
@@ -5715,6 +6341,15 @@
     "Link": "MA76"
   },
   {
+    "Rule": "Leprous Touch",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Horror",
+    "Page": "12",
+    "Link": "H12"
+  },
+  {
     "Rule": "Lethal Strike",
     "Category": [
       "Combat"
@@ -5722,6 +6357,15 @@
     "Book": "Basic",
     "Page": "404",
     "Link": "B404"
+  },
+  {
+    "Rule": "Lich",
+    "Category": [
+      "Undead"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "23",
+    "Link": "DFM1:23"
   },
   {
     "Rule": "Lifesaving with Swimming Skill",
@@ -5780,6 +6424,15 @@
     "Book": "Fantasy",
     "Page": "129",
     "Link": "F129"
+  },
+  {
+    "Rule": "Lizard Men",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: The Reptilian Races",
+    "Page": "13",
+    "Link": "FFRR13"
   },
   {
     "Rule": "Long Weapons in Close Combat",
@@ -5857,6 +6510,24 @@
     "Book": "Banestorm",
     "Page": "200",
     "Link": "BS200"
+  },
+  {
+    "Rule": "Madness Table (Gothic)",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Horror",
+    "Page": "143",
+    "Link": "H143"
+  },
+  {
+    "Rule": "Madness Table (Gritty)",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Horror",
+    "Page": "144",
+    "Link": "H144"
   },
   {
     "Rule": "Magery Exceeding Usual Limit in Casting",
@@ -6137,6 +6808,33 @@
     "Link": "M6"
   },
   {
+    "Rule": "Man-Eating Great White Shark",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "63",
+    "Link": "H63"
+  },
+  {
+    "Rule": "Man-Eating Lion",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "63",
+    "Link": "H63"
+  },
+  {
+    "Rule": "Manticore",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 3",
+    "Page": "14",
+    "Link": "DFM3:14"
+  },
+  {
     "Rule": "Manufacturing",
     "Category": [
       "Profession"
@@ -6275,6 +6973,15 @@
     "Link": "LTC1:16"
   },
   {
+    "Rule": "Medusa",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 3",
+    "Page": "15",
+    "Link": "DFM3:15"
+  },
+  {
     "Rule": "Melee Attacks Through Occupied Hex",
     "Category": [
       "Combat"
@@ -6320,6 +7027,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "12",
     "Link": "PU3:12"
+  },
+  {
+    "Rule": "Memory Wipe",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Horror",
+    "Page": "12",
+    "Link": "H12"
   },
   {
     "Rule": "Mental Perks",
@@ -6378,6 +7094,17 @@
     "Link": "MA131"
   },
   {
+    "Rule": "Mine Kobolds",
+    "Category": [
+      "Template",
+      "NPC",
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Kobolds",
+    "Page": "8",
+    "Link": "FFK8"
+  },
+  {
     "Rule": "Mining and Excavation",
     "Category": [
       "Profession"
@@ -6394,6 +7121,15 @@
     "Book": "Powers: Divine Favor",
     "Page": "8",
     "Link": "PDF8"
+  },
+  {
+    "Rule": "Minor Curse",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Horror",
+    "Page": "12",
+    "Link": "H12"
   },
   {
     "Rule": "Minor Obstruction in Movement",
@@ -6494,7 +7230,7 @@
     "Category": [
       "Template"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "15",
     "Link": "FFE15"
   },
@@ -6645,6 +7381,25 @@
     "Link": "B392"
   },
   {
+    "Rule": "Mummy",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "Horror",
+    "Page": "92",
+    "Link": "H92"
+  },
+  {
+    "Rule": "Mummy's Curse Spell",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Horror",
+    "Page": "92",
+    "Link": "H92"
+  },
+  {
     "Rule": "Muscle-Powered Ranged Weapons Table",
     "Category": [
       "Reference",
@@ -6789,7 +7544,8 @@
     "Rule": "Nature Spirits",
     "Category": [
       "Trait",
-      "Magic"
+      "Magic",
+      "Supernatural"
     ],
     "Book": "Powers: Totems and Nature Spirits",
     "Page": "15",
@@ -6799,7 +7555,8 @@
     "Rule": "Nature Spirits (Dungeon Fantasy)",
     "Category": [
       "Creatures",
-      "Magic"
+      "Magic",
+      "Supernatural"
     ],
     "Book": "Dungeon Fantasy 9",
     "Page": "37",
@@ -6813,6 +7570,15 @@
     "Book": "Basic",
     "Page": "428",
     "Link": "B428"
+  },
+  {
+    "Rule": "Neck Bite Technique",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Horror",
+    "Page": "30",
+    "Link": "H30"
   },
   {
     "Rule": "Neck Snap",
@@ -6896,6 +7662,15 @@
     "Book": "Thaumatology: Magical Styles",
     "Page": "20",
     "Link": "TMS20"
+  },
+  {
+    "Rule": "Nightmare",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Horror",
+    "Page": "12",
+    "Link": "H12"
   },
   {
     "Rule": "Ninja (PC Class)",
@@ -7008,6 +7783,16 @@
     "Link": "B552"
   },
   {
+    "Rule": "Nosferatu: The Plague Vampire",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "Horror",
+    "Page": "87",
+    "Link": "H87"
+  },
+  {
     "Rule": "Occultist Talent",
     "Category": [
       "Trait"
@@ -7103,6 +7888,15 @@
     "Link": "DFMI1:18"
   },
   {
+    "Rule": "Oozes",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 2",
+    "Page": "11",
+    "Link": "DFM2:11"
+  },
+  {
     "Rule": "Opportunity Fire",
     "Category": [
       "Combat"
@@ -7112,6 +7906,16 @@
     "Link": "B390"
   },
   {
+    "Rule": "Options After Being Grappled by a Zombie",
+    "Category": [
+      "Combat",
+      "Undead"
+    ],
+    "Book": "After the End 2",
+    "Page": "29",
+    "Link": "ATE2:29"
+  },
+  {
     "Rule": "Options in Close Combat",
     "Category": [
       "Combat"
@@ -7119,6 +7923,15 @@
     "Book": "Martial Arts",
     "Page": "114",
     "Link": "MA114"
+  },
+  {
+    "Rule": "Orca",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "25",
+    "Link": "FFE25"
   },
   {
     "Rule": "Orichalcum Metal",
@@ -7204,6 +8017,15 @@
     "Link": "LTC3:31"
   },
   {
+    "Rule": "Panic Attacks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Horror",
+    "Page": "26",
+    "Link": "H26"
+  },
+  {
     "Rule": "Parachutes and Gliders",
     "Category": [
       "Mechanism"
@@ -7220,6 +8042,15 @@
     "Book": "Basic",
     "Page": "429",
     "Link": "B429"
+  },
+  {
+    "Rule": "Paralyzing Touch",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Horror",
+    "Page": "12",
+    "Link": "H12"
   },
   {
     "Rule": "Parapsychologist Talent",
@@ -7325,6 +8156,15 @@
     "Link": "F143"
   },
   {
+    "Rule": "Phase Serpent",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 3",
+    "Page": "17",
+    "Link": "DFM3:17"
+  },
+  {
     "Rule": "Philosophical Swashbuckler",
     "Category": [
       "Template",
@@ -7333,6 +8173,15 @@
     "Book": "Dungeon Fantasy Denizens Swashbucklers",
     "Page": "13",
     "Link": "DFDS13"
+  },
+  {
+    "Rule": "Phoenix",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 3",
+    "Page": "18",
+    "Link": "DFM3:18"
   },
   {
     "Rule": "Physical Appearance Levels",
@@ -7616,6 +8465,15 @@
     "Link": "B435"
   },
   {
+    "Rule": "Pressure-Tolerant Lungs (Thin)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "211",
+    "Link": "BT211"
+  },
+  {
     "Rule": "Priest 125 pt Lens",
     "Category": [
       "Template",
@@ -7696,7 +8554,7 @@
     "Category": [
       "Trait"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "18",
     "Link": "FFE18"
   },
@@ -7964,6 +8822,15 @@
     "Link": "DFDB10"
   },
   {
+    "Rule": "Religion of the Winged Folk",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "7",
+    "Link": "FFWF7"
+  },
+  {
     "Rule": "Repairing Armor and Shields",
     "Category": [
       "Armor"
@@ -7980,6 +8847,43 @@
     "Book": "Basic",
     "Page": "348",
     "Link": "B348"
+  },
+  {
+    "Rule": "Reptile Men",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: The Reptilian Races",
+    "Page": "14",
+    "Link": "FFRR14"
+  },
+  {
+    "Rule": "Reptilian Armor",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Fantasy Folk: The Reptilian Races",
+    "Page": "21",
+    "Link": "FFRR21"
+  },
+  {
+    "Rule": "Reptilian Shamans",
+    "Category": [
+      "Profession"
+    ],
+    "Book": "Fantasy Folk: The Reptilian Races",
+    "Page": "18",
+    "Link": "FFRR18"
+  },
+  {
+    "Rule": "Reptilian Weapons Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Fantasy Folk: The Reptilian Races",
+    "Page": "22",
+    "Link": "FFRR22"
   },
   {
     "Rule": "Respiratory Agent",
@@ -8097,6 +9001,25 @@
     "Book": "Dungeon Fantasy Denizens Swashbucklers",
     "Page": "11",
     "Link": "DFDS11"
+  },
+  {
+    "Rule": "Romantic Vampire",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "Horror",
+    "Page": "65",
+    "Link": "H65"
+  },
+  {
+    "Rule": "Rot Worm",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 3",
+    "Page": "20",
+    "Link": "DFM3:20"
   },
   {
     "Rule": "Round Fractional Character Points Costs Up",
@@ -8248,7 +9171,7 @@
     "Category": [
       "Template"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "15",
     "Link": "FFE15"
   },
@@ -8272,6 +9195,16 @@
     "Link": "DFDB10"
   },
   {
+    "Rule": "Sea Serpent",
+    "Category": [
+      "Template",
+      "Creature"
+    ],
+    "Book": "Horror",
+    "Page": "154",
+    "Link": "H154"
+  },
+  {
     "Rule": "Seafarer Talent",
     "Category": [
       "Trait"
@@ -8288,6 +9221,33 @@
     "Book": "Basic",
     "Page": "436",
     "Link": "B436"
+  },
+  {
+    "Rule": "Secret Material: Blood-Mead",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "17",
+    "Link": "FFWF17"
+  },
+  {
+    "Rule": "Secret Spell: Earthbind",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "16",
+    "Link": "FFWF16"
+  },
+  {
+    "Rule": "Secret Spell: Wrath of the Gods",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "17",
+    "Link": "FFWF17"
   },
   {
     "Rule": "Seizure",
@@ -8327,6 +9287,24 @@
     "Link": "B66"
   },
   {
+    "Rule": "Serpent Folk",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "84",
+    "Link": "H84"
+  },
+  {
+    "Rule": "Serpent-Lords",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: The Reptilian Races",
+    "Page": "15",
+    "Link": "FFRR15"
+  },
+  {
     "Rule": "Serpents Fangs",
     "Category": [
       "Weapon"
@@ -8346,11 +9324,21 @@
     "Link": "DF15:23"
   },
   {
+    "Rule": "Shadow",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Horror",
+    "Page": "79",
+    "Link": "H79"
+  },
+  {
     "Rule": "Shadow Elf",
     "Category": [
       "Template"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "15",
     "Link": "FFE15"
   },
@@ -8616,6 +9604,15 @@
     "Link": "FT1:26"
   },
   {
+    "Rule": "Singing Trees",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "20",
+    "Link": "FFE20"
+  },
+  {
     "Rule": "Size Modifier Table",
     "Category": [
       "Attributes"
@@ -8623,6 +9620,16 @@
     "Book": "Basic",
     "Page": "19",
     "Link": "B19"
+  },
+  {
+    "Rule": "Skeletons",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "Horror",
+    "Page": "155",
+    "Link": "H155"
   },
   {
     "Rule": "Skidding in Combat",
@@ -8698,7 +9705,7 @@
     "Category": [
       "Template"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "16",
     "Link": "FFE16"
   },
@@ -8712,6 +9719,15 @@
     "Link": "B371"
   },
   {
+    "Rule": "Sleep",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Horror",
+    "Page": "12",
+    "Link": "H12"
+  },
+  {
     "Rule": "Sleeping in Armor",
     "Category": [
       "Physical Act"
@@ -8721,6 +9737,15 @@
     "Link": "LTIA20"
   },
   {
+    "Rule": "Slimes",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 2",
+    "Page": "15",
+    "Link": "DFM2:15"
+  },
+  {
     "Rule": "Slip",
     "Category": [
       "Combat"
@@ -8728,6 +9753,26 @@
     "Book": "Martial Arts",
     "Page": "124",
     "Link": "MA124"
+  },
+  {
+    "Rule": "Slow Zombies",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "After the End 2",
+    "Page": "28",
+    "Link": "ATE2:28"
+  },
+  {
+    "Rule": "Smart Zombies",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "After the End 2",
+    "Page": "27",
+    "Link": "ATE2:27"
   },
   {
     "Rule": "Smelting",
@@ -8872,6 +9917,15 @@
     "Link": "DFDT31"
   },
   {
+    "Rule": "Spider Silk Clothing",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "23",
+    "Link": "FFE23"
+  },
+  {
     "Rule": "Spinning in Combat",
     "Category": [
       "Combat"
@@ -8893,7 +9947,8 @@
     "Rule": "Spirit Roles",
     "Category": [
       "Trait",
-      "Setting"
+      "Setting",
+      "Supernatural"
     ],
     "Book": "Powers: Totems and Nature Spirits",
     "Page": "8",
@@ -8903,7 +9958,8 @@
     "Rule": "Spirit-Oriented Critical Spell Failure Table",
     "Category": [
       "Reference",
-      "Magic"
+      "Magic",
+      "Supernatural"
     ],
     "Book": "Thaumatology",
     "Page": "260",
@@ -8912,7 +9968,8 @@
   {
     "Rule": "Spirit-Talker Talent",
     "Category": [
-      "Trait"
+      "Trait",
+      "Supernatural"
     ],
     "Book": "Power-Ups 3: Talents",
     "Page": "15",
@@ -8926,6 +9983,15 @@
     "Book": "Basic",
     "Page": "397",
     "Link": "B397"
+  },
+  {
+    "Rule": "Spore Clouds",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 2",
+    "Page": "17",
+    "Link": "DFM2:17"
   },
   {
     "Rule": "Sprawling during a Takedown Attempt",
@@ -8993,6 +10059,15 @@
     "Book": "Martial Arts: Gladiators",
     "Page": "33",
     "Link": "MAG33"
+  },
+  {
+    "Rule": "Stake to the Heart Technique",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Horror",
+    "Page": "30",
+    "Link": "H30"
   },
   {
     "Rule": "Stalker Talent",
@@ -9065,6 +10140,16 @@
     "Book": "Basic",
     "Page": "366",
     "Link": "B366"
+  },
+  {
+    "Rule": "Stopping a Werewolf",
+    "Category": [
+      "Setting",
+      "Weapons"
+    ],
+    "Book": "Horror",
+    "Page": "62",
+    "Link": "H62"
   },
   {
     "Rule": "Storm Gods (Dungeon Fantasy)",
@@ -9253,6 +10338,15 @@
     "Link": "B401"
   },
   {
+    "Rule": "Succubus",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "66",
+    "Link": "H66"
+  },
+  {
     "Rule": "Suffocation",
     "Category": [
       "Physical Act"
@@ -9343,6 +10437,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "16",
     "Link": "PU3:16"
+  },
+  {
+    "Rule": "Swamp Monster",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "64",
+    "Link": "H64"
   },
   {
     "Rule": "Swarm Attacks",
@@ -9481,6 +10584,16 @@
     "Link": "B357"
   },
   {
+    "Rule": "Sword Spirit",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "29",
+    "Link": "DFM1:29"
+  },
+  {
     "Rule": "Symbolic and Runic Magic System",
     "Category": [
       "Magic"
@@ -9507,6 +10620,17 @@
     "Book": "Magic",
     "Page": "202",
     "Link": "M202"
+  },
+  {
+    "Rule": "Syren and Syren Song",
+    "Category": [
+      "Template",
+      "Magic",
+      "Creature"
+    ],
+    "Book": "Horror",
+    "Page": "155",
+    "Link": "H155"
   },
   {
     "Rule": "Takedown after Grapple",
@@ -9668,6 +10792,15 @@
     "Book": "Magical Styles: Dungeon Magic",
     "Page": "37",
     "Link": "MSDM37"
+  },
+  {
+    "Rule": "The Art of the Serpent Magical Style",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: The Reptilian Races",
+    "Page": "18",
+    "Link": "FFRR18"
   },
   {
     "Rule": "The Medieval University Curriculum",
@@ -9944,7 +11077,7 @@
     "Category": [
       "Trait"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "18",
     "Link": "FFE18"
   },
@@ -9956,6 +11089,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "16",
     "Link": "PU3:16"
+  },
+  {
+    "Rule": "Troll",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "31",
+    "Link": "DFM1:31"
   },
   {
     "Rule": "Troubador 125 pt Lens",
@@ -10091,6 +11233,15 @@
     "Link": "B383"
   },
   {
+    "Rule": "Undead Slime",
+    "Category": [
+      "Undead"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "32",
+    "Link": "DFM1:32"
+  },
+  {
     "Rule": "Undead-Slayer (PC Class)",
     "Category": [
       "Template"
@@ -10155,6 +11306,15 @@
     "Link": "BS215"
   },
   {
+    "Rule": "Underwater Archery",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "19",
+    "Link": "FFE19"
+  },
+  {
     "Rule": "Underworld Mage (Black Robe)",
     "Category": [
       "Template",
@@ -10181,6 +11341,15 @@
     "Book": "Dungeon Fantasy 11",
     "Page": "36",
     "Link": "DF11:32"
+  },
+  {
+    "Rule": "Unseelie",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "83",
+    "Link": "H83"
   },
   {
     "Rule": "Unseelie Talent",
@@ -10389,6 +11558,16 @@
     "Link": "PU1:5"
   },
   {
+    "Rule": "Using Naturalist to Identify Goo",
+    "Category": [
+      "Skills",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 2",
+    "Page": "19",
+    "Link": "DFM2:19"
+  },
+  {
     "Rule": "Vacuum",
     "Category": [
       "Hazard"
@@ -10396,6 +11575,16 @@
     "Book": "Basic",
     "Page": "437",
     "Link": "B437"
+  },
+  {
+    "Rule": "Vampire",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "Horror",
+    "Page": "57",
+    "Link": "H57"
   },
   {
     "Rule": "Vehicle Hit Location Table",
@@ -10515,6 +11704,15 @@
     "Link": "BS217"
   },
   {
+    "Rule": "Water Foraging",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "After the End 2",
+    "Page": "31",
+    "Link": "ATE2:31"
+  },
+  {
     "Rule": "Watercraft Table",
     "Category": [
       "Reference",
@@ -10523,6 +11721,15 @@
     "Book": "Fantasy Tech 1",
     "Page": "21",
     "Link": "FT1:21"
+  },
+  {
+    "Rule": "Waterproof",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "20",
+    "Link": "FFE20"
   },
   {
     "Rule": "Weapon and Armor Crafting",
@@ -10591,6 +11798,16 @@
     "Link": "B391"
   },
   {
+    "Rule": "Wendigo (Spirit and Beast Form)",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Horror",
+    "Page": "72",
+    "Link": "H72"
+  },
+  {
     "Rule": "Were-Creatures",
     "Category": [
       "Trait",
@@ -10599,6 +11816,15 @@
     "Book": "Basic",
     "Page": "84",
     "Link": "B84"
+  },
+  {
+    "Rule": "Werewolf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "61",
+    "Link": "H61"
   },
   {
     "Rule": "Whaling",
@@ -10657,13 +11883,147 @@
     "Link": "DF16:16"
   },
   {
+    "Rule": "Wilderness Stunts",
+    "Category": [
+      "Physical Act",
+      "Activities"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "28",
+    "Link": "DF16:28"
+  },
+  {
+    "Rule": "Wildspeak",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Fantasy Folk: Elves",
+    "Page": "19",
+    "Link": "FFE19"
+  },
+  {
     "Rule": "Winged Elf",
     "Category": [
       "Template"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "16",
     "Link": "FFE16"
+  },
+  {
+    "Rule": "Winged Folk",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "11",
+    "Link": "FFWF11"
+  },
+  {
+    "Rule": "Winged Folk Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "23",
+    "Link": "FFWF23"
+  },
+  {
+    "Rule": "Winged Folk Herd Animals",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "25",
+    "Link": "FFWF25"
+  },
+  {
+    "Rule": "Winged Folk Magical Styles",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "15",
+    "Link": "FFWF15"
+  },
+  {
+    "Rule": "Winged Folk Martial Arts Styles",
+    "Category": [
+      "Skills",
+      "Techniques"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "14",
+    "Link": "FFWF14"
+  },
+  {
+    "Rule": "Winged Folk Mercenary",
+    "Category": [
+      "Template",
+      "Profession"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "19",
+    "Link": "FFWF19"
+  },
+  {
+    "Rule": "Winged Folk Rights of Passage",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "8",
+    "Link": "FFWF8"
+  },
+  {
+    "Rule": "Winged Folk Shaman",
+    "Category": [
+      "Template",
+      "Profession"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "20",
+    "Link": "FFWF20"
+  },
+  {
+    "Rule": "Winged Folk Storyteller",
+    "Category": [
+      "Template",
+      "Profession"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "20",
+    "Link": "FFWF20"
+  },
+  {
+    "Rule": "Winged Folk Trader",
+    "Category": [
+      "Template",
+      "Profession"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "22",
+    "Link": "FFWF22"
+  },
+  {
+    "Rule": "Winged Folk Weapons Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Fantasy Folk: Winged Folk",
+    "Page": "24",
+    "Link": "FFWF24"
+  },
+  {
+    "Rule": "Witch",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "82",
+    "Link": "H82"
   },
   {
     "Rule": "Wizard (PC Class)",
@@ -10733,11 +12093,20 @@
     "Link": "DF8:42"
   },
   {
+    "Rule": "Wolf-Man (Human and Beast Form)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "62",
+    "Link": "H62"
+  },
+  {
     "Rule": "Wood Elf",
     "Category": [
       "Template"
     ],
-    "Book": "Fantasy Folk Elves",
+    "Book": "Fantasy Folk: Elves",
     "Page": "16",
     "Link": "FFE16"
   },
@@ -10837,5 +12206,24 @@
     "Book": "Basic",
     "Page": "228",
     "Link": "B228"
+  },
+  {
+    "Rule": "Yrth Kobolds",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Folk: Kobolds",
+    "Page": "10",
+    "Link": "FFK10"
+  },
+  {
+    "Rule": "Zombies",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "Horror",
+    "Page": "90",
+    "Link": "H90"
   }
 ]
