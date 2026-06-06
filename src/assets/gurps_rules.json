@@ -453,6 +453,16 @@
     "Link": "HT178"
   },
   {
+    "Rule": "Ammunition Table (Post-Apocalyptic)",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "After the End 1",
+    "Page": "32",
+    "Link": "ATE1:32"
+  },
+  {
     "Rule": "Ammunition Tables for all Types of Guns",
     "Category": [
       "Reference",
@@ -730,6 +740,16 @@
     "Link": "LTC3:25"
   },
   {
+    "Rule": "Arson Tools (Action)",
+    "Category": [
+      "Gear",
+      "Setting"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "26",
+    "Link": "ACT1:26"
+  },
+  {
     "Rule": "Artificer (PC Class)",
     "Category": [
       "Template"
@@ -793,6 +813,15 @@
     "Link": "B67"
   },
   {
+    "Rule": "Assassin (Action)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "7",
+    "Link": "ACT1:7"
+  },
+  {
     "Rule": "Assassin (PC Class)",
     "Category": [
       "Template"
@@ -800,6 +829,16 @@
     "Book": "Dungeon Fantasy 12",
     "Page": "9",
     "Link": "DF12:9"
+  },
+  {
+    "Rule": "Assistance Rolls and Table",
+    "Category": [
+      "Reference",
+      "Setting"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "24",
+    "Link": "ACT1:24"
   },
   {
     "Rule": "Astrology",
@@ -1895,9 +1934,9 @@
       "Reference",
       "Weapons"
     ],
-    "Book": "Low Tech",
-    "Page": "89",
-    "Link": "LT89"
+    "Book": "High Tech",
+    "Page": "140",
+    "Link": "HT140"
   },
   {
     "Rule": "Cannon Table",
@@ -1905,9 +1944,9 @@
       "Reference",
       "Weapons"
     ],
-    "Book": "High Tech",
-    "Page": "140",
-    "Link": "HT140"
+    "Book": "Low Tech",
+    "Page": "89",
+    "Link": "LT89"
   },
   {
     "Rule": "Cannot Read Music Quirk",
@@ -2149,6 +2188,15 @@
     "Link": "BS204"
   },
   {
+    "Rule": "Chemicals and Munitions",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "After the End 2",
+    "Page": "9",
+    "Link": "ATE2:9"
+  },
+  {
     "Rule": "Chi Mastery Power (Dungeon Fantasy)",
     "Category": [
       "Trait"
@@ -2228,6 +2276,15 @@
     "Book": "Dungeon Fantasy 7",
     "Page": "11",
     "Link": "DF7:11"
+  },
+  {
+    "Rule": "Cleaner",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "8",
+    "Link": "ACT1:8"
   },
   {
     "Rule": "Cleaning and Maintenance of a Firearm",
@@ -2365,6 +2422,27 @@
     "Book": "Low Tech",
     "Page": "97",
     "Link": "LT97"
+  },
+  {
+    "Rule": "Clothing and Armor of the Action Hero",
+    "Category": [
+      "Gear",
+      "Setting"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "31",
+    "Link": "ACT1:31"
+  },
+  {
+    "Rule": "Clothing and Armor Table (Action)",
+    "Category": [
+      "Reference",
+      "Gear",
+      "Setting"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "31",
+    "Link": "ACT1:31"
   },
   {
     "Rule": "Clothing and Status",
@@ -2524,6 +2602,16 @@
     "Book": "Basic",
     "Page": "383",
     "Link": "B383"
+  },
+  {
+    "Rule": "Common Gear in a Post-Apocalyptic Game",
+    "Category": [
+      "Gear",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "29",
+    "Link": "ATE1:29"
   },
   {
     "Rule": "Common Item Enchantments",
@@ -2756,6 +2844,16 @@
     "Book": "Low Tech Companion 3",
     "Page": "27",
     "Link": "LTC3:27"
+  },
+  {
+    "Rule": "Criminal (Action Lens)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "4",
+    "Link": "ACT1:4"
   },
   {
     "Rule": "Criminal Mage",
@@ -3106,6 +3204,24 @@
     "Link": "DF1:25"
   },
   {
+    "Rule": "Demolition Man",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "8",
+    "Link": "ACT1:8"
+  },
+  {
+    "Rule": "Demolition Tools (Action)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "26",
+    "Link": "ACT1:26"
+  },
+  {
     "Rule": "Demon",
     "Category": [
       "Template"
@@ -3279,6 +3395,25 @@
     "Link": "B350"
   },
   {
+    "Rule": "Disadvantage Limit -50 for Action Campaigns",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "20",
+    "Link": "ACT1:20"
+  },
+  {
+    "Rule": "Disadvantage Limit for Post-Apocalyptic Campaigns",
+    "Category": [
+      "Trait",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "21",
+    "Link": "ATE1:21"
+  },
+  {
     "Rule": "Disadvantage List",
     "Category": [
       "Reference",
@@ -3296,6 +3431,15 @@
     "Book": "Basic",
     "Page": "401",
     "Link": "B401"
+  },
+  {
+    "Rule": "Disease in a Post-Apocalyptic World",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "After the End 2",
+    "Page": "13",
+    "Link": "ATE2:13"
   },
   {
     "Rule": "Disguised Firearms",
@@ -3402,6 +3546,16 @@
     "Book": "Basic",
     "Page": "364",
     "Link": "B364"
+  },
+  {
+    "Rule": "Doc (Post-Apocalypse)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "4",
+    "Link": "ATE1:4"
   },
   {
     "Rule": "Doctor",
@@ -4256,6 +4410,15 @@
     "Link": "DF3:39"
   },
   {
+    "Rule": "Enhanced Dodge (Dive for Cover)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "18",
+    "Link": "ACT1:18"
+  },
+  {
     "Rule": "Enhancement Imbuement Skills",
     "Category": [
       "Skills",
@@ -4684,6 +4847,15 @@
     "Link": "HT225"
   },
   {
+    "Rule": "Face Man",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "9",
+    "Link": "ACT1:9"
+  },
+  {
     "Rule": "Facing Changes",
     "Category": [
       "Combat"
@@ -4980,6 +5152,16 @@
     "Link": "HT78"
   },
   {
+    "Rule": "Firearms and Explosives (Post-Apocalyptic)",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "After the End 1",
+    "Page": "32",
+    "Link": "ATE1:32"
+  },
+  {
     "Rule": "Firearms Table",
     "Category": [
       "Reference",
@@ -4988,6 +5170,17 @@
     "Book": "Basic",
     "Page": "278",
     "Link": "B278"
+  },
+  {
+    "Rule": "Firearms Table (Action)",
+    "Category": [
+      "Reference",
+      "Weapons",
+      "Setting"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "32",
+    "Link": "ACT1:32"
   },
   {
     "Rule": "Firing in Space",
@@ -6089,6 +6282,15 @@
     "Link": "HT160"
   },
   {
+    "Rule": "Gun Perks",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "18",
+    "Link": "ACT1:18"
+  },
+  {
     "Rule": "Gun-Cleaning Kit",
     "Category": [
       "Gear"
@@ -6107,6 +6309,15 @@
     "Link": "FT1:34"
   },
   {
+    "Rule": "Gunslinger",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "58",
+    "Link": "B58"
+  },
+  {
     "Rule": "H&K MP5",
     "Category": [
       "Weapons"
@@ -6114,6 +6325,15 @@
     "Book": "High Tech",
     "Page": "123",
     "Link": "HT123"
+  },
+  {
+    "Rule": "Hacker",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "10",
+    "Link": "ACT1:10"
   },
   {
     "Rule": "Haggling while Selling Loot",
@@ -6727,6 +6947,26 @@
     "Link": "B557"
   },
   {
+    "Rule": "Hulk (Post-Apocalypse)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "6",
+    "Link": "ATE1:6"
+  },
+  {
+    "Rule": "Hunter (Post-Apocalypse)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "8",
+    "Link": "ATE1:8"
+  },
+  {
     "Rule": "Hunting",
     "Category": [
       "Activities",
@@ -6898,6 +7138,15 @@
     "Link": "F67"
   },
   {
+    "Rule": "Infiltrator",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "11",
+    "Link": "ACT1:11"
+  },
+  {
     "Rule": "Inflicting Pain with Locks",
     "Category": [
       "Combat"
@@ -7000,6 +7249,16 @@
     "Link": "B423"
   },
   {
+    "Rule": "Intelligence (Action Lens)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "4",
+    "Link": "ACT1:4"
+  },
+  {
     "Rule": "Intuitive Admiral Talent",
     "Category": [
       "Trait"
@@ -7016,6 +7275,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "11",
     "Link": "PU3:11"
+  },
+  {
+    "Rule": "Investigator",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "12",
+    "Link": "ACT1:12"
   },
   {
     "Rule": "Iron Mage (Red Robe)",
@@ -7399,6 +7667,16 @@
     "Link": "HT181"
   },
   {
+    "Rule": "Law Enforcement (Action Lens)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "5",
+    "Link": "ACT1:5"
+  },
+  {
     "Rule": "Layered Armor",
     "Category": [
       "Armor"
@@ -7482,6 +7760,26 @@
     "Book": "Martial Arts",
     "Page": "76",
     "Link": "MA76"
+  },
+  {
+    "Rule": "Legal Enforcement Powers",
+    "Category": [
+      "Trait",
+      "Setting"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "25",
+    "Link": "ACT1:25"
+  },
+  {
+    "Rule": "Lenses for Post-Apocalyptic Templates",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "17",
+    "Link": "ATE1:17"
   },
   {
     "Rule": "Leprous Touch",
@@ -8199,6 +8497,15 @@
     "Link": "HT40"
   },
   {
+    "Rule": "Medic",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "13",
+    "Link": "ACT1:13"
+  },
+  {
     "Rule": "Medical Care",
     "Category": [
       "Profession",
@@ -8273,6 +8580,17 @@
     "Book": "Basic",
     "Page": "271",
     "Link": "B271"
+  },
+  {
+    "Rule": "Melee Weapons Table (Action)",
+    "Category": [
+      "Reference",
+      "Weapons",
+      "Setting"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "33",
+    "Link": "ACT1:33"
   },
   {
     "Rule": "Melee Weapons Table (Low Tech)",
@@ -8357,6 +8675,16 @@
     "Book": "Martial Arts",
     "Page": "131",
     "Link": "MA131"
+  },
+  {
+    "Rule": "Military (Action Lens)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "5",
+    "Link": "ACT1:5"
   },
   {
     "Rule": "Mine Kobolds",
@@ -8788,6 +9116,16 @@
     "Link": "LT93"
   },
   {
+    "Rule": "Mutations in a Post-Apocalyptic Campaign",
+    "Category": [
+      "Setting",
+      "Traits"
+    ],
+    "Book": "After the End 1",
+    "Page": "25",
+    "Link": "ATE1:25"
+  },
+  {
     "Rule": "Mystic",
     "Category": [
       "Template",
@@ -8805,6 +9143,15 @@
     "Book": "Horror",
     "Page": "39",
     "Link": "H39"
+  },
+  {
+    "Rule": "Nanotech and Nanoviruses",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "After the End 2",
+    "Page": "22",
+    "Link": "ATE2:22"
   },
   {
     "Rule": "Native Guide",
@@ -9101,6 +9448,16 @@
     "Book": "Martial Arts",
     "Page": "131",
     "Link": "MA131"
+  },
+  {
+    "Rule": "Nomad (Post-Apocalypse)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "9",
+    "Link": "ATE1:9"
   },
   {
     "Rule": "Non-Human Hit Location Tables",
@@ -9427,6 +9784,15 @@
     "Book": "Horror",
     "Page": "12",
     "Link": "H12"
+  },
+  {
+    "Rule": "Paramilitaries in the Post-Apocalyptic World",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "After the End 2",
+    "Page": "23",
+    "Link": "ATE2:23"
   },
   {
     "Rule": "Parapsychologist Talent",
@@ -10103,6 +10469,15 @@
     "Link": "B436"
   },
   {
+    "Rule": "Radiation Rules Optional and Simplified",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "After the End 1",
+    "Page": "24",
+    "Link": "ATE1:24"
+  },
+  {
     "Rule": "Rage Barbarian (Denizens)",
     "Category": [
       "Template"
@@ -10336,6 +10711,26 @@
     "Link": "HT86"
   },
   {
+    "Rule": "Reloading Gun Cartridges (Post-Apocalyptic)",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "After the End 1",
+    "Page": "32",
+    "Link": "ATE1:32"
+  },
+  {
+    "Rule": "Reloading Press",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "After the End 1",
+    "Page": "30",
+    "Link": "ATE1:30"
+  },
+  {
     "Rule": "Repairing Armor and Shields",
     "Category": [
       "Armor"
@@ -10564,6 +10959,15 @@
     "Link": "HT99"
   },
   {
+    "Rule": "Rogue Bots in the Post-Apocalyptic World",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "After the End 2",
+    "Page": "25",
+    "Link": "ATE2:25"
+  },
+  {
     "Rule": "Rogue Swashbuckler (Denizens)",
     "Category": [
       "Template"
@@ -10608,6 +11012,15 @@
     "Book": "Basic",
     "Page": "9",
     "Link": "B9"
+  },
+  {
+    "Rule": "Ruins and Bunkers in the Post-Apocalyptic Game",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "After the End 2",
+    "Page": "32",
+    "Link": "ATE2:32"
   },
   {
     "Rule": "Ruses in Combat",
@@ -10672,6 +11085,25 @@
     "Book": "Basic",
     "Page": "414",
     "Link": "B414"
+  },
+  {
+    "Rule": "Scavenger (Post-Apocalypse)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "11",
+    "Link": "ATE1:11"
+  },
+  {
+    "Rule": "Scavenging in the Post-Apocalyptic World",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "After the End 2",
+    "Page": "36",
+    "Link": "ATE2:36"
   },
   {
     "Rule": "Scholar (PC Class)",
@@ -10827,6 +11259,16 @@
     "Book": "Fantasy Folk: Winged Folk",
     "Page": "17",
     "Link": "FFWF17"
+  },
+  {
+    "Rule": "Security (Action Lens)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "5",
+    "Link": "ACT1:5"
   },
   {
     "Rule": "Sedan TL6",
@@ -11143,6 +11585,15 @@
     "Book": "Basic",
     "Page": "419",
     "Link": "B419"
+  },
+  {
+    "Rule": "Shooter",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "14",
+    "Link": "ACT1:14"
   },
   {
     "Rule": "Shooting Blind",
@@ -11579,6 +12030,15 @@
     "Link": "DF1:23"
   },
   {
+    "Rule": "Specialized Limitation for Gadgeteer",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "After the End 1",
+    "Page": "20",
+    "Link": "ATE1:20"
+  },
+  {
     "Rule": "Specific Prayer (1d seconds of silent prayer)",
     "Category": [
       "Divinity",
@@ -11805,6 +12265,16 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "15",
     "Link": "PU3:15"
+  },
+  {
+    "Rule": "Standard Issue Gear of the Action Hero",
+    "Category": [
+      "Gear",
+      "Setting"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "27",
+    "Link": "ACT1:27"
   },
   {
     "Rule": "Standard Operating Procedure Perk",
@@ -12491,6 +12961,16 @@
     "Link": "MA52"
   },
   {
+    "Rule": "Tech (Post-Apocalypse)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "12",
+    "Link": "ATE1:12"
+  },
+  {
     "Rule": "Tech Level and Starting Wealth",
     "Category": [
       "Attributes"
@@ -12498,6 +12978,15 @@
     "Book": "Basic",
     "Page": "27",
     "Link": "B27"
+  },
+  {
+    "Rule": "Tech Level of the Post-Apocalyptic Campaign",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "After the End 2",
+    "Page": "7",
+    "Link": "ATE2:7"
   },
   {
     "Rule": "Tech TL8",
@@ -12772,6 +13261,16 @@
     "Link": "B428"
   },
   {
+    "Rule": "Tools and Gear of the Action Hero",
+    "Category": [
+      "Gear",
+      "Setting"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "26",
+    "Link": "ACT1:26"
+  },
+  {
     "Rule": "Tools and Kits (High Tech)",
     "Category": [
       "Gear"
@@ -12826,6 +13325,16 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "16",
     "Link": "PU3:16"
+  },
+  {
+    "Rule": "Trader (Post-Apocalypse)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "14",
+    "Link": "ATE1:14"
   },
   {
     "Rule": "Training Expenses",
@@ -12957,6 +13466,16 @@
     "Book": "Dungeon Fantasy Monsters 1",
     "Page": "31",
     "Link": "DFM1:31"
+  },
+  {
+    "Rule": "Trooper (Post-Apocalypse)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "16",
+    "Link": "ATE1:16"
   },
   {
     "Rule": "Troubador 125 pt Lens",
@@ -13485,6 +14004,17 @@
     "Link": "B554"
   },
   {
+    "Rule": "Vehicle Table (Action)",
+    "Category": [
+      "Reference",
+      "Vehicle",
+      "Setting"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "34",
+    "Link": "ACT1:34"
+  },
+  {
     "Rule": "Vehicles (Fantasy)",
     "Category": [
       "Vehicle"
@@ -13492,6 +14022,16 @@
     "Book": "Fantasy",
     "Page": "141",
     "Link": "F141"
+  },
+  {
+    "Rule": "Vehicles in a Post-Apocalyptic Game",
+    "Category": [
+      "Vehicle",
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "33",
+    "Link": "ATE1:33"
   },
   {
     "Rule": "Vehicles Table (Dungeon Fantasy)",
@@ -13651,6 +14191,15 @@
     "Link": "FFE20"
   },
   {
+    "Rule": "Wealth in a Post-Apocalyptic Game",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "After the End 1",
+    "Page": "28",
+    "Link": "ATE1:28"
+  },
+  {
     "Rule": "Weapon and Armor Crafting",
     "Category": [
       "Profession"
@@ -13753,6 +14302,15 @@
     "Book": "Low Tech Companion 3",
     "Page": "8",
     "Link": "LTC3:8"
+  },
+  {
+    "Rule": "Wheel Man",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "14",
+    "Link": "ACT1:14"
   },
   {
     "Rule": "Wheelchairs TL6 to TL8",
@@ -13943,6 +14501,15 @@
     "Book": "Fantasy Folk: Winged Folk",
     "Page": "24",
     "Link": "FFWF24"
+  },
+  {
+    "Rule": "Wire Rat",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 1: Heroes",
+    "Page": "16",
+    "Link": "ACT1:16"
   },
   {
     "Rule": "Witch",
