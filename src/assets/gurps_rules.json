@@ -2,11 +2,20 @@
   {
     "Rule": "Absurd Rapiers",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy Tech 2",
     "Page": "9",
     "Link": "FT2:9"
+  },
+  {
+    "Rule": "Academic",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "33",
+    "Link": "H33"
   },
   {
     "Rule": "Academic Talent",
@@ -127,6 +136,16 @@
     "Link": "B440"
   },
   {
+    "Rule": "Additional Dragon Abilities",
+    "Category": [
+      "Creatures",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "13",
+    "Link": "DFM4:13"
+  },
+  {
     "Rule": "Adept 125 pt Lens",
     "Category": [
       "Template",
@@ -220,6 +239,26 @@
     "Book": "Low Tech",
     "Page": "80",
     "Link": "LT80"
+  },
+  {
+    "Rule": "Air Conveyances Table TL5 to TL8",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "High Tech",
+    "Page": "232",
+    "Link": "HT232"
+  },
+  {
+    "Rule": "Air Guns Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "88",
+    "Link": "HT88"
   },
   {
     "Rule": "Alchemical Charms",
@@ -360,11 +399,21 @@
   {
     "Rule": "Alternate Arrows",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "73",
     "Link": "LT73"
+  },
+  {
+    "Rule": "Alternative Attacks",
+    "Category": [
+      "Trait",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "61",
+    "Link": "B61"
   },
   {
     "Rule": "Aluminum Metal",
@@ -386,6 +435,34 @@
     "Link": "DF10:4"
   },
   {
+    "Rule": "Ammunition and Warheads",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "161",
+    "Link": "HT161"
+  },
+  {
+    "Rule": "Ammunition Interchangeability",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "178",
+    "Link": "HT178"
+  },
+  {
+    "Rule": "Ammunition Tables for all Types of Guns",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "176",
+    "Link": "HT176"
+  },
+  {
     "Rule": "An * Next to DR in an Armor Table Indicates Flexible",
     "Category": [
       "Armor"
@@ -402,6 +479,16 @@
     "Book": "Fantasy Folk: The Reptilian Races",
     "Page": "20",
     "Link": "FFRR20"
+  },
+  {
+    "Rule": "Anesthesia TL5 to TL8",
+    "Category": [
+      "Gear",
+      "Injury"
+    ],
+    "Book": "High Tech",
+    "Page": "224",
+    "Link": "HT224"
   },
   {
     "Rule": "Angels and Demons (Dungeon Fantasy)",
@@ -462,6 +549,15 @@
     "Link": "PU3:6"
   },
   {
+    "Rule": "Antisepsis TL5 to TL8",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "225",
+    "Link": "HT225"
+  },
+  {
     "Rule": "Appearance Perks",
     "Category": [
       "Trait"
@@ -501,6 +597,15 @@
     "Link": "DF15:8"
   },
   {
+    "Rule": "Area and Spreading Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "413",
+    "Link": "B413"
+  },
+  {
     "Rule": "Aristocrat Swashbuckler (Denizens)",
     "Category": [
       "Template"
@@ -508,6 +613,15 @@
     "Book": "Dungeon Fantasy Denizens Swashbucklers",
     "Page": "6",
     "Link": "DFDS6"
+  },
+  {
+    "Rule": "Aristocrat TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "34",
+    "Link": "H34"
   },
   {
     "Rule": "Arm Lock",
@@ -526,6 +640,15 @@
     "Book": "Martial Arts",
     "Page": "65",
     "Link": "MA65"
+  },
+  {
+    "Rule": "Armor and Protective Gear (High Tech)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "65",
+    "Link": "HT65"
   },
   {
     "Rule": "Armor Enchantment Table",
@@ -652,6 +775,15 @@
     "Link": "PU3:6"
   },
   {
+    "Rule": "Artist TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "34",
+    "Link": "H34"
+  },
+  {
     "Rule": "Aspected Magery",
     "Category": [
       "Magic"
@@ -743,6 +875,15 @@
     "Book": "Martial Arts",
     "Page": "127",
     "Link": "MA127"
+  },
+  {
+    "Rule": "Attorney TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "35",
+    "Link": "H35"
   },
   {
     "Rule": "Aura of Chaos",
@@ -914,6 +1055,24 @@
     "Book": "Pyramid Dungeon Fantasy Collected",
     "Page": "89",
     "Link": "PDFC89"
+  },
+  {
+    "Rule": "Automatic Revolver",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "97",
+    "Link": "HT97"
+  },
+  {
+    "Rule": "Automatic Weapons",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "82",
+    "Link": "HT82"
   },
   {
     "Rule": "Awarding Character Points",
@@ -1175,6 +1334,24 @@
     "Link": "DFM3:5"
   },
   {
+    "Rule": "Bayonets",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "197",
+    "Link": "HT197"
+  },
+  {
+    "Rule": "Beam Innate Attack",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "201",
+    "Link": "B201"
+  },
+  {
     "Rule": "Bear Hug while Grappling",
     "Category": [
       "Combat"
@@ -1212,6 +1389,15 @@
     "Link": "DFDB9"
   },
   {
+    "Rule": "Biplane TL6",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "High Tech",
+    "Page": "233",
+    "Link": "HT233"
+  },
+  {
     "Rule": "Biting in Close Combat",
     "Category": [
       "Combat"
@@ -1231,9 +1417,27 @@
     "Link": "LT85"
   },
   {
+    "Rule": "Black Powder Locks",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "164",
+    "Link": "HT164"
+  },
+  {
+    "Rule": "Black-Powder Fouling",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "86",
+    "Link": "HT86"
+  },
+  {
     "Rule": "Blade Composition",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "275",
@@ -1281,7 +1485,7 @@
     "Rule": "Blunderbusses and Shotguns Table",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "92",
@@ -1311,7 +1515,7 @@
     "Rule": "Bolas Special Ranged Rules",
     "Category": [
       "Combat",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "410",
@@ -1321,11 +1525,21 @@
     "Rule": "Bombards Table",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "88",
     "Link": "LT88"
+  },
+  {
+    "Rule": "Bombs and Bombs Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "194",
+    "Link": "HT194"
   },
   {
     "Rule": "Bonesetting Hard Technique",
@@ -1411,9 +1625,18 @@
     "Link": "PU3:12"
   },
   {
+    "Rule": "Bow Accessories (TL7)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "201",
+    "Link": "HT201"
+  },
+  {
     "Rule": "Bows Crossbows and Rated ST",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "74",
@@ -1469,6 +1692,15 @@
     "Book": "Dungeon Fantasy 2",
     "Page": "18",
     "Link": "DF2:18"
+  },
+  {
+    "Rule": "Breath Innate Attack",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "201",
+    "Link": "B201"
   },
   {
     "Rule": "Brewing and Distilling",
@@ -1528,6 +1760,15 @@
     "Link": "DFM1:6"
   },
   {
+    "Rule": "Building a Nuclear Bomb",
+    "Category": [
+      "Crafting"
+    ],
+    "Book": "High Tech",
+    "Page": "196",
+    "Link": "HT196"
+  },
+  {
     "Rule": "Building Construction Materials Quality Time",
     "Category": [
       "Profession",
@@ -1540,7 +1781,7 @@
   {
     "Rule": "Bulk Rating for Ranged Weapons",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "270",
@@ -1604,6 +1845,15 @@
     "Link": "TMS19"
   },
   {
+    "Rule": "Camouflage Clothing TL6",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "76",
+    "Link": "HT76"
+  },
+  {
     "Rule": "Camping in the Wild (Dungeon Fantasy)",
     "Category": [
       "Activities"
@@ -1631,14 +1881,33 @@
     "Link": "M10"
   },
   {
+    "Rule": "Cannon",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "138",
+    "Link": "HT138"
+  },
+  {
     "Rule": "Cannon Table",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "89",
     "Link": "LT89"
+  },
+  {
+    "Rule": "Cannon Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "140",
+    "Link": "HT140"
   },
   {
     "Rule": "Cannot Read Music Quirk",
@@ -1649,6 +1918,15 @@
     "Book": "Low Tech Companion 1",
     "Page": "19",
     "Link": "LTC1:19"
+  },
+  {
+    "Rule": "Careful Loading",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "86",
+    "Link": "HT86"
   },
   {
     "Rule": "Cargo Ships",
@@ -1691,10 +1969,19 @@
     "Link": "LT2:19"
   },
   {
+    "Rule": "Caseless-Ammo Rifles",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "119",
+    "Link": "HT119"
+  },
+  {
     "Rule": "Casting Magic Item Table",
     "Category": [
       "Magic",
-      "Weapon",
+      "Weapons",
       "DFRPG"
     ],
     "Book": "Dungeon Fantasy Magic Items 1",
@@ -1705,7 +1992,7 @@
     "Rule": "Casting Spells Through a Staff",
     "Category": [
       "Magic",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Magic",
     "Page": "13",
@@ -1755,6 +2042,15 @@
     "Book": "Magic",
     "Page": "12",
     "Link": "M12"
+  },
+  {
+    "Rule": "Chambered Rounds",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "88",
+    "Link": "HT88"
   },
   {
     "Rule": "Champion 125 pt Lens",
@@ -1836,7 +2132,7 @@
     "Rule": "Charged Magic Item Table",
     "Category": [
       "Magic",
-      "Weapon",
+      "Weapons",
       "DFRPG"
     ],
     "Book": "Dungeon Fantasy Magic Items 1",
@@ -1869,6 +2165,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "7",
     "Link": "PU3:7"
+  },
+  {
+    "Rule": "Child TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "35",
+    "Link": "H35"
   },
   {
     "Rule": "Choke Hold",
@@ -1923,6 +2228,15 @@
     "Book": "Dungeon Fantasy 7",
     "Page": "11",
     "Link": "DF7:11"
+  },
+  {
+    "Rule": "Cleaning and Maintenance of a Firearm",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "80",
+    "Link": "HT80"
   },
   {
     "Rule": "Cleric (PC Class)",
@@ -2243,6 +2557,16 @@
     "Link": "DF1:29"
   },
   {
+    "Rule": "Communications (High Tech)",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "High Tech",
+    "Page": "35",
+    "Link": "HT35"
+  },
+  {
     "Rule": "Components of a Magical Style",
     "Category": [
       "Skills",
@@ -2307,6 +2631,15 @@
     "Book": "Basic",
     "Page": "437",
     "Link": "B437"
+  },
+  {
+    "Rule": "Conventional Explosives",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "183",
+    "Link": "HT183"
   },
   {
     "Rule": "Corpse Golem",
@@ -2435,6 +2768,15 @@
     "Link": "TUM10"
   },
   {
+    "Rule": "Criminal TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "36",
+    "Link": "H36"
+  },
+  {
     "Rule": "Crippling Injury",
     "Category": [
       "Injury"
@@ -2486,7 +2828,7 @@
     "Rule": "Crossbows Special Ranged Rules",
     "Category": [
       "Combat",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "410",
@@ -2582,7 +2924,7 @@
     "Rule": "Damage Done to Weapons",
     "Category": [
       "Combat",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech Companion 2",
     "Page": "23",
@@ -2874,6 +3216,15 @@
     "Link": "DF20:8"
   },
   {
+    "Rule": "Detective TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "37",
+    "Link": "H37"
+  },
+  {
     "Rule": "Devilkin (Imps) (Dungeon Fantasy)",
     "Category": [
       "Creatures"
@@ -2894,7 +3245,7 @@
   {
     "Rule": "Diabolical Whips",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy Tech 2",
     "Page": "12",
@@ -2945,6 +3296,15 @@
     "Book": "Basic",
     "Page": "401",
     "Link": "B401"
+  },
+  {
+    "Rule": "Disguised Firearms",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "98",
+    "Link": "HT98"
   },
   {
     "Rule": "Distraction and Injury While Spellcasting",
@@ -3054,6 +3414,15 @@
     "Link": "MAG28"
   },
   {
+    "Rule": "Doctor TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "37",
+    "Link": "H37"
+  },
+  {
     "Rule": "Dodge and Drop",
     "Category": [
       "Combat"
@@ -3061,6 +3430,15 @@
     "Book": "Basic",
     "Page": "377",
     "Link": "B377"
+  },
+  {
+    "Rule": "Doesn't Breathe (-50% Gills)",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "71",
+    "Link": "BT71"
   },
   {
     "Rule": "Doppelganger",
@@ -3083,7 +3461,7 @@
   {
     "Rule": "Double-Ended Weapon Fighting",
     "Category": [
-      "Weapon",
+      "Weapons",
       "Skills",
       "Techniques",
       "Trait"
@@ -3095,7 +3473,7 @@
   {
     "Rule": "Double-Ended Weapons",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy Tech 2",
     "Page": "5",
@@ -3105,7 +3483,7 @@
     "Rule": "Double-Ended Weapons Table",
     "Category": [
       "Reference",
-      "Weapon",
+      "Weapons",
       "Skills"
     ],
     "Book": "Fantasy Tech 2",
@@ -3122,6 +3500,95 @@
     "Link": "B371"
   },
   {
+    "Rule": "Dragon Deadlier Weapons",
+    "Category": [
+      "Creatures",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "12",
+    "Link": "DFM4:12"
+  },
+  {
+    "Rule": "Dragon Flight",
+    "Category": [
+      "Creatures",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "16",
+    "Link": "DFM4:16"
+  },
+  {
+    "Rule": "Dragon Formidable Defenses",
+    "Category": [
+      "Creatures",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "11",
+    "Link": "DFM4:11"
+  },
+  {
+    "Rule": "Dragon Keen Senses",
+    "Category": [
+      "Creatures",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "11",
+    "Link": "DFM4:11"
+  },
+  {
+    "Rule": "Dragon Magic",
+    "Category": [
+      "Creatures",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "13",
+    "Link": "DFM4:13"
+  },
+  {
+    "Rule": "Dragon Size",
+    "Category": [
+      "Creatures",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "15",
+    "Link": "DFM4:15"
+  },
+  {
+    "Rule": "Dragon Sweeping Cone from Side to Side",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "10",
+    "Link": "DFM4:10"
+  },
+  {
+    "Rule": "Dragon Venom",
+    "Category": [
+      "Creatures",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "13",
+    "Link": "DFM4:13"
+  },
+  {
+    "Rule": "Dragon Weaknesses",
+    "Category": [
+      "Creatures",
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "16",
+    "Link": "DFM4:16"
+  },
+  {
     "Rule": "Dragon-Blooded",
     "Category": [
       "Template"
@@ -3129,6 +3596,69 @@
     "Book": "Fantasy Folk: The Reptilian Races",
     "Page": "12",
     "Link": "FFRR12"
+  },
+  {
+    "Rule": "Dragon's Breath Clouds Acid or Frost",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "7",
+    "Link": "DFM4:7"
+  },
+  {
+    "Rule": "Dragon's Breath Clouds Incendiary or Poison",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "8",
+    "Link": "DFM4:8"
+  },
+  {
+    "Rule": "Dragon's Breath Clouds Spark Storm or Vacuum",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "8",
+    "Link": "DFM4:8"
+  },
+  {
+    "Rule": "Dragon's Breath Cone Cold or Disintegreation",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "9",
+    "Link": "DFM4:9"
+  },
+  {
+    "Rule": "Dragon's Breath Cone Fire Heat or Ice",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "10",
+    "Link": "DFM4:10"
+  },
+  {
+    "Rule": "Dragon's Breath Cone Lightning Mana or Sonic",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "10",
+    "Link": "DFM4:10"
+  },
+  {
+    "Rule": "Dragon's Tactics",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "15",
+    "Link": "DFM4:15"
   },
   {
     "Rule": "Dressed to Kill Swashbucklers Clothing",
@@ -3139,6 +3669,15 @@
     "Book": "Dungeon Fantasy Denizens Swashbucklers",
     "Page": "30",
     "Link": "DFDS30"
+  },
+  {
+    "Rule": "Drilling Double-Barrelled Shotgun",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "108",
+    "Link": "HT108"
   },
   {
     "Rule": "Drinkable and Utility Potions",
@@ -3187,6 +3726,15 @@
     "Book": "Low Tech",
     "Page": "150",
     "Link": "LT150"
+  },
+  {
+    "Rule": "Drugs and Poisons TL5 to TL8",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "High Tech",
+    "Page": "226",
+    "Link": "TH226"
   },
   {
     "Rule": "Druid (PC Class)",
@@ -3453,6 +4001,15 @@
     "Link": "FFE14"
   },
   {
+    "Rule": "Electric Gatling Gun",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "135",
+    "Link": "HT135"
+  },
+  {
     "Rule": "Electric Jelly",
     "Category": [
       "Creatures"
@@ -3460,6 +4017,15 @@
     "Book": "Dungeon Fantasy Monsters 1",
     "Page": "13",
     "Link": "DFM1:13"
+  },
+  {
+    "Rule": "Electric Stun Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "199",
+    "Link": "HT199"
   },
   {
     "Rule": "Electricity",
@@ -3529,7 +4095,7 @@
     "Rule": "Elven Bow Table",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy Folk: Elves",
     "Page": "24",
@@ -3576,7 +4142,7 @@
   {
     "Rule": "Elven Seabow",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy Folk: Elves",
     "Page": "24",
@@ -3585,7 +4151,7 @@
   {
     "Rule": "Elven Warbow",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy Folk: Elves",
     "Page": "24",
@@ -3609,6 +4175,15 @@
     "Book": "Dungeon Fantasy 9",
     "Page": "36",
     "Link": "DF9:36"
+  },
+  {
+    "Rule": "EMP",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "196",
+    "Link": "HT196"
   },
   {
     "Rule": "Empath Talent",
@@ -3699,6 +4274,26 @@
     "Book": "Banestorm",
     "Page": "206",
     "Link": "BS206"
+  },
+  {
+    "Rule": "Environment Suits Table",
+    "Category": [
+      "Gear",
+      "Armor",
+      "Environment"
+    ],
+    "Book": "High Tech",
+    "Page": "75",
+    "Link": "HT75"
+  },
+  {
+    "Rule": "Environmental Protection TL5 to TL8",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "72",
+    "Link": "HT72"
   },
   {
     "Rule": "Equipment Camping and Survival",
@@ -3842,7 +4437,7 @@
     "Rule": "Equipment Weapon and Combat Accessories",
     "Category": [
       "Gear",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "289",
@@ -3971,6 +4566,33 @@
     "Link": "PU2:9"
   },
   {
+    "Rule": "Exotic Shotgun Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "103",
+    "Link": "HT103"
+  },
+  {
+    "Rule": "Expedition Gear (High Tech)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "51",
+    "Link": "HT51"
+  },
+  {
+    "Rule": "Explanation of Ammunition Caliber",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "161",
+    "Link": "HT161"
+  },
+  {
     "Rule": "Explorer Talent",
     "Category": [
       "Trait"
@@ -3980,6 +4602,15 @@
     "Link": "PU3:10"
   },
   {
+    "Rule": "Explorer TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "38",
+    "Link": "H38"
+  },
+  {
     "Rule": "Explosions and Blast Radius",
     "Category": [
       "Combat"
@@ -3987,6 +4618,15 @@
     "Book": "Basic",
     "Page": "414",
     "Link": "B414"
+  },
+  {
+    "Rule": "Explosives and Incendiaries",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "181",
+    "Link": "HT181"
   },
   {
     "Rule": "Extra Effort",
@@ -4035,6 +4675,15 @@
     "Link": "B434"
   },
   {
+    "Rule": "Eyeglasses TL5",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "225",
+    "Link": "HT225"
+  },
+  {
     "Rule": "Facing Changes",
     "Category": [
       "Combat"
@@ -4052,6 +4701,24 @@
     "Book": "Basic",
     "Page": "430",
     "Link": "B430"
+  },
+  {
+    "Rule": "Familiarity",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "169",
+    "Link": "B169"
+  },
+  {
+    "Rule": "Fanning and Thumbing",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "83",
+    "Link": "HT83"
   },
   {
     "Rule": "Fantasy Powers and Power Sources",
@@ -4072,6 +4739,25 @@
     "Book": "After the End 2",
     "Page": "28",
     "Link": "ATE2:28"
+  },
+  {
+    "Rule": "Fast-Draw Modifiers",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "81",
+    "Link": "HT81"
+  },
+  {
+    "Rule": "Fast-Firing",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "84",
+    "Link": "HT84"
   },
   {
     "Rule": "Fate-Bender",
@@ -4258,23 +4944,96 @@
     "Link": "DF7:16"
   },
   {
+    "Rule": "Firearm Age",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "80",
+    "Link": "HT80"
+  },
+  {
     "Rule": "Firearm Quality",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "95",
     "Link": "LT95"
   },
   {
+    "Rule": "Firearm Trigger Mechanisms",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "82",
+    "Link": "HT82"
+  },
+  {
+    "Rule": "Firearms",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "78",
+    "Link": "HT78"
+  },
+  {
     "Rule": "Firearms Table",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "278",
     "Link": "B278"
+  },
+  {
+    "Rule": "Firing in Space",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "85",
+    "Link": "HT85"
+  },
+  {
+    "Rule": "Firing in the Air",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "85",
+    "Link": "HT85"
+  },
+  {
+    "Rule": "Firing into Water",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "85",
+    "Link": "HT85"
+  },
+  {
+    "Rule": "Firing Underwater",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "85",
+    "Link": "HT85"
+  },
+  {
+    "Rule": "First Aid Kits and Doctor's Bags TL5 to TL8",
+    "Category": [
+      "Injury",
+      "Skills"
+    ],
+    "Book": "High Tech",
+    "Page": "220",
+    "Link": "HT220"
   },
   {
     "Rule": "First Aid Table",
@@ -4325,15 +5084,44 @@
     "Link": "B433"
   },
   {
+    "Rule": "Flamethrowers",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "178",
+    "Link": "H178"
+  },
+  {
     "Rule": "Flamethrowers Table",
     "Category": [
       "Reference",
-      "Weapon",
+      "Weapons",
       "Combat"
     ],
     "Book": "Low Tech",
     "Page": "86",
     "Link": "LT86"
+  },
+  {
+    "Rule": "Flamethrowers Table (High Tech)",
+    "Category": [
+      "Reference",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "179",
+    "Link": "HT179"
+  },
+  {
+    "Rule": "Flechette Rifle",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "116",
+    "Link": "HT116"
   },
   {
     "Rule": "Flexible Armor",
@@ -4442,6 +5230,16 @@
     "Link": "B437"
   },
   {
+    "Rule": "Footwear Table TL5 to TL8",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "High Tech",
+    "Page": "68",
+    "Link": "HT68"
+  },
+  {
     "Rule": "Foraging",
     "Category": [
       "Activities"
@@ -4528,7 +5326,7 @@
   {
     "Rule": "Full-Metal Weapons",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy Tech 2",
     "Page": "4",
@@ -4543,6 +5341,15 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "36",
     "Link": "DF15:36"
+  },
+  {
+    "Rule": "Gargantuan Dragon",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "6",
+    "Link": "DFM4:6"
   },
   {
     "Rule": "Garrotes Special Melee Rules",
@@ -4607,6 +5414,15 @@
     "Book": "Dungeon Fantasy 24",
     "Page": "9",
     "Link": "DF24:9"
+  },
+  {
+    "Rule": "Gaze Innate Attack",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "201",
+    "Link": "B201"
   },
   {
     "Rule": "Gems Carats and Pricing",
@@ -4737,7 +5553,7 @@
   {
     "Rule": "Giant Swords",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy Tech 2",
     "Page": "8",
@@ -4760,15 +5576,6 @@
     "Book": "Fantasy Folk: Elves",
     "Page": "22",
     "Link": "FFE22"
-  },
-  {
-    "Rule": "Gkadiator Equipment",
-    "Category": [
-      "Gear"
-    ],
-    "Book": "Martial Arts: Gladiators",
-    "Page": "38",
-    "Link": "MAG38"
   },
   {
     "Rule": "Gladiator",
@@ -4798,6 +5605,15 @@
     "Link": "MAG35"
   },
   {
+    "Rule": "Gladiator Equipment",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Martial Arts: Gladiators",
+    "Page": "38",
+    "Link": "MAG38"
+  },
+  {
     "Rule": "Gladiator Shields",
     "Category": [
       "Armor"
@@ -4809,7 +5625,7 @@
   {
     "Rule": "Gladiator Weapons",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Martial Arts: Gladiators",
     "Page": "34",
@@ -4853,6 +5669,16 @@
     "Book": "Low Tech Instant Armor",
     "Page": "15",
     "Link": "LTIA15"
+  },
+  {
+    "Rule": "Gloves Table TL7 to TL8",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "High Tech",
+    "Page": "69",
+    "Link": "HT69"
   },
   {
     "Rule": "Goblin Double-Knife Martial Arts Style",
@@ -5055,7 +5881,7 @@
     "Rule": "Gonnes Table",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "91",
@@ -5118,6 +5944,34 @@
     "Link": "PU3:11"
   },
   {
+    "Rule": "Grenade Launcher Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "143",
+    "Link": "HT143"
+  },
+  {
+    "Rule": "Grenade Launchers",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "142",
+    "Link": "HT142"
+  },
+  {
+    "Rule": "Grenade Launchers Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "145",
+    "Link": "HT145"
+  },
+  {
     "Rule": "Grip Mastery Perk",
     "Category": [
       "Physical Act",
@@ -5129,6 +5983,34 @@
     "Link": "PU2:6"
   },
   {
+    "Rule": "Ground Vehicles",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "466",
+    "Link": "B466"
+  },
+  {
+    "Rule": "Ground Vehicles Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "464",
+    "Link": "B464"
+  },
+  {
+    "Rule": "Gryphons",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "460",
+    "Link": "B460"
+  },
+  {
     "Rule": "Guard",
     "Category": [
       "Template",
@@ -5137,6 +6019,34 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "21",
     "Link": "DF15:21"
+  },
+  {
+    "Rule": "Guided and Homing Missiles",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "150",
+    "Link": "HT150"
+  },
+  {
+    "Rule": "Guided and Homing Missiles Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "152",
+    "Link": "HT152"
+  },
+  {
+    "Rule": "Guided Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "412",
+    "Link": "B412"
   },
   {
     "Rule": "Guild Assistance Table",
@@ -5170,6 +6080,24 @@
     "Link": "DF17:9"
   },
   {
+    "Rule": "Gun Case",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "160",
+    "Link": "HT160"
+  },
+  {
+    "Rule": "Gun-Cleaning Kit",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "160",
+    "Link": "HT160"
+  },
+  {
     "Rule": "Gunpowder",
     "Category": [
       "Material"
@@ -5177,6 +6105,15 @@
     "Book": "Fantasy Tech 1",
     "Page": "34",
     "Link": "FT1:34"
+  },
+  {
+    "Rule": "H&K MP5",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "123",
+    "Link": "HT123"
   },
   {
     "Rule": "Haggling while Selling Loot",
@@ -5234,10 +6171,19 @@
     "Link": "B429"
   },
   {
+    "Rule": "Hand Grenades",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "190",
+    "Link": "HT190"
+  },
+  {
     "Rule": "Hand Grenades and Incendiaries Table",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "277",
@@ -5247,11 +6193,30 @@
     "Rule": "Hand Grenades Special Ranged Rules",
     "Category": [
       "Combat",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "410",
     "Link": "B410"
+  },
+  {
+    "Rule": "Hand Grenades Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "192",
+    "Link": "HT192"
+  },
+  {
+    "Rule": "Handling a Firearm",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "80",
+    "Link": "HT80"
   },
   {
     "Rule": "Hangovers from Drinking",
@@ -5277,7 +6242,7 @@
     "Rule": "Harpoons Special Ranged Rules",
     "Category": [
       "Combat",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "411",
@@ -5333,6 +6298,16 @@
     "Link": "LTIA13"
   },
   {
+    "Rule": "Headgear Table TL5 to TL8",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "High Tech",
+    "Page": "70",
+    "Link": "HT70"
+  },
+  {
     "Rule": "Healer",
     "Category": [
       "Template",
@@ -5374,6 +6349,16 @@
     "Link": "DF16:44"
   },
   {
+    "Rule": "Hearing Distance Table",
+    "Category": [
+      "Reference",
+      "Physical Act"
+    ],
+    "Book": "High Tech",
+    "Page": "158",
+    "Link": "HT158"
+  },
+  {
     "Rule": "Heart Attack",
     "Category": [
       "Affliction"
@@ -5386,7 +6371,7 @@
     "Rule": "Heavy Weapon Table",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "281",
@@ -5434,7 +6419,7 @@
     "Rule": "Hidden Weapons",
     "Category": [
       "Skills",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Dungeon Fantasy 2",
     "Page": "12",
@@ -5593,6 +6578,15 @@
     "Link": "B351"
   },
   {
+    "Rule": "Holsters Scabbards and Slings",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "153",
+    "Link": "HT153"
+  },
+  {
     "Rule": "Holy Hand Grenades",
     "Category": [
       "Weapon",
@@ -5647,6 +6641,34 @@
     "Book": "Pyramid #3/78",
     "Page": "14",
     "Link": "PY78:14"
+  },
+  {
+    "Rule": "Home-Built Sound Suppressors",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "159",
+    "Link": "HT159"
+  },
+  {
+    "Rule": "Home-Cooked Explosives",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "186",
+    "Link": "HT186"
+  },
+  {
+    "Rule": "Home-Made Powder and Shot",
+    "Category": [
+      "Material",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "163",
+    "Link": "HT163"
   },
   {
     "Rule": "Horrifying Window",
@@ -5792,6 +6814,15 @@
     "Link": "PU1:14"
   },
   {
+    "Rule": "Immediate Action Technique",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "High Tech",
+    "Page": "251",
+    "Link": "HT251"
+  },
+  {
     "Rule": "Impersonator Talent",
     "Category": [
       "Trait"
@@ -5830,6 +6861,15 @@
     "Link": "DF24:31"
   },
   {
+    "Rule": "Incendiaries",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "188",
+    "Link": "HT188"
+  },
+  {
     "Rule": "Independent Body Parts Advantage",
     "Category": [
       "Trait"
@@ -5837,6 +6877,15 @@
     "Book": "Horror",
     "Page": "15",
     "Link": "H15"
+  },
+  {
+    "Rule": "Individual Combat Weapon TL8",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "144",
+    "Link": "HT144"
   },
   {
     "Rule": "Industrial Magic",
@@ -5856,6 +6905,15 @@
     "Book": "Martial Arts",
     "Page": "119",
     "Link": "MA119"
+  },
+  {
+    "Rule": "Information Technology (High Tech)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "High Tech",
+    "Page": "17",
+    "Link": "HT17"
   },
   {
     "Rule": "Initiate",
@@ -5885,6 +6943,16 @@
     "Book": "Fantasy Folk: The Reptilian Races",
     "Page": "21",
     "Link": "FFRR21"
+  },
+  {
+    "Rule": "Innate Attacks",
+    "Category": [
+      "Trait",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "61",
+    "Link": "B61"
   },
   {
     "Rule": "Inner Balance Talent",
@@ -5980,6 +7048,15 @@
     "Link": "LT:38"
   },
   {
+    "Rule": "Journalist TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "38",
+    "Link": "H38"
+  },
+  {
     "Rule": "Judo Grappling Skill",
     "Category": [
       "Skills"
@@ -6036,6 +7113,15 @@
     "Book": "Basic",
     "Page": "203",
     "Link": "B203"
+  },
+  {
+    "Rule": "Kalashnikov",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "114",
+    "Link": "HT114"
   },
   {
     "Rule": "Karate Striking Skill",
@@ -6237,6 +7323,35 @@
     "Link": "DF15:22"
   },
   {
+    "Rule": "Land Conveyances Table TL5 to TL8",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "High Tech",
+    "Page": "230",
+    "Link": "HT230"
+  },
+  {
+    "Rule": "Land Mines",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "189",
+    "Link": "HT189"
+  },
+  {
+    "Rule": "Land Mines Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "189",
+    "Link": "HT189"
+  },
+  {
     "Rule": "Lanista",
     "Category": [
       "Template",
@@ -6247,6 +7362,15 @@
     "Link": "MAG29"
   },
   {
+    "Rule": "Large Dragon",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "5",
+    "Link": "DFM4:5"
+  },
+  {
     "Rule": "Lariats Special Ranged Rules",
     "Category": [
       "Combat"
@@ -6254,6 +7378,25 @@
     "Book": "Basic",
     "Page": "411",
     "Link": "B411"
+  },
+  {
+    "Rule": "Laser Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "181",
+    "Link": "HT181"
+  },
+  {
+    "Rule": "Laser Weapons Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "181",
+    "Link": "HT181"
   },
   {
     "Rule": "Layered Armor",
@@ -6397,6 +7540,24 @@
     "Link": "B353"
   },
   {
+    "Rule": "Light Anti-Tank Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "147",
+    "Link": "HT147"
+  },
+  {
+    "Rule": "Light Anti-Tank Weapons Table",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "148",
+    "Link": "HT148"
+  },
+  {
     "Rule": "Light Sources Providing Light in 2 Yard Radius",
     "Category": [
       "Gear"
@@ -6414,6 +7575,16 @@
     "Book": "Low Tech Instant Armor",
     "Page": "7",
     "Link": "LTIA7"
+  },
+  {
+    "Rule": "Limb Armor Table TL5 to TL8",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "High Tech",
+    "Page": "68",
+    "Link": "HT68"
   },
   {
     "Rule": "Limited Magery (Fantasy)",
@@ -6438,7 +7609,7 @@
     "Rule": "Long Weapons in Close Combat",
     "Category": [
       "Combat",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Martial Arts",
     "Page": "117",
@@ -6512,6 +7683,25 @@
     "Link": "BS200"
   },
   {
+    "Rule": "Machine Guns and Autocannon",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "129",
+    "Link": "HT129"
+  },
+  {
+    "Rule": "Machine Guns and Autocannon Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "137",
+    "Link": "HT137"
+  },
+  {
     "Rule": "Madness Table (Gothic)",
     "Category": [
       "Reference"
@@ -6528,6 +7718,15 @@
     "Book": "Horror",
     "Page": "144",
     "Link": "H144"
+  },
+  {
+    "Rule": "Magazine Modifications and Loading Aids",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "155",
+    "Link": "HT155"
   },
   {
     "Rule": "Magery Exceeding Usual Limit in Casting",
@@ -6655,7 +7854,7 @@
     "Rule": "Magic Staff Spell",
     "Category": [
       "Magic",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Magic",
     "Page": "70",
@@ -6665,7 +7864,7 @@
     "Rule": "Magic Staffs",
     "Category": [
       "Magic",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Magic",
     "Page": "13",
@@ -6788,10 +7987,28 @@
     "Link": "DF24:28"
   },
   {
+    "Rule": "Malfunctioning Firearms",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "81",
+    "Link": "HT81"
+  },
+  {
     "Rule": "Malfunctioning Guns and Explosives",
     "Category": [
       "Combat",
-      "Weapon"
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "407",
+    "Link": "B407"
+  },
+  {
+    "Rule": "Malfunctions",
+    "Category": [
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "407",
@@ -6946,11 +8163,40 @@
     "Rule": "Mechanical Artillery Table (Low Tech)",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "82",
     "Link": "LT82"
+  },
+  {
+    "Rule": "Mechanical Machine Guns",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "127",
+    "Link": "HT127"
+  },
+  {
+    "Rule": "Mechanical Machine Guns Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "128",
+    "Link": "HT128"
+  },
+  {
+    "Rule": "Media (High Tech)",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "High Tech",
+    "Page": "40",
+    "Link": "HT40"
   },
   {
     "Rule": "Medical Care",
@@ -6963,6 +8209,16 @@
     "Link": "B424"
   },
   {
+    "Rule": "Medical Tech Levels 5 to 8",
+    "Category": [
+      "Injury",
+      "Skills"
+    ],
+    "Book": "High Tech",
+    "Page": "219",
+    "Link": "HT219"
+  },
+  {
     "Rule": "Meditation and Body Disciplines",
     "Category": [
       "Activities",
@@ -6971,6 +8227,15 @@
     "Book": "Low Tech Companion 1",
     "Page": "16",
     "Link": "LTC1:16"
+  },
+  {
+    "Rule": "Medium Dragon",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "4",
+    "Link": "DFM4:4"
   },
   {
     "Rule": "Medusa",
@@ -7003,7 +8268,7 @@
     "Rule": "Melee Weapons Table",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "271",
@@ -7013,7 +8278,7 @@
     "Rule": "Melee Weapons Table (Low Tech)",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "65",
@@ -7105,6 +8370,15 @@
     "Link": "FFK8"
   },
   {
+    "Rule": "Minié Balls",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "109",
+    "Link": "HT109"
+  },
+  {
     "Rule": "Mining and Excavation",
     "Category": [
       "Profession"
@@ -7179,6 +8453,15 @@
     "Link": "PU3:13"
   },
   {
+    "Rule": "Modern HMMWV TL8",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "High Tech",
+    "Page": "242",
+    "Link": "HT242"
+  },
+  {
     "Rule": "Modifying Dice Plus Adds",
     "Category": [
       "Attributes"
@@ -7191,7 +8474,7 @@
     "Rule": "Molotov Cocktails Special Ranged Rules",
     "Category": [
       "Combat",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "411",
@@ -7224,6 +8507,25 @@
     "Book": "Basic",
     "Page": "423",
     "Link": "B423"
+  },
+  {
+    "Rule": "Mortars",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "145",
+    "Link": "HT145"
+  },
+  {
+    "Rule": "Mortars Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "146",
+    "Link": "HT146"
   },
   {
     "Rule": "Mountain Elf",
@@ -7329,7 +8631,7 @@
   {
     "Rule": "Multi-Blades",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy Tech 2",
     "Page": "10",
@@ -7403,7 +8705,7 @@
     "Rule": "Muscle-Powered Ranged Weapons Table",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "275",
@@ -7413,7 +8715,7 @@
     "Rule": "Muscle-Powered Ranged Weapons Table (Low Tech)",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "76",
@@ -7457,10 +8759,29 @@
     "Link": "MAG32"
   },
   {
+    "Rule": "Muskets and Rifles",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "107",
+    "Link": "HT107"
+  },
+  {
+    "Rule": "Muskets and Rifles Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "120",
+    "Link": "HT120"
+  },
+  {
     "Rule": "Muskets Table",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "93",
@@ -7475,6 +8796,15 @@
     "Book": "Banestorm",
     "Page": "212",
     "Link": "BS212"
+  },
+  {
+    "Rule": "Mystic TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "39",
+    "Link": "H39"
   },
   {
     "Rule": "Native Guide",
@@ -7639,7 +8969,7 @@
     "Rule": "Nets Special Ranged Rules",
     "Category": [
       "Combat",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "411",
@@ -7748,7 +9078,7 @@
   {
     "Rule": "Ninja Weapon Modifier Weapon Black",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Dungeon Fantasy 12",
     "Page": "13",
@@ -7783,6 +9113,25 @@
     "Link": "B552"
   },
   {
+    "Rule": "Non-Repeating Pistols",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "90",
+    "Link": "HT90"
+  },
+  {
+    "Rule": "Non-Repeating Pistols Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "91",
+    "Link": "HT91"
+  },
+  {
     "Rule": "Nosferatu: The Plague Vampire",
     "Category": [
       "Template",
@@ -7793,6 +9142,24 @@
     "Link": "H87"
   },
   {
+    "Rule": "Nuclear Fallout",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "High Tech",
+    "Page": "196",
+    "Link": "HT196"
+  },
+  {
+    "Rule": "Nuclear Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "195",
+    "Link": "HT195"
+  },
+  {
     "Rule": "Occultist Talent",
     "Category": [
       "Trait"
@@ -7800,6 +9167,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "14",
     "Link": "PU3:14"
+  },
+  {
+    "Rule": "Occultist TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "40",
+    "Link": "H40"
   },
   {
     "Rule": "Occupations",
@@ -7851,7 +9227,7 @@
     "Rule": "One Second to Return a Pistol to a Holster",
     "Category": [
       "Combat",
-      "Weapon",
+      "Weapons",
       "Physical Act"
     ],
     "Book": "Basic",
@@ -8140,16 +9516,26 @@
     "Rule": "Personal Artillery Table (Low Tech)",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "83",
     "Link": "LT83"
   },
   {
+    "Rule": "Personal Devices (High Tech)",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "High Tech",
+    "Page": "30",
+    "Link": "HT30"
+  },
+  {
     "Rule": "Petards (Fantasy) (Jean Luc)",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy",
     "Page": "143",
@@ -8248,10 +9634,29 @@
     "Link": "B370"
   },
   {
+    "Rule": "Pistol Whipping",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "93",
+    "Link": "HT93"
+  },
+  {
+    "Rule": "Pistolero Shooting a Pistol Two-Handed",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "84",
+    "Link": "HT84"
+  },
+  {
     "Rule": "Pistols and Rifles Tables",
     "Category": [
       "Reference",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "94",
@@ -8274,6 +9679,15 @@
     "Book": "Basic",
     "Page": "438",
     "Link": "B438"
+  },
+  {
+    "Rule": "Police-Officer TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "41",
+    "Link": "H41"
   },
   {
     "Rule": "Pop Culture Maven Talent",
@@ -8342,6 +9756,15 @@
     "Link": "LTC3:27"
   },
   {
+    "Rule": "Power (High Tech)",
+    "Category": [
+      "Machinery"
+    ],
+    "Book": "High Tech",
+    "Page": "13",
+    "Link": "HT13"
+  },
+  {
     "Rule": "Power Grappling Perk",
     "Category": [
       "Combat"
@@ -8353,7 +9776,7 @@
   {
     "Rule": "Power Item Power-Ups",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Dungeon Fantasy 18",
     "Page": "11",
@@ -8371,7 +9794,7 @@
   {
     "Rule": "Power Item Types",
     "Category": [
-      "Weapon",
+      "Weapons",
       "Magic"
     ],
     "Book": "Dungeon Fantasy 18",
@@ -8381,7 +9804,7 @@
   {
     "Rule": "Power Item Usage",
     "Category": [
-      "Weapon",
+      "Weapons",
       "Magic"
     ],
     "Book": "Dungeon Fantasy 18",
@@ -8391,7 +9814,7 @@
   {
     "Rule": "Power Item Value",
     "Category": [
-      "Weapon",
+      "Weapons",
       "Magic"
     ],
     "Book": "Dungeon Fantasy 18",
@@ -8401,7 +9824,7 @@
   {
     "Rule": "Power Items (Dungeon Fantasy)",
     "Category": [
-      "Weapon",
+      "Weapons",
       "Magic"
     ],
     "Book": "Dungeon Fantasy 1",
@@ -8445,6 +9868,15 @@
     "Book": "Dungeon Fantasy 2",
     "Page": "12",
     "Link": "DF2:12"
+  },
+  {
+    "Rule": "Precision Aiming for Snipers",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "84",
+    "Link": "HT84"
   },
   {
     "Rule": "Predictive Shot",
@@ -8502,6 +9934,15 @@
     "Link": "PY78:14"
   },
   {
+    "Rule": "Priest TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "41",
+    "Link": "H41"
+  },
+  {
     "Rule": "Professional References Template",
     "Category": [
       "Reference",
@@ -8521,15 +9962,33 @@
     "Link": "LTC3:49"
   },
   {
+    "Rule": "Projectile Innate Attack",
+    "Category": [
+      "Trait"
+    ],
+    "Book": "Basic",
+    "Page": "201",
+    "Link": "B201"
+  },
+  {
     "Rule": "Projectile Magic Items",
     "Category": [
       "Magic",
-      "Weapon",
+      "Weapons",
       "DFRPG"
     ],
     "Book": "Dungeon Fantasy Magic Items 1",
     "Page": "18",
     "Link": "DFMI1:18"
+  },
+  {
+    "Rule": "Projectile Options",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "166",
+    "Link": "HT166"
   },
   {
     "Rule": "Psientist Talent",
@@ -8628,7 +10087,7 @@
   {
     "Rule": "Quicksilver Swords",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy Tech 2",
     "Page": "12",
@@ -8669,6 +10128,25 @@
     "Book": "Basic",
     "Page": "407",
     "Link": "B407"
+  },
+  {
+    "Rule": "Ranged Electric Stunners Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "89",
+    "Link": "HT89"
+  },
+  {
+    "Rule": "Ranged Rapid Strike Optional Rule",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "85",
+    "Link": "HT85"
   },
   {
     "Rule": "Rapid Healing",
@@ -8784,6 +10262,15 @@
     "Link": "T259"
   },
   {
+    "Rule": "Recoil",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
     "Rule": "Reconnoiter Undetected in the Wild",
     "Category": [
       "Skills",
@@ -8822,6 +10309,15 @@
     "Link": "DFDB10"
   },
   {
+    "Rule": "Relative Explosive Force Table",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "183",
+    "Link": "HT183"
+  },
+  {
     "Rule": "Religion of the Winged Folk",
     "Category": [
       "Setting"
@@ -8829,6 +10325,15 @@
     "Book": "Fantasy Folk: Winged Folk",
     "Page": "7",
     "Link": "FFWF7"
+  },
+  {
+    "Rule": "Reloading a Gun",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "86",
+    "Link": "HT86"
   },
   {
     "Rule": "Repairing Armor and Shields",
@@ -8922,6 +10427,15 @@
     "Link": "B425"
   },
   {
+    "Rule": "Retain Weapon Technique",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Basic",
+    "Page": "232",
+    "Link": "B232"
+  },
+  {
     "Rule": "Retching",
     "Category": [
       "Affliction"
@@ -8929,6 +10443,15 @@
     "Book": "Basic",
     "Page": "429",
     "Link": "B429"
+  },
+  {
+    "Rule": "Retired Soldier TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "42",
+    "Link": "H42"
   },
   {
     "Rule": "Retreat Defense",
@@ -8967,6 +10490,25 @@
     "Link": "MA78"
   },
   {
+    "Rule": "Revolvers",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "92",
+    "Link": "HT92"
+  },
+  {
+    "Rule": "Revolvers Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "94",
+    "Link": "HT94"
+  },
+  {
     "Rule": "Riding and Draft Animals",
     "Category": [
       "Mounts"
@@ -8985,6 +10527,25 @@
     "Link": "DF16:19"
   },
   {
+    "Rule": "Rifle Grenades",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "193",
+    "Link": "HT193"
+  },
+  {
+    "Rule": "Rifle Grenades Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "194",
+    "Link": "HT194"
+  },
+  {
     "Rule": "Riposte",
     "Category": [
       "Combat"
@@ -8992,6 +10553,15 @@
     "Book": "Martial Arts",
     "Page": "124",
     "Link": "MA124"
+  },
+  {
+    "Rule": "Rocket Pistol",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "99",
+    "Link": "HT99"
   },
   {
     "Rule": "Rogue Swashbuckler (Denizens)",
@@ -9084,6 +10654,15 @@
     "Book": "Dungeon Fantasy Denizens Barbarians",
     "Page": "7",
     "Link": "DFDB7"
+  },
+  {
+    "Rule": "Sawed-Off Shotgun",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "106",
+    "Link": "HT106"
   },
   {
     "Rule": "Scatter Result of Missed Area Effects",
@@ -9250,6 +10829,15 @@
     "Link": "FFWF17"
   },
   {
+    "Rule": "Sedan TL6",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "High Tech",
+    "Page": "235",
+    "Link": "HT235"
+  },
+  {
     "Rule": "Seizure",
     "Category": [
       "Affliction"
@@ -9266,6 +10854,25 @@
     "Book": "Basic",
     "Page": "120",
     "Link": "B120"
+  },
+  {
+    "Rule": "Semi-Automatic Pistols",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "97",
+    "Link": "HT97"
+  },
+  {
+    "Rule": "Semi-Automatic Pistols Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "101",
+    "Link": "HT101"
   },
   {
     "Rule": "Sense-Based Agent",
@@ -9285,6 +10892,16 @@
     "Book": "Basic",
     "Page": "66",
     "Link": "B66"
+  },
+  {
+    "Rule": "Sensors and Scientific Gear (High Tech)",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "High Tech",
+    "Page": "45",
+    "Link": "HT45"
   },
   {
     "Rule": "Serpent Folk",
@@ -9307,7 +10924,7 @@
   {
     "Rule": "Serpents Fangs",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Fantasy Tech 2",
     "Page": "10",
@@ -9481,6 +11098,16 @@
     "Link": "B406"
   },
   {
+    "Rule": "Shields Table TL6 to TL8",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "High Tech",
+    "Page": "72",
+    "Link": "HT72"
+  },
+  {
     "Rule": "Shifting Grapples and Freeing Hands",
     "Category": [
       "Combat"
@@ -9547,6 +11174,34 @@
     "Link": "DFDB11"
   },
   {
+    "Rule": "Shotguns",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "103",
+    "Link": "HT103"
+  },
+  {
+    "Rule": "Shotguns and Multiple Projectiles",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "409",
+    "Link": "B409"
+  },
+  {
+    "Rule": "Shotguns Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "104",
+    "Link": "HT104"
+  },
+  {
     "Rule": "Shove",
     "Category": [
       "Combat",
@@ -9564,6 +11219,15 @@
     "Book": "Martial Arts",
     "Page": "118",
     "Link": "MA118"
+  },
+  {
+    "Rule": "Side Effects of Explosions",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "High Tech",
+    "Page": "181",
+    "Link": "HT181"
   },
   {
     "Rule": "Sideslip",
@@ -9585,9 +11249,18 @@
     "Link": "LTC1:19"
   },
   {
+    "Rule": "Sights and Aiming Aids",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "155",
+    "Link": "HT155"
+  },
+  {
     "Rule": "Silver Weapons",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "275",
@@ -9719,6 +11392,15 @@
     "Link": "B371"
   },
   {
+    "Rule": "Slayer TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "43",
+    "Link": "H43"
+  },
+  {
     "Rule": "Sleep",
     "Category": [
       "Affliction"
@@ -9763,6 +11445,15 @@
     "Book": "After the End 2",
     "Page": "28",
     "Link": "ATE2:28"
+  },
+  {
+    "Rule": "Small Dragon",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 4: Dragons",
+    "Page": "4",
+    "Link": "DFM4:4"
   },
   {
     "Rule": "Smart Zombies",
@@ -9841,6 +11532,15 @@
     "Link": "PU3:15"
   },
   {
+    "Rule": "Sound Suppressors",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "158",
+    "Link": "HT158"
+  },
+  {
     "Rule": "Special Armor Attributes",
     "Category": [
       "Armor"
@@ -9852,7 +11552,7 @@
   {
     "Rule": "Special Weapon Attributes",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Dungeon Fantasy 1",
     "Page": "26",
@@ -9862,7 +11562,7 @@
     "Rule": "Special Weapon Enchantments",
     "Category": [
       "Magic",
-      "Weapon",
+      "Weapons",
       "DFRPG"
     ],
     "Book": "Dungeon Fantasy Magic Items 1",
@@ -10003,6 +11703,25 @@
     "Link": "MA119"
   },
   {
+    "Rule": "Spray Guns and Aerosols",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "180",
+    "Link": "HT180"
+  },
+  {
+    "Rule": "Spray Guns and Aerosols Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "180",
+    "Link": "HT180"
+  },
+  {
     "Rule": "Sprinting",
     "Category": [
       "Physical Act"
@@ -10034,7 +11753,7 @@
     "Rule": "Staff Attunement Perk",
     "Category": [
       "Trait",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Martial Arts: Yrth Fighting Styles",
     "Page": "26",
@@ -10059,6 +11778,15 @@
     "Book": "Martial Arts: Gladiators",
     "Page": "33",
     "Link": "MAG33"
+  },
+  {
+    "Rule": "Stagecoaches TL5",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "High Tech",
+    "Page": "232",
+    "Link": "HT232"
   },
   {
     "Rule": "Stake to the Heart Technique",
@@ -10097,6 +11825,15 @@
     "Link": "B426"
   },
   {
+    "Rule": "Stealth and Camouflage (High Tech)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "76",
+    "Link": "HT76"
+  },
+  {
     "Rule": "Stealth Penalty -5 to Skill if Moving Faster than 1",
     "Category": [
       "Skills"
@@ -10115,6 +11852,15 @@
     "Link": "FT1:22"
   },
   {
+    "Rule": "Stimulants",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "440",
+    "Link": "B440"
+  },
+  {
     "Rule": "Stirrups",
     "Category": [
       "Gear"
@@ -10122,6 +11868,15 @@
     "Book": "Fantasy Tech 1",
     "Page": "34",
     "Link": "FT1:34"
+  },
+  {
+    "Rule": "Stocks Tripods and Bipods",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "160",
+    "Link": "HT160"
   },
   {
     "Rule": "Stop Hits",
@@ -10338,6 +12093,25 @@
     "Link": "B401"
   },
   {
+    "Rule": "Submachine Guns",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "122",
+    "Link": "HT122"
+  },
+  {
+    "Rule": "Submachine Guns Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "124",
+    "Link": "HT124"
+  },
+  {
     "Rule": "Succubus",
     "Category": [
       "Template"
@@ -10421,6 +12195,16 @@
     "Link": "LTC1:24"
   },
   {
+    "Rule": "Surgery TL5 to TL8",
+    "Category": [
+      "Injury",
+      "Skills"
+    ],
+    "Book": "High Tech",
+    "Page": "223",
+    "Link": "HT223"
+  },
+  {
     "Rule": "Survivor Barbarian (Denizens)",
     "Category": [
       "Template"
@@ -10437,6 +12221,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "16",
     "Link": "PU3:16"
+  },
+  {
+    "Rule": "Sustained Fire",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "High Tech",
+    "Page": "85",
+    "Link": "HT85"
   },
   {
     "Rule": "Swamp Monster",
@@ -10707,6 +12500,25 @@
     "Link": "B27"
   },
   {
+    "Rule": "Tech TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "43",
+    "Link": "H43"
+  },
+  {
+    "Rule": "Tech-Level Modifiers",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "168",
+    "Link": "B168"
+  },
+  {
     "Rule": "Technique Cost Table",
     "Category": [
       "Reference",
@@ -10903,6 +12715,16 @@
     "Link": "B355"
   },
   {
+    "Rule": "Thrown and Jet Spells",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Magic",
+    "Page": "128",
+    "Link": "M128"
+  },
+  {
     "Rule": "Throws from Locks",
     "Category": [
       "Combat"
@@ -10950,6 +12772,15 @@
     "Link": "B428"
   },
   {
+    "Rule": "Tools and Kits (High Tech)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "23",
+    "Link": "HT23"
+  },
+  {
     "Rule": "Top Speed 20% Over Move if Sprinting",
     "Category": [
       "Combat"
@@ -10967,6 +12798,16 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "25",
     "Link": "DF15:25"
+  },
+  {
+    "Rule": "Torso Armor Table TL5 to TL8",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "High Tech",
+    "Page": "66",
+    "Link": "HT66"
   },
   {
     "Rule": "Totem-Bearer",
@@ -11035,6 +12876,15 @@
     "Link": "LT3:7"
   },
   {
+    "Rule": "Trauma Plates TL8",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "High Tech",
+    "Page": "67",
+    "Link": "HT67"
+  },
+  {
     "Rule": "Travel Fatigue",
     "Category": [
       "Environment"
@@ -11080,6 +12930,15 @@
     "Book": "Fantasy Folk: Elves",
     "Page": "18",
     "Link": "FFE18"
+  },
+  {
+    "Rule": "Tripods",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "412",
+    "Link": "B412"
   },
   {
     "Rule": "Trivia Sponge Talent",
@@ -11157,6 +13016,15 @@
     "Link": "DF2:12"
   },
   {
+    "Rule": "Turn Sequence",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "363",
+    "Link": "B363"
+  },
+  {
     "Rule": "Turning Radius at High Speeds",
     "Category": [
       "Combat",
@@ -11174,6 +13042,26 @@
     "Book": "Basic",
     "Page": "401",
     "Link": "B401"
+  },
+  {
+    "Rule": "Two Hand Use and Unready indicated by \"\" in Tables",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "270",
+    "Link": "B270"
+  },
+  {
+    "Rule": "Two Hand Use indicated by \" in Tables",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "270",
+    "Link": "B270"
   },
   {
     "Rule": "Two Seconds to Return a Weapon to a Scabbard",
@@ -11226,7 +13114,7 @@
     "Rule": "Unbalanced Weapons",
     "Category": [
       "Combat",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "383",
@@ -11431,7 +13319,7 @@
     "Rule": "Using Casting Magic Items",
     "Category": [
       "Magic",
-      "Weapon",
+      "Weapons",
       "DFRPG"
     ],
     "Book": "Dungeon Fantasy Magic Items 1",
@@ -11616,6 +13504,27 @@
     "Link": "DF16:19"
   },
   {
+    "Rule": "Vehicular Rocket Launchers",
+    "Category": [
+      "Vehicle",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "150",
+    "Link": "HT150"
+  },
+  {
+    "Rule": "Vehicular Rocket Launchers Table",
+    "Category": [
+      "Reference",
+      "Vehicle",
+      "Weapons"
+    ],
+    "Book": "High Tech",
+    "Page": "150",
+    "Link": "HT150"
+  },
+  {
     "Rule": "Venator",
     "Category": [
       "Template",
@@ -11676,7 +13585,7 @@
     "Rule": "Wands and Staffs",
     "Category": [
       "Magic",
-      "Weapon",
+      "Weapons",
       "DFRPG"
     ],
     "Book": "Dungeon Fantasy Magic Items 1",
@@ -11702,6 +13611,16 @@
     "Book": "Banestorm",
     "Page": "217",
     "Link": "BS217"
+  },
+  {
+    "Rule": "Water Conveyances Table TL5 to TL8",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "High Tech",
+    "Page": "231",
+    "Link": "HT231"
   },
   {
     "Rule": "Water Foraging",
@@ -11753,7 +13672,7 @@
     "Rule": "Weapon Enchantment Table",
     "Category": [
       "Magic",
-      "Weapon",
+      "Weapons",
       "DFRPG"
     ],
     "Book": "Dungeon Fantasy Magic Items 1",
@@ -11763,7 +13682,7 @@
   {
     "Rule": "Weapon Quality (Low Tech)",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech",
     "Page": "59",
@@ -11772,7 +13691,7 @@
   {
     "Rule": "Weapon Scaling Size Modifier Table",
     "Category": [
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Low Tech Companion 2",
     "Page": "21",
@@ -11836,10 +13755,19 @@
     "Link": "LTC3:8"
   },
   {
+    "Rule": "Wheelchairs TL6 to TL8",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "High Tech",
+    "Page": "226",
+    "Link": "HT226"
+  },
+  {
     "Rule": "Whips Special Melee Rules",
     "Category": [
       "Combat",
-      "Weapon"
+      "Weapons"
     ],
     "Book": "Basic",
     "Page": "406",
@@ -12206,6 +14134,42 @@
     "Book": "Basic",
     "Page": "228",
     "Link": "B228"
+  },
+  {
+    "Rule": "Writer TL8",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Horror",
+    "Page": "44",
+    "Link": "H44"
+  },
+  {
+    "Rule": "WW2 Era Jeep TL7",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "High Tech",
+    "Page": "236",
+    "Link": "HT236"
+  },
+  {
+    "Rule": "WW2 Era Medium Propellor Fighter Plane TL6",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "High Tech",
+    "Page": "237",
+    "Link": "HT237"
+  },
+  {
+    "Rule": "WW2 Era Medium Tank TL6",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "High Tech",
+    "Page": "238",
+    "Link": "HT238"
   },
   {
     "Rule": "Yrth Kobolds",
