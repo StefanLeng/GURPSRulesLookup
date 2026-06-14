@@ -9,6 +9,15 @@
     "Link": "PW24"
   },
   {
+    "Rule": "Absorbing Equipment when Shapeshifting",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers",
+    "Page": "75",
+    "Link": "P75"
+  },
+  {
     "Rule": "Academic (Horror Template)",
     "Category": [
       "Template"
@@ -34,6 +43,15 @@
     "Book": "Basic",
     "Page": "395",
     "Link": "B395"
+  },
+  {
+    "Rule": "Accidental Hero",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "6",
+    "Link": "MH1:6"
   },
   {
     "Rule": "Accuracy and Aimed Fire",
@@ -137,6 +155,26 @@
     "Link": "UT63"
   },
   {
+    "Rule": "Activist Template",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "202",
+    "Link": "BT202"
+  },
+  {
+    "Rule": "Activist Template (Bioterrorist Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "202",
+    "Link": "BT202"
+  },
+  {
     "Rule": "Addictive Drugs",
     "Category": [
       "Poison"
@@ -185,6 +223,25 @@
     "Link": "UT16"
   },
   {
+    "Rule": "Adjusting Psi-Tech to SM Table",
+    "Category": [
+      "Reference",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "8",
+    "Link": "PT8"
+  },
+  {
+    "Rule": "Adrenal-Muscular Trigger",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "41",
+    "Link": "MH1:41"
+  },
+  {
     "Rule": "Advantage List",
     "Category": [
       "Reference",
@@ -221,6 +278,15 @@
     "Book": "Dungeon Fantasy 16",
     "Page": "27",
     "Link": "DF16:27"
+  },
+  {
+    "Rule": "Aftermath Limitation (Temporary Disadvantage Variant)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "215",
+    "Link": "BT215"
   },
   {
     "Rule": "Agent",
@@ -326,6 +392,16 @@
     "Link": "M23"
   },
   {
+    "Rule": "Air Travel",
+    "Category": [
+      "Vehicles",
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "466",
+    "Link": "B466"
+  },
+  {
     "Rule": "Alarm Detection and Disabling Rules",
     "Category": [
       "Skills"
@@ -385,6 +461,15 @@
     "Book": "Low Tech Companion 1",
     "Page": "23",
     "Link": "LTC1:23"
+  },
+  {
+    "Rule": "Alexander Athanatos Campaign Setting",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "217",
+    "Link": "BT217"
   },
   {
     "Rule": "Alien Anatomy and Mobility",
@@ -456,6 +541,15 @@
     "Link": "S161"
   },
   {
+    "Rule": "Allergy Quirk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "212",
+    "Link": "BT212"
+  },
+  {
     "Rule": "Allied Tradesman",
     "Category": [
       "Template",
@@ -502,6 +596,16 @@
     "Link": "MA114"
   },
   {
+    "Rule": "All-Out Concentrate",
+    "Category": [
+      "Psionic Powers",
+      "Combat"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "11",
+    "Link": "PSI11"
+  },
+  {
     "Rule": "All-Out Defense",
     "Category": [
       "Combat"
@@ -509,6 +613,16 @@
     "Book": "Basic",
     "Page": "366",
     "Link": "B366"
+  },
+  {
+    "Rule": "All-Out Mental Defense",
+    "Category": [
+      "Psionic Powers",
+      "Combat"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "11",
+    "Link": "PSI11"
   },
   {
     "Rule": "Allowable Magical Perks per Magical Style",
@@ -531,6 +645,16 @@
     "Link": "PU3:6"
   },
   {
+    "Rule": "Alpha Racial Template (TL9)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "66",
+    "Link": "BT66"
+  },
+  {
     "Rule": "Alternate Arrows",
     "Category": [
       "Weapons"
@@ -538,6 +662,15 @@
     "Book": "Low Tech",
     "Page": "73",
     "Link": "LT73"
+  },
+  {
+    "Rule": "Alternate Form(s)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "83",
+    "Link": "B83"
   },
   {
     "Rule": "Alternative Armies",
@@ -644,6 +777,16 @@
     "Link": "FFRR20"
   },
   {
+    "Rule": "Anesthesia Rules",
+    "Category": [
+      "Injury",
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "135",
+    "Link": "BT135"
+  },
+  {
     "Rule": "Anesthesia TL5 to TL8",
     "Category": [
       "Gear",
@@ -710,6 +853,15 @@
     "Link": "M29"
   },
   {
+    "Rule": "Animal Telepathy",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "71",
+    "Link": "PSI71"
+  },
+  {
     "Rule": "Animal Totems",
     "Category": [
       "Magic",
@@ -721,6 +873,16 @@
     "Link": "PTNS10"
   },
   {
+    "Rule": "Anti-Material Bacteria",
+    "Category": [
+      "Weapons",
+      "Hazard"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "118",
+    "Link": "BT118"
+  },
+  {
     "Rule": "Antimatter Drives",
     "Category": [
       "Vehicles",
@@ -729,6 +891,54 @@
     "Book": "Space",
     "Page": "33",
     "Link": "S33"
+  },
+  {
+    "Rule": "Anti-Psi",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "46",
+    "Link": "MH1:46"
+  },
+  {
+    "Rule": "Anti-Psi",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "23",
+    "Link": "PSI23"
+  },
+  {
+    "Rule": "Anti-Psi Packages",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "20",
+    "Link": "PSIS20"
+  },
+  {
+    "Rule": "Anti-Psi Table",
+    "Category": [
+      "Reference",
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "46",
+    "Link": "MH1:46"
+  },
+  {
+    "Rule": "Anti-Psi Technology",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "16",
+    "Link": "PT16"
   },
   {
     "Rule": "Antiquary Talent",
@@ -892,6 +1102,16 @@
     "Link": "UT170"
   },
   {
+    "Rule": "Armor of Faith",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "43",
+    "Link": "MH1:43"
+  },
+  {
     "Rule": "Armor Quality",
     "Category": [
       "Armor"
@@ -948,6 +1168,24 @@
     "Book": "Low Tech Companion 3",
     "Page": "25",
     "Link": "LTC3:25"
+  },
+  {
+    "Rule": "Armor-Piercing Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
+    "Rule": "Arrows and Bolts",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "60",
+    "Link": "MH1:60"
   },
   {
     "Rule": "Arson Tools (Action)",
@@ -1015,6 +1253,16 @@
     "Link": "HTEE38"
   },
   {
+    "Rule": "Artificial Life (Tissue Engineering/Mimicking Biology)",
+    "Category": [
+      "Crafting",
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "26",
+    "Link": "BT26"
+  },
+  {
     "Rule": "Artillery Spells over Various Spell Colleges",
     "Category": [
       "Magic"
@@ -1060,6 +1308,15 @@
     "Link": "ACT1:7"
   },
   {
+    "Rule": "Assassin (Crusades)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Crusades",
+    "Page": "33",
+    "Link": "C33"
+  },
+  {
     "Rule": "Assassin (PC Class)",
     "Category": [
       "Template"
@@ -1077,6 +1334,34 @@
     "Book": "Action 1: Heroes",
     "Page": "24",
     "Link": "ACT1:24"
+  },
+  {
+    "Rule": "Astral Projection",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "26",
+    "Link": "PSI26"
+  },
+  {
+    "Rule": "Astral Projection Packages",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "21",
+    "Link": "PSIS21"
+  },
+  {
+    "Rule": "Astral Technology",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "18",
+    "Link": "PT18"
   },
   {
     "Rule": "Astrology",
@@ -1125,6 +1410,15 @@
     "Book": "Space",
     "Page": "78",
     "Link": "S78"
+  },
+  {
+    "Rule": "Atmospheric Pressure",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "429",
+    "Link": "B429"
   },
   {
     "Rule": "Attack Maneuver",
@@ -1335,6 +1629,15 @@
     "Link": "PDFC90"
   },
   {
+    "Rule": "Aura Reading",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "45",
+    "Link": "MH1:45"
+  },
+  {
     "Rule": "Aura Skills and Techniques",
     "Category": [
       "Auras"
@@ -1399,6 +1702,43 @@
     "Link": "SP2:15"
   },
   {
+    "Rule": "Autopsy Rules",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "139",
+    "Link": "BT139"
+  },
+  {
+    "Rule": "Autoteleport",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "48",
+    "Link": "MH1:48"
+  },
+  {
+    "Rule": "Avatar Racial Template (TL10)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "69",
+    "Link": "BT69"
+  },
+  {
+    "Rule": "Avenger/Atoner",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "6",
+    "Link": "MH1:6"
+  },
+  {
     "Rule": "Average Surface Temperature Table",
     "Category": [
       "Reference"
@@ -1453,6 +1793,15 @@
     "Book": "Martial Arts",
     "Page": "82",
     "Link": "MA82"
+  },
+  {
+    "Rule": "Backlash Limitation",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Powers",
+    "Page": "104",
+    "Link": "P104"
   },
   {
     "Rule": "Backstabbing",
@@ -1658,6 +2007,15 @@
     "Link": "DF1:21"
   },
   {
+    "Rule": "Basic Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "54",
+    "Link": "MH1:54"
+  },
+  {
     "Rule": "Basic Lift and Encumbrance Table",
     "Category": [
       "Attributes"
@@ -1674,6 +2032,27 @@
     "Book": "Dungeon Fantasy Monsters 3",
     "Page": "5",
     "Link": "DFM3:5"
+  },
+  {
+    "Rule": "Batteries and Power Cells Table",
+    "Category": [
+      "Reference",
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "8",
+    "Link": "PT8"
+  },
+  {
+    "Rule": "Batteries in Monster Hunters",
+    "Category": [
+      "Gear",
+      "Reference"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "52",
+    "Link": "MH1:52"
   },
   {
     "Rule": "Battlesuits Table",
@@ -1761,6 +2140,16 @@
     "Link": "DFDB9"
   },
   {
+    "Rule": "Biobuildings and Planet-Sized Organisms",
+    "Category": [
+      "Setting",
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "101",
+    "Link": "BT101"
+  },
+  {
     "Rule": "Biochemical and Nanotech Weapons Table",
     "Category": [
       "Reference",
@@ -1771,6 +2160,132 @@
     "Link": "UT159"
   },
   {
+    "Rule": "Bioengineer Template (Academic Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "203",
+    "Link": "BT203"
+  },
+  {
+    "Rule": "Bioengineer Template (Colony Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "203",
+    "Link": "BT203"
+  },
+  {
+    "Rule": "Bioengineer Template (Genehacker Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "203",
+    "Link": "BT203"
+  },
+  {
+    "Rule": "Bioengineer/Gengineer Template",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "203",
+    "Link": "BT203"
+  },
+  {
+    "Rule": "Bioengineering Equipment",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "15",
+    "Link": "BT15"
+  },
+  {
+    "Rule": "Bioengineering Skill (Additional Specializations)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "213",
+    "Link": "BT213"
+  },
+  {
+    "Rule": "Bioenhancement",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "40",
+    "Link": "MH1:40"
+  },
+  {
+    "Rule": "Bioenhancement Abilities",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "41",
+    "Link": "MH1:41"
+  },
+  {
+    "Rule": "Bioenhancement Skills",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "42",
+    "Link": "MH1:42"
+  },
+  {
+    "Rule": "Bioenhancement Talent",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "42",
+    "Link": "MH1:42"
+  },
+  {
+    "Rule": "Biogadgets (Living Equipment)",
+    "Category": [
+      "Gear",
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "95",
+    "Link": "BT95"
+  },
+  {
+    "Rule": "Biokinesis",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "72",
+    "Link": "PSI72"
+  },
+  {
+    "Rule": "Biological Control (Gengineered Pest Control)",
+    "Category": [
+      "Setting",
+      "Creatures"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "76",
+    "Link": "BT76"
+  },
+  {
     "Rule": "Biological Creation (Steampunk)",
     "Category": [
       "Template"
@@ -1778,6 +2293,16 @@
     "Book": "Steampunk 3",
     "Page": "26",
     "Link": "SP3:26"
+  },
+  {
+    "Rule": "Biomaterials and Biotronics",
+    "Category": [
+      "Gear",
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "28",
+    "Link": "BT28"
   },
   {
     "Rule": "Biometric Identification Systems",
@@ -1791,6 +2316,137 @@
     "Link": "HTEE43"
   },
   {
+    "Rule": "Biometrics",
+    "Category": [
+      "Reference",
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "24",
+    "Link": "BT24"
+  },
+  {
+    "Rule": "Biomod Transplants",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "173",
+    "Link": "BT173"
+  },
+  {
+    "Rule": "Biomod Transplants: Auxiliary Heart",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "175",
+    "Link": "BT175"
+  },
+  {
+    "Rule": "Biomod Transplants: Boosted Heart",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "174",
+    "Link": "BT174"
+  },
+  {
+    "Rule": "Biomod Transplants: Cat's Eye Transplant",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "173",
+    "Link": "BT173"
+  },
+  {
+    "Rule": "Biomod Transplants: High-Efficiency Kidney",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "174",
+    "Link": "BT174"
+  },
+  {
+    "Rule": "Biomod Transplants: Hyper-Lungs",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "174",
+    "Link": "BT174"
+  },
+  {
+    "Rule": "Biomod Transplants: Limb Replacement",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "175",
+    "Link": "BT175"
+  },
+  {
+    "Rule": "Biomod Transplants: Liver Upgrade",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "174",
+    "Link": "BT174"
+  },
+  {
+    "Rule": "Biomod Transplants: Tail Grafts",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "178",
+    "Link": "BT178"
+  },
+  {
+    "Rule": "Biomod Transplants: Tentacle Transplant",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "178",
+    "Link": "BT178"
+  },
+  {
+    "Rule": "Biomod Transplants: Winged Retromorphosis",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "178",
+    "Link": "BT178"
+  },
+  {
+    "Rule": "Biomod Transplants: Xenostriker Grafts (Natural Weapons)",
+    "Category": [
+      "Traits",
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "173",
+    "Link": "BT173"
+  },
+  {
     "Rule": "Biomorphic Lenses (Robots)",
     "Category": [
       "Traits"
@@ -1798,6 +2454,16 @@
     "Book": "Ultra-Tech",
     "Page": "28",
     "Link": "UT28"
+  },
+  {
+    "Rule": "Bioroid Modifications",
+    "Category": [
+      "Traits",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "61",
+    "Link": "BT61"
   },
   {
     "Rule": "Bioships",
@@ -1810,6 +2476,16 @@
     "Link": "S53"
   },
   {
+    "Rule": "Biotech Executive Template",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "204",
+    "Link": "BT204"
+  },
+  {
     "Rule": "Biotech Techniques Table",
     "Category": [
       "Reference",
@@ -1818,6 +2494,16 @@
     "Book": "Ultra-Tech",
     "Page": "206",
     "Link": "UT206"
+  },
+  {
+    "Rule": "Biovehicles (Design Rules)",
+    "Category": [
+      "Vehicles",
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "96",
+    "Link": "BT96"
   },
   {
     "Rule": "Biplane TL6",
@@ -1893,6 +2579,25 @@
     "Link": "B420"
   },
   {
+    "Rule": "Blessed (Monster Hunters)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "23",
+    "Link": "MH1:23"
+  },
+  {
+    "Rule": "Blessed (Mysticism)",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "43",
+    "Link": "MH1:43"
+  },
+  {
     "Rule": "Blessed Be (Defining Different Forms of Blessed)",
     "Category": [
       "Traits",
@@ -1929,6 +2634,16 @@
     "Book": "Basic",
     "Page": "437",
     "Link": "B437"
+  },
+  {
+    "Rule": "Blood Types and Transfusion Rules",
+    "Category": [
+      "Reference",
+      "Injury"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "130",
+    "Link": "BT130"
   },
   {
     "Rule": "Blunderbusses and Shotguns Table",
@@ -1980,6 +2695,15 @@
     "Link": "M35"
   },
   {
+    "Rule": "Body Decay Rate Table",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "140",
+    "Link": "BT140"
+  },
+  {
     "Rule": "Body Modifications Table (Cybernetics)",
     "Category": [
       "Reference",
@@ -1989,6 +2713,106 @@
     "Book": "Ultra-Tech",
     "Page": "208",
     "Link": "UT208"
+  },
+  {
+    "Rule": "Bodysculpting Rules",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "169",
+    "Link": "BT169"
+  },
+  {
+    "Rule": "Bodysculpting: Altered Appearance",
+    "Category": [
+      "Gear",
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "169",
+    "Link": "BT169"
+  },
+  {
+    "Rule": "Bodysculpting: Altered Height",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "171",
+    "Link": "BT171"
+  },
+  {
+    "Rule": "Bodysculpting: Archwork (Enhanced Flexibility)",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "171",
+    "Link": "BT171"
+  },
+  {
+    "Rule": "Bodysculpting: Copied Appearance",
+    "Category": [
+      "Gear",
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "169",
+    "Link": "BT169"
+  },
+  {
+    "Rule": "Bodysculpting: Fingerprint Removal",
+    "Category": [
+      "Gear",
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "171",
+    "Link": "BT171"
+  },
+  {
+    "Rule": "Bodysculpting: Jointwork (Enhanced Joints)",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "172",
+    "Link": "BT172"
+  },
+  {
+    "Rule": "Bodysculpting: Sex Change Options",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "170",
+    "Link": "BT170"
+  },
+  {
+    "Rule": "Bodysculpting: Xenosculpting (Exotic Features)",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "172",
+    "Link": "BT172"
+  },
+  {
+    "Rule": "Bodysculpting: Xeno-Voice Box",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "173",
+    "Link": "BT173"
   },
   {
     "Rule": "Bolas Special Ranged Rules",
@@ -2095,6 +2919,15 @@
     "Link": "PU3:8"
   },
   {
+    "Rule": "Born War-Leader",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "25",
+    "Link": "MH1:25"
+  },
+  {
     "Rule": "Born War-Leader Talent",
     "Category": [
       "Traits"
@@ -2120,6 +2953,15 @@
     "Book": "High Tech",
     "Page": "201",
     "Link": "HT201"
+  },
+  {
+    "Rule": "Bows and Crossbows",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "60",
+    "Link": "MH1:60"
   },
   {
     "Rule": "Bows Crossbows and Rated ST",
@@ -2173,6 +3015,16 @@
     "Link": "HTEE41"
   },
   {
+    "Rule": "Brainwashing Skill (Psi Bonus)",
+    "Category": [
+      "Skills",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "7",
+    "Link": "PSIS7"
+  },
+  {
     "Rule": "Brawling Striking Skill",
     "Category": [
       "Combat",
@@ -2213,6 +3065,25 @@
     "Link": "DF2:18"
   },
   {
+    "Rule": "Breaking Orbit 30% of Planet's Escape Velocity",
+    "Category": [
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "37",
+    "Link": "SS1:37"
+  },
+  {
+    "Rule": "Breaking Orbit with Reactionless Drives",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "39",
+    "Link": "SS1:39"
+  },
+  {
     "Rule": "Breath Innate Attack",
     "Category": [
       "Traits"
@@ -2220,6 +3091,15 @@
     "Book": "Basic",
     "Page": "201",
     "Link": "B201"
+  },
+  {
+    "Rule": "Breath-Holding",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "41",
+    "Link": "MH1:41"
   },
   {
     "Rule": "Brewing and Distilling",
@@ -2279,6 +3159,16 @@
     "Link": "DFDS8"
   },
   {
+    "Rule": "Budgeting",
+    "Category": [
+      "Gear",
+      "Character Points"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "53",
+    "Link": "MH1:53"
+  },
+  {
     "Rule": "Bugbears",
     "Category": [
       "Creatures"
@@ -2315,6 +3205,15 @@
     "Book": "Low Tech Companion 3",
     "Page": "33",
     "Link": "LTC3:33"
+  },
+  {
+    "Rule": "Bulk Compensation Technique (Psi)",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "33",
+    "Link": "PSIS33"
   },
   {
     "Rule": "Bulk Rating for Ranged Weapons",
@@ -2383,6 +3282,43 @@
     "Link": "TMS19"
   },
   {
+    "Rule": "Buying Successes",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "31",
+    "Link": "MH1:31"
+  },
+  {
+    "Rule": "Calculating Escape Velocity of Planets Other Than Earth",
+    "Category": [
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "37",
+    "Link": "SS1:37"
+  },
+  {
+    "Rule": "Calculating Escape Velocity of Stars and Star Fragments",
+    "Category": [
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "37",
+    "Link": "SS1:37"
+  },
+  {
+    "Rule": "Calculating Interstellar Voyages",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "40",
+    "Link": "SS1:40"
+  },
+  {
     "Rule": "Calculating Machines (Steampunk)",
     "Category": [
       "Setting"
@@ -2390,6 +3326,35 @@
     "Book": "Steampunk 2",
     "Page": "7",
     "Link": "SP2:7"
+  },
+  {
+    "Rule": "Calculating Space Travel with Reaction Drives",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "37",
+    "Link": "SS1:37"
+  },
+  {
+    "Rule": "Camazotz Racial Template (TL10)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "71",
+    "Link": "BT71"
+  },
+  {
+    "Rule": "Cameras",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "54",
+    "Link": "MH1:54"
   },
   {
     "Rule": "Cameras and Displays",
@@ -2501,6 +3466,15 @@
     "Book": "Magic: The Least of Spells",
     "Page": "6",
     "Link": "MTLOS6"
+  },
+  {
+    "Rule": "Cardiac Stress Limitation",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "215",
+    "Link": "BT215"
   },
   {
     "Rule": "Careful Loading",
@@ -2628,6 +3602,45 @@
     "Link": "SP3:30"
   },
   {
+    "Rule": "Celebrity Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "9",
+    "Link": "PSIS9"
+  },
+  {
+    "Rule": "Celebrity Template (Talented Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "10",
+    "Link": "PSIS10"
+  },
+  {
+    "Rule": "Cellular Restoration",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "41",
+    "Link": "MH1:41"
+  },
+  {
+    "Rule": "Cerebral-Motor Multitasking",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "41",
+    "Link": "MH1:41"
+  },
+  {
     "Rule": "Ceremonial Magic",
     "Category": [
       "Magic"
@@ -2644,6 +3657,16 @@
     "Book": "Magic",
     "Page": "12",
     "Link": "M12"
+  },
+  {
+    "Rule": "C-Fractional Velocity (Near Light Speed)",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "39",
+    "Link": "SS1:39"
   },
   {
     "Rule": "Chambered Rounds",
@@ -2672,6 +3695,15 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "35",
     "Link": "DF15:35"
+  },
+  {
+    "Rule": "Champions Cheat Sheet",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "22",
+    "Link": "MH1:22"
   },
   {
     "Rule": "Change Posture Maneuver",
@@ -2770,6 +3802,25 @@
     "Link": "ACT2:31"
   },
   {
+    "Rule": "Chemical Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
+    "Rule": "Chemical Drugs (Therapeutic/Capability/Lifestyle)",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "148",
+    "Link": "BT148"
+  },
+  {
     "Rule": "Chemical Rockets",
     "Category": [
       "Vehicles",
@@ -2805,6 +3856,48 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "7",
     "Link": "PU3:7"
+  },
+  {
+    "Rule": "Child Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "10",
+    "Link": "PSIS10"
+  },
+  {
+    "Rule": "Child Template (Childlike Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "11",
+    "Link": "PSIS11"
+  },
+  {
+    "Rule": "Child Template (Savant Lens)",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "11",
+    "Link": "PSIS11"
+  },
+  {
+    "Rule": "Child Template (Talented Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "11",
+    "Link": "PSIS11"
   },
   {
     "Rule": "Child TL8",
@@ -2852,6 +3945,24 @@
     "Link": "B428"
   },
   {
+    "Rule": "Chosen One",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "7",
+    "Link": "MH1:7"
+  },
+  {
+    "Rule": "Chronic Pain (Power-Activated Limitation)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Psis",
+    "Page": "6",
+    "Link": "PSIS6"
+  },
+  {
     "Rule": "Cinematic Over-the-Top Extra Effort Optional Rules",
     "Category": [
       "Combat"
@@ -2861,6 +3972,15 @@
     "Link": "ACT2:37"
   },
   {
+    "Rule": "Circadian Rhythm Control",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "41",
+    "Link": "MH1:41"
+  },
+  {
     "Rule": "Circuit Sense Talent",
     "Category": [
       "Traits"
@@ -2868,6 +3988,34 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "8",
     "Link": "PU3:8"
+  },
+  {
+    "Rule": "Cities as Encounters",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "City Stats",
+    "Page": "11",
+    "Link": "CS11"
+  },
+  {
+    "Rule": "Cities as Environments",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "City Stats",
+    "Page": "11",
+    "Link": "CS11"
+  },
+  {
+    "Rule": "City Defense Bonus",
+    "Category": [
+      "Setting",
+      "Combat"
+    ],
+    "Book": "City Stats",
+    "Page": "10",
+    "Link": "CS10"
   },
   {
     "Rule": "City Gods (Dungeon Fantasy)",
@@ -2895,6 +4043,15 @@
     "Book": "High Tech",
     "Page": "80",
     "Link": "HT80"
+  },
+  {
+    "Rule": "Clergy",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "7",
+    "Link": "MH1:7"
   },
   {
     "Rule": "Clergyman (75 pt. Steampunk Template)",
@@ -3009,6 +4166,16 @@
     "Link": "SP3:27"
   },
   {
+    "Rule": "Cloning Rules",
+    "Category": [
+      "Crafting",
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "22",
+    "Link": "BT22"
+  },
+  {
     "Rule": "Close Combat",
     "Category": [
       "Combat"
@@ -3025,6 +4192,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "8",
     "Link": "PU3:8"
+  },
+  {
+    "Rule": "Close to Heaven",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "25",
+    "Link": "MH1:25"
   },
   {
     "Rule": "Close to Heaven Talent",
@@ -3122,6 +4298,15 @@
     "Link": "FFE18"
   },
   {
+    "Rule": "Code of Honor (Psychic's)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Psis",
+    "Page": "6",
+    "Link": "PSIS6"
+  },
+  {
     "Rule": "Code of Honor (Shamans) (Dungeon Fantasy)",
     "Category": [
       "Traits"
@@ -3178,6 +4363,16 @@
     "Link": "DFT1:8"
   },
   {
+    "Rule": "Collections",
+    "Category": [
+      "Gear",
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "57",
+    "Link": "MH1:57"
+  },
+  {
     "Rule": "Colonial Adventurer (150 pt. Steampunk Template)",
     "Category": [
       "Template"
@@ -3223,6 +4418,15 @@
     "Link": "PU2:4"
   },
   {
+    "Rule": "Combat Teleport",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "48",
+    "Link": "MH1:48"
+  },
+  {
     "Rule": "Combination Gadgets Rules",
     "Category": [
       "Gear"
@@ -3240,6 +4444,15 @@
     "Book": "Power-Ups 1: Imbuements",
     "Page": "13",
     "Link": "PU1:13"
+  },
+  {
+    "Rule": "Commando",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "9",
+    "Link": "MH1:9"
   },
   {
     "Rule": "Committed Attack Maneuver",
@@ -3268,6 +4481,15 @@
     "Book": "Basic",
     "Page": "383",
     "Link": "B383"
+  },
+  {
+    "Rule": "Common Gadgets",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "54",
+    "Link": "MH1:54"
   },
   {
     "Rule": "Common Gear in a Post-Apocalyptic Game",
@@ -3320,6 +4542,15 @@
     "Link": "M44"
   },
   {
+    "Rule": "Communication Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "54",
+    "Link": "MH1:54"
+  },
+  {
     "Rule": "Communication Satellites",
     "Category": [
       "Mechanism",
@@ -3369,6 +4600,15 @@
     "Link": "TMS4"
   },
   {
+    "Rule": "Compulsive Snooping Disadvantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Psis",
+    "Page": "6",
+    "Link": "PSIS6"
+  },
+  {
     "Rule": "Computer Complexity and Processing Power",
     "Category": [
       "Skills",
@@ -3414,6 +4654,15 @@
     "Book": "Ultra-Tech",
     "Page": "100",
     "Link": "UT100"
+  },
+  {
+    "Rule": "Computer Network Complexity",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "472",
+    "Link": "B472"
   },
   {
     "Rule": "Computer Size Categories (TL7-8)",
@@ -3462,6 +4711,16 @@
     "Book": "High-Tech: Electricity and Electronics",
     "Page": "37",
     "Link": "HTEE37"
+  },
+  {
+    "Rule": "Computers",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "54",
+    "Link": "MH1:54"
   },
   {
     "Rule": "Computers and Communications (Space)",
@@ -3567,6 +4826,25 @@
     "Link": "B437"
   },
   {
+    "Rule": "Containers",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "54",
+    "Link": "MH1:54"
+  },
+  {
+    "Rule": "Continuous Acceleration with Reaction Drives (The Expanse)",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "38",
+    "Link": "SS1:38"
+  },
+  {
     "Rule": "Contragravity (Space)",
     "Category": [
       "Vehicles",
@@ -3585,6 +4863,15 @@
     "Book": "Ultra-Tech",
     "Page": "225",
     "Link": "UT225"
+  },
+  {
+    "Rule": "Control Rating and Corruption in Cities",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "City Stats",
+    "Page": "9",
+    "Link": "CS9"
   },
   {
     "Rule": "Controlled Evolution Weird Science Style",
@@ -3700,6 +4987,16 @@
     "Link": "B407"
   },
   {
+    "Rule": "CPR and Defibrillation Rules",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "123",
+    "Link": "BT123"
+  },
+  {
     "Rule": "Craft Secret Perks",
     "Category": [
       "Professions",
@@ -3711,6 +5008,15 @@
     "Link": "LTC3:24"
   },
   {
+    "Rule": "Craftiness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "25",
+    "Link": "MH1:25"
+  },
+  {
     "Rule": "Craftiness Talent",
     "Category": [
       "Traits"
@@ -3718,6 +5024,16 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "9",
     "Link": "PU3:9"
+  },
+  {
+    "Rule": "Craftiness Talent",
+    "Category": [
+      "Traits",
+      "Skills"
+    ],
+    "Book": "Psis",
+    "Page": "5",
+    "Link": "PSIS5"
   },
   {
     "Rule": "Crafting Table for Crafting Items",
@@ -3749,6 +5065,15 @@
     "Link": "SP3:32"
   },
   {
+    "Rule": "Criminal",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "8",
+    "Link": "MH1:8"
+  },
+  {
     "Rule": "Criminal (Action Lens)",
     "Category": [
       "Template",
@@ -3767,6 +5092,27 @@
     "Book": "Thaumatology: Urban Magics",
     "Page": "10",
     "Link": "TUM10"
+  },
+  {
+    "Rule": "Criminal Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "11",
+    "Link": "PSIS11"
+  },
+  {
+    "Rule": "Criminal Template (Talented Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "12",
+    "Link": "PSIS12"
   },
   {
     "Rule": "Criminal TL8",
@@ -3861,6 +5207,52 @@
     "Book": "Basic",
     "Page": "368",
     "Link": "B368"
+  },
+  {
+    "Rule": "Crusader",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "10",
+    "Link": "MH1:10"
+  },
+  {
+    "Rule": "Crusader Fantasy Campaigns",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Crusades",
+    "Page": "40",
+    "Link": "C40"
+  },
+  {
+    "Rule": "Crusader Knight",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Crusades",
+    "Page": "32",
+    "Link": "C32"
+  },
+  {
+    "Rule": "Cryokinesis",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "46",
+    "Link": "MH1:46"
+  },
+  {
+    "Rule": "Cryonic Preservation Rules",
+    "Category": [
+      "Setting",
+      "Injury"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "144",
+    "Link": "BT144"
   },
   {
     "Rule": "Cultist",
@@ -4073,6 +5465,15 @@
     "Link": "MDS9"
   },
   {
+    "Rule": "Decade (x10) and Century (x100) Scale for Large Vehicles",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "470",
+    "Link": "B470"
+  },
+  {
     "Rule": "Deceptive Attack",
     "Category": [
       "Combat"
@@ -4184,6 +5585,16 @@
     "Link": "MA101"
   },
   {
+    "Rule": "Defining Psionic Powers Abilities and PMs",
+    "Category": [
+      "Attributes",
+      "Traits"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "4",
+    "Link": "PSI4"
+  },
+  {
     "Rule": "Delusions (Superstitions)",
     "Category": [
       "Traits"
@@ -4220,6 +5631,15 @@
     "Link": "SP3:50"
   },
   {
+    "Rule": "Demolition and Intrusion Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "55",
+    "Link": "MH1:55"
+  },
+  {
     "Rule": "Demolition Man",
     "Category": [
       "Template"
@@ -4245,6 +5665,16 @@
     "Book": "Horror",
     "Page": "96",
     "Link": "H96"
+  },
+  {
+    "Rule": "Demon",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "49",
+    "Link": "MH1:49"
   },
   {
     "Rule": "Demonic Critical Spell Failure Table",
@@ -4348,6 +5778,16 @@
     "Link": "DF20:8"
   },
   {
+    "Rule": "Demonspawn",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "50",
+    "Link": "MH1:50"
+  },
+  {
     "Rule": "Designing a Stardrive",
     "Category": [
       "Setting"
@@ -4355,6 +5795,43 @@
     "Book": "Space",
     "Page": "41",
     "Link": "S41"
+  },
+  {
+    "Rule": "Designing Drugs Rules",
+    "Category": [
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "160",
+    "Link": "BT160"
+  },
+  {
+    "Rule": "Designing Variant Humans (Gengineering Guidelines)",
+    "Category": [
+      "Crafting",
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "41",
+    "Link": "BT41"
+  },
+  {
+    "Rule": "Desktop Systems (mid-TL8 2004-era) are Complexity 4",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "472",
+    "Link": "B472"
+  },
+  {
+    "Rule": "Destiny Points",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "23",
+    "Link": "MH1:23"
   },
   {
     "Rule": "Detecting and Removing Cybernetics",
@@ -4411,6 +5888,16 @@
     "Link": "PU3:9"
   },
   {
+    "Rule": "Dhampir",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "51",
+    "Link": "MH1:51"
+  },
+  {
     "Rule": "Diabolical Whips",
     "Category": [
       "Weapons"
@@ -4418,6 +5905,25 @@
     "Book": "Fantasy Tech 2",
     "Page": "12",
     "Link": "FT2:12"
+  },
+  {
+    "Rule": "Diagnosis Skill (Internal Disease Penalty)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "213",
+    "Link": "BT213"
+  },
+  {
+    "Rule": "Diana Racial Template (TL9)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "68",
+    "Link": "BT68"
   },
   {
     "Rule": "Dictum of Fate (Aura) (Pyramid Magazine)",
@@ -4465,6 +5971,15 @@
     "Link": "HTEE50"
   },
   {
+    "Rule": "Disadvantage Limit",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "26",
+    "Link": "MH1:26"
+  },
+  {
     "Rule": "Disadvantage Limit -50 for Action Campaigns",
     "Category": [
       "Setting"
@@ -4501,6 +6016,24 @@
     "Book": "Basic",
     "Page": "401",
     "Link": "B401"
+  },
+  {
+    "Rule": "Discriminatory Hearing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "41",
+    "Link": "MH1:41"
+  },
+  {
+    "Rule": "Discriminatory Smell",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "41",
+    "Link": "MH1:41"
   },
   {
     "Rule": "Disease in a Post-Apocalyptic World",
@@ -4627,6 +6160,16 @@
     "Link": "T257"
   },
   {
+    "Rule": "DNA Testing Procedures",
+    "Category": [
+      "Skills",
+      "Reference"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "8",
+    "Link": "BT8"
+  },
+  {
     "Rule": "Do Nothing",
     "Category": [
       "Combat"
@@ -4751,6 +6294,15 @@
     "Link": "UT220"
   },
   {
+    "Rule": "Draconis Campaign Setting",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "224",
+    "Link": "BT224"
+  },
+  {
     "Rule": "Drag or Carry Grappled Person",
     "Category": [
       "Combat"
@@ -4858,6 +6410,15 @@
     "Link": "FFRR12"
   },
   {
+    "Rule": "Dragon's Breath Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
     "Rule": "Dragon's Breath Clouds Acid or Frost",
     "Category": [
       "Traits"
@@ -4921,6 +6482,35 @@
     "Link": "DFM4:15"
   },
   {
+    "Rule": "Dream Control",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "73",
+    "Link": "PSI73"
+  },
+  {
+    "Rule": "Dream Technology",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "19",
+    "Link": "PT19"
+  },
+  {
+    "Rule": "Dreaming Skill (Psi Resistance)",
+    "Category": [
+      "Skills",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "7",
+    "Link": "PSIS7"
+  },
+  {
     "Rule": "Dressed to Kill Swashbucklers Clothing",
     "Category": [
       "Gear",
@@ -4977,6 +6567,16 @@
     "Book": "Basic",
     "Page": "428",
     "Link": "B428"
+  },
+  {
+    "Rule": "Drug and Nano Delivery Methods",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "167",
+    "Link": "BT167"
   },
   {
     "Rule": "Drugs (Low Tech)",
@@ -5081,6 +6681,25 @@
     "Link": "DFM3:9"
   },
   {
+    "Rule": "Drylander Racial Template (TL9)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "70",
+    "Link": "BT70"
+  },
+  {
+    "Rule": "Dual Shooting",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "23",
+    "Link": "MH1:23"
+  },
+  {
     "Rule": "Dual-Weapon Attack Technique",
     "Category": [
       "Combat",
@@ -5169,6 +6788,15 @@
     "Link": "B422"
   },
   {
+    "Rule": "Eagle Eyes",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "41",
+    "Link": "MH1:41"
+  },
+  {
     "Rule": "Early Maturation",
     "Category": [
       "Traits"
@@ -5215,6 +6843,15 @@
     "Link": "M50"
   },
   {
+    "Rule": "Easy to Read (Psychic Enhancements)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Psis",
+    "Page": "6",
+    "Link": "PSIS6"
+  },
+  {
     "Rule": "Eccentricity Table",
     "Category": [
       "Reference"
@@ -5241,6 +6878,16 @@
     "Book": "Ultra-Tech",
     "Page": "98",
     "Link": "UT98"
+  },
+  {
+    "Rule": "Ecological Engineer/Ecoteur Template",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "204",
+    "Link": "BT204"
   },
   {
     "Rule": "Economics (Space Setting)",
@@ -5345,6 +6992,16 @@
     "Link": "FFE14"
   },
   {
+    "Rule": "Elective Surgery/Acquiring Biomods",
+    "Category": [
+      "Injury",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "168",
+    "Link": "BT168"
+  },
+  {
     "Rule": "Electric Gatling Gun",
     "Category": [
       "Weapons"
@@ -5416,6 +7073,25 @@
     "Book": "Basic",
     "Page": "432",
     "Link": "B432"
+  },
+  {
+    "Rule": "Electroencephalography",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "10",
+    "Link": "PT10"
+  },
+  {
+    "Rule": "Electro-Mechanical Computers (Battlestar Galactica)",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "31",
+    "Link": "SS1:31"
   },
   {
     "Rule": "Electronic Fuzes Rules",
@@ -5577,6 +7253,15 @@
     "Link": "FFE4"
   },
   {
+    "Rule": "EM Field Meter",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "11",
+    "Link": "PT11"
+  },
+  {
     "Rule": "Emergent Superscience Technology Path",
     "Category": [
       "Setting"
@@ -5623,6 +7308,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "10",
     "Link": "PU3:10"
+  },
+  {
+    "Rule": "Encapsulated Cell Implants",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "120",
+    "Link": "BT120"
   },
   {
     "Rule": "Enchanted Item Dealer",
@@ -5704,6 +7398,16 @@
     "Link": "DF3:39"
   },
   {
+    "Rule": "Energy Reserver (Psi)",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "21",
+    "Link": "PT21"
+  },
+  {
     "Rule": "Energy Spells College",
     "Category": [
       "Magic"
@@ -5731,6 +7435,34 @@
     "Link": "ACT1:18"
   },
   {
+    "Rule": "Enhanced Ground Move",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "42",
+    "Link": "MH1:42"
+  },
+  {
+    "Rule": "Enhanced Power Defense",
+    "Category": [
+      "Psionic Powers",
+      "Traits"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "18",
+    "Link": "PSI18"
+  },
+  {
+    "Rule": "Enhanced Speed",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "42",
+    "Link": "MH1:42"
+  },
+  {
     "Rule": "Enhancement Imbuement Skills",
     "Category": [
       "Skills",
@@ -5739,6 +7471,16 @@
     "Book": "Power-Ups 1: Imbuements",
     "Page": "6",
     "Link": "PU1:6"
+  },
+  {
+    "Rule": "Enhancements and Limitations on Psionic Abilities",
+    "Category": [
+      "Psionic Powers",
+      "Traits"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "19",
+    "Link": "PSI19"
   },
   {
     "Rule": "Entertainer",
@@ -5788,6 +7530,64 @@
     "Book": "High Tech",
     "Page": "72",
     "Link": "HT72"
+  },
+  {
+    "Rule": "Epidemiologist Template",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "205",
+    "Link": "BT205"
+  },
+  {
+    "Rule": "Epidemiologist Template (Containment Specialist Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "205",
+    "Link": "BT205"
+  },
+  {
+    "Rule": "Epidemiologist Template (Disease Hunter Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "205",
+    "Link": "BT205"
+  },
+  {
+    "Rule": "Epidemiologist Template (Research Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "205",
+    "Link": "BT205"
+  },
+  {
+    "Rule": "Epidermal Resilience",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "42",
+    "Link": "MH1:42"
+  },
+  {
+    "Rule": "Equilibrium Enhancement",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "42",
+    "Link": "MH1:42"
   },
   {
     "Rule": "Equipment Camping and Survival",
@@ -5947,6 +7747,44 @@
     "Link": "B289"
   },
   {
+    "Rule": "Ergokinesis",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "30",
+    "Link": "PSI30"
+  },
+  {
+    "Rule": "Ergokinesis Packages",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "22",
+    "Link": "PSIS22"
+  },
+  {
+    "Rule": "Ergokinetic Psychotronics",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "20",
+    "Link": "PT20"
+  },
+  {
+    "Rule": "Eros Racial Template (TL10)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "72",
+    "Link": "BT72"
+  },
+  {
     "Rule": "Escaping Restraints (Action)",
     "Category": [
       "Physical Act"
@@ -5954,6 +7792,16 @@
     "Book": "Action 2: Exploits",
     "Page": "42",
     "Link": "ACT2:42"
+  },
+  {
+    "Rule": "Esoteric Gear",
+    "Category": [
+      "Gear",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "56",
+    "Link": "MH1:56"
   },
   {
     "Rule": "Esoteric Medicine and Gear",
@@ -5965,6 +7813,34 @@
     "Book": "Fantasy Tech 1",
     "Page": "31",
     "Link": "FT1:31"
+  },
+  {
+    "Rule": "ESP",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "37",
+    "Link": "PSI37"
+  },
+  {
+    "Rule": "ESP Abilities",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "45",
+    "Link": "MH1:45"
+  },
+  {
+    "Rule": "ESP Packages",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "24",
+    "Link": "PSIS24"
   },
   {
     "Rule": "Euphoria",
@@ -6059,6 +7935,16 @@
     "Link": "H84"
   },
   {
+    "Rule": "Exorcism Skill (vs. Psi Abilities)",
+    "Category": [
+      "Skills",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "7",
+    "Link": "PSIS7"
+  },
+  {
     "Rule": "Exorcist",
     "Category": [
       "Template",
@@ -6067,6 +7953,15 @@
     "Book": "Thaumatology: Urban Magics",
     "Page": "12",
     "Link": "TUM12"
+  },
+  {
+    "Rule": "Exoteleport",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "48",
+    "Link": "MH1:48"
   },
   {
     "Rule": "Exotic Perks",
@@ -6094,6 +7989,46 @@
     "Book": "High Tech",
     "Page": "51",
     "Link": "HT51"
+  },
+  {
+    "Rule": "Experiment",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "11",
+    "Link": "MH1:11"
+  },
+  {
+    "Rule": "Experiment Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "12",
+    "Link": "PSIS12"
+  },
+  {
+    "Rule": "Experiment Template (Talented Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "13",
+    "Link": "PSIS13"
+  },
+  {
+    "Rule": "Expert Skill (Psionics)",
+    "Category": [
+      "Skills",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "8",
+    "Link": "PSIS8"
   },
   {
     "Rule": "Explanation of Ammunition Caliber",
@@ -6159,6 +8094,25 @@
     "Link": "B414"
   },
   {
+    "Rule": "Explosive Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
+    "Rule": "Explosive Decompression",
+    "Category": [
+      "Space",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "437",
+    "Link": "B437"
+  },
+  {
     "Rule": "Explosives and Incendiaries",
     "Category": [
       "Weapons"
@@ -6186,6 +8140,26 @@
     "Link": "MA131"
   },
   {
+    "Rule": "Extra Effort with Psionic Skill Use",
+    "Category": [
+      "Psionic Powers",
+      "Skills"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "7",
+    "Link": "PSI7"
+  },
+  {
+    "Rule": "Extra Life (Mysticism)",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "43",
+    "Link": "MH1:43"
+  },
+  {
     "Rule": "Extracting Useful Venom or Monster Bits",
     "Category": [
       "Activities",
@@ -6203,6 +8177,25 @@
     "Book": "Powers: The Weird",
     "Page": "24",
     "Link": "PW24"
+  },
+  {
+    "Rule": "Extra-Powerful Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
+    "Rule": "Extrasensory Perception Technology",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "22",
+    "Link": "PT22"
   },
   {
     "Rule": "Extreme Cold",
@@ -6230,6 +8223,16 @@
     "Book": "High Tech",
     "Page": "225",
     "Link": "HT225"
+  },
+  {
+    "Rule": "Eyes of the Dead",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "43",
+    "Link": "MH1:43"
   },
   {
     "Rule": "Face Man",
@@ -6392,6 +8395,16 @@
     "Link": "FFWF24"
   },
   {
+    "Rule": "Februus Racial Template (TL10)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "73",
+    "Link": "BT73"
+  },
+  {
     "Rule": "Feint Maneuver",
     "Category": [
       "Combat"
@@ -6426,6 +8439,16 @@
     "Book": "Martial Arts",
     "Page": "121",
     "Link": "MA121"
+  },
+  {
+    "Rule": "Felicia Racial Template (TL10)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "73",
+    "Link": "BT73"
   },
   {
     "Rule": "Fencing Parry",
@@ -6489,6 +8512,15 @@
     "Book": "Horror",
     "Page": "65",
     "Link": "H65"
+  },
+  {
+    "Rule": "Fighting Disease (Medical Microorganism Applications)",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "119",
+    "Link": "BT119"
   },
   {
     "Rule": "Fighting from the back of a Mount",
@@ -6568,6 +8600,16 @@
     "Link": "HT80"
   },
   {
+    "Rule": "Firearm Cost Factors",
+    "Category": [
+      "Weapons",
+      "Reference"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "61",
+    "Link": "MH1:61"
+  },
+  {
     "Rule": "Firearm Quality",
     "Category": [
       "Weapons"
@@ -6595,6 +8637,15 @@
     "Link": "HT78"
   },
   {
+    "Rule": "Firearms",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "61",
+    "Link": "MH1:61"
+  },
+  {
     "Rule": "Firearms and Explosives (Post-Apocalyptic)",
     "Category": [
       "Weapons",
@@ -6613,6 +8664,16 @@
     "Book": "Basic",
     "Page": "278",
     "Link": "B278"
+  },
+  {
+    "Rule": "Firearms Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "62",
+    "Link": "MH1:62"
   },
   {
     "Rule": "Firearms Table (Action)",
@@ -6660,6 +8721,16 @@
     "Book": "High Tech",
     "Page": "85",
     "Link": "HT85"
+  },
+  {
+    "Rule": "First Aid Expanded Rules (Airway/Breathing/Circulation)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "123",
+    "Link": "BT123"
   },
   {
     "Rule": "First Aid Kits and Doctor's Bags TL5 to TL8",
@@ -6761,6 +8832,15 @@
     "Link": "HT179"
   },
   {
+    "Rule": "Flare Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
     "Rule": "Flechette Rifle",
     "Category": [
       "Weapons"
@@ -6768,6 +8848,15 @@
     "Book": "High Tech",
     "Page": "116",
     "Link": "HT116"
+  },
+  {
+    "Rule": "Flesh Wounds",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "31",
+    "Link": "MH1:31"
   },
   {
     "Rule": "Flexible Armor",
@@ -6858,6 +8947,17 @@
     "Link": "MA83"
   },
   {
+    "Rule": "Flying Spacecraft in Atmospheres",
+    "Category": [
+      "Vehicles",
+      "Skills",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "35",
+    "Link": "SS1:35"
+  },
+  {
     "Rule": "Flying Tackle",
     "Category": [
       "Combat"
@@ -6893,6 +8993,16 @@
     "Book": "Basic",
     "Page": "437",
     "Link": "B437"
+  },
+  {
+    "Rule": "Food in Monster Hunters",
+    "Category": [
+      "Gear",
+      "Reference"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "53",
+    "Link": "MH1:53"
   },
   {
     "Rule": "Food Spells College",
@@ -6967,6 +9077,16 @@
     "Book": "Dungeon Fantasy 16",
     "Page": "29",
     "Link": "DF16:29"
+  },
+  {
+    "Rule": "Forensic Pathologist Template",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "206",
+    "Link": "BT206"
   },
   {
     "Rule": "Forensic Sorcerer",
@@ -7082,6 +9202,15 @@
     "Link": "FT2:4"
   },
   {
+    "Rule": "Functional MRI",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "11",
+    "Link": "PT11"
+  },
+  {
     "Rule": "Fusion Rocket",
     "Category": [
       "Vehicles",
@@ -7100,6 +9229,16 @@
     "Book": "Ultra-Tech",
     "Page": "11",
     "Link": "UT11"
+  },
+  {
+    "Rule": "Gadget Cost Factors",
+    "Category": [
+      "Gear",
+      "Reference"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "54",
+    "Link": "MH1:54"
   },
   {
     "Rule": "Gadgeteer 125 pt Lens",
@@ -7279,6 +9418,252 @@
     "Link": "UT20"
   },
   {
+    "Rule": "Genetic Engineering in Play (Procedures/Costs)",
+    "Category": [
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "17",
+    "Link": "BT17"
+  },
+  {
+    "Rule": "Genetic Surgery Biomods: Body Part Regrowth",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "184",
+    "Link": "BT184"
+  },
+  {
+    "Rule": "Genetic Surgery Biomods: Bone Marrow Upgrades",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "182",
+    "Link": "BT182"
+  },
+  {
+    "Rule": "Genetic Surgery Biomods: Gene Therapy",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "181",
+    "Link": "BT181"
+  },
+  {
+    "Rule": "Genetic Surgery Biomods: Genetic Surgery Nanovirus",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "185",
+    "Link": "BT185"
+  },
+  {
+    "Rule": "Genetic Surgery Biomods: Metabolic Reset",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "182",
+    "Link": "BT182"
+  },
+  {
+    "Rule": "Genetic Testing (Biotech Society Rules)",
+    "Category": [
+      "Setting",
+      "Reference"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "199",
+    "Link": "BT199"
+  },
+  {
+    "Rule": "Gengineered Animals (Levels of Sapience Biomodified Animals)",
+    "Category": [
+      "Crafting",
+      "Creatures"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "84",
+    "Link": "BT84"
+  },
+  {
+    "Rule": "Gengineered Fungi",
+    "Category": [
+      "Crafting",
+      "Creatures"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "81",
+    "Link": "BT81"
+  },
+  {
+    "Rule": "Gengineered Insects (Helpful/Bioweapon)",
+    "Category": [
+      "Crafting",
+      "Creatures",
+      "Weapons"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "82",
+    "Link": "BT82"
+  },
+  {
+    "Rule": "Gengineered Plants",
+    "Category": [
+      "Crafting",
+      "Creatures"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "78",
+    "Link": "BT78"
+  },
+  {
+    "Rule": "Gengineered Traits Overview",
+    "Category": [
+      "Reference",
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "42",
+    "Link": "BT42"
+  },
+  {
+    "Rule": "Gengineered Traits: Brain Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "42",
+    "Link": "BT42"
+  },
+  {
+    "Rule": "Gengineered Traits: Cardiovascular Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "44",
+    "Link": "BT44"
+  },
+  {
+    "Rule": "Gengineered Traits: Cosmetic and Minor Transgenic Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "44",
+    "Link": "BT44"
+  },
+  {
+    "Rule": "Gengineered Traits: Digestive and Filtration Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "46",
+    "Link": "BT46"
+  },
+  {
+    "Rule": "Gengineered Traits: Glandular Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "47",
+    "Link": "BT47"
+  },
+  {
+    "Rule": "Gengineered Traits: Immune System Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "49",
+    "Link": "BT49"
+  },
+  {
+    "Rule": "Gengineered Traits: Lifespan and Self-Repair Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "50",
+    "Link": "BT50"
+  },
+  {
+    "Rule": "Gengineered Traits: Morphological Changes",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "51",
+    "Link": "BT51"
+  },
+  {
+    "Rule": "Gengineered Traits: Musculo-Skeletal Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "53",
+    "Link": "BT53"
+  },
+  {
+    "Rule": "Gengineered Traits: Nervous System Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "54",
+    "Link": "BT54"
+  },
+  {
+    "Rule": "Gengineered Traits: Respiratory Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "55",
+    "Link": "BT55"
+  },
+  {
+    "Rule": "Gengineered Traits: Sensory Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "56",
+    "Link": "BT56"
+  },
+  {
+    "Rule": "Gengineered Traits: Sexual and Reproductive Modifications",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "58",
+    "Link": "BT58"
+  },
+  {
+    "Rule": "Gengineered Traits: Transformations",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "60",
+    "Link": "BT60"
+  },
+  {
     "Rule": "Genin 125 pt Lens",
     "Category": [
       "Template",
@@ -7298,6 +9683,35 @@
     "Link": "SP3:56"
   },
   {
+    "Rule": "Germ Warfare (Biological Agents/Designer Plagues)",
+    "Category": [
+      "Hazard",
+      "Weapons"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "112",
+    "Link": "BT112"
+  },
+  {
+    "Rule": "Getting into Space 80% of the Planet's Escape Velocity",
+    "Category": [
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "37",
+    "Link": "SS1:37"
+  },
+  {
+    "Rule": "Getting into Space with Reactionless Drives",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "39",
+    "Link": "SS1:39"
+  },
+  {
     "Rule": "Getting Lost While Hiking",
     "Category": [
       "Environment"
@@ -7315,6 +9729,25 @@
     "Book": "Horror",
     "Page": "78",
     "Link": "H78"
+  },
+  {
+    "Rule": "Ghost Weapon",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "23",
+    "Link": "MH1:23"
+  },
+  {
+    "Rule": "Ghost Weapon (Mysticism)",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "43",
+    "Link": "MH1:43"
   },
   {
     "Rule": "Ghostly Possession Modifiers",
@@ -7420,6 +9853,16 @@
     "Book": "Fantasy Folk: Elves",
     "Page": "22",
     "Link": "FFE22"
+  },
+  {
+    "Rule": "Gilgamesh Racial Template (TL10)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "69",
+    "Link": "BT69"
   },
   {
     "Rule": "Gladiator",
@@ -7751,6 +10194,16 @@
     "Link": "PU3:10"
   },
   {
+    "Rule": "Government and Special Situation Table of Cities",
+    "Category": [
+      "Reference",
+      "Setting"
+    ],
+    "Book": "City Stats",
+    "Page": "8",
+    "Link": "CS8"
+  },
+  {
     "Rule": "Grabbing a Shield",
     "Category": [
       "Combat"
@@ -7836,6 +10289,46 @@
     "Link": "HT145"
   },
   {
+    "Rule": "Grenade Rules",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
+    "Rule": "Grenades",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
+    "Rule": "Grimoire Table",
+    "Category": [
+      "Reference",
+      "Gear",
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "57",
+    "Link": "MH1:57"
+  },
+  {
+    "Rule": "Grimoires and Collections",
+    "Category": [
+      "Gear",
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "56",
+    "Link": "MH1:56"
+  },
+  {
     "Rule": "Grip Mastery Perk",
     "Category": [
       "Physical Act",
@@ -7886,6 +10379,16 @@
     "Link": "B464"
   },
   {
+    "Rule": "Growth Tanks",
+    "Category": [
+      "Gear",
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "20",
+    "Link": "BT20"
+  },
+  {
     "Rule": "Gryphons",
     "Category": [
       "Creatures"
@@ -7903,6 +10406,16 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "21",
     "Link": "DF15:21"
+  },
+  {
+    "Rule": "Guardian Racial Template (TL10)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "69",
+    "Link": "BT69"
   },
   {
     "Rule": "Guided and Homing Missiles",
@@ -7974,6 +10487,16 @@
     "Link": "DF17:9"
   },
   {
+    "Rule": "Gun Accessories",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "55",
+    "Link": "MH1:55"
+  },
+  {
     "Rule": "Gun Case",
     "Category": [
       "Gear"
@@ -7981,6 +10504,16 @@
     "Book": "High Tech",
     "Page": "160",
     "Link": "HT160"
+  },
+  {
+    "Rule": "Gun Fu Perks",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "10",
+    "Link": "MH1:10"
   },
   {
     "Rule": "Gun Perks",
@@ -8027,6 +10560,15 @@
     "Book": "Basic",
     "Page": "58",
     "Link": "B58"
+  },
+  {
+    "Rule": "Gunslinger in Monster Hunters",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "24",
+    "Link": "MH1:24"
   },
   {
     "Rule": "H&K MP5",
@@ -8168,6 +10710,15 @@
     "Link": "HT80"
   },
   {
+    "Rule": "Hand-Matched Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
     "Rule": "Hangovers from Drinking",
     "Category": [
       "Poison",
@@ -8233,6 +10784,15 @@
     "Book": "Dungeon Fantasy 16",
     "Page": "30",
     "Link": "DF16:30"
+  },
+  {
+    "Rule": "Hazardous Atmospheres",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "429",
+    "Link": "B429"
   },
   {
     "Rule": "Head Butt Technique (Martial Arts)",
@@ -8335,6 +10895,17 @@
     "Link": "HT158"
   },
   {
+    "Rule": "Hearing Shots",
+    "Category": [
+      "Combat",
+      "Weapons",
+      "Reference"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "61",
+    "Link": "MH1:61"
+  },
+  {
     "Rule": "Heart Attack",
     "Category": [
       "Affliction"
@@ -8364,6 +10935,16 @@
     "Link": "B281"
   },
   {
+    "Rule": "Heavy Worlder Racial Template (TL9)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "66",
+    "Link": "BT66"
+  },
+  {
     "Rule": "Helmet Padding",
     "Category": [
       "Armor"
@@ -8371,6 +10952,26 @@
     "Book": "Low Tech Instant Armor",
     "Page": "18",
     "Link": "LTIA18"
+  },
+  {
+    "Rule": "Helot Racial Template (TL10)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "67",
+    "Link": "BT67"
+  },
+  {
+    "Rule": "Herakles Racial Template (TL11)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "70",
+    "Link": "BT70"
   },
   {
     "Rule": "Herbal Pharmacy List",
@@ -8393,6 +10994,15 @@
     "Link": "LTC3:10"
   },
   {
+    "Rule": "Heroic Advantages",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "23",
+    "Link": "MH1:23"
+  },
+  {
     "Rule": "Heroic Charge",
     "Category": [
       "Combat"
@@ -8400,6 +11010,16 @@
     "Book": "Martial Arts",
     "Page": "131",
     "Link": "MA131"
+  },
+  {
+    "Rule": "Heroic Feats",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "43",
+    "Link": "MH1:43"
   },
   {
     "Rule": "Hexing Logos",
@@ -8419,6 +11039,15 @@
     "Book": "Dungeon Fantasy 2",
     "Page": "12",
     "Link": "DF2:12"
+  },
+  {
+    "Rule": "High Acceleration",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "434",
+    "Link": "B434"
   },
   {
     "Rule": "High Biotech Technology Path",
@@ -8458,6 +11087,24 @@
     "Link": "B59"
   },
   {
+    "Rule": "Higher Purpose (Acquire Knowledge)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "24",
+    "Link": "MH1:24"
+  },
+  {
+    "Rule": "Higher Purpose (Defend the Faith)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "24",
+    "Link": "MH1:24"
+  },
+  {
     "Rule": "Higher Purpose (Mage-Hunting)",
     "Category": [
       "Traits"
@@ -8485,6 +11132,15 @@
     "Link": "DF20:15"
   },
   {
+    "Rule": "Higher Purpose in Monster Hunters",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "24",
+    "Link": "MH1:24"
+  },
+  {
     "Rule": "High-Heeled Heroine Clothing Schtick Perk",
     "Category": [
       "Traits",
@@ -8504,6 +11160,15 @@
     "Link": "B351"
   },
   {
+    "Rule": "Hired Gun",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "8",
+    "Link": "MH1:8"
+  },
+  {
     "Rule": "Hirelings Pay Rates",
     "Category": [
       "Reference",
@@ -8512,6 +11177,15 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "32",
     "Link": "DF15:32"
+  },
+  {
+    "Rule": "Historical Tech Level",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "511",
+    "Link": "B511"
   },
   {
     "Rule": "Hit Location",
@@ -8592,6 +11266,15 @@
     "Link": "B351"
   },
   {
+    "Rule": "Hollow-Point Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
     "Rule": "Holsters Scabbards and Slings",
     "Category": [
       "Gear"
@@ -8599,6 +11282,16 @@
     "Book": "High Tech",
     "Page": "153",
     "Link": "HT153"
+  },
+  {
+    "Rule": "Holy Attacks",
+    "Category": [
+      "Combat",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "51",
+    "Link": "MH1:51"
   },
   {
     "Rule": "Holy Hand Grenades",
@@ -8619,6 +11312,16 @@
     "Book": "Dungeon Fantasy 1",
     "Page": "22",
     "Link": "DF1:22"
+  },
+  {
+    "Rule": "Holy Symbols",
+    "Category": [
+      "Gear",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "57",
+    "Link": "MH1:57"
   },
   {
     "Rule": "Holy Warrior (PC Class)",
@@ -8655,6 +11358,25 @@
     "Book": "Pyramid #3/78",
     "Page": "14",
     "Link": "PY78:14"
+  },
+  {
+    "Rule": "Holy Water",
+    "Category": [
+      "Gear",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "57",
+    "Link": "MH1:57"
+  },
+  {
+    "Rule": "Holy-Water Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
   },
   {
     "Rule": "Home-Built Sound Suppressors",
@@ -8702,6 +11424,15 @@
     "Book": "Horror",
     "Page": "12",
     "Link": "H12"
+  },
+  {
+    "Rule": "Horror Biotech",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "35",
+    "Link": "BT35"
   },
   {
     "Rule": "Horse Collars",
@@ -8798,6 +11529,15 @@
     "Book": "Basic",
     "Page": "379",
     "Link": "B379"
+  },
+  {
+    "Rule": "Hygience in Cities",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "City Stats",
+    "Page": "6",
+    "Link": "CS6"
   },
   {
     "Rule": "Hyperdrive (Space)",
@@ -8952,6 +11692,16 @@
     "Link": "PU3:11"
   },
   {
+    "Rule": "Improvised Firearms",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "62",
+    "Link": "MH1:62"
+  },
+  {
     "Rule": "Improvised Weapons",
     "Category": [
       "Weapons",
@@ -8960,6 +11710,16 @@
     "Book": "Basic",
     "Page": "404",
     "Link": "B404"
+  },
+  {
+    "Rule": "Improvised Weapons",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "60",
+    "Link": "MH1:60"
   },
   {
     "Rule": "Improvised Weapons (Low Tech)",
@@ -9026,6 +11786,16 @@
     "Link": "B457"
   },
   {
+    "Rule": "Industrial and Commercial Microbes",
+    "Category": [
+      "Setting",
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "104",
+    "Link": "BT104"
+  },
+  {
     "Rule": "Industrial Magic",
     "Category": [
       "Setting",
@@ -9063,6 +11833,16 @@
     "Link": "MA119"
   },
   {
+    "Rule": "Information Gained from Detected Spacecraft",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "45",
+    "Link": "SS1:45"
+  },
+  {
     "Rule": "Information Spells",
     "Category": [
       "Magic"
@@ -9079,6 +11859,34 @@
     "Book": "High Tech",
     "Page": "17",
     "Link": "HT17"
+  },
+  {
+    "Rule": "Inhuman",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "13",
+    "Link": "MH1:13"
+  },
+  {
+    "Rule": "Inhuman Races",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "49",
+    "Link": "MH1:49"
+  },
+  {
+    "Rule": "Inhuman Tongues",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "24",
+    "Link": "MH1:24"
   },
   {
     "Rule": "Initiate",
@@ -9231,6 +12039,27 @@
     "Link": "ACT1:12"
   },
   {
+    "Rule": "Investigator Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "13",
+    "Link": "PSIS13"
+  },
+  {
+    "Rule": "Investigator Template (Talented Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "14",
+    "Link": "PSIS14"
+  },
+  {
     "Rule": "Ion Drive",
     "Category": [
       "Vehicles",
@@ -9249,6 +12078,16 @@
     "Book": "Magical Styles: Dungeon Magic",
     "Page": "34",
     "Link": "MSDM34"
+  },
+  {
+    "Rule": "Ishtar Racial Template (TL9)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "66",
+    "Link": "BT66"
   },
   {
     "Rule": "Jack of all Trades Talent",
@@ -9427,6 +12266,16 @@
     "Link": "DF12:5"
   },
   {
+    "Rule": "Kirlian Photography",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "8",
+    "Link": "PT8"
+  },
+  {
     "Rule": "Kiss the Wall",
     "Category": [
       "Combat"
@@ -9519,6 +12368,16 @@
     "Link": "B420"
   },
   {
+    "Rule": "Knowledge Skills for Monsters",
+    "Category": [
+      "Skills",
+      "Reference"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "16",
+    "Link": "MH1:16"
+  },
+  {
     "Rule": "Knowledge Spells College",
     "Category": [
       "Magic"
@@ -9585,6 +12444,15 @@
     "Link": "FFK9"
   },
   {
+    "Rule": "Laboratory Tests (Diagnosis Bonus)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "127",
+    "Link": "BT127"
+  },
+  {
     "Rule": "Laborer",
     "Category": [
       "Template",
@@ -9593,6 +12461,16 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "22",
     "Link": "DF15:22"
+  },
+  {
+    "Rule": "Labs and Tool Kits",
+    "Category": [
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "55",
+    "Link": "MH1:55"
   },
   {
     "Rule": "Land Conveyances Table TL5 to TL8",
@@ -9622,6 +12500,24 @@
     "Book": "High Tech",
     "Page": "189",
     "Link": "HT189"
+  },
+  {
+    "Rule": "Language Literacy and Tech Level of Cities",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "City Stats",
+    "Page": "7",
+    "Link": "CS7"
+  },
+  {
+    "Rule": "Languages in Monster Hunters",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "24",
+    "Link": "MH1:24"
   },
   {
     "Rule": "Lanista",
@@ -9708,6 +12604,15 @@
     "Link": "S184"
   },
   {
+    "Rule": "Law Enforcement",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "8",
+    "Link": "MH1:8"
+  },
+  {
     "Rule": "Law Enforcement (Action Lens)",
     "Category": [
       "Template",
@@ -9716,6 +12621,16 @@
     "Book": "Action 1: Heroes",
     "Page": "5",
     "Link": "ACT1:5"
+  },
+  {
+    "Rule": "Lay on Hands",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "43",
+    "Link": "MH1:43"
   },
   {
     "Rule": "Layered Armor",
@@ -9869,6 +12784,16 @@
     "Link": "S43"
   },
   {
+    "Rule": "Life's Price Tag (Racial Template Costs)",
+    "Category": [
+      "Reference",
+      "Character Points"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "65",
+    "Link": "BT65"
+  },
+  {
     "Rule": "Lifesaving with Swimming Skill",
     "Category": [
       "Physical Act",
@@ -9945,6 +12870,15 @@
     "Link": "S33"
   },
   {
+    "Rule": "Light Sources",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "56",
+    "Link": "MH1:56"
+  },
+  {
     "Rule": "Light Sources Providing Light in 2 Yard Radius",
     "Category": [
       "Gear"
@@ -9962,6 +12896,26 @@
     "Book": "High-Tech: Electricity and Electronics",
     "Page": "22",
     "Link": "HTEE22"
+  },
+  {
+    "Rule": "Light Worlder Racial Template (TL9)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "67",
+    "Link": "BT67"
+  },
+  {
+    "Rule": "Lightsails and Magnetic Sails",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "39",
+    "Link": "SS1:39"
   },
   {
     "Rule": "Limb Armor Table",
@@ -10080,6 +13034,16 @@
     "Link": "MAG32"
   },
   {
+    "Rule": "Lycanthrope",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "50",
+    "Link": "MH1:50"
+  },
+  {
     "Rule": "Lycanthropes (Banestorm)",
     "Category": [
       "Template"
@@ -10188,6 +13152,15 @@
     "Book": "Magic",
     "Page": "9",
     "Link": "M9"
+  },
+  {
+    "Rule": "Magery in Monster Hunters",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "24",
+    "Link": "MH1:24"
   },
   {
     "Rule": "Mages Guild Rank",
@@ -10323,6 +13296,17 @@
     "Link": "M13"
   },
   {
+    "Rule": "Magic vs. Powers",
+    "Category": [
+      "Reference",
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "42",
+    "Link": "MH1:42"
+  },
+  {
     "Rule": "Magical Binding Oaths",
     "Category": [
       "Setting",
@@ -10390,6 +13374,16 @@
     "Book": "Thaumatology: Magical Styles",
     "Page": "20",
     "Link": "TMS20"
+  },
+  {
+    "Rule": "Magical Workspace Kits",
+    "Category": [
+      "Gear",
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "57",
+    "Link": "MH1:57"
   },
   {
     "Rule": "Magician (150 pt. Steampunk Template)",
@@ -10513,6 +13507,15 @@
     "Link": "B407"
   },
   {
+    "Rule": "Mana and Enchantment Level of Cities",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "City Stats",
+    "Page": "6",
+    "Link": "CS6"
+  },
+  {
     "Rule": "Mana Levels (Magic)",
     "Category": [
       "Magic",
@@ -10539,6 +13542,27 @@
     "Book": "Horror",
     "Page": "63",
     "Link": "H63"
+  },
+  {
+    "Rule": "Manipulator Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "14",
+    "Link": "PSIS14"
+  },
+  {
+    "Rule": "Manipulator Template (Talented Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "15",
+    "Link": "PSIS15"
   },
   {
     "Rule": "Manticore",
@@ -10638,6 +13662,15 @@
     "Book": "Dungeon Fantasy Denizens Thieves",
     "Page": "9",
     "Link": "DFDT9"
+  },
+  {
+    "Rule": "Match-Grade Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
   },
   {
     "Rule": "Material Undead Servants",
@@ -10761,6 +13794,16 @@
     "Link": "B424"
   },
   {
+    "Rule": "Medical Diagnosis Flowchart",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "125",
+    "Link": "BT125"
+  },
+  {
     "Rule": "Medical Gear Table (Ultra-Tech)",
     "Category": [
       "Reference",
@@ -10771,6 +13814,25 @@
     "Link": "UT196"
   },
   {
+    "Rule": "Medical Imaging Equipment",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "127",
+    "Link": "BT127"
+  },
+  {
+    "Rule": "Medical Supplies",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "56",
+    "Link": "MH1:56"
+  },
+  {
     "Rule": "Medical Tech Levels 5 to 8",
     "Category": [
       "Injury",
@@ -10779,6 +13841,24 @@
     "Book": "High Tech",
     "Page": "219",
     "Link": "HT219"
+  },
+  {
+    "Rule": "Medical Transplants Rules",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "141",
+    "Link": "BT141"
+  },
+  {
+    "Rule": "Medicine! Wildcard Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "139",
+    "Link": "BT139"
   },
   {
     "Rule": "Meditation and Body Disciplines",
@@ -10864,6 +13944,15 @@
     "Link": "M11"
   },
   {
+    "Rule": "Melee Weapons in Monster Hunters",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "59",
+    "Link": "MH1:59"
+  },
+  {
     "Rule": "Melee Weapons Table",
     "Category": [
       "Reference",
@@ -10923,6 +14012,15 @@
     "Link": "H12"
   },
   {
+    "Rule": "Mental Blow",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "47",
+    "Link": "MH1:47"
+  },
+  {
     "Rule": "Mental Perks",
     "Category": [
       "Traits"
@@ -10979,6 +14077,27 @@
     "Link": "M182"
   },
   {
+    "Rule": "Metamorphosis Virus Rules",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "187",
+    "Link": "BT187"
+  },
+  {
+    "Rule": "Metamorphosis Virus: Sample Viruses",
+    "Category": [
+      "Traits",
+      "Gear",
+      "Creatures"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "187",
+    "Link": "BT187"
+  },
+  {
     "Rule": "Meta-Spells College",
     "Category": [
       "Magic"
@@ -11025,6 +14144,15 @@
     "Link": "S187"
   },
   {
+    "Rule": "Mind Control",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "47",
+    "Link": "MH1:47"
+  },
+  {
     "Rule": "Mind Control Spells College",
     "Category": [
       "Magic"
@@ -11044,6 +14172,43 @@
     "Link": "PW11"
   },
   {
+    "Rule": "Mind Probe",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "47",
+    "Link": "MH1:47"
+  },
+  {
+    "Rule": "Mind Reading",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "47",
+    "Link": "MH1:47"
+  },
+  {
+    "Rule": "Mind Shield (Mysticism)",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "43",
+    "Link": "MH1:43"
+  },
+  {
+    "Rule": "Mind Shield (Psionic)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "47",
+    "Link": "MH1:47"
+  },
+  {
     "Rule": "Mind Uploading Rules",
     "Category": [
       "Setting"
@@ -11051,6 +14216,15 @@
     "Book": "Ultra-Tech",
     "Page": "219",
     "Link": "UT219"
+  },
+  {
+    "Rule": "Mindwipe",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "47",
+    "Link": "MH1:47"
   },
   {
     "Rule": "Mine Kobolds",
@@ -11128,6 +14302,15 @@
     "Link": "PDF13"
   },
   {
+    "Rule": "Miraculous Recoveries",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "31",
+    "Link": "MH1:31"
+  },
+  {
     "Rule": "Mirror-Mage (White Robe)",
     "Category": [
       "Template",
@@ -11136,6 +14319,15 @@
     "Book": "Magical Styles: Dungeon Magic",
     "Page": "41",
     "Link": "MSDM41"
+  },
+  {
+    "Rule": "Miscellaneous Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "56",
+    "Link": "MH1:56"
   },
   {
     "Rule": "Missed Sleep",
@@ -11204,6 +14396,33 @@
     "Link": "DF15:37"
   },
   {
+    "Rule": "Monster Hunters Campaign Types",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "5",
+    "Link": "MH1:5"
+  },
+  {
+    "Rule": "Monster Hunters Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "52",
+    "Link": "MH1:52"
+  },
+  {
+    "Rule": "Morph",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "84",
+    "Link": "B84"
+  },
+  {
     "Rule": "Mortal Foe",
     "Category": [
       "Traits"
@@ -11239,6 +14458,15 @@
     "Book": "High Tech",
     "Page": "146",
     "Link": "HT146"
+  },
+  {
+    "Rule": "Motivational Lenses",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "6",
+    "Link": "MH1:6"
   },
   {
     "Rule": "Mountain Elf",
@@ -11442,6 +14670,15 @@
     "Link": "SP2:21"
   },
   {
+    "Rule": "Muscle-Powered Ranged Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "60",
+    "Link": "MH1:60"
+  },
+  {
     "Rule": "Muscle-Powered Ranged Weapons Table",
     "Category": [
       "Reference",
@@ -11557,6 +14794,16 @@
     "Link": "BS212"
   },
   {
+    "Rule": "Mystic Coincidence",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "43",
+    "Link": "MH1:43"
+  },
+  {
     "Rule": "Mystic TL8",
     "Category": [
       "Template"
@@ -11564,6 +14811,87 @@
     "Book": "Horror",
     "Page": "39",
     "Link": "H39"
+  },
+  {
+    "Rule": "Mystical Supplies",
+    "Category": [
+      "Gear",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "57",
+    "Link": "MH1:57"
+  },
+  {
+    "Rule": "Mysticism",
+    "Category": [
+      "Traits",
+      "Divinity",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "42",
+    "Link": "MH1:42"
+  },
+  {
+    "Rule": "Mysticism Abilities",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "43",
+    "Link": "MH1:43"
+  },
+  {
+    "Rule": "Mysticism Skills",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "45",
+    "Link": "MH1:45"
+  },
+  {
+    "Rule": "Mysticism Talent",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "45",
+    "Link": "MH1:45"
+  },
+  {
+    "Rule": "Mythbuster Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "15",
+    "Link": "PSIS15"
+  },
+  {
+    "Rule": "Mythbuster Template (Talented Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "16",
+    "Link": "PSIS16"
+  },
+  {
+    "Rule": "Nanodrugs Rules",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "161",
+    "Link": "BT161"
   },
   {
     "Rule": "Nanofactories and Fabricators",
@@ -11574,6 +14902,43 @@
     "Book": "Ultra-Tech",
     "Page": "91",
     "Link": "UT91"
+  },
+  {
+    "Rule": "Nano-Fever Quirk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "212",
+    "Link": "BT212"
+  },
+  {
+    "Rule": "Nanostasis Rules",
+    "Category": [
+      "Setting",
+      "Injury"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "147",
+    "Link": "BT147"
+  },
+  {
+    "Rule": "Nanosymbiont Examples (Panimmunity/Brain Boosters/Respirocytes)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "164",
+    "Link": "BT164"
+  },
+  {
+    "Rule": "Nanosymbionts",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "164",
+    "Link": "BT164"
   },
   {
     "Rule": "Nanotech and Nanoviruses",
@@ -11818,6 +15183,15 @@
     "Link": "B411"
   },
   {
+    "Rule": "Neural Computational Matrix",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "42",
+    "Link": "MH1:42"
+  },
+  {
     "Rule": "Neural Interfaces",
     "Category": [
       "Mechanism",
@@ -11827,6 +15201,115 @@
     "Book": "Ultra-Tech",
     "Page": "48",
     "Link": "UT48"
+  },
+  {
+    "Rule": "Neurological Procedures",
+    "Category": [
+      "Injury",
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "143",
+    "Link": "BT143"
+  },
+  {
+    "Rule": "Neuromods",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "179",
+    "Link": "BT179"
+  },
+  {
+    "Rule": "Neuromods: Hotshotting (Skill Addiction Implant)",
+    "Category": [
+      "Traits",
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "179",
+    "Link": "BT179"
+  },
+  {
+    "Rule": "Neuromods: Inner Daemon (Alternate Form Implant)",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "181",
+    "Link": "BT181"
+  },
+  {
+    "Rule": "Neuromods: Killjoy (Emotion Suppressor)",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "179",
+    "Link": "BT179"
+  },
+  {
+    "Rule": "Neuromods: Myelin Replacement (Nerve Booster)",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "180",
+    "Link": "BT180"
+  },
+  {
+    "Rule": "Neuromods: Sleepless",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "180",
+    "Link": "BT180"
+  },
+  {
+    "Rule": "Neuromods: Wetware Sub-Personality",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "180",
+    "Link": "BT180"
+  },
+  {
+    "Rule": "Neuro-Psi Implants and Psibernetic Implants",
+    "Category": [
+      "Supernatural",
+      "Setting"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "38",
+    "Link": "PT38"
+  },
+  {
+    "Rule": "New Biotech Perks (Immunity/Low Rejection/No Degeneration)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "211",
+    "Link": "BT211"
+  },
+  {
+    "Rule": "New Features (Early Maturation/Lung Pressure)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "212",
+    "Link": "BT212"
   },
   {
     "Rule": "New Hit Locations in Martial Arts",
@@ -11845,6 +15328,34 @@
     "Book": "Thaumatology: Magical Styles",
     "Page": "20",
     "Link": "TMS20"
+  },
+  {
+    "Rule": "New Meta-Traits (Enhanced Muscles/Reflexes/Bioroid/Chimera)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "213",
+    "Link": "BT213"
+  },
+  {
+    "Rule": "New Perks",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "25",
+    "Link": "MH1:25"
+  },
+  {
+    "Rule": "New Psionic Enhancements and Limitations",
+    "Category": [
+      "Psionic Powers",
+      "Traits"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "21",
+    "Link": "PSI21"
   },
   {
     "Rule": "Nightmare",
@@ -11938,6 +15449,24 @@
     "Link": "DF12:13"
   },
   {
+    "Rule": "No Degeneration in Zero-G Perk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "11",
+    "Link": "PU2:11"
+  },
+  {
+    "Rule": "No Degeneration in Zero-G Perk (Bio-Tech)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "211",
+    "Link": "BT211"
+  },
+  {
     "Rule": "No Double Defaults",
     "Category": [
       "Skills"
@@ -11974,6 +15503,15 @@
     "Book": "Basic",
     "Page": "552",
     "Link": "B552"
+  },
+  {
+    "Rule": "Non-Invasive Medical Procedures",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "130",
+    "Link": "BT130"
   },
   {
     "Rule": "Non-Repeating Pistols",
@@ -12014,6 +15552,15 @@
     "Link": "H87"
   },
   {
+    "Rule": "Noticing Psi Use",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "11",
+    "Link": "PSI11"
+  },
+  {
     "Rule": "Nuclear Dampers",
     "Category": [
       "Mechanism",
@@ -12042,6 +15589,26 @@
     "Link": "HT195"
   },
   {
+    "Rule": "Nurse Template",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "207",
+    "Link": "BT207"
+  },
+  {
+    "Rule": "Nurse Template (Paramedic/EMT Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "207",
+    "Link": "BT207"
+  },
+  {
     "Rule": "Occultist Talent",
     "Category": [
       "Traits"
@@ -12067,6 +15634,15 @@
     "Book": "Low Tech Companion 3",
     "Page": "45",
     "Link": "LTC3:45"
+  },
+  {
+    "Rule": "Ocular Adaptability",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "42",
+    "Link": "MH1:42"
   },
   {
     "Rule": "Off-Hand Weapon Training Perk",
@@ -12165,6 +15741,15 @@
     "Link": "DFM2:11"
   },
   {
+    "Rule": "Operative",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "8",
+    "Link": "MH1:8"
+  },
+  {
     "Rule": "Opportunity Fire",
     "Category": [
       "Combat"
@@ -12172,6 +15757,25 @@
     "Book": "Basic",
     "Page": "390",
     "Link": "B390"
+  },
+  {
+    "Rule": "Optics",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "56",
+    "Link": "MH1:56"
+  },
+  {
+    "Rule": "Optional Psionic Skill Crippling Rules",
+    "Category": [
+      "Psionic Powers",
+      "Skills"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "7",
+    "Link": "PSI7"
   },
   {
     "Rule": "Options After Being Grappled by a Zombie",
@@ -12211,6 +15815,16 @@
     "Link": "FFE25"
   },
   {
+    "Rule": "Organlegger Template",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "207",
+    "Link": "BT207"
+  },
+  {
     "Rule": "Orichalcum Metal",
     "Category": [
       "Setting",
@@ -12219,6 +15833,35 @@
     "Book": "Fantasy Tech 1",
     "Page": "27",
     "Link": "FT1:27"
+  },
+  {
+    "Rule": "Orion Racial Template (TL9)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "67",
+    "Link": "BT67"
+  },
+  {
+    "Rule": "Other Uses for Points",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "31",
+    "Link": "MH1:31"
+  },
+  {
+    "Rule": "Outcast Angel",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "51",
+    "Link": "MH1:51"
   },
   {
     "Rule": "Outdoorsman Talent",
@@ -12246,6 +15889,15 @@
     "Book": "Basic",
     "Page": "441",
     "Link": "B441"
+  },
+  {
+    "Rule": "Overlapping Psionic Abilities Rules",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "21",
+    "Link": "PSIS21"
   },
   {
     "Rule": "Overshooting",
@@ -12301,6 +15953,16 @@
     "Book": "Low Tech Companion 3",
     "Page": "31",
     "Link": "LTC3:31"
+  },
+  {
+    "Rule": "Pandora Racial Template (TL10)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "69",
+    "Link": "BT69"
   },
   {
     "Rule": "Panic Attacks",
@@ -12362,9 +16024,49 @@
     "Category": [
       "Traits"
     ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "25",
+    "Link": "MH1:25"
+  },
+  {
+    "Rule": "Parapsychologist Talent",
+    "Category": [
+      "Traits"
+    ],
     "Book": "Power-Ups 3: Talents",
     "Page": "14",
     "Link": "PU3:14"
+  },
+  {
+    "Rule": "Parapsychologist Talent",
+    "Category": [
+      "Traits",
+      "Skills"
+    ],
+    "Book": "Psis",
+    "Page": "5",
+    "Link": "PSIS5"
+  },
+  {
+    "Rule": "Parapsychologist Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "16",
+    "Link": "PSIS16"
+  },
+  {
+    "Rule": "Parapsychologist Template (Talented Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "16",
+    "Link": "PSIS16"
   },
   {
     "Rule": "Parkour (Action)",
@@ -12451,6 +16153,53 @@
     "Link": "SP1:32"
   },
   {
+    "Rule": "Patron Budget and Influence",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "24",
+    "Link": "MH1:24"
+  },
+  {
+    "Rule": "Patron Budget Table",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "53",
+    "Link": "MH1:53"
+  },
+  {
+    "Rule": "Patron Gear Budget",
+    "Category": [
+      "Gear",
+      "Character Points"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "53",
+    "Link": "MH1:53"
+  },
+  {
+    "Rule": "Patrons in Monster Hunters",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "24",
+    "Link": "MH1:24"
+  },
+  {
+    "Rule": "Payload Options",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
     "Rule": "Peasant Hero",
     "Category": [
       "Template",
@@ -12480,6 +16229,15 @@
     "Link": "SP1:40"
   },
   {
+    "Rule": "Performing Actions in Zero-G Uses the Skill Free Fall",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "197",
+    "Link": "B197"
+  },
+  {
     "Rule": "Perpetual Motion Machine",
     "Category": [
       "Mechanism"
@@ -12497,6 +16255,16 @@
     "Book": "Low Tech",
     "Page": "83",
     "Link": "LT83"
+  },
+  {
+    "Rule": "Personal Cash",
+    "Category": [
+      "Currency",
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "53",
+    "Link": "MH1:53"
   },
   {
     "Rule": "Personal Devices (High Tech)",
@@ -12536,6 +16304,15 @@
     "Link": "DFM3:17"
   },
   {
+    "Rule": "Philanthropist",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "8",
+    "Link": "MH1:8"
+  },
+  {
     "Rule": "Philosophical Swashbuckler",
     "Category": [
       "Template",
@@ -12553,6 +16330,16 @@
     "Book": "Dungeon Fantasy Monsters 3",
     "Page": "18",
     "Link": "DFM3:18"
+  },
+  {
+    "Rule": "Photography Skill (Kirlian)",
+    "Category": [
+      "Skills",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "8",
+    "Link": "PSIS8"
   },
   {
     "Rule": "Physical Appearance Levels",
@@ -12590,6 +16377,66 @@
     "Book": "Martial Arts: Gladiators",
     "Page": "33",
     "Link": "MAG33"
+  },
+  {
+    "Rule": "Physician Template",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "208",
+    "Link": "BT208"
+  },
+  {
+    "Rule": "Physician Template (Illegal Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "208",
+    "Link": "BT208"
+  },
+  {
+    "Rule": "Physician Template (Military Doctor Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "208",
+    "Link": "BT208"
+  },
+  {
+    "Rule": "Physician Template (Ship's Doctor Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "208",
+    "Link": "BT208"
+  },
+  {
+    "Rule": "Physician Template (Spaceship's Doctor Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "208",
+    "Link": "BT208"
+  },
+  {
+    "Rule": "Physician Template (Surgeon Lens)",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "208",
+    "Link": "BT208"
   },
   {
     "Rule": "Pickaxe Penchant Talent",
@@ -12648,6 +16495,15 @@
     "Link": "LT94"
   },
   {
+    "Rule": "PK Shield",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "46",
+    "Link": "MH1:46"
+  },
+  {
     "Rule": "Planetary Travel Rules (Ultra-Tech)",
     "Category": [
       "Vehicles",
@@ -12665,6 +16521,25 @@
     "Book": "Magic",
     "Page": "161",
     "Link": "M161"
+  },
+  {
+    "Rule": "Plant Technology and Hydroponics",
+    "Category": [
+      "Setting",
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "77",
+    "Link": "BT77"
+  },
+  {
+    "Rule": "Player Guidance",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "31",
+    "Link": "MH1:31"
   },
   {
     "Rule": "Poet Talent",
@@ -12692,6 +16567,28 @@
     "Book": "Horror",
     "Page": "41",
     "Link": "H41"
+  },
+  {
+    "Rule": "Polykeratin Grafts",
+    "Category": [
+      "Traits",
+      "Armor",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "177",
+    "Link": "BT177"
+  },
+  {
+    "Rule": "Polykeratin Grafts (Subdermal Armor)",
+    "Category": [
+      "Traits",
+      "Armor",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "177",
+    "Link": "BT177"
   },
   {
     "Rule": "Pop Culture Maven Talent",
@@ -12758,6 +16655,15 @@
     "Book": "Low Tech Companion 3",
     "Page": "27",
     "Link": "LTC3:27"
+  },
+  {
+    "Rule": "Powder Options",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
   },
   {
     "Rule": "Power (High Tech)",
@@ -12856,6 +16762,43 @@
     "Link": "DF1:28"
   },
   {
+    "Rule": "Power Modifier in Monster Hunters",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "40",
+    "Link": "MH1:40"
+  },
+  {
+    "Rule": "Power Modifier: Bioenhancement",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "41",
+    "Link": "MH1:41"
+  },
+  {
+    "Rule": "Power Modifier: Mysticism",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "43",
+    "Link": "MH1:43"
+  },
+  {
+    "Rule": "Power Modifier: Psionic",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "45",
+    "Link": "MH1:45"
+  },
+  {
     "Rule": "Power Perks",
     "Category": [
       "Traits"
@@ -12874,6 +16817,26 @@
     "Link": "SP2:5"
   },
   {
+    "Rule": "Power Talents for Each Psionic Power",
+    "Category": [
+      "Psionic Powers",
+      "Traits"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "18",
+    "Link": "PSI18"
+  },
+  {
+    "Rule": "Power-Based Disadvantages (Psi)",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "13",
+    "Link": "PSIS13"
+  },
+  {
     "Rule": "Powered Exoskeletons",
     "Category": [
       "Gear"
@@ -12890,6 +16853,16 @@
     "Book": "Ultra-Tech",
     "Page": "15",
     "Link": "UT15"
+  },
+  {
+    "Rule": "Powers in Monster Hunters",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "40",
+    "Link": "MH1:40"
   },
   {
     "Rule": "Powerstone Costs",
@@ -12921,6 +16894,16 @@
     "Link": "DF2:12"
   },
   {
+    "Rule": "Prayer",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "44",
+    "Link": "MH1:44"
+  },
+  {
     "Rule": "Precision Aiming for Snipers",
     "Category": [
       "Combat"
@@ -12928,6 +16911,15 @@
     "Book": "High Tech",
     "Page": "84",
     "Link": "HT84"
+  },
+  {
+    "Rule": "Precognition",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "45",
+    "Link": "MH1:45"
   },
   {
     "Rule": "Predictive Shot",
@@ -12949,6 +16941,15 @@
   },
   {
     "Rule": "Pressure-Tolerant Lungs (Thin)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "211",
+    "Link": "BT211"
+  },
+  {
+    "Rule": "Pressure-Tolerant Lungs Perk",
     "Category": [
       "Traits"
     ],
@@ -12994,6 +16995,34 @@
     "Link": "H41"
   },
   {
+    "Rule": "Probability Alteration",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "43",
+    "Link": "PSI43"
+  },
+  {
+    "Rule": "Probability Alteration Packages",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "25",
+    "Link": "PSIS25"
+  },
+  {
+    "Rule": "Probability Alteration Technology",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "23",
+    "Link": "PT23"
+  },
+  {
     "Rule": "Professional Criminal (100 pt. Steampunk Template)",
     "Category": [
       "Template"
@@ -13020,6 +17049,15 @@
     "Book": "Low Tech Companion 3",
     "Page": "49",
     "Link": "LTC3:49"
+  },
+  {
+    "Rule": "Projected Form",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers",
+    "Page": "75",
+    "Link": "P75"
   },
   {
     "Rule": "Projectile Innate Attack",
@@ -13051,6 +17089,15 @@
     "Link": "HT166"
   },
   {
+    "Rule": "Prophetic Dreams",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "23",
+    "Link": "MH1:23"
+  },
+  {
     "Rule": "Protection and Warning Spells College",
     "Category": [
       "Magic"
@@ -13058,6 +17105,55 @@
     "Book": "Magic",
     "Page": "166",
     "Link": "M166"
+  },
+  {
+    "Rule": "Protective Clothing",
+    "Category": [
+      "Armor",
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "59",
+    "Link": "MH1:59"
+  },
+  {
+    "Rule": "Protective Clothing Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "59",
+    "Link": "MH1:59"
+  },
+  {
+    "Rule": "Proteus Nanovirus Rules",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "184",
+    "Link": "BT184"
+  },
+  {
+    "Rule": "Proteus Nanovirus: Types and Options",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "185",
+    "Link": "BT185"
+  },
+  {
+    "Rule": "Psi",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "14",
+    "Link": "MH1:14"
   },
   {
     "Rule": "Psi Amplifiers",
@@ -13070,6 +17166,85 @@
     "Link": "UT94"
   },
   {
+    "Rule": "Psi Augmenttion Devices",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "14",
+    "Link": "PT14"
+  },
+  {
+    "Rule": "Psi Drugs",
+    "Category": [
+      "Poison",
+      "Gear",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "58",
+    "Link": "MH1:58"
+  },
+  {
+    "Rule": "Psi Genetic Modifications and Tech Level",
+    "Category": [
+      "Supernatural",
+      "Setting"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "36",
+    "Link": "PT36"
+  },
+  {
+    "Rule": "Psi Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "45",
+    "Link": "MH1:45"
+  },
+  {
+    "Rule": "Psi Techniques",
+    "Category": [
+      "Psionic Powers",
+      "Techniques"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "8",
+    "Link": "PSI8"
+  },
+  {
+    "Rule": "Psibernetics and Surgery",
+    "Category": [
+      "Supernatural",
+      "Setting"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "37",
+    "Link": "PT37"
+  },
+  {
+    "Rule": "Psiborgs and Stats",
+    "Category": [
+      "Supernatural",
+      "Setting"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "39",
+    "Link": "PT39"
+  },
+  {
+    "Rule": "Psi-Drugs and Nanodrugs",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "33",
+    "Link": "PT33"
+  },
+  {
     "Rule": "Psientist Talent",
     "Category": [
       "Traits"
@@ -13079,6 +17254,143 @@
     "Link": "PU3:15"
   },
   {
+    "Rule": "Psi-Flavored Skills",
+    "Category": [
+      "Skills",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "8",
+    "Link": "PSIS8"
+  },
+  {
+    "Rule": "Psi-Interface Technology",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "11",
+    "Link": "PT11"
+  },
+  {
+    "Rule": "Psionic (Hard) Skills Associated with Psionic Abilities",
+    "Category": [
+      "Psionic Powers",
+      "Skills"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "5",
+    "Link": "PSI5"
+  },
+  {
+    "Rule": "Psionic Abilities within Powers",
+    "Category": [
+      "Psionic Powers",
+      "Traits"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "5",
+    "Link": "PSI5"
+  },
+  {
+    "Rule": "Psionic Eavesdropping",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "12",
+    "Link": "PSI12"
+  },
+  {
+    "Rule": "Psionic Micro-organisms",
+    "Category": [
+      "Supernatural",
+      "Setting"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "37",
+    "Link": "PT37"
+  },
+  {
+    "Rule": "Psionic Perks",
+    "Category": [
+      "Psionic Powers",
+      "Traits"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "19",
+    "Link": "PSI19"
+  },
+  {
+    "Rule": "Psionic Power Defenses",
+    "Category": [
+      "Psionic Powers",
+      "Combat"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "8",
+    "Link": "PSI8"
+  },
+  {
+    "Rule": "Psionic Range Table",
+    "Category": [
+      "Reference",
+      "Supernatural"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "22",
+    "Link": "PSI22"
+  },
+  {
+    "Rule": "Psionic Skill Roll Critical Failure Result",
+    "Category": [
+      "Psionic Powers",
+      "Skills"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "6",
+    "Link": "PSI6"
+  },
+  {
+    "Rule": "Psionic Skills",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "48",
+    "Link": "MH1:48"
+  },
+  {
+    "Rule": "Psionic Talent",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "48",
+    "Link": "MH1:48"
+  },
+  {
+    "Rule": "Psionic Talents",
+    "Category": [
+      "Psionic Powers",
+      "Traits"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "5",
+    "Link": "PSI5"
+  },
+  {
+    "Rule": "Psionics",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "45",
+    "Link": "MH1:45"
+  },
+  {
     "Rule": "Psi-Tech Technology Path",
     "Category": [
       "Setting"
@@ -13086,6 +17398,35 @@
     "Book": "Ultra-Tech",
     "Page": "11",
     "Link": "UT11"
+  },
+  {
+    "Rule": "Psi-Tech TL",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "5",
+    "Link": "PT5"
+  },
+  {
+    "Rule": "Psi-Testing Equipment",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "9",
+    "Link": "PT9"
+  },
+  {
+    "Rule": "Psychic Gestaults",
+    "Category": [
+      "Psionic Powers",
+      "Combat"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "9",
+    "Link": "PSI9"
   },
   {
     "Rule": "Psychic Guidance",
@@ -13104,6 +17445,159 @@
     "Book": "Fantasy Folk: Elves",
     "Page": "18",
     "Link": "FFE18"
+  },
+  {
+    "Rule": "Psychic Healing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "46",
+    "Link": "MH1:46"
+  },
+  {
+    "Rule": "Psychic Healing",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "46",
+    "Link": "PSI46"
+  },
+  {
+    "Rule": "Psychic Healing Packages",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "26",
+    "Link": "PSIS26"
+  },
+  {
+    "Rule": "Psychic Healing Vampiric and Biokinetic Devices",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "23",
+    "Link": "PT23"
+  },
+  {
+    "Rule": "Psychic Vampirism",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "49",
+    "Link": "PSI49"
+  },
+  {
+    "Rule": "Psychic Vampirism Packages",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "27",
+    "Link": "PSIS27"
+  },
+  {
+    "Rule": "Psychokinesis",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "53",
+    "Link": "PSI53"
+  },
+  {
+    "Rule": "Psychokinesis Abilities",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "46",
+    "Link": "MH1:46"
+  },
+  {
+    "Rule": "Psychokinesis Packages",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "29",
+    "Link": "PSIS29"
+  },
+  {
+    "Rule": "Psychokinetic Technology",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "25",
+    "Link": "PT25"
+  },
+  {
+    "Rule": "Psychometabolism",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "75",
+    "Link": "PSI75"
+  },
+  {
+    "Rule": "Psychometry",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "45",
+    "Link": "MH1:45"
+  },
+  {
+    "Rule": "Psychotronic Electronics",
+    "Category": [
+      "Electronics",
+      "Gear",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "57",
+    "Link": "MH1:57"
+  },
+  {
+    "Rule": "Psychotronic Generators",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "13",
+    "Link": "PT13"
+  },
+  {
+    "Rule": "Psychotronics",
+    "Category": [
+      "Electronics",
+      "Gear",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "57",
+    "Link": "MH1:57"
+  },
+  {
+    "Rule": "Psychotronics",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "7",
+    "Link": "PT7"
   },
   {
     "Rule": "Psycical Research Weird Science Style",
@@ -13143,6 +17637,15 @@
     "Book": "Martial Arts",
     "Page": "78",
     "Link": "MA78"
+  },
+  {
+    "Rule": "Pyrokinesis",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "46",
+    "Link": "MH1:46"
   },
   {
     "Rule": "Quantum Computers",
@@ -13210,6 +17713,16 @@
     "Book": "Fantasy Tech 2",
     "Page": "12",
     "Link": "FT2:12"
+  },
+  {
+    "Rule": "Racial Point Cost and Life's Price Tag",
+    "Category": [
+      "Reference",
+      "Character Points"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "65",
+    "Link": "BT65"
   },
   {
     "Rule": "Radiation and Radiation Treatment",
@@ -13613,6 +18126,15 @@
     "Link": "FFWF7"
   },
   {
+    "Rule": "Religious Warrior",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Crusades",
+    "Page": "34",
+    "Link": "C34"
+  },
+  {
     "Rule": "Reloading a Gun",
     "Category": [
       "Gear"
@@ -13640,6 +18162,15 @@
     "Book": "After the End 1",
     "Page": "30",
     "Link": "ATE1:30"
+  },
+  {
+    "Rule": "Remote Senses",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "45",
+    "Link": "MH1:45"
   },
   {
     "Rule": "Repairing Armor and Shields",
@@ -13697,6 +18228,16 @@
     "Link": "SP3:39"
   },
   {
+    "Rule": "Reproductive Technology (Birth Control/Fertility/Surrogacy)",
+    "Category": [
+      "Setting",
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "19",
+    "Link": "BT19"
+  },
+  {
     "Rule": "Reptile Men",
     "Category": [
       "Template"
@@ -13732,6 +18273,25 @@
     "Book": "Fantasy Folk: The Reptilian Races",
     "Page": "22",
     "Link": "FFRR22"
+  },
+  {
+    "Rule": "Resistant in Monster Hunters",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "24",
+    "Link": "MH1:24"
+  },
+  {
+    "Rule": "Resistant to Evil Supernatural Powers",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "44",
+    "Link": "MH1:44"
   },
   {
     "Rule": "Resisted Spells",
@@ -13945,6 +18505,16 @@
     "Link": "MA124"
   },
   {
+    "Rule": "Robotic Surgery Rules",
+    "Category": [
+      "Skills",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "137",
+    "Link": "BT137"
+  },
+  {
     "Rule": "Robots and Society",
     "Category": [
       "Setting"
@@ -13961,6 +18531,15 @@
     "Book": "Ultra-Tech",
     "Page": "34",
     "Link": "UT34"
+  },
+  {
+    "Rule": "Rock Salt Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
   },
   {
     "Rule": "Rocket Pistol",
@@ -14101,6 +18680,15 @@
     "Link": "DF15:15"
   },
   {
+    "Rule": "Sage",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "15",
+    "Link": "MH1:15"
+  },
+  {
     "Rule": "Sage Talent",
     "Category": [
       "Traits"
@@ -14117,6 +18705,15 @@
     "Book": "Space",
     "Page": "32",
     "Link": "S32"
+  },
+  {
+    "Rule": "Saracen Warrior",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Crusades",
+    "Page": "33",
+    "Link": "C33"
   },
   {
     "Rule": "Savage Warrior (Denizens)",
@@ -14359,6 +18956,15 @@
     "Link": "PU3:14"
   },
   {
+    "Rule": "Search Modifier by City Population",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "City Stats",
+    "Page": "5",
+    "Link": "CS5"
+  },
+  {
     "Rule": "Seasickness",
     "Category": [
       "Hazard"
@@ -14386,6 +18992,16 @@
     "Link": "UT209"
   },
   {
+    "Rule": "Secret (Psi) Valuation Guidelines",
+    "Category": [
+      "Traits",
+      "Setting"
+    ],
+    "Book": "Psis",
+    "Page": "7",
+    "Link": "PSIS7"
+  },
+  {
     "Rule": "Secret Agent (Space Template)",
     "Category": [
       "Template"
@@ -14393,6 +19009,27 @@
     "Book": "Space",
     "Page": "231",
     "Link": "S231"
+  },
+  {
+    "Rule": "Secret Agent Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "17",
+    "Link": "PSIS17"
+  },
+  {
+    "Rule": "Secret Agent Template (Talented Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "17",
+    "Link": "PSIS17"
   },
   {
     "Rule": "Secret Material: Blood-Mead",
@@ -14460,6 +19097,15 @@
     "Link": "HT235"
   },
   {
+    "Rule": "Seekersense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "46",
+    "Link": "MH1:46"
+  },
+  {
     "Rule": "Seizure",
     "Category": [
       "Affliction"
@@ -14467,6 +19113,15 @@
     "Book": "Basic",
     "Page": "429",
     "Link": "B429"
+  },
+  {
+    "Rule": "Selective Breeding Rules",
+    "Category": [
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "10",
+    "Link": "BT10"
   },
   {
     "Rule": "Self-Control Rolls for Mental Disadvantages",
@@ -14504,6 +19159,16 @@
     "Book": "High Tech",
     "Page": "101",
     "Link": "HT101"
+  },
+  {
+    "Rule": "Senior Citizen Template",
+    "Category": [
+      "Template",
+      "Professions"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "210",
+    "Link": "BT210"
   },
   {
     "Rule": "Sense-Based Agent",
@@ -14814,6 +19479,16 @@
     "Link": "DFDB11"
   },
   {
+    "Rule": "Shock and Awe",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "44",
+    "Link": "MH1:44"
+  },
+  {
     "Rule": "Shock from Injury",
     "Category": [
       "Injury"
@@ -14944,6 +19619,16 @@
     "Link": "HT181"
   },
   {
+    "Rule": "Sidekicks in Action",
+    "Category": [
+      "Reference",
+      "NPC"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "19",
+    "Link": "MH1:19"
+  },
+  {
     "Rule": "Sideslip",
     "Category": [
       "Combat"
@@ -14983,6 +19668,34 @@
     "Link": "HTEE47"
   },
   {
+    "Rule": "Signature Gear in Monster Hunters",
+    "Category": [
+      "Gear",
+      "Character Points"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "53",
+    "Link": "MH1:53"
+  },
+  {
+    "Rule": "Silent Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
+    "Rule": "Silver Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
     "Rule": "Silver Weapons",
     "Category": [
       "Weapons"
@@ -15018,6 +19731,16 @@
     "Book": "Fantasy Folk: Elves",
     "Page": "20",
     "Link": "FFE20"
+  },
+  {
+    "Rule": "Size Modification (Gengineering)",
+    "Category": [
+      "Traits",
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "62",
+    "Link": "BT62"
   },
   {
     "Rule": "Size Modifier Table",
@@ -15153,6 +19876,15 @@
     "Link": "LTIA20"
   },
   {
+    "Rule": "Sleuth",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "17",
+    "Link": "MH1:17"
+  },
+  {
     "Rule": "Slimes",
     "Category": [
       "Creatures"
@@ -15209,6 +19941,16 @@
     "Link": "LTC3:26"
   },
   {
+    "Rule": "Smite",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "44",
+    "Link": "MH1:44"
+  },
+  {
     "Rule": "Smite Imbuement Skill",
     "Category": [
       "Traits",
@@ -15236,6 +19978,16 @@
     "Book": "Low Tech",
     "Page": "103",
     "Link": "LT103"
+  },
+  {
+    "Rule": "Soacecraft Artificial Gravity and Gravitic Compensators",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "29",
+    "Link": "SS1:29"
   },
   {
     "Rule": "Sobering Up from Intoxication",
@@ -15303,6 +20055,15 @@
     "Link": "PU3:15"
   },
   {
+    "Rule": "Social Stigma (Telepath)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Psis",
+    "Page": "7",
+    "Link": "PSIS7"
+  },
+  {
     "Rule": "Society Types Table",
     "Category": [
       "Reference"
@@ -15322,6 +20083,34 @@
     "Link": "UT24"
   },
   {
+    "Rule": "Software Programs",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "472",
+    "Link": "B472"
+  },
+  {
+    "Rule": "Solar System Travel and Gravity Table",
+    "Category": [
+      "Environment",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "37",
+    "Link": "SS1:37"
+  },
+  {
+    "Rule": "Soldier",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "9",
+    "Link": "MH1:9"
+  },
+  {
     "Rule": "Soldier (Space Template)",
     "Category": [
       "Template"
@@ -15329,6 +20118,48 @@
     "Book": "Space",
     "Page": "233",
     "Link": "S233"
+  },
+  {
+    "Rule": "Soldier Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "18",
+    "Link": "PSIS18"
+  },
+  {
+    "Rule": "Soldier Template (Talented Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "18",
+    "Link": "PSIS18"
+  },
+  {
+    "Rule": "Soothsayer Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "18",
+    "Link": "PSIS18"
+  },
+  {
+    "Rule": "Soothsayer Template (Talented Lens)",
+    "Category": [
+      "Template",
+      "Supernatural",
+      "Lens"
+    ],
+    "Book": "Psis",
+    "Page": "19",
+    "Link": "PSIS19"
   },
   {
     "Rule": "Sound Spells College",
@@ -15349,6 +20180,15 @@
     "Link": "HT158"
   },
   {
+    "Rule": "Space Adaptation Syndrome (Space Sickness)",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "434",
+    "Link": "B434"
+  },
+  {
     "Rule": "Space Campaign Types Overview",
     "Category": [
       "Setting"
@@ -15356,6 +20196,606 @@
     "Book": "Space",
     "Page": "11",
     "Link": "S11"
+  },
+  {
+    "Rule": "Space Combat 1. Command Tasks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "50",
+    "Link": "SS1:50"
+  },
+  {
+    "Rule": "Space Combat 2. Engineering Tasks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "51",
+    "Link": "SS1:51"
+  },
+  {
+    "Rule": "Space Combat 3. Navigation Tasks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "52",
+    "Link": "SS1:52"
+  },
+  {
+    "Rule": "Space Combat 4. Piloting Tasks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "53",
+    "Link": "SS1:53"
+  },
+  {
+    "Rule": "Space Combat 5. Electronics Operations Tasks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "53",
+    "Link": "SS1:53"
+  },
+  {
+    "Rule": "Space Combat 6. Gunnery Tasks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "53",
+    "Link": "SS1:53"
+  },
+  {
+    "Rule": "Space Combat 7. Crew Tasks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "54",
+    "Link": "SS1:54"
+  },
+  {
+    "Rule": "Space Combat Acceleration Bonus Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "55",
+    "Link": "SS1:55"
+  },
+  {
+    "Rule": "Space Combat Actions During a Turn",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "50",
+    "Link": "SS1:50"
+  },
+  {
+    "Rule": "Space Combat Advantaged Status",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "57",
+    "Link": "SS1:57"
+  },
+  {
+    "Rule": "Space Combat Ballistic Attacks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "59",
+    "Link": "SS1:59"
+  },
+  {
+    "Rule": "Space Combat Ballistics Damage",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "60",
+    "Link": "SS1:60"
+  },
+  {
+    "Rule": "Space Combat Base Relative Velocity Table (mps)",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "59",
+    "Link": "SS1:59"
+  },
+  {
+    "Rule": "Space Combat Beam Damage",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "60",
+    "Link": "SS1:60"
+  },
+  {
+    "Rule": "Space Combat Beam Damage and Range Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "67",
+    "Link": "SS1:67"
+  },
+  {
+    "Rule": "Space Combat Beam Fire",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "58",
+    "Link": "SS1:58"
+  },
+  {
+    "Rule": "Space Combat Beam Weapon Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "67",
+    "Link": "SS1:67"
+  },
+  {
+    "Rule": "Space Combat Boarding",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "65",
+    "Link": "SS1:65"
+  },
+  {
+    "Rule": "Space Combat Casualty Table for PCs and Important NPCs",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "63",
+    "Link": "SS1:63"
+  },
+  {
+    "Rule": "Space Combat Communications Tasks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "53",
+    "Link": "SS1:53"
+  },
+  {
+    "Rule": "Space Combat Conventional Warhead Damage Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "68",
+    "Link": "SS1:68"
+  },
+  {
+    "Rule": "Space Combat Damage Control Tasks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "54",
+    "Link": "SS1:54"
+  },
+  {
+    "Rule": "Space Combat Destroyed Systems",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "62",
+    "Link": "SS1:62"
+  },
+  {
+    "Rule": "Space Combat Disabled Systems",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "62",
+    "Link": "SS1:62"
+  },
+  {
+    "Rule": "Space Combat Fast Pass Threshold Table",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "49",
+    "Link": "SS1:49"
+  },
+  {
+    "Rule": "Space Combat Formations",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "65",
+    "Link": "SS1:65"
+  },
+  {
+    "Rule": "Space Combat Ground Fire",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "65",
+    "Link": "SS1:65"
+  },
+  {
+    "Rule": "Space Combat Guns and Launchers Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "68",
+    "Link": "SS1:68"
+  },
+  {
+    "Rule": "Space Combat Hull Damage and Hit Location",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "61",
+    "Link": "SS1:61"
+  },
+  {
+    "Rule": "Space Combat Internal Movement Table",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "63",
+    "Link": "SS1:63"
+  },
+  {
+    "Rule": "Space Combat Launching Small Craft",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "65",
+    "Link": "SS1:65"
+  },
+  {
+    "Rule": "Space Combat Main Radiators in Combat (Optional)",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "65",
+    "Link": "SS1:65"
+  },
+  {
+    "Rule": "Space Combat Multitasking",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "50",
+    "Link": "SS1:50"
+  },
+  {
+    "Rule": "Space Combat Nuclear and Antimatter Warhead Damage Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "68",
+    "Link": "SS1:68"
+  },
+  {
+    "Rule": "Space Combat Piloting Combat Maneuvers",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "55",
+    "Link": "SS1:55"
+  },
+  {
+    "Rule": "Space Combat Point Defense Attacks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "59",
+    "Link": "SS1:59"
+  },
+  {
+    "Rule": "Space Combat Pre-Battle Turns",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "51",
+    "Link": "SS1:51"
+  },
+  {
+    "Rule": "Space Combat Precision Attacks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "66",
+    "Link": "SS1:66"
+  },
+  {
+    "Rule": "Space Combat Ranged Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "57",
+    "Link": "SS1:57"
+  },
+  {
+    "Rule": "Space Combat Rapid Fire Table",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "59",
+    "Link": "SS1:59"
+  },
+  {
+    "Rule": "Space Combat Resolving Damage to Hull Sections",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "61",
+    "Link": "SS1:61"
+  },
+  {
+    "Rule": "Space Combat Scale Table",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "48",
+    "Link": "SS1:48"
+  },
+  {
+    "Rule": "Space Combat Sensor Tasks",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat",
+      "Activities"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "52",
+    "Link": "SS1:52"
+  },
+  {
+    "Rule": "Space Combat Shots Fired or Incoming Table",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "60",
+    "Link": "SS1:60"
+  },
+  {
+    "Rule": "Space Combat Spacecraft Dodge",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "60",
+    "Link": "SS1:60"
+  },
+  {
+    "Rule": "Space Combat Targeting Exposed Systems",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "66",
+    "Link": "SS1:66"
+  },
+  {
+    "Rule": "Space Combat Tractor Beams in Combat",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "66",
+    "Link": "SS1:66"
+  },
+  {
+    "Rule": "Space Combat Turns",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "49",
+    "Link": "SS1:49"
+  },
+  {
+    "Rule": "Space Combat Weapon Damage Modifiers",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "63",
+    "Link": "SS1:63"
+  },
+  {
+    "Rule": "Space Combat Weapons Fire",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "57",
+    "Link": "SS1:57"
+  },
+  {
+    "Rule": "Space Combat Weapons Mount Bearings",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "57",
+    "Link": "SS1:57"
+  },
+  {
+    "Rule": "Space Combat Weapons Rate of Fire Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "58",
+    "Link": "SS1:58"
+  },
+  {
+    "Rule": "Space Distance and Speed Units",
+    "Category": [
+      "Environment",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "36",
+    "Link": "SS1:36"
   },
   {
     "Rule": "Space Habitats and Domed Cities",
@@ -15376,6 +20816,15 @@
     "Link": "S234"
   },
   {
+    "Rule": "Space Travel",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "466",
+    "Link": "B466"
+  },
+  {
     "Rule": "Space Travel Rules (Ultra-Tech)",
     "Category": [
       "Vehicles",
@@ -15384,6 +20833,16 @@
     "Book": "Ultra-Tech",
     "Page": "223",
     "Link": "UT223"
+  },
+  {
+    "Rule": "Space Travel Time Table",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "39",
+    "Link": "SS1:39"
   },
   {
     "Rule": "Space Worker (Space Template)",
@@ -15395,6 +20854,940 @@
     "Link": "S234"
   },
   {
+    "Rule": "Spacecraft 10% of dHP Loss Triggers System Damage Roll",
+    "Category": [
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "34",
+    "Link": "SS1:34"
+  },
+  {
+    "Rule": "Spacecraft Access to other Spacecraft",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "41",
+    "Link": "SS1:41"
+  },
+  {
+    "Rule": "Spacecraft Active Sensor and Comm Range Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "45",
+    "Link": "SS1:45"
+  },
+  {
+    "Rule": "Spacecraft Airlocks",
+    "Category": [
+      "Vehicles",
+      "Mechanism",
+      "Environment"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "41",
+    "Link": "SS1:41"
+  },
+  {
+    "Rule": "Spacecraft Armor Systems",
+    "Category": [
+      "Vehicles",
+      "Armor"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "10",
+    "Link": "SS1:10"
+  },
+  {
+    "Rule": "Spacecraft Atmospheric Flight",
+    "Category": [
+      "Vehicles",
+      "Environment"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "40",
+    "Link": "SS1:40"
+  },
+  {
+    "Rule": "Spacecraft Automation",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "29",
+    "Link": "SS1:29"
+  },
+  {
+    "Rule": "Spacecraft Cargo and Hangar Bay Doors",
+    "Category": [
+      "Vehicles",
+      "Mechanism",
+      "Environment"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "43",
+    "Link": "SS1:43"
+  },
+  {
+    "Rule": "Spacecraft Cargo Handling",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "44",
+    "Link": "SS1:44"
+  },
+  {
+    "Rule": "Spacecraft Cargo Holds",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "13",
+    "Link": "SS1:13"
+  },
+  {
+    "Rule": "Spacecraft Cloaking Devices",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "13",
+    "Link": "SS1:13"
+  },
+  {
+    "Rule": "Spacecraft Communication and Sensor Arrays",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "44",
+    "Link": "SS1:44"
+  },
+  {
+    "Rule": "Spacecraft Communication Comm Suites",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "46",
+    "Link": "SS1:46"
+  },
+  {
+    "Rule": "Spacecraft Computers and Software",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "44",
+    "Link": "SS1:44"
+  },
+  {
+    "Rule": "Spacecraft Contragravity Lifter",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "14",
+    "Link": "SS1:14"
+  },
+  {
+    "Rule": "Spacecraft Control Room",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "14",
+    "Link": "SS1:14"
+  },
+  {
+    "Rule": "Spacecraft Crew",
+    "Category": [
+      "Vehicles",
+      "NPC"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "33",
+    "Link": "SS1:33"
+  },
+  {
+    "Rule": "Spacecraft Damage Control Party Size Modifier Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "64",
+    "Link": "SS1:64"
+  },
+  {
+    "Rule": "Spacecraft Damage Control Time Modifier Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "64",
+    "Link": "SS1:64"
+  },
+  {
+    "Rule": "Spacecraft Defensive ECM",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "14",
+    "Link": "SS1:14"
+  },
+  {
+    "Rule": "Spacecraft Docking and Passage Tubes",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "42",
+    "Link": "SS1:42"
+  },
+  {
+    "Rule": "Spacecraft Drop Capsules",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "232",
+    "Link": "UT232"
+  },
+  {
+    "Rule": "Spacecraft Drop Capsules (Spaceships)",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "47",
+    "Link": "SS1:47"
+  },
+  {
+    "Rule": "Spacecraft Electric Reaction Engine",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "22",
+    "Link": "SS1:22"
+  },
+  {
+    "Rule": "Spacecraft Emergency Ejection",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "29",
+    "Link": "SS1:29"
+  },
+  {
+    "Rule": "Spacecraft Emergency Pressure Doors",
+    "Category": [
+      "Vehicles",
+      "Mechanism",
+      "Environment"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "42",
+    "Link": "SS1:42"
+  },
+  {
+    "Rule": "Spacecraft Emergency Repairs Juryrigging",
+    "Category": [
+      "Vehicles",
+      "Space"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "64",
+    "Link": "SS1:64"
+  },
+  {
+    "Rule": "Spacecraft Engine Room",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "15",
+    "Link": "SS1:15"
+  },
+  {
+    "Rule": "Spacecraft Factory",
+    "Category": [
+      "Vehicles",
+      "Crafting"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "16",
+    "Link": "SS1:16"
+  },
+  {
+    "Rule": "Spacecraft Fission Reaciton Engine",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "22",
+    "Link": "SS1:22"
+  },
+  {
+    "Rule": "Spacecraft Force Screen Variants (Important)",
+    "Category": [
+      "Vehicles",
+      "Armor"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "32",
+    "Link": "SS1:32"
+  },
+  {
+    "Rule": "Spacecraft Force Screens",
+    "Category": [
+      "Vehicles",
+      "Armor"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "16",
+    "Link": "SS1:16"
+  },
+  {
+    "Rule": "Spacecraft FTL Comm/Sensor Arrays (TL^)",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "33",
+    "Link": "SS1:33"
+  },
+  {
+    "Rule": "Spacecraft Fuel Tank",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "17",
+    "Link": "SS1:17"
+  },
+  {
+    "Rule": "Spacecraft Fusion Reaction Engine",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "23",
+    "Link": "SS1:23"
+  },
+  {
+    "Rule": "Spacecraft Gun and Missile Ammunition Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "47",
+    "Link": "SS1:47"
+  },
+  {
+    "Rule": "Spacecraft Habitat",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "17",
+    "Link": "SS1:17"
+  },
+  {
+    "Rule": "Spacecraft Handling Modifiers for Acceleration Table",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "35",
+    "Link": "SS1:35"
+  },
+  {
+    "Rule": "Spacecraft Hangar Bay",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "18",
+    "Link": "SS1:18"
+  },
+  {
+    "Rule": "Spacecraft High- Energy Systems and Power Points",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "9",
+    "Link": "SS1:9"
+  },
+  {
+    "Rule": "Spacecraft Hull Breech Size Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "43",
+    "Link": "SS1:43"
+  },
+  {
+    "Rule": "Spacecraft Hull Breeches",
+    "Category": [
+      "Vehicles",
+      "Environment"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "43",
+    "Link": "SS1:43"
+  },
+  {
+    "Rule": "Spacecraft Hull Size Table",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "9",
+    "Link": "SS1:9"
+  },
+  {
+    "Rule": "Spacecraft Hulls",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "9",
+    "Link": "SS1:9"
+  },
+  {
+    "Rule": "Spacecraft Hyperdrives Hyperspace and Skipping",
+    "Category": [
+      "Vehicles",
+      "Environment"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "40",
+    "Link": "SS1:40"
+  },
+  {
+    "Rule": "Spacecraft Jet Engine",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "19",
+    "Link": "SS1:19"
+  },
+  {
+    "Rule": "Spacecraft Jump Gate",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "19",
+    "Link": "SS1:19"
+  },
+  {
+    "Rule": "Spacecraft Jump Wormhole Drives",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "41",
+    "Link": "SS1:41"
+  },
+  {
+    "Rule": "Spacecraft Major Battery Weapons",
+    "Category": [
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "26",
+    "Link": "SS1:26"
+  },
+  {
+    "Rule": "Spacecraft Maneuver Drives",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "36",
+    "Link": "SS1:36"
+  },
+  {
+    "Rule": "Spacecraft Medium Battery Weapons",
+    "Category": [
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "27",
+    "Link": "SS1:27"
+  },
+  {
+    "Rule": "Spacecraft Mining and Refinery",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "19",
+    "Link": "SS1:19"
+  },
+  {
+    "Rule": "Spacecraft Nuclear Pulse Reaction Engine",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "22",
+    "Link": "SS1:22"
+  },
+  {
+    "Rule": "Spacecraft Open Space",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "19",
+    "Link": "SS1:19"
+  },
+  {
+    "Rule": "Spacecraft Overloading Lifesupport Systems",
+    "Category": [
+      "Vehicles",
+      "Electronics",
+      "Environment"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "46",
+    "Link": "SS1:46"
+  },
+  {
+    "Rule": "Spacecraft Part External Clamp",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "15",
+    "Link": "SS1:15"
+  },
+  {
+    "Rule": "Spacecraft Power Plant Chemical Energy",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "20",
+    "Link": "SS1:20"
+  },
+  {
+    "Rule": "Spacecraft Power Plant Reactor",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "20",
+    "Link": "SS1:20"
+  },
+  {
+    "Rule": "Spacecraft Power Plant Refueling",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "46",
+    "Link": "SS1:46"
+  },
+  {
+    "Rule": "Spacecraft Probability Drive",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "41",
+    "Link": "SS1:41"
+  },
+  {
+    "Rule": "Spacecraft Ramscoop",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "21",
+    "Link": "SS1:21"
+  },
+  {
+    "Rule": "Spacecraft Reaction Drive Engines",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "21",
+    "Link": "SS1:21"
+  },
+  {
+    "Rule": "Spacecraft Reaction Engine HEDM Rockets",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "21",
+    "Link": "SS1:21"
+  },
+  {
+    "Rule": "Spacecraft Reactionless Engines",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "24",
+    "Link": "SS1:24"
+  },
+  {
+    "Rule": "Spacecraft Reactionless Stardrive",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "33",
+    "Link": "SS1:33"
+  },
+  {
+    "Rule": "Spacecraft Reconfigurable System",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "24",
+    "Link": "SS1:24"
+  },
+  {
+    "Rule": "Spacecraft Refueling",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "46",
+    "Link": "SS1:46"
+  },
+  {
+    "Rule": "Spacecraft Refueling Reaction Mass Cost Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "46",
+    "Link": "SS1:46"
+  },
+  {
+    "Rule": "Spacecraft Regular and Gourmet Food Costs",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "47",
+    "Link": "SS1:47"
+  },
+  {
+    "Rule": "Spacecraft Repair and Maintenance in Dock",
+    "Category": [
+      "Vehicles",
+      "Electronics",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "46",
+    "Link": "SS1:46"
+  },
+  {
+    "Rule": "Spacecraft Robot Arm",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "24",
+    "Link": "SS1:24"
+  },
+  {
+    "Rule": "Spacecraft Science Tactical and Comm Arrays",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "15",
+    "Link": "SS1:15"
+  },
+  {
+    "Rule": "Spacecraft Secondary Battery Weapons",
+    "Category": [
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "27",
+    "Link": "SS1:27"
+  },
+  {
+    "Rule": "Spacecraft Singularity Drive",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "33",
+    "Link": "SS1:33"
+  },
+  {
+    "Rule": "Spacecraft Soft-Landing System",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "24",
+    "Link": "SS1:24"
+  },
+  {
+    "Rule": "Spacecraft Solar Panel Array",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "25",
+    "Link": "SS1:25"
+  },
+  {
+    "Rule": "Spacecraft Space Sails",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "25",
+    "Link": "SS1:25"
+  },
+  {
+    "Rule": "Spacecraft Specialized Habitat Rooms",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "18",
+    "Link": "SS1:18"
+  },
+  {
+    "Rule": "Spacecraft Spinal Battery Weapons",
+    "Category": [
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "28",
+    "Link": "SS1:28"
+  },
+  {
+    "Rule": "Spacecraft Stardrive Engine",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "25",
+    "Link": "SS1:25"
+  },
+  {
+    "Rule": "Spacecraft Stardrive Fuel",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "33",
+    "Link": "SS1:33"
+  },
+  {
+    "Rule": "Spacecraft Stasis Web",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "26",
+    "Link": "SS1:26"
+  },
+  {
+    "Rule": "Spacecraft Tertiary Battery Weapons",
+    "Category": [
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "27",
+    "Link": "SS1:27"
+  },
+  {
+    "Rule": "Spacecraft Total Conversion and Antimatter Reaction Engine",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "23",
+    "Link": "SS1:23"
+  },
+  {
+    "Rule": "Spacecraft Upper Stage",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "26",
+    "Link": "SS1:26"
+  },
+  {
+    "Rule": "Spacecraft Volatile Systems",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "62",
+    "Link": "SS1:62"
+  },
+  {
+    "Rule": "Spacecraft Warheads and Unconventional Warheads Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "47",
+    "Link": "SS1:47"
+  },
+  {
+    "Rule": "Spacecraft Warp Drives",
+    "Category": [
+      "Vehicles",
+      "Mechanism"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "41",
+    "Link": "SS1:41"
+  },
+  {
+    "Rule": "Spacecraft Weapon Types",
+    "Category": [
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "28",
+    "Link": "SS1:28"
+  },
+  {
+    "Rule": "Spacecraft Weapons in Ordinary Combat",
+    "Category": [
+      "Vehicles",
+      "Space",
+      "Combat"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "66",
+    "Link": "SS1:66"
+  },
+  {
+    "Rule": "Spacecrafts Performance Statistics",
+    "Category": [
+      "Vehicles",
+      "Attributes"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "6",
+    "Link": "SS1:6"
+  },
+  {
+    "Rule": "Spacer Racial Template (TL9)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "71",
+    "Link": "BT71"
+  },
+  {
+    "Rule": "Spaceship Computer Networks",
+    "Category": [
+      "Vehicles",
+      "Electronics"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "44",
+    "Link": "SS1:44"
+  },
+  {
+    "Rule": "Spaecraft Passenger Seating",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "20",
+    "Link": "SS1:20"
+  },
+  {
     "Rule": "Special Abilities (Alien)",
     "Category": [
       "Setting",
@@ -15403,6 +21796,15 @@
     "Book": "Space",
     "Page": "165",
     "Link": "S165"
+  },
+  {
+    "Rule": "Special Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
   },
   {
     "Rule": "Special Armor Attributes",
@@ -15534,6 +21936,54 @@
     "Book": "Fantasy Tech 1",
     "Page": "33",
     "Link": "FT1:33"
+  },
+  {
+    "Rule": "Spirit Channeling",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "44",
+    "Link": "MH1:44"
+  },
+  {
+    "Rule": "Spirit Channeling (Psionic)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "46",
+    "Link": "MH1:46"
+  },
+  {
+    "Rule": "Spirit Communication",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "44",
+    "Link": "MH1:44"
+  },
+  {
+    "Rule": "Spirit Communication (Psionic)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "46",
+    "Link": "MH1:46"
+  },
+  {
+    "Rule": "Spirit Empathy",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "44",
+    "Link": "MH1:44"
   },
   {
     "Rule": "Spirit Roles",
@@ -15818,6 +22268,15 @@
     "Link": "SP3:27"
   },
   {
+    "Rule": "Steampunk Biotech",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "33",
+    "Link": "BT33"
+  },
+  {
     "Rule": "Steampunk Chemistry",
     "Category": [
       "Setting"
@@ -16024,6 +22483,15 @@
     "Link": "B390"
   },
   {
+    "Rule": "Streamlined Spacecraft Air Performance Table",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "35",
+    "Link": "SS1:35"
+  },
+  {
     "Rule": "Street Smarts Talent (different than Street-Smart)",
     "Category": [
       "Traits"
@@ -16220,6 +22688,66 @@
     "Link": "B436"
   },
   {
+    "Rule": "Suitable Advantages",
+    "Category": [
+      "Traits",
+      "Reference"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "22",
+    "Link": "MH1:22"
+  },
+  {
+    "Rule": "Suitable Advantages Table",
+    "Category": [
+      "Reference",
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "23",
+    "Link": "MH1:23"
+  },
+  {
+    "Rule": "Suitable Disadvantages",
+    "Category": [
+      "Traits",
+      "Reference"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "25",
+    "Link": "MH1:25"
+  },
+  {
+    "Rule": "Suitable Disadvantages Table",
+    "Category": [
+      "Reference",
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "26",
+    "Link": "MH1:26"
+  },
+  {
+    "Rule": "Suitable Skills",
+    "Category": [
+      "Skills",
+      "Reference"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "27",
+    "Link": "MH1:27"
+  },
+  {
+    "Rule": "Suitable Skills Table",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "27",
+    "Link": "MH1:27"
+  },
+  {
     "Rule": "Summa Rudis",
     "Category": [
       "Template",
@@ -16258,6 +22786,15 @@
     "Link": "DF7:28"
   },
   {
+    "Rule": "Super Jump",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "42",
+    "Link": "MH1:42"
+  },
+  {
     "Rule": "Super Spy Talent",
     "Category": [
       "Traits"
@@ -16285,6 +22822,25 @@
     "Link": "PU2:19"
   },
   {
+    "Rule": "Supernatural Sense",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "44",
+    "Link": "MH1:44"
+  },
+  {
+    "Rule": "Superscience (TL^)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "513",
+    "Link": "B513"
+  },
+  {
     "Rule": "Surgery",
     "Category": [
       "Professions",
@@ -16295,6 +22851,37 @@
     "Link": "LTC1:24"
   },
   {
+    "Rule": "Surgery Rules (Expanded)",
+    "Category": [
+      "Combat",
+      "Injury",
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "135",
+    "Link": "BT135"
+  },
+  {
+    "Rule": "Surgery Rules (General Modifiers Table)",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "138",
+    "Link": "BT138"
+  },
+  {
+    "Rule": "Surgery Skill (Expanded Rules)",
+    "Category": [
+      "Skills",
+      "Injury"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "213",
+    "Link": "BT213"
+  },
+  {
     "Rule": "Surgery TL5 to TL8",
     "Category": [
       "Injury",
@@ -16303,6 +22890,16 @@
     "Book": "High Tech",
     "Page": "223",
     "Link": "HT223"
+  },
+  {
+    "Rule": "Surgical Procedures and Recovery",
+    "Category": [
+      "Injury",
+      "Skills"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "136",
+    "Link": "BT136"
   },
   {
     "Rule": "Surveillance and Countersurveillance Rules",
@@ -16353,6 +22950,15 @@
     "Link": "PU3:16"
   },
   {
+    "Rule": "Susceptible (Severe Allergies) Expanded Rules",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "212",
+    "Link": "BT212"
+  },
+  {
     "Rule": "Suspended Animation (Space)",
     "Category": [
       "Setting"
@@ -16360,6 +22966,16 @@
     "Book": "Space",
     "Page": "53",
     "Link": "S53"
+  },
+  {
+    "Rule": "Suspended Animation Rules",
+    "Category": [
+      "Setting",
+      "Injury"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "146",
+    "Link": "BT146"
   },
   {
     "Rule": "Sustained Fire",
@@ -16526,6 +23142,15 @@
     "Link": "B357"
   },
   {
+    "Rule": "Switchable Enhancement (+10%)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "214",
+    "Link": "BT214"
+  },
+  {
     "Rule": "Sword Spirit",
     "Category": [
       "Creatures",
@@ -16554,6 +23179,26 @@
     "Book": "Steampunk 3",
     "Page": "24",
     "Link": "SP3:24"
+  },
+  {
+    "Rule": "Symbiotic Bacteria (Medical)",
+    "Category": [
+      "Gear",
+      "Injury"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "120",
+    "Link": "BT120"
+  },
+  {
+    "Rule": "Symbiotic Parasites",
+    "Category": [
+      "Creatures",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "94",
+    "Link": "BT94"
   },
   {
     "Rule": "Symbolic and Runic Magic System",
@@ -16602,6 +23247,15 @@
     "Book": "Horror",
     "Page": "155",
     "Link": "H155"
+  },
+  {
+    "Rule": "Taboo Traits (Gengineering Prohibitions)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "65",
+    "Link": "BT65"
   },
   {
     "Rule": "Tailoring Armor (Ultra-Tech)",
@@ -16725,6 +23379,16 @@
     "Link": "B27"
   },
   {
+    "Rule": "Tech Level in Monster Hunters",
+    "Category": [
+      "Setting",
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "52",
+    "Link": "MH1:52"
+  },
+  {
     "Rule": "Tech Level of the Post-Apocalyptic Campaign",
     "Category": [
       "Setting"
@@ -16741,6 +23405,15 @@
     "Book": "Horror",
     "Page": "43",
     "Link": "H43"
+  },
+  {
+    "Rule": "Techie",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "18",
+    "Link": "MH1:18"
   },
   {
     "Rule": "Tech-Level Modifiers",
@@ -16810,6 +23483,15 @@
     "Link": "UT8"
   },
   {
+    "Rule": "Telecontrol",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "47",
+    "Link": "MH1:47"
+  },
+  {
     "Rule": "Telegraphic Attack",
     "Category": [
       "Combat"
@@ -16817,6 +23499,111 @@
     "Book": "Martial Arts",
     "Page": "113",
     "Link": "MA113"
+  },
+  {
+    "Rule": "Telekinesis",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "46",
+    "Link": "MH1:46"
+  },
+  {
+    "Rule": "Telekinetic Cheat Sheet (TK Grab Weight and Move)",
+    "Category": [
+      "Reference",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "29",
+    "Link": "PSIS29"
+  },
+  {
+    "Rule": "Telemedicine Rules",
+    "Category": [
+      "Skills",
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "142",
+    "Link": "BT142"
+  },
+  {
+    "Rule": "Telepathic Technology",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "25",
+    "Link": "PT25"
+  },
+  {
+    "Rule": "Telepathy",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "57",
+    "Link": "PSI57"
+  },
+  {
+    "Rule": "Telepathy Abilities",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "47",
+    "Link": "MH1:47"
+  },
+  {
+    "Rule": "Telepathy Packages",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "31",
+    "Link": "PSIS31"
+  },
+  {
+    "Rule": "Teleportation",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "68",
+    "Link": "PSI68"
+  },
+  {
+    "Rule": "Teleportation Abilities",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "48",
+    "Link": "MH1:48"
+  },
+  {
+    "Rule": "Teleportation Packages",
+    "Category": [
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "32",
+    "Link": "PSIS32"
+  },
+  {
+    "Rule": "Teleportation Technology",
+    "Category": [
+      "Supernatural",
+      "Electronics"
+    ],
+    "Book": "Psi-Tech",
+    "Page": "30",
+    "Link": "PT30"
   },
   {
     "Rule": "Telescopes TL4",
@@ -16828,6 +23615,15 @@
     "Link": "LTC1:22"
   },
   {
+    "Rule": "Temperature Control",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "47",
+    "Link": "MH1:47"
+  },
+  {
     "Rule": "Temperature Factors Table",
     "Category": [
       "Reference"
@@ -16835,6 +23631,15 @@
     "Book": "Space",
     "Page": "114",
     "Link": "S114"
+  },
+  {
+    "Rule": "Temporal Stasis Rules",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "147",
+    "Link": "BT147"
   },
   {
     "Rule": "Terraformed Worlds",
@@ -16951,6 +23756,15 @@
     "Link": "S56"
   },
   {
+    "Rule": "Thermate Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
+  },
+  {
     "Rule": "Thief (Denizens PC Class)",
     "Category": [
       "Template"
@@ -17061,6 +23875,15 @@
     "Link": "M128"
   },
   {
+    "Rule": "Thrown Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "61",
+    "Link": "MH1:61"
+  },
+  {
     "Rule": "Throws from Locks",
     "Category": [
       "Combat"
@@ -17145,6 +23968,16 @@
     "Link": "B428"
   },
   {
+    "Rule": "Tiresia Racial Template (TL10)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "70",
+    "Link": "BT70"
+  },
+  {
     "Rule": "TL Progression Start Dates Table",
     "Category": [
       "Reference",
@@ -17153,6 +23986,25 @@
     "Book": "Ultra-Tech",
     "Page": "8",
     "Link": "UT8"
+  },
+  {
+    "Rule": "Tonfa Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "60",
+    "Link": "MH1:60"
+  },
+  {
+    "Rule": "Tonfas",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "60",
+    "Link": "MH1:60"
   },
   {
     "Rule": "Tools and Gear of the Action Hero",
@@ -17375,6 +24227,16 @@
     "Link": "B412"
   },
   {
+    "Rule": "Triton Racial Template (TL11)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "71",
+    "Link": "BT71"
+  },
+  {
     "Rule": "Trivia Sponge Talent",
     "Category": [
       "Traits"
@@ -17468,6 +24330,16 @@
     "Book": "High-Tech: Electricity and Electronics",
     "Page": "29",
     "Link": "HTEE29"
+  },
+  {
+    "Rule": "Turn Evil",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "44",
+    "Link": "MH1:44"
   },
   {
     "Rule": "Turn Sequence",
@@ -17697,6 +24569,16 @@
     "Link": "MSDM36"
   },
   {
+    "Rule": "Unexpected Psi Template",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "19",
+    "Link": "PSIS19"
+  },
+  {
     "Rule": "UnHoly Might Power (Dungeon Fantasy)",
     "Category": [
       "Traits"
@@ -17715,6 +24597,16 @@
     "Link": "DF11:32"
   },
   {
+    "Rule": "Unintended Disadvantages (Gengineering Side Effects)",
+    "Category": [
+      "Traits",
+      "Crafting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "61",
+    "Link": "BT61"
+  },
+  {
     "Rule": "Unseelie",
     "Category": [
       "Template"
@@ -17731,6 +24623,25 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "17",
     "Link": "PU3:17"
+  },
+  {
+    "Rule": "Unsupported Strength Limitation (-25%)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "215",
+    "Link": "BT215"
+  },
+  {
+    "Rule": "Unusual Background (Psi) Guidelines",
+    "Category": [
+      "Traits",
+      "Setting"
+    ],
+    "Book": "Psis",
+    "Page": "5",
+    "Link": "PSIS5"
   },
   {
     "Rule": "Unusual Background Perks",
@@ -17986,6 +24897,56 @@
     "Link": "DFM2:19"
   },
   {
+    "Rule": "Using Psionic Skills",
+    "Category": [
+      "Psionic Powers",
+      "Skills"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "6",
+    "Link": "PSI6"
+  },
+  {
+    "Rule": "Using Psionic Skills Additional Contact",
+    "Category": [
+      "Psionic Powers",
+      "Skills"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "6",
+    "Link": "PSI6"
+  },
+  {
+    "Rule": "Using Psionic Skills Multiple Feats",
+    "Category": [
+      "Psionic Powers",
+      "Skills"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "6",
+    "Link": "PSI6"
+  },
+  {
+    "Rule": "Using Psionic Skills Repeated Attempts",
+    "Category": [
+      "Psionic Powers",
+      "Skills"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "6",
+    "Link": "PSI6"
+  },
+  {
+    "Rule": "Using Psionic Skills Situational Modifiers",
+    "Category": [
+      "Psionic Powers",
+      "Skills"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "6",
+    "Link": "PSI6"
+  },
+  {
     "Rule": "Vacuum",
     "Category": [
       "Hazard"
@@ -18003,6 +24964,26 @@
     "Book": "Horror",
     "Page": "57",
     "Link": "H57"
+  },
+  {
+    "Rule": "Vampire",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "51",
+    "Link": "MH1:51"
+  },
+  {
+    "Rule": "Variant Biotech (Magical Biotech)",
+    "Category": [
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "30",
+    "Link": "BT30"
   },
   {
     "Rule": "Vehicle Hit Location Table",
@@ -18044,6 +25025,16 @@
     "Book": "Fantasy",
     "Page": "141",
     "Link": "F141"
+  },
+  {
+    "Rule": "Vehicles and Patrons",
+    "Category": [
+      "Vehicles",
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "53",
+    "Link": "MH1:53"
   },
   {
     "Rule": "Vehicles in a Post-Apocalyptic Game",
@@ -18105,6 +25096,16 @@
     "Book": "Martial Arts: Gladiators",
     "Page": "30",
     "Link": "MAG30"
+  },
+  {
+    "Rule": "Vertical Landings for Spacecraft",
+    "Category": [
+      "Vehicles",
+      "Environment"
+    ],
+    "Book": "Spaceships 1",
+    "Page": "40",
+    "Link": "SS1:40"
   },
   {
     "Rule": "Veteran 125 pt Lens",
@@ -18171,6 +25172,26 @@
     "Book": "Basic",
     "Page": "394",
     "Link": "B394"
+  },
+  {
+    "Rule": "Visualization",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "45",
+    "Link": "MH1:45"
+  },
+  {
+    "Rule": "Void Dancer Racial Template (TL11)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "60",
+    "Link": "BT60"
   },
   {
     "Rule": "Volitional AI and Digital Intelligences",
@@ -18257,6 +25278,15 @@
     "Link": "S40"
   },
   {
+    "Rule": "Warrior",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "19",
+    "Link": "MH1:19"
+  },
+  {
     "Rule": "War-Trained Mounts",
     "Category": [
       "Mounts",
@@ -18335,6 +25365,16 @@
     "Link": "FFE20"
   },
   {
+    "Rule": "Wealth and Gear",
+    "Category": [
+      "Gear",
+      "Character Points"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "53",
+    "Link": "MH1:53"
+  },
+  {
     "Rule": "Wealth in a Post-Apocalyptic Game",
     "Category": [
       "Setting"
@@ -18342,6 +25382,15 @@
     "Book": "After the End 1",
     "Page": "28",
     "Link": "ATE1:28"
+  },
+  {
+    "Rule": "Wealth of Cities",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "City Stats",
+    "Page": "7",
+    "Link": "CS7"
   },
   {
     "Rule": "Weapon and Armor Crafting",
@@ -18360,6 +25409,16 @@
     "Book": "Dungeon Fantasy 1",
     "Page": "14",
     "Link": "DF1:14"
+  },
+  {
+    "Rule": "Weapon Cost Factors",
+    "Category": [
+      "Weapons",
+      "Reference"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "59",
+    "Link": "MH1:59"
   },
   {
     "Rule": "Weapon Enchantment Table",
@@ -18420,6 +25479,15 @@
     "Link": "B391"
   },
   {
+    "Rule": "Weapons in Monster Hunters",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "59",
+    "Link": "MH1:59"
+  },
+  {
     "Rule": "Weather Spells College",
     "Category": [
       "Magic"
@@ -18448,6 +25516,16 @@
     "Link": "H72"
   },
   {
+    "Rule": "Were-Bear",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "50",
+    "Link": "MH1:50"
+  },
+  {
     "Rule": "Were-Creatures",
     "Category": [
       "Traits",
@@ -18458,6 +25536,36 @@
     "Link": "B84"
   },
   {
+    "Rule": "Were-Eagle",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "50",
+    "Link": "MH1:50"
+  },
+  {
+    "Rule": "Were-Forms",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "50",
+    "Link": "MH1:50"
+  },
+  {
+    "Rule": "Were-Tiger",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "50",
+    "Link": "MH1:50"
+  },
+  {
     "Rule": "Werewolf",
     "Category": [
       "Template"
@@ -18465,6 +25573,16 @@
     "Book": "Horror",
     "Page": "61",
     "Link": "H61"
+  },
+  {
+    "Rule": "Were-Wolf",
+    "Category": [
+      "Template",
+      "Supernatural"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "50",
+    "Link": "MH1:50"
   },
   {
     "Rule": "Western Gun Slang",
@@ -18532,6 +25650,16 @@
     "Link": "PU3:17"
   },
   {
+    "Rule": "Why We Fight",
+    "Category": [
+      "Reference",
+      "Traits"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "7",
+    "Link": "MH1:7"
+  },
+  {
     "Rule": "Widget-Worker Talent",
     "Category": [
       "Traits"
@@ -18549,6 +25677,16 @@
     "Book": "Thaumatology",
     "Page": "256",
     "Link": "T256"
+  },
+  {
+    "Rule": "Wild Talent (Psionic Technique Use)",
+    "Category": [
+      "Traits",
+      "Supernatural"
+    ],
+    "Book": "Psis",
+    "Page": "5",
+    "Link": "PSIS5"
   },
   {
     "Rule": "Wild Technological Malfunction Table",
@@ -18723,6 +25861,15 @@
     "Link": "H82"
   },
   {
+    "Rule": "Witch",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "20",
+    "Link": "MH1:20"
+  },
+  {
     "Rule": "Wizard (PC Class)",
     "Category": [
       "Template"
@@ -18806,6 +25953,15 @@
     "Book": "Fantasy Folk: Elves",
     "Page": "16",
     "Link": "FFE16"
+  },
+  {
+    "Rule": "Wooden Ammo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "63",
+    "Link": "MH1:63"
   },
   {
     "Rule": "Woodsman",
@@ -18978,6 +26134,16 @@
     "Link": "PW14"
   },
   {
+    "Rule": "Xenotransplants",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "178",
+    "Link": "BT178"
+  },
+  {
     "Rule": "Yrth Kobolds",
     "Category": [
       "Template"
@@ -18985,6 +26151,15 @@
     "Book": "Fantasy Folk: Kobolds",
     "Page": "10",
     "Link": "FFK10"
+  },
+  {
+    "Rule": "Zero-G Worksuit",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "186",
+    "Link": "UT186"
   },
   {
     "Rule": "Zombies",
@@ -18995,5 +26170,15 @@
     "Book": "Horror",
     "Page": "90",
     "Link": "H90"
+  },
+  {
+    "Rule": "Zoogloeal Organisms (Biofilms/Giant Blobs)",
+    "Category": [
+      "Creatures",
+      "Hazard"
+    ],
+    "Book": "Bio-Tech",
+    "Page": "110",
+    "Link": "BT110"
   }
 ]
