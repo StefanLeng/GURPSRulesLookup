@@ -45,6 +45,24 @@
     "Link": "B395"
   },
   {
+    "Rule": "Accessibility",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "110",
+    "Link": "B110"
+  },
+  {
+    "Rule": "Accessibility (Power-Ups)",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "4",
+    "Link": "PU8:4"
+  },
+  {
     "Rule": "Accidental Hero",
     "Category": [
       "Lens"
@@ -61,6 +79,15 @@
     "Book": "Basic",
     "Page": "372",
     "Link": "B372"
+  },
+  {
+    "Rule": "Accurate",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "102",
+    "Link": "B102"
   },
   {
     "Rule": "Acid",
@@ -143,6 +170,24 @@
     "Book": "Basic",
     "Page": "371",
     "Link": "B371"
+  },
+  {
+    "Rule": "Active Defense",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "10",
+    "Link": "PU8:10"
+  },
+  {
+    "Rule": "Active Defense Independent",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "10",
+    "Link": "PU8:10"
   },
   {
     "Rule": "Active Defense Rolls at -4 while Stunned",
@@ -279,7 +324,7 @@
     "Link": "SP3:40"
   },
   {
-    "Rule": "Aerial Scouting and Mapping  (Dungeon Fantasy)",
+    "Rule": "Aerial Scouting and Mapping (Dungeon Fantasy)",
     "Category": [
       "Activities",
       "Physical Act"
@@ -287,6 +332,60 @@
     "Book": "Dungeon Fantasy 16",
     "Page": "27",
     "Link": "DF16:27"
+  },
+  {
+    "Rule": "Affects Insubstantial",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "102",
+    "Link": "B102"
+  },
+  {
+    "Rule": "Affects Insubstantial Selective",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "12",
+    "Link": "PU4:12"
+  },
+  {
+    "Rule": "Affects Others",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "12",
+    "Link": "PU4:12"
+  },
+  {
+    "Rule": "Affects Substantial",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "102",
+    "Link": "B102"
+  },
+  {
+    "Rule": "Affects Substantial Selective",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "12",
+    "Link": "PU4:12"
+  },
+  {
+    "Rule": "Aftermath",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "11",
+    "Link": "PU8:11"
   },
   {
     "Rule": "Aftermath Limitation (Temporary Disadvantage Variant)",
@@ -569,6 +668,15 @@
     "Link": "TUM9"
   },
   {
+    "Rule": "All-Out",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "11",
+    "Link": "PU8:11"
+  },
+  {
     "Rule": "All-Out Attack (Long) (Martial Arts)",
     "Category": [
       "Combat"
@@ -603,6 +711,15 @@
     "Book": "Martial Arts",
     "Page": "114",
     "Link": "MA114"
+  },
+  {
+    "Rule": "All-Out Concentrate",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "11",
+    "Link": "PU8:11"
   },
   {
     "Rule": "All-Out Concentrate",
@@ -720,6 +837,15 @@
     "Link": "FT1:28"
   },
   {
+    "Rule": "Always On",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "110",
+    "Link": "B110"
+  },
+  {
     "Rule": "Amazing Journeys",
     "Category": [
       "Traits"
@@ -763,6 +889,15 @@
     "Book": "High Tech",
     "Page": "178",
     "Link": "HT178"
+  },
+  {
+    "Rule": "Ammunition Options",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "18",
+    "Link": "PU4:18"
   },
   {
     "Rule": "Ammunition Table (Post-Apocalyptic)",
@@ -1022,6 +1157,15 @@
     "Link": "B364"
   },
   {
+    "Rule": "AP Ammo",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "18",
+    "Link": "PU4:18"
+  },
+  {
     "Rule": "Appearance Perks",
     "Category": [
       "Traits"
@@ -1099,6 +1243,15 @@
     "Link": "B413"
   },
   {
+    "Rule": "Area Effect",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "102",
+    "Link": "B102"
+  },
+  {
     "Rule": "Area Spells",
     "Category": [
       "Magic"
@@ -1162,6 +1315,16 @@
     "Link": "IW109"
   },
   {
+    "Rule": "Armed Grapple Technique (Hard)",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Martial Arts",
+    "Page": "67",
+    "Link": "MA67"
+  },
+  {
     "Rule": "Armor and Protective Gear (High Tech)",
     "Category": [
       "Gear"
@@ -1171,9 +1334,18 @@
     "Link": "HT65"
   },
   {
+    "Rule": "Armor Divisor",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "110",
+    "Link": "B110"
+  },
+  {
     "Rule": "Armor Divisor Enhancement",
     "Category": [
-      "Enhancement"
+      "Enhancements"
     ],
     "Book": "Basic",
     "Page": "102",
@@ -1418,6 +1590,15 @@
     "Link": "H34"
   },
   {
+    "Rule": "Aspected",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "11",
+    "Link": "PU8:11"
+  },
+  {
     "Rule": "Aspected Magery",
     "Category": [
       "Magic"
@@ -1632,6 +1813,15 @@
     "Link": "H35"
   },
   {
+    "Rule": "Attracts Threats",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "11",
+    "Link": "PU8:11"
+  },
+  {
     "Rule": "Attunement",
     "Category": [
       "Psionic Powers"
@@ -1639,6 +1829,15 @@
     "Book": "Infinite Worlds",
     "Page": "168",
     "Link": "IW168"
+  },
+  {
+    "Rule": "Aura",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "102",
+    "Link": "B102"
   },
   {
     "Rule": "Aura of Chaos",
@@ -1960,6 +2159,15 @@
     "Link": "MA82"
   },
   {
+    "Rule": "Backlash",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "11",
+    "Link": "PU8:11"
+  },
+  {
     "Rule": "Backlash Limitation",
     "Category": [
       "Limitations"
@@ -2182,6 +2390,24 @@
     "Link": "DF1:21"
   },
   {
+    "Rule": "Based on (Different Attribute)",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "102",
+    "Link": "B102"
+  },
+  {
+    "Rule": "Based on (Different Attribute) Own Roll",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "12",
+    "Link": "PU4:12"
+  },
+  {
     "Rule": "Basic Gear",
     "Category": [
       "Gear"
@@ -2332,6 +2558,16 @@
     "Book": "Supers",
     "Page": "119",
     "Link": "SU119"
+  },
+  {
+    "Rule": "Bind Weapon Technique (Hard)",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Martial Arts",
+    "Page": "67",
+    "Link": "MA67"
   },
   {
     "Rule": "Biobuildings and Planet-Sized Organisms",
@@ -2829,6 +3065,15 @@
     "Link": "IW140"
   },
   {
+    "Rule": "Blockable",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "12",
+    "Link": "PU8:12"
+  },
+  {
     "Rule": "Blocking Spell Mastery Perk",
     "Category": [
       "Traits",
@@ -2850,11 +3095,38 @@
   {
     "Rule": "Blood Agent",
     "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "102",
+    "Link": "B102"
+  },
+  {
+    "Rule": "Blood Agent",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "110",
+    "Link": "B110"
+  },
+  {
+    "Rule": "Blood Agent",
+    "Category": [
       "Poison"
     ],
     "Book": "Basic",
     "Page": "437",
     "Link": "B437"
+  },
+  {
+    "Rule": "Blood Agent Reversed",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "12",
+    "Link": "PU8:12"
   },
   {
     "Rule": "Blood Types and Transfusion Rules",
@@ -3075,6 +3347,15 @@
     "Book": "Basic",
     "Page": "410",
     "Link": "B410"
+  },
+  {
+    "Rule": "Bombardment",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "111",
+    "Link": "B111"
   },
   {
     "Rule": "Bombards Table",
@@ -3314,6 +3595,15 @@
     "Book": "Supers",
     "Page": "76",
     "Link": "SU76"
+  },
+  {
+    "Rule": "Breakable",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "117",
+    "Link": "B117"
   },
   {
     "Rule": "Breakable Components Rule",
@@ -3747,6 +4037,33 @@
     "Link": "DF16:24"
   },
   {
+    "Rule": "Can Be Parried",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "12",
+    "Link": "PU8:12"
+  },
+  {
+    "Rule": "Can Be Stolen",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "117",
+    "Link": "B117"
+  },
+  {
+    "Rule": "Can Carry Objects",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "13",
+    "Link": "PU4:13"
+  },
+  {
     "Rule": "Canceling Spells",
     "Category": [
       "Magic"
@@ -3811,6 +4128,15 @@
     "Book": "Magic: The Least of Spells",
     "Page": "6",
     "Link": "MTLOS6"
+  },
+  {
+    "Rule": "Cardiac Stress",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "12",
+    "Link": "PU8:12"
   },
   {
     "Rule": "Cardiac Stress Limitation",
@@ -3994,6 +4320,15 @@
     "Book": "Infinite Worlds",
     "Page": "51",
     "Link": "IW51"
+  },
+  {
+    "Rule": "Cerebral Stress",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "12",
+    "Link": "PU8:12"
   },
   {
     "Rule": "Cerebral-Motor Multitasking",
@@ -5184,6 +5519,15 @@
     "Link": "B366"
   },
   {
+    "Rule": "Cone",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "103",
+    "Link": "B103"
+  },
+  {
     "Rule": "Conjured Enhancement (Dungeon Fantasy)",
     "Category": [
       "Magic"
@@ -5219,6 +5563,24 @@
     "Book": "Thaumatology: Urban Magics",
     "Page": "10",
     "Link": "TUM10"
+  },
+  {
+    "Rule": "Contact Agent",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "103",
+    "Link": "B103"
+  },
+  {
+    "Rule": "Contact Agent",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "111",
+    "Link": "B111"
   },
   {
     "Rule": "Contact Agent",
@@ -5343,6 +5705,114 @@
     "Link": "B379"
   },
   {
+    "Rule": "Corrupting",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "12",
+    "Link": "PU8:12"
+  },
+  {
+    "Rule": "Cosmic Avoiding drawbacks",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "103",
+    "Link": "B103"
+  },
+  {
+    "Rule": "Cosmic Avoiding drawbacks",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "7",
+    "Link": "PU4:7"
+  },
+  {
+    "Rule": "Cosmic Defensive",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "103",
+    "Link": "B103"
+  },
+  {
+    "Rule": "Cosmic Defensive",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "7",
+    "Link": "PU4:7"
+  },
+  {
+    "Rule": "Cosmic Irresistible attack",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "103",
+    "Link": "B103"
+  },
+  {
+    "Rule": "Cosmic Irresistible attack",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "8",
+    "Link": "PU4:8"
+  },
+  {
+    "Rule": "Cosmic Lingering effect",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "103",
+    "Link": "B103"
+  },
+  {
+    "Rule": "Cosmic Lingering effect",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "8",
+    "Link": "PU4:8"
+  },
+  {
+    "Rule": "Cosmic No active defense allowed",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "8",
+    "Link": "PU4:8"
+  },
+  {
+    "Rule": "Cosmic No die roll required",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "8",
+    "Link": "PU4:8"
+  },
+  {
+    "Rule": "Cosmic No Rule of 16",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "7",
+    "Link": "PU4:7"
+  },
+  {
     "Rule": "Cosmic Power Cells",
     "Category": [
       "Gear"
@@ -5350,6 +5820,15 @@
     "Book": "Ultra-Tech",
     "Page": "19",
     "Link": "UT19"
+  },
+  {
+    "Rule": "Cosmic Privileged attack",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "7",
+    "Link": "PU4:7"
   },
   {
     "Rule": "Cosmic Scale Damage",
@@ -5362,6 +5841,24 @@
     "Link": "SU125"
   },
   {
+    "Rule": "Cosmic Unhealing damage",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "8",
+    "Link": "PU4:8"
+  },
+  {
+    "Rule": "Cosmic Unrestricted powers",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "8",
+    "Link": "PU4:8"
+  },
+  {
     "Rule": "Cost of Talents (Number of Skills vs Point Cost)",
     "Category": [
       "Skills"
@@ -5369,6 +5866,33 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "4",
     "Link": "PU3:4"
+  },
+  {
+    "Rule": "Costs Fatigue",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "111",
+    "Link": "B111"
+  },
+  {
+    "Rule": "Costs Fatigue Variable",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "12",
+    "Link": "PU8:12"
+  },
+  {
+    "Rule": "Costs Hit Points",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "12",
+    "Link": "PU8:12"
   },
   {
     "Rule": "Costumes and Armor",
@@ -5850,6 +6374,26 @@
     "Link": "S35"
   },
   {
+    "Rule": "Cyclic",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "103",
+    "Link": "B103"
+  },
+  {
+    "Rule": "Dagger Fighting Style",
+    "Category": [
+      "Combat",
+      "Skills",
+      "Techniques"
+    ],
+    "Book": "Martial Arts",
+    "Page": "155",
+    "Link": "MA155"
+  },
+  {
     "Rule": "Damage Done to Weapons",
     "Category": [
       "Combat",
@@ -5981,6 +6525,15 @@
     "Link": "B369"
   },
   {
+    "Rule": "Decreased Immunity",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "13",
+    "Link": "PU4:13"
+  },
+  {
     "Rule": "Decryption Rules",
     "Category": [
       "Skills"
@@ -6101,6 +6654,51 @@
     "Book": "Psionic Powers",
     "Page": "4",
     "Link": "PSI4"
+  },
+  {
+    "Rule": "Dehydration",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
+  },
+  {
+    "Rule": "Delay Fixed",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "105",
+    "Link": "B105"
+  },
+  {
+    "Rule": "Delay Supernatural",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "18",
+    "Link": "PU4:18"
+  },
+  {
+    "Rule": "Delay Triggered",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "105",
+    "Link": "B105"
+  },
+  {
+    "Rule": "Delay Variable",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "105",
+    "Link": "B105"
   },
   {
     "Rule": "Delusions (Superstitions)",
@@ -6351,6 +6949,15 @@
     "Link": "MH1:23"
   },
   {
+    "Rule": "Destructive Parry",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "18",
+    "Link": "PU4:18"
+  },
+  {
     "Rule": "Detecting and Removing Cybernetics",
     "Category": [
       "Gear"
@@ -6589,6 +7196,15 @@
     "Link": "M14"
   },
   {
+    "Rule": "Dissipation",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "112",
+    "Link": "B112"
+  },
+  {
     "Rule": "Distraction and Injury While Spellcasting",
     "Category": [
       "Magic",
@@ -6779,6 +7395,15 @@
     "Link": "DFM3:7"
   },
   {
+    "Rule": "Double Blunt Trauma",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
+  },
+  {
     "Rule": "Double Defaults and Techniques",
     "Category": [
       "Techniques"
@@ -6786,6 +7411,15 @@
     "Book": "Basic",
     "Page": "232",
     "Link": "B232"
+  },
+  {
+    "Rule": "Double Knockback",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
   },
   {
     "Rule": "Double-Ended Weapon Fighting",
@@ -7065,6 +7699,15 @@
     "Link": "DFDS30"
   },
   {
+    "Rule": "Drifting",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "105",
+    "Link": "B105"
+  },
+  {
     "Rule": "Drilling Double-Barrelled Shotgun",
     "Category": [
       "Weapons"
@@ -7102,6 +7745,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "10",
     "Link": "PU3:10"
+  },
+  {
+    "Rule": "Drowning",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
   },
   {
     "Rule": "Drowsy",
@@ -7233,6 +7885,15 @@
     "Book": "Bio-Tech",
     "Page": "70",
     "Link": "BT70"
+  },
+  {
+    "Rule": "Dual",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "18",
+    "Link": "PU4:18"
   },
   {
     "Rule": "Dual Identities",
@@ -7444,6 +8105,15 @@
     "Book": "Magic",
     "Page": "50",
     "Link": "M50"
+  },
+  {
+    "Rule": "Easily Resisted",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "13",
+    "Link": "PU8:13"
   },
   {
     "Rule": "Easy to Read (Psychic Enhancements)",
@@ -7883,6 +8553,24 @@
     "Link": "PT11"
   },
   {
+    "Rule": "Emanation",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "112",
+    "Link": "B112"
+  },
+  {
+    "Rule": "Emergencies Only",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "112",
+    "Link": "B112"
+  },
+  {
     "Rule": "Emergent Superscience Technology Path",
     "Category": [
       "Setting"
@@ -8161,6 +8849,15 @@
     "Book": "High Tech",
     "Page": "75",
     "Link": "HT75"
+  },
+  {
+    "Rule": "Environmental",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "13",
+    "Link": "PU8:13"
   },
   {
     "Rule": "Environmental Gear and Suits Table",
@@ -8443,6 +9140,15 @@
     "Book": "Bio-Tech",
     "Page": "72",
     "Link": "BT72"
+  },
+  {
+    "Rule": "Erosive",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "18",
+    "Link": "PU4:18"
   },
   {
     "Rule": "Escaping Restraints (Action)",
@@ -8773,6 +9479,15 @@
     "Link": "H38"
   },
   {
+    "Rule": "Explosion",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
+  },
+  {
     "Rule": "Explosions and Blast Radius",
     "Category": [
       "Combat"
@@ -8808,6 +9523,24 @@
     "Book": "High Tech",
     "Page": "181",
     "Link": "HT181"
+  },
+  {
+    "Rule": "Extended Duration",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "105",
+    "Link": "B105"
+  },
+  {
+    "Rule": "Extended Duration",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "13",
+    "Link": "PU4:13"
   },
   {
     "Rule": "Extra Effort",
@@ -8846,6 +9579,24 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "43",
     "Link": "MH1:43"
+  },
+  {
+    "Rule": "Extra Passes",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "18",
+    "Link": "PU4:18"
+  },
+  {
+    "Rule": "Extra Recoil",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "112",
+    "Link": "B112"
   },
   {
     "Rule": "Extra ST without HP increase",
@@ -9202,6 +9953,15 @@
     "Link": "MA131"
   },
   {
+    "Rule": "Fickle",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "13",
+    "Link": "PU8:13"
+  },
+  {
     "Rule": "Field Officer (100 pt. Steampunk Template)",
     "Category": [
       "Template"
@@ -9235,7 +9995,7 @@
       "Combat"
     ],
     "Book": "Dungeon Fantasy 16",
-    "Page": "fi",
+    "Page": "42",
     "Link": "DF16:42"
   },
   {
@@ -9489,6 +10249,15 @@
     "Link": "S32"
   },
   {
+    "Rule": "Fixed Duration",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "14",
+    "Link": "PU4:14"
+  },
+  {
     "Rule": "Fixer",
     "Category": [
       "Traits",
@@ -9730,6 +10499,15 @@
     "Link": "PU2:15"
   },
   {
+    "Rule": "Follow-Up",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "105",
+    "Link": "B105"
+  },
+  {
     "Rule": "Follow-Up Poison",
     "Category": [
       "Poison"
@@ -9737,6 +10515,15 @@
     "Book": "Basic",
     "Page": "437",
     "Link": "B437"
+  },
+  {
+    "Rule": "Follow-Up Universal",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "14",
+    "Link": "PU4:14"
   },
   {
     "Rule": "Food in Monster Hunters",
@@ -9784,6 +10571,15 @@
     "Book": "Powers: The Weird",
     "Page": "35",
     "Link": "PW35"
+  },
+  {
+    "Rule": "Force Field",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "14",
+    "Link": "PU4:14"
   },
   {
     "Rule": "Force Screens Table",
@@ -9909,6 +10705,60 @@
     "Link": "PW26"
   },
   {
+    "Rule": "Fragmentation Cutting",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
+  },
+  {
+    "Rule": "Fragmentation Cutting",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "19",
+    "Link": "PU4:19"
+  },
+  {
+    "Rule": "Fragmentation Hot",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
+  },
+  {
+    "Rule": "Fragmentation Hot (Power-Ups)",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "19",
+    "Link": "PU4:19"
+  },
+  {
+    "Rule": "Fragmentation Impaling",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "19",
+    "Link": "PU4:19"
+  },
+  {
+    "Rule": "Fragmentation Large Piercing",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "19",
+    "Link": "PU4:19"
+  },
+  {
     "Rule": "Fraudulent Mystic (75 pt. Steampunk Template)",
     "Category": [
       "Template"
@@ -9926,6 +10776,15 @@
     "Book": "Steampunk 1",
     "Page": "30",
     "Link": "SP1:30"
+  },
+  {
+    "Rule": "Freezing",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
   },
   {
     "Rule": "Friedrich",
@@ -9973,6 +10832,15 @@
     "Book": "Space",
     "Page": "46",
     "Link": "S46"
+  },
+  {
+    "Rule": "Full Power in Emergencies Only",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "112",
+    "Link": "B112"
   },
   {
     "Rule": "Full-Metal Weapons",
@@ -10040,6 +10908,15 @@
     "Book": "Infinite Worlds",
     "Page": "125",
     "Link": "IW125"
+  },
+  {
+    "Rule": "Game Time",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "14",
+    "Link": "PU4:14"
   },
   {
     "Rule": "Gargantuan Dragon",
@@ -10738,6 +11615,15 @@
     "Link": "MAG34"
   },
   {
+    "Rule": "Glamour",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "13",
+    "Link": "PU8:13"
+  },
+  {
     "Rule": "Glamour Girl",
     "Category": [
       "Template",
@@ -10996,7 +11882,8 @@
   {
     "Rule": "Goldilocks Gear",
     "Category": [
-      "Traitsl Gear"
+      "Traits",
+      "Gear"
     ],
     "Book": "Monster Hunters Power-Ups 1",
     "Page": "18",
@@ -11049,6 +11936,15 @@
     "Book": "Martial Arts",
     "Page": "112",
     "Link": "MA112"
+  },
+  {
+    "Rule": "Granted by (Other)",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "14",
+    "Link": "PU8:14"
   },
   {
     "Rule": "Grappling Catapult TL4",
@@ -11217,16 +12113,6 @@
     "Link": "B466"
   },
   {
-    "Rule": "Ground Vehicles Table",
-    "Category": [
-      "Reference",
-      "Vehicles"
-    ],
-    "Book": "Basic",
-    "Page": "464",
-    "Link": "B464"
-  },
-  {
     "Rule": "Growth Tanks",
     "Category": [
       "Gear",
@@ -11264,6 +12150,15 @@
     "Book": "Bio-Tech",
     "Page": "69",
     "Link": "BT69"
+  },
+  {
+    "Rule": "Guided",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "105",
+    "Link": "B105"
   },
   {
     "Rule": "Guided and Homing Missiles",
@@ -11606,6 +12501,15 @@
     "Link": "SU117"
   },
   {
+    "Rule": "Hard to Use",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "14",
+    "Link": "PU8:14"
+  },
+  {
     "Rule": "Hard-Wired Programs Rules",
     "Category": [
       "Skills"
@@ -11652,6 +12556,15 @@
     "Book": "Dungeon Fantasy 16",
     "Page": "30",
     "Link": "DF16:30"
+  },
+  {
+    "Rule": "Hazard",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
   },
   {
     "Rule": "Hazardous Atmospheres",
@@ -11791,6 +12704,15 @@
     "Book": "Basic",
     "Page": "429",
     "Link": "B429"
+  },
+  {
+    "Rule": "Heat",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "19",
+    "Link": "PU4:19"
   },
   {
     "Rule": "Heavy Pistol Combat Style",
@@ -12321,6 +13243,15 @@
     "Link": "HT163"
   },
   {
+    "Rule": "Homing",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "105",
+    "Link": "B105"
+  },
+  {
     "Rule": "Homing Weapons Rules",
     "Category": [
       "Weapons",
@@ -12394,6 +13325,15 @@
     "Book": "Ultra-Tech",
     "Page": "227",
     "Link": "UT227"
+  },
+  {
+    "Rule": "HP Ammo",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "18",
+    "Link": "PU4:18"
   },
   {
     "Rule": "HP and DR of Objects and Cover",
@@ -12646,6 +13586,15 @@
     "Link": "HT251"
   },
   {
+    "Rule": "Immediate Preparation Required",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "14",
+    "Link": "PU8:14"
+  },
+  {
     "Rule": "Imperium Logos",
     "Category": [
       "Traits"
@@ -12742,6 +13691,15 @@
     "Link": "DF24:31"
   },
   {
+    "Rule": "Inaccurate",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "112",
+    "Link": "B112"
+  },
+  {
     "Rule": "Incendiaries",
     "Category": [
       "Weapons"
@@ -12751,6 +13709,51 @@
     "Link": "HT188"
   },
   {
+    "Rule": "Incendiary (on Burning Attack)",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "19",
+    "Link": "PU4:19"
+  },
+  {
+    "Rule": "Incendiary (on non-Burning attacks)",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "105",
+    "Link": "B105"
+  },
+  {
+    "Rule": "Increased Immunity",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "14",
+    "Link": "PU8:14"
+  },
+  {
+    "Rule": "Increased Range",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "106",
+    "Link": "B106"
+  },
+  {
+    "Rule": "Increased Range LOS",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "15",
+    "Link": "PU4:15"
+  },
+  {
     "Rule": "Increasing Swim Speed",
     "Category": [
       "Physical Act"
@@ -12758,6 +13761,15 @@
     "Book": "Basic",
     "Page": "18",
     "Link": "B18"
+  },
+  {
+    "Rule": "Independent",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "15",
+    "Link": "PU4:15"
   },
   {
     "Rule": "Independent Body Parts Advantage",
@@ -12861,6 +13873,15 @@
     "Book": "Martial Arts",
     "Page": "119",
     "Link": "MA119"
+  },
+  {
+    "Rule": "Informal",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "15",
+    "Link": "PU8:15"
   },
   {
     "Rule": "Information Gained from Detected Spacecraft",
@@ -13011,6 +14032,15 @@
     "Book": "Basic",
     "Page": "423",
     "Link": "B423"
+  },
+  {
+    "Rule": "Insubstantial Only",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "15",
+    "Link": "PU8:15"
   },
   {
     "Rule": "Integrating and Modifying Equipment",
@@ -13205,6 +14235,15 @@
     "Book": "Martial Arts",
     "Page": "164",
     "Link": "MA164"
+  },
+  {
+    "Rule": "Jet",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "106",
+    "Link": "B106"
   },
   {
     "Rule": "Jet Attacks (Spell and Innate)",
@@ -14135,6 +15174,24 @@
     "Link": "F129"
   },
   {
+    "Rule": "Limited Use",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "112",
+    "Link": "B112"
+  },
+  {
+    "Rule": "Link",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "106",
+    "Link": "B106"
+  },
+  {
     "Rule": "Lizard Men",
     "Category": [
       "Template"
@@ -14164,6 +15221,26 @@
     "Link": "M14"
   },
   {
+    "Rule": "Long-Range",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "15",
+    "Link": "PU4:15"
+  },
+  {
+    "Rule": "Longsword Fighting Style",
+    "Category": [
+      "Combat",
+      "Skills",
+      "Techniques"
+    ],
+    "Book": "Martial Arts",
+    "Page": "180",
+    "Link": "M180"
+  },
+  {
     "Rule": "Lost HP Thresholds",
     "Category": [
       "Injury"
@@ -14190,6 +15267,33 @@
     "Book": "Martial Arts",
     "Page": "77",
     "Link": "MA77"
+  },
+  {
+    "Rule": "Low Psychic Signature",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "15",
+    "Link": "PU4:15"
+  },
+  {
+    "Rule": "Low Signature",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "106",
+    "Link": "B106"
+  },
+  {
+    "Rule": "Low Signature Variable",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "15",
+    "Link": "PU4:15"
   },
   {
     "Rule": "Low Tech Electrical Batteries",
@@ -14640,6 +15744,15 @@
     "Link": "SP3:72"
   },
   {
+    "Rule": "Magnetic",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "15",
+    "Link": "PU8:15"
+  },
+  {
     "Rule": "Magnetic and Plasma Sails",
     "Category": [
       "Vehicles",
@@ -14724,6 +15837,15 @@
     "Link": "DF24:28"
   },
   {
+    "Rule": "Malediction",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "106",
+    "Link": "B106"
+  },
+  {
     "Rule": "Malfunctioning Firearms",
     "Category": [
       "Weapons"
@@ -14788,6 +15910,15 @@
     "Book": "Magic",
     "Page": "6",
     "Link": "M6"
+  },
+  {
+    "Rule": "Mana-Sensitive",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "34",
+    "Link": "B34"
   },
   {
     "Rule": "Mandeville",
@@ -15010,6 +16141,15 @@
     "Link": "IW194"
   },
   {
+    "Rule": "Maximum Duration",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "15",
+    "Link": "PU8:15"
+  },
+  {
     "Rule": "Measure Potential",
     "Category": [
       "Magic"
@@ -15227,6 +16367,15 @@
     "Link": "UT162"
   },
   {
+    "Rule": "Melee Attack",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "112",
+    "Link": "B112"
+  },
+  {
     "Rule": "Melee Attacks Through Occupied Hex",
     "Category": [
       "Combat"
@@ -15304,6 +16453,15 @@
     "Link": "LT65"
   },
   {
+    "Rule": "Melee-Capable",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "19",
+    "Link": "PU4:19"
+  },
+  {
     "Rule": "Memetics Talent",
     "Category": [
       "Traits"
@@ -15339,6 +16497,15 @@
     "Book": "Supers",
     "Page": "127",
     "Link": "SU127"
+  },
+  {
+    "Rule": "Mental Defense Only",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "19",
+    "Link": "PU4:19"
   },
   {
     "Rule": "Mental Perks",
@@ -15621,6 +16788,24 @@
     "Link": "HT109"
   },
   {
+    "Rule": "Minimum Duration",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "15",
+    "Link": "PU8:15"
+  },
+  {
+    "Rule": "Minimum Range",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "16",
+    "Link": "PU8:16"
+  },
+  {
     "Rule": "Mining and Excavation",
     "Category": [
       "Professions"
@@ -15715,6 +16900,15 @@
   {
     "Rule": "Missed Sleep",
     "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
+  },
+  {
+    "Rule": "Missed Sleep",
+    "Category": [
       "Physical Act",
       "Injury"
     ],
@@ -15732,6 +16926,15 @@
     "Link": "M12"
   },
   {
+    "Rule": "Missing Damage Effect",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "16",
+    "Link": "PU8:16"
+  },
+  {
     "Rule": "Mister Smash Talent",
     "Category": [
       "Traits"
@@ -15739,6 +16942,33 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "13",
     "Link": "PU3:13"
+  },
+  {
+    "Rule": "Mitigator",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "112",
+    "Link": "B112"
+  },
+  {
+    "Rule": "Mitigator",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "6",
+    "Link": "PU8:6"
+  },
+  {
+    "Rule": "Mobile",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "107",
+    "Link": "B107"
   },
   {
     "Rule": "Mobius (Infinite Worlds)",
@@ -16006,6 +17236,15 @@
     "Book": "Magic",
     "Page": "142",
     "Link": "M142"
+  },
+  {
+    "Rule": "Multi-Ammo",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "18",
+    "Link": "PU4:18"
   },
   {
     "Rule": "Multi-Blades",
@@ -16932,6 +18171,15 @@
     "Link": "DF12:13"
   },
   {
+    "Rule": "No Blunt Trauma",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "111",
+    "Link": "B111"
+  },
+  {
     "Rule": "No Degeneration in Zero-G Perk",
     "Category": [
       "Traits"
@@ -16959,6 +18207,33 @@
     "Link": "B173"
   },
   {
+    "Rule": "No DR Reduction",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "16",
+    "Link": "PU8:16"
+  },
+  {
+    "Rule": "No Incendiary Effect",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "16",
+    "Link": "PU8:16"
+  },
+  {
+    "Rule": "No Knockback",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "111",
+    "Link": "B111"
+  },
+  {
     "Rule": "No More than 1 Off and 1 Def Extra Effort per Turn",
     "Category": [
       "Combat"
@@ -16966,6 +18241,24 @@
     "Book": "Martial Arts",
     "Page": "131",
     "Link": "MA131"
+  },
+  {
+    "Rule": "No Signature",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "106",
+    "Link": "B106"
+  },
+  {
+    "Rule": "No Wounding",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "111",
+    "Link": "B111"
   },
   {
     "Rule": "Nomad (Post-Apocalypse)",
@@ -17090,6 +18383,15 @@
     "Link": "HT195"
   },
   {
+    "Rule": "Nuisance Effect",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "112",
+    "Link": "B112"
+  },
+  {
     "Rule": "Nurse Template",
     "Category": [
       "Template",
@@ -17163,6 +18465,15 @@
     "Book": "Dungeon Fantasy Denizens Swashbucklers",
     "Page": "13",
     "Link": "DFDS13"
+  },
+  {
+    "Rule": "Once On Stays On",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "16",
+    "Link": "PU4:16"
   },
   {
     "Rule": "One Hand Grappling",
@@ -17249,6 +18560,24 @@
     "Book": "Supers",
     "Page": "112",
     "Link": "SU112"
+  },
+  {
+    "Rule": "Only When Berserk",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "16",
+    "Link": "PU8:16"
+  },
+  {
+    "Rule": "Onset",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "113",
+    "Link": "B113"
   },
   {
     "Rule": "Ontogenetics Weird Science Style",
@@ -17438,6 +18767,15 @@
     "Link": "B441"
   },
   {
+    "Rule": "Overhead",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "107",
+    "Link": "B107"
+  },
+  {
     "Rule": "Overlapping Psionic Abilities Rules",
     "Category": [
       "Supernatural"
@@ -17472,6 +18810,15 @@
     "Book": "Martial Arts: Yrth Fighting Styles",
     "Page": "25",
     "Link": "MAYFS25"
+  },
+  {
+    "Rule": "Pact",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "113",
+    "Link": "B113"
   },
   {
     "Rule": "Paegnarius",
@@ -17849,6 +19196,15 @@
     "Link": "B197"
   },
   {
+    "Rule": "Periodic Recharge",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "16",
+    "Link": "PU8:16"
+  },
+  {
     "Rule": "Perks (Supers)",
     "Category": [
       "Traits"
@@ -17865,6 +19221,15 @@
     "Book": "Fantasy Tech 1",
     "Page": "23",
     "Link": "FT1:23"
+  },
+  {
+    "Rule": "Persistent",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "107",
+    "Link": "B107"
   },
   {
     "Rule": "Personal Artillery Table (Low Tech)",
@@ -18466,6 +19831,15 @@
     "Link": "SU18"
   },
   {
+    "Rule": "Power Modifier",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "16",
+    "Link": "PU8:16"
+  },
+  {
     "Rule": "Power Modifier in Monster Hunters",
     "Category": [
       "Traits"
@@ -18642,6 +20016,15 @@
     "Book": "Martial Arts",
     "Page": "121",
     "Link": "MA121"
+  },
+  {
+    "Rule": "Preparation Required",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "114",
+    "Link": "B114"
   },
   {
     "Rule": "Pressure and The Bends",
@@ -19524,6 +20907,15 @@
     "Link": "BT65"
   },
   {
+    "Rule": "Radiation",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "105",
+    "Link": "B105"
+  },
+  {
     "Rule": "Radiation and Radiation Treatment",
     "Category": [
       "Hazard"
@@ -19625,6 +21017,15 @@
     "Link": "ACT2:31"
   },
   {
+    "Rule": "Ranged",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "107",
+    "Link": "B107"
+  },
+  {
     "Rule": "Ranged Combat at Different Heights",
     "Category": [
       "Combat"
@@ -19661,6 +21062,15 @@
     "Book": "High-Tech: Electricity and Electronics",
     "Page": "51",
     "Link": "HTEE51"
+  },
+  {
+    "Rule": "Rapid Fire",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "108",
+    "Link": "B108"
   },
   {
     "Rule": "Rapid Healing",
@@ -19890,6 +21300,42 @@
     "Link": "B423"
   },
   {
+    "Rule": "Reduced Duration",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "16",
+    "Link": "PU8:16"
+  },
+  {
+    "Rule": "Reduced Fatigue Cost",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "108",
+    "Link": "B108"
+  },
+  {
+    "Rule": "Reduced Range",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "115",
+    "Link": "B115"
+  },
+  {
+    "Rule": "Reduced Time",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "108",
+    "Link": "B108"
+  },
+  {
     "Rule": "Reduced Time for Powers",
     "Category": [
       "Traits"
@@ -19907,6 +21353,15 @@
     "Book": "Dungeon Fantasy Denizens Barbarians",
     "Page": "10",
     "Link": "DFDB10"
+  },
+  {
+    "Rule": "Reflexive",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "16",
+    "Link": "PU4:16"
   },
   {
     "Rule": "Regular Spell Cost Increase for Targets Size",
@@ -19952,6 +21407,15 @@
     "Book": "Space",
     "Page": "36",
     "Link": "S36"
+  },
+  {
+    "Rule": "Reliable",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "16",
+    "Link": "PU4:16"
   },
   {
     "Rule": "Religion of the Winged Folk",
@@ -20130,6 +21594,69 @@
     "Link": "FFRR22"
   },
   {
+    "Rule": "Required Disadvantage",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "16",
+    "Link": "PU8:16"
+  },
+  {
+    "Rule": "Requires (Attribute) Roll",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "17",
+    "Link": "PU8:17"
+  },
+  {
+    "Rule": "Requires (Skill) Roll",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "17",
+    "Link": "PU8:17"
+  },
+  {
+    "Rule": "Requires Concentrate",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "17",
+    "Link": "PU8:17"
+  },
+  {
+    "Rule": "Requires Low Gravity",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "17",
+    "Link": "PU8:17"
+  },
+  {
+    "Rule": "Requires Reaction Roll",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "13",
+    "Link": "PU8:13"
+  },
+  {
+    "Rule": "Requires Ready",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "17",
+    "Link": "PU8:17"
+  },
+  {
     "Rule": "Resistant in Monster Hunters",
     "Category": [
       "Traits"
@@ -20158,6 +21685,15 @@
     "Link": "M13"
   },
   {
+    "Rule": "Resistible",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "115",
+    "Link": "B115"
+  },
+  {
     "Rule": "Resource Value Table",
     "Category": [
       "Reference"
@@ -20165,6 +21701,15 @@
     "Book": "Space",
     "Page": "87",
     "Link": "S87"
+  },
+  {
+    "Rule": "Respiratory Agent",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "108",
+    "Link": "B108"
   },
   {
     "Rule": "Respiratory Agent",
@@ -20312,6 +21857,15 @@
     "Book": "High Tech",
     "Page": "94",
     "Link": "HT94"
+  },
+  {
+    "Rule": "Ricochet",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "20",
+    "Link": "PU4:20"
   },
   {
     "Rule": "Riding and Draft Animals",
@@ -21035,6 +22589,15 @@
     "Link": "B429"
   },
   {
+    "Rule": "Selective Area",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "108",
+    "Link": "B108"
+  },
+  {
     "Rule": "Selective Breeding Rules",
     "Category": [
       "Crafting"
@@ -21042,6 +22605,24 @@
     "Book": "Bio-Tech",
     "Page": "10",
     "Link": "BT10"
+  },
+  {
+    "Rule": "Selective Effect",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "16",
+    "Link": "PU4:16"
+  },
+  {
+    "Rule": "Selectivity",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "108",
+    "Link": "B108"
   },
   {
     "Rule": "Self-Control Rolls for Mental Disadvantages",
@@ -21091,6 +22672,24 @@
     "Link": "BT210"
   },
   {
+    "Rule": "Sense-Based",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "109",
+    "Link": "B109"
+  },
+  {
+    "Rule": "Sense-Based",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "115",
+    "Link": "B115"
+  },
+  {
     "Rule": "Sense-Based Agent",
     "Category": [
       "Poison"
@@ -21098,6 +22697,15 @@
     "Book": "Basic",
     "Page": "438",
     "Link": "B438"
+  },
+  {
+    "Rule": "Sense-Based Reversed",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "17",
+    "Link": "PU8:17"
   },
   {
     "Rule": "Sensies Rules",
@@ -21530,6 +23138,15 @@
     "Link": "DFDB11"
   },
   {
+    "Rule": "Short-Range",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "17",
+    "Link": "PU8:17"
+  },
+  {
     "Rule": "Shotguns",
     "Category": [
       "Weapons"
@@ -21584,6 +23201,15 @@
     "Book": "Martial Arts",
     "Page": "118",
     "Link": "MA118"
+  },
+  {
+    "Rule": "Side Effect",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "109",
+    "Link": "B109"
   },
   {
     "Rule": "Side Effects of Explosions",
@@ -21765,6 +23391,15 @@
     "Book": "Basic",
     "Page": "170",
     "Link": "B170"
+  },
+  {
+    "Rule": "Skill Enhancement Only",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "18",
+    "Link": "PU8:18"
   },
   {
     "Rule": "Skill List",
@@ -23878,6 +25513,15 @@
     "Link": "ATE1:20"
   },
   {
+    "Rule": "Specific",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "18",
+    "Link": "PU8:18"
+  },
+  {
     "Rule": "Specific Prayer (1d seconds of silent prayer)",
     "Category": [
       "Divinity",
@@ -24304,6 +25948,15 @@
     "Link": "PU2:15"
   },
   {
+    "Rule": "Starvation",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
+  },
+  {
     "Rule": "Starvation and Dehydration",
     "Category": [
       "Injury"
@@ -24320,6 +25973,15 @@
     "Book": "Ultra-Tech",
     "Page": "193",
     "Link": "UT193"
+  },
+  {
+    "Rule": "ST-Based",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "20",
+    "Link": "PU4:20"
   },
   {
     "Rule": "Stealth and Camouflage (High Tech)",
@@ -24779,6 +26441,15 @@
     "Link": "HT124"
   },
   {
+    "Rule": "Substantial Only",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "18",
+    "Link": "PU8:18"
+  },
+  {
     "Rule": "Succubus",
     "Category": [
       "Template"
@@ -24786,6 +26457,15 @@
     "Book": "Horror",
     "Page": "66",
     "Link": "H66"
+  },
+  {
+    "Rule": "Suffocation",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "104",
+    "Link": "B104"
   },
   {
     "Rule": "Suffocation",
@@ -24895,6 +26575,15 @@
     "Link": "DF7:28"
   },
   {
+    "Rule": "Super Attribute",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "17",
+    "Link": "PU4:17"
+  },
+  {
     "Rule": "Super Jump",
     "Category": [
       "Traits"
@@ -24987,6 +26676,24 @@
     "Link": "IW185"
   },
   {
+    "Rule": "Surge",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "105",
+    "Link": "B105"
+  },
+  {
+    "Rule": "Surge Arcing",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "21",
+    "Link": "PU4:21"
+  },
+  {
     "Rule": "Surgery",
     "Category": [
       "Professions",
@@ -25046,6 +26753,15 @@
     "Book": "Bio-Tech",
     "Page": "136",
     "Link": "BT136"
+  },
+  {
+    "Rule": "Surprise Attack",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "21",
+    "Link": "PU4:21"
   },
   {
     "Rule": "Surveillance and Countersurveillance Rules",
@@ -25288,6 +27004,15 @@
     "Link": "B357"
   },
   {
+    "Rule": "Switchable",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "17",
+    "Link": "PU4:17"
+  },
+  {
     "Rule": "Switchable Enhancement (+10%)",
     "Category": [
       "Traits"
@@ -25305,16 +27030,6 @@
     "Book": "Dungeon Fantasy Monsters 1",
     "Page": "29",
     "Link": "DFM1:29"
-  },
-  {
-    "Rule": "Sword-and-Pistol Combat Style",
-    "Category": [
-      "Skills",
-      "Techniques"
-    ],
-    "Book": "Steampunk 3",
-    "Page": "24",
-    "Link": "SP3:24"
   },
   {
     "Rule": "Sword-and-Pistol Combat Style",
@@ -25366,6 +27081,15 @@
     "Link": "B32"
   },
   {
+    "Rule": "Symptoms",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "109",
+    "Link": "B109"
+  },
+  {
     "Rule": "Syntactic Magic System",
     "Category": [
       "Magic"
@@ -25413,6 +27137,17 @@
     "Link": "IW130"
   },
   {
+    "Rule": "Taijutsu Ninja Striking Style",
+    "Category": [
+      "Combat",
+      "Skills",
+      "Techniques"
+    ],
+    "Book": "Martial Arts",
+    "Page": "201",
+    "Link": "MA201"
+  },
+  {
     "Rule": "Tailoring Armor (Ultra-Tech)",
     "Category": [
       "Armor"
@@ -25429,6 +27164,24 @@
     "Book": "Basic",
     "Page": "370",
     "Link": "B370"
+  },
+  {
+    "Rule": "Takes Extra Time",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "115",
+    "Link": "B115"
+  },
+  {
+    "Rule": "Takes Recharge",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "115",
+    "Link": "B115"
   },
   {
     "Rule": "Taking Extra Time with Skills",
@@ -25826,6 +27579,33 @@
     "Link": "BT147"
   },
   {
+    "Rule": "Temporary Disadvantage",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "115",
+    "Link": "B115"
+  },
+  {
+    "Rule": "Temporary Disadvantage Shutdown",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "18",
+    "Link": "PU8:18"
+  },
+  {
+    "Rule": "Terminal Condition",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "18",
+    "Link": "PU8:18"
+  },
+  {
     "Rule": "Terraformed Worlds",
     "Category": [
       "Setting"
@@ -26115,6 +27895,15 @@
     "Link": "MA118"
   },
   {
+    "Rule": "Thrusting Blade",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "21",
+    "Link": "PU4:21"
+  },
+  {
     "Rule": "Tight Beam Burning Attack",
     "Category": [
       "Combat"
@@ -26207,6 +27996,15 @@
     "Book": "Infinite Worlds",
     "Page": "181",
     "Link": "IW181"
+  },
+  {
+    "Rule": "Time-Spanning",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "17",
+    "Link": "PU4:17"
   },
   {
     "Rule": "Tip Slash",
@@ -26514,6 +28312,24 @@
     "Link": "HTEE47"
   },
   {
+    "Rule": "Trigger",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "115",
+    "Link": "B115"
+  },
+  {
+    "Rule": "Trigger Extended",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "18",
+    "Link": "PU8:18"
+  },
+  {
     "Rule": "Tripods",
     "Category": [
       "Gear"
@@ -26801,6 +28617,33 @@
     "Link": "B383"
   },
   {
+    "Rule": "Unconscious Only",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "115",
+    "Link": "B115"
+  },
+  {
+    "Rule": "Uncontrollable",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "116",
+    "Link": "B116"
+  },
+  {
+    "Rule": "Uncontrollable Trigger",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "19",
+    "Link": "PU8:19"
+  },
+  {
     "Rule": "Undead Slime",
     "Category": [
       "Undead"
@@ -26874,6 +28717,15 @@
     "Link": "BS215"
   },
   {
+    "Rule": "Underwater",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "109",
+    "Link": "B109"
+  },
+  {
     "Rule": "Underwater Archery",
     "Category": [
       "Techniques"
@@ -26931,6 +28783,15 @@
     "Link": "BT61"
   },
   {
+    "Rule": "Unique",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "117",
+    "Link": "B117"
+  },
+  {
     "Rule": "Unique Equipment",
     "Category": [
       "Gear"
@@ -26959,6 +28820,15 @@
     "Link": "SU123"
   },
   {
+    "Rule": "Unreliable",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "116",
+    "Link": "B116"
+  },
+  {
     "Rule": "Unseelie",
     "Category": [
       "Template"
@@ -26977,6 +28847,15 @@
     "Link": "PU3:17"
   },
   {
+    "Rule": "Unsupported",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "19",
+    "Link": "PU8:19"
+  },
+  {
     "Rule": "Unsupported Strength Limitation (-25%)",
     "Category": [
       "Traits"
@@ -26984,6 +28863,15 @@
     "Book": "Bio-Tech",
     "Page": "215",
     "Link": "BT215"
+  },
+  {
+    "Rule": "Untrainable",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "116",
+    "Link": "B116"
   },
   {
     "Rule": "Unusual Background (Psi) Guidelines",
@@ -27299,6 +29187,24 @@
     "Link": "PSI6"
   },
   {
+    "Rule": "Usually On",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "18",
+    "Link": "PU4:18"
+  },
+  {
+    "Rule": "Usually On",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "19",
+    "Link": "PU8:19"
+  },
+  {
     "Rule": "Vacuum",
     "Category": [
       "Hazard"
@@ -27335,6 +29241,24 @@
     "Book": "Infinite Worlds",
     "Page": "141",
     "Link": "IW141"
+  },
+  {
+    "Rule": "Variable",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "109",
+    "Link": "B109"
+  },
+  {
+    "Rule": "Variable Enhancement",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "5",
+    "Link": "PU4:5"
   },
   {
     "Rule": "Variant Biotech (Magical Biotech)",
@@ -27478,6 +29402,15 @@
     "Link": "SS1:40"
   },
   {
+    "Rule": "Very Rapid Fire",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "21",
+    "Link": "PU4:21"
+  },
+  {
     "Rule": "Very Rapid Healing Optional Rule (Monster Hunters)",
     "Category": [
       "Injury",
@@ -27554,6 +29487,15 @@
     "Link": "B394"
   },
   {
+    "Rule": "Visible",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "19",
+    "Link": "PU8:19"
+  },
+  {
     "Rule": "Visualization",
     "Category": [
       "Traits",
@@ -27627,6 +29569,15 @@
     "Book": "Monster Hunters Power-Ups 1",
     "Page": "12",
     "Link": "MHPU1:12"
+  },
+  {
+    "Rule": "Wall",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Basic",
+    "Page": "109",
+    "Link": "B109"
   },
   {
     "Rule": "Wands and Staffs",
@@ -27765,6 +29716,15 @@
     "Link": "FFE20"
   },
   {
+    "Rule": "Weakened Without Preparation",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "114",
+    "Link": "B114"
+  },
+  {
     "Rule": "Wealth and Gear",
     "Category": [
       "Gear",
@@ -27858,6 +29818,15 @@
     "Book": "Monster Hunters Power-Ups 1",
     "Page": "22",
     "Link": "MHPU1:22"
+  },
+  {
+    "Rule": "Weaponized",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Power-Ups 8: Limitations",
+    "Page": "19",
+    "Link": "PU8:19"
   },
   {
     "Rule": "Weapon-Making Skills",
@@ -28485,6 +30454,15 @@
     "Book": "Powers: Divine Favor",
     "Page": "15",
     "Link": "PDF15"
+  },
+  {
+    "Rule": "World-Spanning",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Power-Ups 4: Enhancements",
+    "Page": "18",
+    "Link": "PU4:18"
   },
   {
     "Rule": "Wounding Modifiers and Injury",
