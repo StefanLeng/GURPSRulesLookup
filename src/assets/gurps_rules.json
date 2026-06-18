@@ -72,6 +72,15 @@
     "Link": "B428"
   },
   {
+    "Rule": "Acrobat",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "41",
+    "Link": "SU41"
+  },
+  {
     "Rule": "Acrobatic Attack",
     "Category": [
       "Combat"
@@ -673,6 +682,15 @@
     "Link": "B83"
   },
   {
+    "Rule": "Alternate Outcomes Mercenary",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "189",
+    "Link": "IW189"
+  },
+  {
     "Rule": "Alternative Armies",
     "Category": [
       "Setting"
@@ -700,6 +718,24 @@
     "Book": "Fantasy Tech 1",
     "Page": "28",
     "Link": "FT1:28"
+  },
+  {
+    "Rule": "Amazing Journeys",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "112",
+    "Link": "SU112"
+  },
+  {
+    "Rule": "Amazing Speed",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Supers",
+    "Page": "102",
+    "Link": "SU102"
   },
   {
     "Rule": "Amenities in Taverns",
@@ -768,6 +804,15 @@
     "Link": "LTIA4"
   },
   {
+    "Rule": "Anachronistic Training",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "183",
+    "Link": "IW183"
+  },
+  {
     "Rule": "Ancient Super Tech for Reptile Races",
     "Category": [
       "Setting"
@@ -822,6 +867,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "6",
     "Link": "PU3:6"
+  },
+  {
+    "Rule": "Animal Function",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "39",
+    "Link": "SU39"
   },
   {
     "Rule": "Animal Handler Trainer",
@@ -959,6 +1013,15 @@
     "Link": "HT225"
   },
   {
+    "Rule": "Any Active Defense Ruins all Accumulated Aim Bonuses",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "364",
+    "Link": "B364"
+  },
+  {
     "Rule": "Appearance Perks",
     "Category": [
       "Traits"
@@ -988,6 +1051,16 @@
     "Link": "DF5:20"
   },
   {
+    "Rule": "Archenemies and Rogues' Galleries",
+    "Category": [
+      "Setting",
+      "NPC"
+    ],
+    "Book": "Supers",
+    "Page": "69",
+    "Link": "SU69"
+  },
+  {
     "Rule": "Archer",
     "Category": [
       "Template",
@@ -996,6 +1069,25 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "8",
     "Link": "DF15:8"
+  },
+  {
+    "Rule": "Archetype",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "42",
+    "Link": "SU42"
+  },
+  {
+    "Rule": "Archetype Lens (Monster Hunters)",
+    "Category": [
+      "Traits",
+      "Lens"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "10",
+    "Link": "MHPU1:10"
   },
   {
     "Rule": "Area and Spreading Attacks",
@@ -1014,6 +1106,15 @@
     "Book": "Magic",
     "Page": "11",
     "Link": "M11"
+  },
+  {
+    "Rule": "Ariane",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "128",
+    "Link": "IW128"
   },
   {
     "Rule": "Aristocrat Swashbuckler (Denizens)",
@@ -1052,6 +1153,15 @@
     "Link": "MA65"
   },
   {
+    "Rule": "Armada-2 (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "109",
+    "Link": "IW109"
+  },
+  {
     "Rule": "Armor and Protective Gear (High Tech)",
     "Category": [
       "Gear"
@@ -1059,6 +1169,24 @@
     "Book": "High Tech",
     "Page": "65",
     "Link": "HT65"
+  },
+  {
+    "Rule": "Armor Divisor Enhancement",
+    "Category": [
+      "Enhancement"
+    ],
+    "Book": "Basic",
+    "Page": "102",
+    "Link": "B102"
+  },
+  {
+    "Rule": "Armor Divisor Explanation",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "268",
+    "Link": "B268"
   },
   {
     "Rule": "Armor Enchantment Table",
@@ -1421,6 +1549,16 @@
     "Link": "B429"
   },
   {
+    "Rule": "Attack Abilities (Supers)",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "58",
+    "Link": "SU58"
+  },
+  {
     "Rule": "Attack Maneuver",
     "Category": [
       "Combat"
@@ -1476,6 +1614,15 @@
     "Link": "MA127"
   },
   {
+    "Rule": "Attila",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "110",
+    "Link": "IW110"
+  },
+  {
     "Rule": "Attorney TL8",
     "Category": [
       "Template"
@@ -1483,6 +1630,15 @@
     "Book": "Horror",
     "Page": "35",
     "Link": "H35"
+  },
+  {
+    "Rule": "Attunement",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "168",
+    "Link": "IW168"
   },
   {
     "Rule": "Aura of Chaos",
@@ -1776,6 +1932,15 @@
     "Link": "P85"
   },
   {
+    "Rule": "Azoth-7 (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "112",
+    "Link": "IW112"
+  },
+  {
     "Rule": "Azzalum Metal",
     "Category": [
       "Setting",
@@ -1838,6 +2003,16 @@
     "Book": "Dungeon Fantasy Denizens Thieves",
     "Page": "5",
     "Link": "DFDT5"
+  },
+  {
+    "Rule": "Banestorms (Infinite Worlds)",
+    "Category": [
+      "Hazard",
+      "Supernatural"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "75",
+    "Link": "IW75"
   },
   {
     "Rule": "Banister Sliding in Combat",
@@ -2130,6 +2305,15 @@
     "Link": "MA100"
   },
   {
+    "Rule": "Bending Steel Bars",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Supers",
+    "Page": "101",
+    "Link": "SU101"
+  },
+  {
     "Rule": "Berserker Barbarian",
     "Category": [
       "Template",
@@ -2138,6 +2322,16 @@
     "Book": "Dungeon Fantasy Denizens Barbarians",
     "Page": "9",
     "Link": "DFDB9"
+  },
+  {
+    "Rule": "Big Weapons",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Supers",
+    "Page": "119",
+    "Link": "SU119"
   },
   {
     "Rule": "Biobuildings and Planet-Sized Organisms",
@@ -2447,6 +2641,15 @@
     "Link": "BT173"
   },
   {
+    "Rule": "Biomorph (Supers)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "42",
+    "Link": "SU42"
+  },
+  {
     "Rule": "Biomorphic Lenses (Robots)",
     "Category": [
       "Traits"
@@ -2570,6 +2773,15 @@
     "Link": "B275"
   },
   {
+    "Rule": "Blaster",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "43",
+    "Link": "SU43"
+  },
+  {
     "Rule": "Bleeding",
     "Category": [
       "Injury"
@@ -2606,6 +2818,15 @@
     "Book": "Pyramid #3/78",
     "Page": "4",
     "Link": "PY78:4"
+  },
+  {
+    "Rule": "Blip (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "140",
+    "Link": "IW140"
   },
   {
     "Rule": "Blocking Spell Mastery Perk",
@@ -2664,6 +2885,26 @@
     "Book": "Basic",
     "Page": "379",
     "Link": "B379"
+  },
+  {
+    "Rule": "Blurred Attack",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "21",
+    "Link": "MHPU1:21"
+  },
+  {
+    "Rule": "Bodies Flying",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Supers",
+    "Page": "121",
+    "Link": "SU121"
   },
   {
     "Rule": "Body Armor Table",
@@ -2815,6 +3056,17 @@
     "Link": "BT173"
   },
   {
+    "Rule": "Bogon Stabilizer",
+    "Category": [
+      "Traits",
+      "Gear",
+      "Mechanism"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "17",
+    "Link": "MHPU1:17"
+  },
+  {
     "Rule": "Bolas Special Ranged Rules",
     "Category": [
       "Combat",
@@ -2843,6 +3095,15 @@
     "Book": "High Tech",
     "Page": "194",
     "Link": "HT194"
+  },
+  {
+    "Rule": "Bonaparte-4 (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "113",
+    "Link": "IW113"
   },
   {
     "Rule": "Bonesetting Hard Technique",
@@ -3045,6 +3306,16 @@
     "Link": "B371"
   },
   {
+    "Rule": "Breakability",
+    "Category": [
+      "Gear",
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "76",
+    "Link": "SU76"
+  },
+  {
     "Rule": "Breakable Components Rule",
     "Category": [
       "Gear"
@@ -3111,6 +3382,15 @@
     "Link": "LTC3:32"
   },
   {
+    "Rule": "Brick",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "44",
+    "Link": "SU44"
+  },
+  {
     "Rule": "Bride of Claithalleth",
     "Category": [
       "Template",
@@ -3119,6 +3399,15 @@
     "Book": "Fantasy Folk: Winged Folk",
     "Page": "18",
     "Link": "FFWF18"
+  },
+  {
+    "Rule": "Britannica-3 (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "115",
+    "Link": "IW115"
   },
   {
     "Rule": "Brown Dwarf Evolution Table",
@@ -3225,6 +3514,16 @@
     "Link": "B270"
   },
   {
+    "Rule": "Bulletproof (Supers)",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "122",
+    "Link": "SU122"
+  },
+  {
     "Rule": "Burglar (Denizens PC Class)",
     "Category": [
       "Template"
@@ -3242,6 +3541,15 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "34",
     "Link": "DF15:34"
+  },
+  {
+    "Rule": "Burton",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "136",
+    "Link": "IW136"
   },
   {
     "Rule": "Business Acument Talent",
@@ -3291,6 +3599,16 @@
     "Link": "MH1:31"
   },
   {
+    "Rule": "Cabalist Mage",
+    "Category": [
+      "Template",
+      "Magic"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "195",
+    "Link": "IW195"
+  },
+  {
     "Rule": "Calculating Escape Velocity of Planets Other Than Earth",
     "Category": [
       "Space"
@@ -3338,6 +3656,15 @@
     "Link": "SS1:37"
   },
   {
+    "Rule": "Caliph",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "117",
+    "Link": "IW117"
+  },
+  {
     "Rule": "Camazotz Racial Template (TL10)",
     "Category": [
       "Template",
@@ -3346,6 +3673,15 @@
     "Book": "Bio-Tech",
     "Page": "71",
     "Link": "BT71"
+  },
+  {
+    "Rule": "Camelot Parallels (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "136",
+    "Link": "IW136"
   },
   {
     "Rule": "Cameras",
@@ -3382,6 +3718,15 @@
     "Book": "Ultra-Tech",
     "Page": "221",
     "Link": "UT221"
+  },
+  {
+    "Rule": "Campbell",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "119",
+    "Link": "IW119"
   },
   {
     "Rule": "Camping in the Wild (Dungeon Fantasy)",
@@ -3630,6 +3975,25 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "41",
     "Link": "MH1:41"
+  },
+  {
+    "Rule": "Centrum Beta",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "120",
+    "Link": "IW120"
+  },
+  {
+    "Rule": "Centrum World Classification",
+    "Category": [
+      "Reference",
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "51",
+    "Link": "IW51"
   },
   {
     "Rule": "Cerebral-Motor Multitasking",
@@ -4373,6 +4737,16 @@
     "Link": "MH1:57"
   },
   {
+    "Rule": "Collisions",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Supers",
+    "Page": "124",
+    "Link": "SU124"
+  },
+  {
     "Rule": "Colonial Adventurer (150 pt. Steampunk Template)",
     "Category": [
       "Template"
@@ -4427,6 +4801,16 @@
     "Link": "MH1:48"
   },
   {
+    "Rule": "Combat Teleportation",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "126",
+    "Link": "SU126"
+  },
+  {
     "Rule": "Combination Gadgets Rules",
     "Category": [
       "Gear"
@@ -4446,6 +4830,16 @@
     "Link": "PU1:13"
   },
   {
+    "Rule": "Comic-Book Wizardry",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "110",
+    "Link": "SU110"
+  },
+  {
     "Rule": "Commando",
     "Category": [
       "Template"
@@ -4453,6 +4847,16 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "9",
     "Link": "MH1:9"
+  },
+  {
+    "Rule": "Commando Perks",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "13",
+    "Link": "MHPU1:13"
   },
   {
     "Rule": "Committed Attack Maneuver",
@@ -4902,6 +5306,24 @@
     "Link": "HT183"
   },
   {
+    "Rule": "Conveyor Loadout",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "30",
+    "Link": "IW30"
+  },
+  {
+    "Rule": "Conveyors",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "28",
+    "Link": "IW28"
+  },
+  {
     "Rule": "Corpse Golem",
     "Category": [
       "Creatures",
@@ -4930,6 +5352,16 @@
     "Link": "UT19"
   },
   {
+    "Rule": "Cosmic Scale Damage",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Supers",
+    "Page": "125",
+    "Link": "SU125"
+  },
+  {
     "Rule": "Cost of Talents (Number of Skills vs Point Cost)",
     "Category": [
       "Skills"
@@ -4937,6 +5369,16 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "4",
     "Link": "PU3:4"
+  },
+  {
+    "Rule": "Costumes and Armor",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Supers",
+    "Page": "77",
+    "Link": "SU77"
   },
   {
     "Rule": "Coughing or Sneezing",
@@ -5084,6 +5526,15 @@
     "Link": "ACT1:4"
   },
   {
+    "Rule": "Criminal (Infinite Worlds)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "196",
+    "Link": "IW196"
+  },
+  {
     "Rule": "Criminal Mage",
     "Category": [
       "Template",
@@ -5131,6 +5582,15 @@
     "Book": "Basic",
     "Page": "420",
     "Link": "B420"
+  },
+  {
+    "Rule": "Crisis Ministry Troubleshooter",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "188",
+    "Link": "IW188"
   },
   {
     "Rule": "Crit Failing Block Causes the Shield to become Unready",
@@ -5410,6 +5870,16 @@
     "Link": "B355"
   },
   {
+    "Rule": "Damage Reduction",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Supers",
+    "Page": "122",
+    "Link": "SU122"
+  },
+  {
     "Rule": "Damage to Armor and Shields",
     "Category": [
       "Armor",
@@ -5429,6 +5899,15 @@
     "Link": "FFE13"
   },
   {
+    "Rule": "Dark-Dwellers",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "184",
+    "Link": "IW184"
+  },
+  {
     "Rule": "Dark-Gift Talent",
     "Category": [
       "Traits"
@@ -5445,6 +5924,25 @@
     "Book": "Basic",
     "Page": "428",
     "Link": "B428"
+  },
+  {
+    "Rule": "Dead Horses Do Tell Tales",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "11",
+    "Link": "MHPU1:11"
+  },
+  {
+    "Rule": "Dealing with a Charging Foe",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "106",
+    "Link": "MA106"
   },
   {
     "Rule": "Death Gods (Dungeon Fantasy)",
@@ -5490,6 +5988,16 @@
     "Book": "High-Tech: Electricity and Electronics",
     "Page": "48",
     "Link": "HTEE48"
+  },
+  {
+    "Rule": "Deductive Mastery",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "15",
+    "Link": "MHPU1:15"
   },
   {
     "Rule": "Deep Elf",
@@ -5788,6 +6296,15 @@
     "Link": "MH1:50"
   },
   {
+    "Rule": "Denarius Group Special Banker",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "191",
+    "Link": "IW191"
+  },
+  {
     "Rule": "Designing a Stardrive",
     "Category": [
       "Setting"
@@ -5960,6 +6477,15 @@
     "Book": "Ultra-Tech",
     "Page": "234",
     "Link": "UT234"
+  },
+  {
+    "Rule": "Dinosaur Hunter (Infinite Worlds)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "191",
+    "Link": "IW191"
   },
   {
     "Rule": "Directed Energy Weapons",
@@ -6158,6 +6684,15 @@
     "Book": "Thaumatology",
     "Page": "257",
     "Link": "T257"
+  },
+  {
+    "Rule": "Dixie-1 (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "120",
+    "Link": "IW120"
   },
   {
     "Rule": "DNA Testing Procedures",
@@ -6482,6 +7017,15 @@
     "Link": "DFM4:15"
   },
   {
+    "Rule": "Dreadnought",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "45",
+    "Link": "SU45"
+  },
+  {
     "Rule": "Dream Control",
     "Category": [
       "Psionic Powers"
@@ -6691,6 +7235,15 @@
     "Link": "BT70"
   },
   {
+    "Rule": "Dual Identities",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Supers",
+    "Page": "62",
+    "Link": "SU62"
+  },
+  {
     "Rule": "Dual Shooting",
     "Category": [
       "Traits"
@@ -6711,6 +7264,26 @@
     "Link": "MA83"
   },
   {
+    "Rule": "Dual-Weapon Fighting",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "6",
+    "Link": "MHPU1:6"
+  },
+  {
+    "Rule": "Dual-Weapon Mastery",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "7",
+    "Link": "MHPU1:7"
+  },
+  {
     "Rule": "Dual-Wielding Ambidexterity",
     "Category": [
       "Combat",
@@ -6719,6 +7292,36 @@
     "Book": "Basic",
     "Page": "39",
     "Link": "B39"
+  },
+  {
+    "Rule": "Duck and Cover (Monster Hunters)",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "7",
+    "Link": "MHPU1:7"
+  },
+  {
+    "Rule": "Duct-Tape Bandage",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "11",
+    "Link": "MHPU1:11"
+  },
+  {
+    "Rule": "Duel of the Mind",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "126",
+    "Link": "SU126"
   },
   {
     "Rule": "Duelist Swashbuckler (Denizens)",
@@ -6861,6 +7464,15 @@
     "Link": "S108"
   },
   {
+    "Rule": "Echoes (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "85",
+    "Link": "IW85"
+  },
+  {
     "Rule": "Echoist (Green Robe)",
     "Category": [
       "Template",
@@ -6952,6 +7564,15 @@
     "Book": "Powers: The Weird",
     "Page": "37",
     "Link": "PW37"
+  },
+  {
+    "Rule": "Elasticity",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "39",
+    "Link": "SU39"
   },
   {
     "Rule": "Elbow Strike",
@@ -7329,6 +7950,16 @@
     "Link": "TUM11"
   },
   {
+    "Rule": "Enchanted Items as Signature Gear",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Supers",
+    "Page": "55",
+    "Link": "SU55"
+  },
+  {
     "Rule": "Enchanted Jewelry",
     "Category": [
       "Magic",
@@ -7483,6 +8114,25 @@
     "Link": "PSI19"
   },
   {
+    "Rule": "Enigma (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "140",
+    "Link": "IW140"
+  },
+  {
+    "Rule": "Entangled Relationships",
+    "Category": [
+      "Setting",
+      "NPC"
+    ],
+    "Book": "Supers",
+    "Page": "72",
+    "Link": "SU72"
+  },
+  {
     "Rule": "Entertainer",
     "Category": [
       "Template",
@@ -7588,6 +8238,16 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "42",
     "Link": "MH1:42"
+  },
+  {
+    "Rule": "Equipment and Extra Effort (Supers)",
+    "Category": [
+      "Gear",
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "76",
+    "Link": "SU76"
   },
   {
     "Rule": "Equipment Camping and Survival",
@@ -7955,6 +8615,16 @@
     "Link": "TUM12"
   },
   {
+    "Rule": "Exoskeleta",
+    "Category": [
+      "Gear",
+      "Mechanism"
+    ],
+    "Book": "Supers",
+    "Page": "78",
+    "Link": "SU78"
+  },
+  {
     "Rule": "Exoteleport",
     "Category": [
       "Traits"
@@ -7980,6 +8650,15 @@
     "Book": "High Tech",
     "Page": "103",
     "Link": "HT103"
+  },
+  {
+    "Rule": "Expatriate (Infinite Worlds)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "197",
+    "Link": "IW197"
   },
   {
     "Rule": "Expedition Gear (High Tech)",
@@ -8019,6 +8698,15 @@
     "Book": "Psis",
     "Page": "13",
     "Link": "PSIS13"
+  },
+  {
+    "Rule": "Expert Skill (Cliodynamics)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "182",
+    "Link": "IW182"
   },
   {
     "Rule": "Expert Skill (Psionics)",
@@ -8160,6 +8848,15 @@
     "Link": "MH1:43"
   },
   {
+    "Rule": "Extra ST without HP increase",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "57",
+    "Link": "PSI57"
+  },
+  {
     "Rule": "Extracting Useful Venom or Monster Bits",
     "Category": [
       "Activities",
@@ -8233,6 +8930,15 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "43",
     "Link": "MH1:43"
+  },
+  {
+    "Rule": "Ezcalli",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "122",
+    "Link": "IW122"
   },
   {
     "Rule": "Face Man",
@@ -8646,6 +9352,15 @@
     "Link": "MH1:61"
   },
   {
+    "Rule": "Firearms (Infinite Worlds)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "199",
+    "Link": "IW199"
+  },
+  {
     "Rule": "Firearms and Explosives (Post-Apocalyptic)",
     "Category": [
       "Weapons",
@@ -8774,6 +9489,16 @@
     "Link": "S32"
   },
   {
+    "Rule": "Fixer",
+    "Category": [
+      "Traits",
+      "Skills"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "16",
+    "Link": "MHPU1:16"
+  },
+  {
     "Rule": "Flails Special Melee Rules",
     "Category": [
       "Combat"
@@ -8859,6 +9584,16 @@
     "Link": "MH1:31"
   },
   {
+    "Rule": "Flesh Wounds",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Supers",
+    "Page": "117",
+    "Link": "SU117"
+  },
+  {
     "Rule": "Flexible Armor",
     "Category": [
       "Combat",
@@ -8935,6 +9670,15 @@
     "Book": "Martial Arts",
     "Page": "131",
     "Link": "MA131"
+  },
+  {
+    "Rule": "Flying Attack",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "107",
+    "Link": "MA107"
   },
   {
     "Rule": "Flying Lunge Technique",
@@ -9126,6 +9870,35 @@
     "Link": "FFE21"
   },
   {
+    "Rule": "Four-Color Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "116",
+    "Link": "SU116"
+  },
+  {
+    "Rule": "Four-Color Damage",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Supers",
+    "Page": "117",
+    "Link": "SU117"
+  },
+  {
+    "Rule": "Four-Color Roleplaying",
+    "Category": [
+      "Setting",
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "99",
+    "Link": "SU99"
+  },
+  {
     "Rule": "Four-Dimensional Combat",
     "Category": [
       "Combat",
@@ -9153,6 +9926,15 @@
     "Book": "Steampunk 1",
     "Page": "30",
     "Link": "SP1:30"
+  },
+  {
+    "Rule": "Friedrich",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "124",
+    "Link": "IW124"
   },
   {
     "Rule": "Fright Check Table",
@@ -9251,6 +10033,15 @@
     "Link": "DF15:36"
   },
   {
+    "Rule": "Gallatin",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "125",
+    "Link": "IW125"
+  },
+  {
     "Rule": "Gargantuan Dragon",
     "Category": [
       "Creatures"
@@ -9304,6 +10095,16 @@
     "Book": "Dungeon Fantasy 22",
     "Page": "8",
     "Link": "DF22:8"
+  },
+  {
+    "Rule": "Gates of Thoth",
+    "Category": [
+      "Hazard",
+      "Supernatural"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "79",
+    "Link": "IW79"
   },
   {
     "Rule": "Gathering",
@@ -9691,6 +10492,24 @@
     "Book": "Bio-Tech",
     "Page": "112",
     "Link": "BT112"
+  },
+  {
+    "Rule": "Gernsback",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "126",
+    "Link": "IW126"
+  },
+  {
+    "Rule": "Gestapo Amt Z Agent",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "194",
+    "Link": "IW194"
   },
   {
     "Rule": "Getting into Space 80% of the Planet's Escape Velocity",
@@ -10084,6 +10903,16 @@
     "Link": "FFGH13"
   },
   {
+    "Rule": "Godlike Strength",
+    "Category": [
+      "Traits",
+      "Physical Act"
+    ],
+    "Book": "Supers",
+    "Page": "113",
+    "Link": "SU113"
+  },
+  {
     "Rule": "Gods of Frenzy (Dungeon Fantasy)",
     "Category": [
       "Divinity"
@@ -10165,6 +10994,15 @@
     "Link": "DF7:17"
   },
   {
+    "Rule": "Goldilocks Gear",
+    "Category": [
+      "Traitsl Gear"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "18",
+    "Link": "MHPU1:18"
+  },
+  {
     "Rule": "Gonnes Table",
     "Category": [
       "Reference",
@@ -10239,6 +11077,16 @@
     "Book": "Martial Arts",
     "Page": "131",
     "Link": "MA131"
+  },
+  {
+    "Rule": "Greater Weapon Bond",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "7",
+    "Link": "MHPU1:7"
   },
   {
     "Rule": "Greco-Roman Wrestling Style",
@@ -10506,6 +11354,16 @@
     "Link": "HT160"
   },
   {
+    "Rule": "Gun Fu Mastery",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "13",
+    "Link": "MHPU1:13"
+  },
+  {
     "Rule": "Gun Fu Perks",
     "Category": [
       "Traits",
@@ -10738,6 +11596,16 @@
     "Link": "S7"
   },
   {
+    "Rule": "Hard to Kill (Supers)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Supers",
+    "Page": "117",
+    "Link": "SU117"
+  },
+  {
     "Rule": "Hard-Wired Programs Rules",
     "Category": [
       "Skills"
@@ -10833,6 +11701,16 @@
     "Book": "High Tech",
     "Page": "70",
     "Link": "HT70"
+  },
+  {
+    "Rule": "Headquarters",
+    "Category": [
+      "Gear",
+      "Setting"
+    ],
+    "Book": "Supers",
+    "Page": "85",
+    "Link": "SU85"
   },
   {
     "Rule": "Healer",
@@ -10945,6 +11823,15 @@
     "Link": "BT66"
   },
   {
+    "Rule": "Hell Worlds (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "128",
+    "Link": "IW128"
+  },
+  {
     "Rule": "Helmet Padding",
     "Category": [
       "Armor"
@@ -11029,6 +11916,15 @@
     "Book": "Powers: The Weird",
     "Page": "27",
     "Link": "PW27"
+  },
+  {
+    "Rule": "Hidden Lore (Gates)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "182",
+    "Link": "IW182"
   },
   {
     "Rule": "Hidden Weapons",
@@ -11177,6 +12073,24 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "32",
     "Link": "DF15:32"
+  },
+  {
+    "Rule": "Historian (Infinite Worlds)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "197",
+    "Link": "IW197"
+  },
+  {
+    "Rule": "Historical Familiarity (Infinite Worlds)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "184",
+    "Link": "IW184"
   },
   {
     "Rule": "Historical Tech Level",
@@ -11492,6 +12406,15 @@
     "Link": "B557"
   },
   {
+    "Rule": "Huge Targets",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "125",
+    "Link": "SU125"
+  },
+  {
     "Rule": "Hulk (Post-Apocalypse)",
     "Category": [
       "Template",
@@ -11502,6 +12425,15 @@
     "Link": "ATE1:6"
   },
   {
+    "Rule": "Human Artillery",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "122",
+    "Link": "SU122"
+  },
+  {
     "Rule": "Hunter (Post-Apocalypse)",
     "Category": [
       "Template",
@@ -11510,6 +12442,16 @@
     "Book": "After the End 1",
     "Page": "8",
     "Link": "ATE1:8"
+  },
+  {
+    "Rule": "Hunter Training (Monster Hunters)",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "7",
+    "Link": "MHPU1:7"
   },
   {
     "Rule": "Hunting",
@@ -11566,6 +12508,36 @@
     "Book": "Ultra-Tech",
     "Page": "60",
     "Link": "UT60"
+  },
+  {
+    "Rule": "I Don't Need a Manual",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "18",
+    "Link": "MHPU1:18"
+  },
+  {
+    "Rule": "I Got That",
+    "Category": [
+      "Skills",
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "11",
+    "Link": "MHPU1:11"
+  },
+  {
+    "Rule": "I Have a Friend",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "16",
+    "Link": "MHPU1:16"
   },
   {
     "Rule": "Ice Wyrm",
@@ -11732,6 +12704,35 @@
     "Link": "LT63"
   },
   {
+    "Rule": "Improvised Weapons (Supers)",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Supers",
+    "Page": "120",
+    "Link": "SU120"
+  },
+  {
+    "Rule": "Improviser",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "18",
+    "Link": "MHPU1:18"
+  },
+  {
+    "Rule": "Improviser",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "46",
+    "Link": "SU46"
+  },
+  {
     "Rule": "Impulse Buys Cheat Sheet",
     "Category": [
       "Reference"
@@ -11766,6 +12767,16 @@
     "Book": "Horror",
     "Page": "15",
     "Link": "H15"
+  },
+  {
+    "Rule": "Indestructibility",
+    "Category": [
+      "Traits",
+      "Injury"
+    ],
+    "Book": "Supers",
+    "Page": "103",
+    "Link": "SU103"
   },
   {
     "Rule": "Individual Combat Weapon TL8",
@@ -11822,6 +12833,25 @@
     "Book": "Action 1: Heroes",
     "Page": "11",
     "Link": "ACT1:11"
+  },
+  {
+    "Rule": "Infinite Worlds Glossary",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "6",
+    "Link": "IW6"
+  },
+  {
+    "Rule": "Infinity's World Classes",
+    "Category": [
+      "Reference",
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "83",
+    "Link": "IW83"
   },
   {
     "Rule": "Inflicting Pain with Locks",
@@ -11907,6 +12937,16 @@
     "Book": "Basic",
     "Page": "380",
     "Link": "B380"
+  },
+  {
+    "Rule": "Injury While Aiming Forces Will Roll to Keep Aim",
+    "Category": [
+      "Injury",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "364",
+    "Link": "B364"
   },
   {
     "Rule": "Injurying Reptilian Tails",
@@ -12012,6 +13052,24 @@
     "Link": "S190"
   },
   {
+    "Rule": "Intervention Service (I-Cop)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "186",
+    "Link": "IW186"
+  },
+  {
+    "Rule": "Interworld Service Agent",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "192",
+    "Link": "IW192"
+  },
+  {
     "Rule": "Intuitive Admiral Talent",
     "Category": [
       "Traits"
@@ -12028,6 +13086,16 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "11",
     "Link": "PU3:11"
+  },
+  {
+    "Rule": "Invention (Supers)",
+    "Category": [
+      "Traits",
+      "Crafting"
+    ],
+    "Book": "Supers",
+    "Page": "111",
+    "Link": "SU111"
   },
   {
     "Rule": "Investigator",
@@ -12090,6 +13158,25 @@
     "Link": "BT66"
   },
   {
+    "Rule": "ISWAT Operative",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "187",
+    "Link": "IW187"
+  },
+  {
+    "Rule": "It's Just a Scratch",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "12",
+    "Link": "MHPU1:12"
+  },
+  {
     "Rule": "Jack of all Trades Talent",
     "Category": [
       "Traits"
@@ -12120,6 +13207,24 @@
     "Link": "MA164"
   },
   {
+    "Rule": "Jet Attacks (Spell and Innate)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "106",
+    "Link": "B106"
+  },
+  {
+    "Rule": "Jet Spells take Effect at the Point of Impact",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "128",
+    "Link": "M128"
+  },
+  {
     "Rule": "Jewelry Gems and Pricing",
     "Category": [
       "Gear",
@@ -12129,6 +13234,15 @@
     "Book": "Low Tech",
     "Page": "38",
     "Link": "LT:38"
+  },
+  {
+    "Rule": "Johnson's Rome (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "130",
+    "Link": "IW130"
   },
   {
     "Rule": "Journalist TL8",
@@ -12166,6 +13280,15 @@
     "Book": "Space",
     "Page": "38",
     "Link": "S38"
+  },
+  {
+    "Rule": "Jumper (Infinite Worlds)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "174",
+    "Link": "IW174"
   },
   {
     "Rule": "Jumper (Spirit) (Dungeon Fantasy)",
@@ -12266,6 +13389,15 @@
     "Link": "DF12:5"
   },
   {
+    "Rule": "Kinetic",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "46",
+    "Link": "SU46"
+  },
+  {
     "Rule": "Kirlian Photography",
     "Category": [
       "Supernatural",
@@ -12283,6 +13415,16 @@
     "Book": "Martial Arts",
     "Page": "118",
     "Link": "MA118"
+  },
+  {
+    "Rule": "Kit-Bashing",
+    "Category": [
+      "Gear",
+      "Activities"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "23",
+    "Link": "MHPU1:23"
   },
   {
     "Rule": "Knee Strike",
@@ -12595,6 +13737,15 @@
     "Link": "MA177"
   },
   {
+    "Rule": "Latent Powers",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "113",
+    "Link": "SU113"
+  },
+  {
     "Rule": "Law and Justice (Space Setting)",
     "Category": [
       "Setting"
@@ -12737,6 +13888,24 @@
     "Link": "UT14"
   },
   {
+    "Rule": "Lenin-1 (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "131",
+    "Link": "IW131"
+  },
+  {
+    "Rule": "Lenin-2 (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "129",
+    "Link": "IW129"
+  },
+  {
     "Rule": "Lenses for Post-Apocalyptic Templates",
     "Category": [
       "Template",
@@ -12763,6 +13932,15 @@
     "Book": "Basic",
     "Page": "404",
     "Link": "B404"
+  },
+  {
+    "Rule": "Leviathan",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "129",
+    "Link": "IW129"
   },
   {
     "Rule": "Lich",
@@ -12821,6 +13999,15 @@
     "Book": "Basic",
     "Page": "353",
     "Link": "B353"
+  },
+  {
+    "Rule": "Lifting Enormous Weights",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Supers",
+    "Page": "101",
+    "Link": "SU101"
   },
   {
     "Rule": "Light and Darkness Spells College",
@@ -13024,6 +14211,15 @@
     "Link": "B283"
   },
   {
+    "Rule": "Lucifer-5 (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "133",
+    "Link": "IW133"
+  },
+  {
     "Rule": "Ludus Guard (NPC)",
     "Category": [
       "Template",
@@ -13091,6 +14287,16 @@
     "Link": "UT27"
   },
   {
+    "Rule": "Machine Intuition",
+    "Category": [
+      "Traits",
+      "Machinery"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "19",
+    "Link": "MHPU1:19"
+  },
+  {
     "Rule": "Machine Minds and Empathy",
     "Category": [
       "Traits"
@@ -13116,6 +14322,25 @@
     "Book": "Ultra-Tech",
     "Page": "29",
     "Link": "UT29"
+  },
+  {
+    "Rule": "Mad Genius",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "19",
+    "Link": "MHPU1:19"
+  },
+  {
+    "Rule": "Madland",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "130",
+    "Link": "IW130"
   },
   {
     "Rule": "Madness Table (Gothic)",
@@ -13236,6 +14461,16 @@
     "Link": "DF20:11"
   },
   {
+    "Rule": "Magic and Enchanted Items",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Supers",
+    "Page": "89",
+    "Link": "SU89"
+  },
+  {
     "Rule": "Magic Aspected Locations and Items",
     "Category": [
       "Magic",
@@ -13315,6 +14550,16 @@
     "Book": "Fantasy",
     "Page": "147",
     "Link": "F147"
+  },
+  {
+    "Rule": "Magical Expert (Monster Hunters)",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "14",
+    "Link": "MHPU1:14"
   },
   {
     "Rule": "Magical Factories",
@@ -13507,6 +14752,25 @@
     "Link": "B407"
   },
   {
+    "Rule": "Man Plus",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "47",
+    "Link": "SU47"
+  },
+  {
+    "Rule": "Man Versus Machine",
+    "Category": [
+      "Combat",
+      "Mechanism"
+    ],
+    "Book": "Supers",
+    "Page": "123",
+    "Link": "SU123"
+  },
+  {
     "Rule": "Mana and Enchantment Level of Cities",
     "Category": [
       "Setting"
@@ -13524,6 +14788,15 @@
     "Book": "Magic",
     "Page": "6",
     "Link": "M6"
+  },
+  {
+    "Rule": "Mandeville",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "136",
+    "Link": "IW136"
   },
   {
     "Rule": "Man-Eating Great White Shark",
@@ -13646,6 +14919,15 @@
     "Link": "S126"
   },
   {
+    "Rule": "Master Against Master",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "118",
+    "Link": "SU118"
+  },
+  {
     "Rule": "Master Builder Talent",
     "Category": [
       "Traits"
@@ -13653,6 +14935,25 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "11",
     "Link": "PU3:11"
+  },
+  {
+    "Rule": "Master Linguist",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "14",
+    "Link": "MHPU1:14"
+  },
+  {
+    "Rule": "Mastering the Mind",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Supers",
+    "Page": "109",
+    "Link": "SU109"
   },
   {
     "Rule": "Mastermind (Denizens PC Class)",
@@ -13698,6 +14999,15 @@
     "Book": "Ultra-Tech",
     "Page": "233",
     "Link": "UT233"
+  },
+  {
+    "Rule": "Maulesel (Mule) Jumper",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "194",
+    "Link": "IW194"
   },
   {
     "Rule": "Measure Potential",
@@ -14021,6 +15331,16 @@
     "Link": "MH1:47"
   },
   {
+    "Rule": "Mental Crippling and Killing",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Supers",
+    "Page": "127",
+    "Link": "SU127"
+  },
+  {
     "Rule": "Mental Perks",
     "Category": [
       "Traits"
@@ -14028,6 +15348,15 @@
     "Book": "Power-Ups 2: Perks",
     "Page": "12",
     "Link": "PU2:12"
+  },
+  {
+    "Rule": "Mental Projection (Infinite Worlds)",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "167",
+    "Link": "IW167"
   },
   {
     "Rule": "Mercenary",
@@ -14059,6 +15388,24 @@
     "Link": "S230"
   },
   {
+    "Rule": "Merlin",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "134",
+    "Link": "IW134"
+  },
+  {
+    "Rule": "Mesmerist",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "48",
+    "Link": "SU48"
+  },
+  {
     "Rule": "Mesmerist Talent",
     "Category": [
       "Traits"
@@ -14075,6 +15422,15 @@
     "Book": "Magic",
     "Page": "182",
     "Link": "M182"
+  },
+  {
+    "Rule": "Metamorph",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "49",
+    "Link": "SU49"
   },
   {
     "Rule": "Metamorphosis Virus Rules",
@@ -14107,6 +15463,15 @@
     "Link": "M121"
   },
   {
+    "Rule": "Microworld",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "140",
+    "Link": "IW140"
+  },
+  {
     "Rule": "Mighty Blow",
     "Category": [
       "Combat"
@@ -14123,6 +15488,15 @@
     "Book": "Martial Arts",
     "Page": "131",
     "Link": "MA131"
+  },
+  {
+    "Rule": "Mighty Blows (Supers)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "119",
+    "Link": "SU119"
   },
   {
     "Rule": "Military (Action Lens)",
@@ -14293,6 +15667,15 @@
     "Link": "B387"
   },
   {
+    "Rule": "Miracle Worker (Infinite Worlds)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "188",
+    "Link": "IW188"
+  },
+  {
     "Rule": "Miraculous Power",
     "Category": [
       "Divinity"
@@ -14358,6 +15741,15 @@
     "Link": "PU3:13"
   },
   {
+    "Rule": "Mobius (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "141",
+    "Link": "IW141"
+  },
+  {
     "Rule": "Modern HMMWV TL8",
     "Category": [
       "Vehicles"
@@ -14374,6 +15766,15 @@
     "Book": "Basic",
     "Page": "269",
     "Link": "B269"
+  },
+  {
+    "Rule": "Modular Abilities and Modifiers",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "27",
+    "Link": "SU27"
   },
   {
     "Rule": "Molotov Cocktails Special Ranged Rules",
@@ -14394,6 +15795,16 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "37",
     "Link": "DF15:37"
+  },
+  {
+    "Rule": "Monster Expert",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "8",
+    "Link": "MHPU1:8"
   },
   {
     "Rule": "Monster Hunters Campaign Types",
@@ -14467,6 +15878,15 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "6",
     "Link": "MH1:6"
+  },
+  {
+    "Rule": "Motivations (Supers)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Supers",
+    "Page": "59",
+    "Link": "SU59"
   },
   {
     "Rule": "Mountain Elf",
@@ -14774,6 +16194,15 @@
     "Link": "LT93"
   },
   {
+    "Rule": "Mutants (Infinite Worlds)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "184",
+    "Link": "IW184"
+  },
+  {
     "Rule": "Mutations in a Post-Apocalyptic Campaign",
     "Category": [
       "Setting",
@@ -14862,6 +16291,15 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "45",
     "Link": "MH1:45"
+  },
+  {
+    "Rule": "Myth Parallels (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "136",
+    "Link": "IW136"
   },
   {
     "Rule": "Mythbuster Template",
@@ -15100,6 +16538,15 @@
     "Link": "S42"
   },
   {
+    "Rule": "Neanderthals (Infinite Worlds)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "185",
+    "Link": "IW185"
+  },
+  {
     "Rule": "Neck Bite Technique",
     "Category": [
       "Techniques"
@@ -15171,6 +16618,15 @@
     "Book": "Magic",
     "Page": "149",
     "Link": "M149"
+  },
+  {
+    "Rule": "Nergal",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "137",
+    "Link": "IW137"
   },
   {
     "Rule": "Nets Special Ranged Rules",
@@ -15303,6 +16759,15 @@
     "Link": "BT211"
   },
   {
+    "Rule": "New Disadvantages (Supers)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "33",
+    "Link": "SU33"
+  },
+  {
     "Rule": "New Features (Early Maturation/Lung Pressure)",
     "Category": [
       "Traits"
@@ -15319,6 +16784,15 @@
     "Book": "Martial Arts",
     "Page": "137",
     "Link": "MA137"
+  },
+  {
+    "Rule": "New Limitations (Supers)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "33",
+    "Link": "SU33"
   },
   {
     "Rule": "New Magical Style Perks",
@@ -15365,6 +16839,15 @@
     "Book": "Horror",
     "Page": "12",
     "Link": "H12"
+  },
+  {
+    "Rule": "Nightstalker",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "49",
+    "Link": "SU49"
   },
   {
     "Rule": "Ninja (PC Class)",
@@ -15552,6 +17035,15 @@
     "Link": "H87"
   },
   {
+    "Rule": "Nostradamus",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "138",
+    "Link": "IW138"
+  },
+  {
     "Rule": "Noticing Psi Use",
     "Category": [
       "Psionic Powers"
@@ -15559,6 +17051,15 @@
     "Book": "Psionic Powers",
     "Page": "11",
     "Link": "PSI11"
+  },
+  {
+    "Rule": "Nottingham",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "136",
+    "Link": "IW136"
   },
   {
     "Rule": "Nuclear Dampers",
@@ -15693,6 +17194,16 @@
     "Link": "B383"
   },
   {
+    "Rule": "One with Your Weapon",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "21",
+    "Link": "MHPU1:21"
+  },
+  {
     "Rule": "One-Eye Disadvantage",
     "Category": [
       "Traits"
@@ -15711,6 +17222,15 @@
     "Link": "B147"
   },
   {
+    "Rule": "One-Man Armies",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "118",
+    "Link": "SU118"
+  },
+  {
     "Rule": "One-Use Magic Items",
     "Category": [
       "Magic",
@@ -15720,6 +17240,15 @@
     "Book": "Dungeon Fantasy Magic Items 1",
     "Page": "18",
     "Link": "DFMI1:18"
+  },
+  {
+    "Rule": "One-Use Powers",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "112",
+    "Link": "SU112"
   },
   {
     "Rule": "Ontogenetics Weird Science Style",
@@ -15825,6 +17354,15 @@
     "Link": "BT207"
   },
   {
+    "Rule": "Orichalcum",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "139",
+    "Link": "IW139"
+  },
+  {
     "Rule": "Orichalcum Metal",
     "Category": [
       "Setting",
@@ -15833,6 +17371,15 @@
     "Book": "Fantasy Tech 1",
     "Page": "27",
     "Link": "FT1:27"
+  },
+  {
+    "Rule": "Origins (Supers)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Supers",
+    "Page": "21",
+    "Link": "SU21"
   },
   {
     "Rule": "Orion Racial Template (TL9)",
@@ -15974,6 +17521,15 @@
     "Link": "H26"
   },
   {
+    "Rule": "Parachronozoids",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "73",
+    "Link": "IW73"
+  },
+  {
     "Rule": "Parachutes and Gliders",
     "Category": [
       "Mechanism"
@@ -15981,6 +17537,15 @@
     "Book": "Fantasy Tech 1",
     "Page": "17",
     "Link": "FT1:17"
+  },
+  {
+    "Rule": "Paradoxes",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "154",
+    "Link": "IW154"
   },
   {
     "Rule": "Para-Energetics Weird Science Style",
@@ -15991,6 +17556,24 @@
     "Book": "Powers: The Weird",
     "Page": "12",
     "Link": "PW12"
+  },
+  {
+    "Rule": "Paralabs Field Researcher",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "188",
+    "Link": "IW188"
+  },
+  {
+    "Rule": "Parallels (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "88",
+    "Link": "IW88"
   },
   {
     "Rule": "Paralysis",
@@ -16094,6 +17677,15 @@
     "Book": "Basic",
     "Page": "327",
     "Link": "B327"
+  },
+  {
+    "Rule": "Parrying Bullets",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "122",
+    "Link": "SU122"
   },
   {
     "Rule": "Parrying Heavy Weapons",
@@ -16210,6 +17802,15 @@
     "Link": "BS214"
   },
   {
+    "Rule": "Penetration Service (Scout)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "187",
+    "Link": "IW187"
+  },
+  {
     "Rule": "Pentaclist (Orange Robe)",
     "Category": [
       "Template",
@@ -16218,6 +17819,16 @@
     "Book": "Magical Styles: Dungeon Magic",
     "Page": "40",
     "Link": "MSDM40"
+  },
+  {
+    "Rule": "Perception and Memory",
+    "Category": [
+      "Traits",
+      "Skills"
+    ],
+    "Book": "Supers",
+    "Page": "106",
+    "Link": "SU106"
   },
   {
     "Rule": "Perfect Social Faint Perk",
@@ -16236,6 +17847,15 @@
     "Book": "Basic",
     "Page": "197",
     "Link": "B197"
+  },
+  {
+    "Rule": "Perks (Supers)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "30",
+    "Link": "SU30"
   },
   {
     "Rule": "Perpetual Motion Machine",
@@ -16277,6 +17897,34 @@
     "Link": "HT30"
   },
   {
+    "Rule": "Personal Equipment (Infinite Worlds)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "22",
+    "Link": "IW22"
+  },
+  {
+    "Rule": "Personal Gear (Supers)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Supers",
+    "Page": "79",
+    "Link": "SU79"
+  },
+  {
+    "Rule": "Personal Relationships",
+    "Category": [
+      "Traits",
+      "NPC"
+    ],
+    "Book": "Supers",
+    "Page": "67",
+    "Link": "SU67"
+  },
+  {
     "Rule": "Petards (Fantasy) (Jean Luc)",
     "Category": [
       "Weapons"
@@ -16295,6 +17943,15 @@
     "Link": "B458"
   },
   {
+    "Rule": "Phantom",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "50",
+    "Link": "SU50"
+  },
+  {
     "Rule": "Phase Serpent",
     "Category": [
       "Creatures"
@@ -16302,6 +17959,15 @@
     "Book": "Dungeon Fantasy Monsters 3",
     "Page": "17",
     "Link": "DFM3:17"
+  },
+  {
+    "Rule": "Phasing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "39",
+    "Link": "SU39"
   },
   {
     "Rule": "Philanthropist",
@@ -16367,6 +18033,15 @@
     "Book": "Power-Ups 2: Perks",
     "Page": "13",
     "Link": "PU2:13"
+  },
+  {
+    "Rule": "Physical Projection (Infinite Worlds)",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "166",
+    "Link": "IW166"
   },
   {
     "Rule": "Physician (NPC)",
@@ -16514,6 +18189,15 @@
     "Link": "UT222"
   },
   {
+    "Rule": "Plant Function",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "40",
+    "Link": "SU40"
+  },
+  {
     "Rule": "Plant Spells College",
     "Category": [
       "Magic"
@@ -16549,6 +18233,16 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "14",
     "Link": "PU3:14"
+  },
+  {
+    "Rule": "Point Values for Dependents and Allies",
+    "Category": [
+      "Traits",
+      "Character Points"
+    ],
+    "Book": "Supers",
+    "Page": "68",
+    "Link": "SU68"
   },
   {
     "Rule": "Poison Attributes",
@@ -16762,6 +18456,16 @@
     "Link": "DF1:28"
   },
   {
+    "Rule": "Power Levels (Supers)",
+    "Category": [
+      "Character Points",
+      "Setting"
+    ],
+    "Book": "Supers",
+    "Page": "18",
+    "Link": "SU18"
+  },
+  {
     "Rule": "Power Modifier in Monster Hunters",
     "Category": [
       "Traits"
@@ -16797,6 +18501,15 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "45",
     "Link": "MH1:45"
+  },
+  {
+    "Rule": "Power Modifiers (Supers)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "34",
+    "Link": "SU34"
   },
   {
     "Rule": "Power Perks",
@@ -17089,6 +18802,15 @@
     "Link": "HT166"
   },
   {
+    "Rule": "Projectors",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "27",
+    "Link": "IW27"
+  },
+  {
     "Rule": "Prophetic Dreams",
     "Category": [
       "Traits"
@@ -17224,6 +18946,16 @@
     "Book": "Psi-Tech",
     "Page": "37",
     "Link": "PT37"
+  },
+  {
+    "Rule": "Psiberocrat (Infinite Worlds)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "189",
+    "Link": "IW189"
   },
   {
     "Rule": "Psiborgs and Stats",
@@ -17381,6 +19113,15 @@
     "Link": "PSI5"
   },
   {
+    "Rule": "Psionic Time Travel (Infinite Worlds)",
+    "Category": [
+      "Psionic Powers"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "166",
+    "Link": "IW166"
+  },
+  {
     "Rule": "Psionics",
     "Category": [
       "Traits",
@@ -17417,6 +19158,16 @@
     "Book": "Psi-Tech",
     "Page": "9",
     "Link": "PT9"
+  },
+  {
+    "Rule": "Psychic Duels",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "127",
+    "Link": "SU127"
   },
   {
     "Rule": "Psychic Gestaults",
@@ -17639,6 +19390,25 @@
     "Link": "MA78"
   },
   {
+    "Rule": "Push-Ups Make You Bulletproof",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "9",
+    "Link": "MHPU1:9"
+  },
+  {
+    "Rule": "Puzzle Worlds",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "140",
+    "Link": "IW140"
+  },
+  {
     "Rule": "Pyrokinesis",
     "Category": [
       "Traits"
@@ -17697,6 +19467,16 @@
     "Link": "MA102"
   },
   {
+    "Rule": "Quick Shooting (Monster Hunters)",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "9",
+    "Link": "MHPU1:9"
+  },
+  {
     "Rule": "Quick Shooting Bows",
     "Category": [
       "Combat"
@@ -17706,6 +19486,16 @@
     "Link": "MA119"
   },
   {
+    "Rule": "Quick Silver Strikes",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "21",
+    "Link": "MHPU1:21"
+  },
+  {
     "Rule": "Quicksilver Swords",
     "Category": [
       "Weapons"
@@ -17713,6 +19503,15 @@
     "Book": "Fantasy Tech 2",
     "Page": "12",
     "Link": "FT2:12"
+  },
+  {
+    "Rule": "Quirks (Supers)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "33",
+    "Link": "SU33"
   },
   {
     "Rule": "Racial Point Cost and Life's Price Tag",
@@ -17947,6 +19746,16 @@
     "Link": "B373"
   },
   {
+    "Rule": "Raw Strength",
+    "Category": [
+      "Physical Act",
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "101",
+    "Link": "SU101"
+  },
+  {
     "Rule": "Raygun Gothic Robot (Steampunk)",
     "Category": [
       "Template"
@@ -17994,6 +19803,16 @@
     "Link": "MA101"
   },
   {
+    "Rule": "Ready Steady",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "13",
+    "Link": "MHPU1:13"
+  },
+  {
     "Rule": "Readying a Shield or Cloak",
     "Category": [
       "Combat",
@@ -18003,6 +19822,15 @@
     "Book": "Basic",
     "Page": "383",
     "Link": "B383"
+  },
+  {
+    "Rule": "Reality Quakes",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "75",
+    "Link": "IW75"
   },
   {
     "Rule": "Reality Warping Critial Spell Failure Table",
@@ -18099,6 +19927,15 @@
     "Link": "M11"
   },
   {
+    "Rule": "Reich-2",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "142",
+    "Link": "IW142"
+  },
+  {
     "Rule": "Relative Explosive Force Table",
     "Category": [
       "Weapons"
@@ -18164,6 +20001,15 @@
     "Link": "ATE1:30"
   },
   {
+    "Rule": "Remarkably Unremarkable",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "16",
+    "Link": "MHPU1:16"
+  },
+  {
     "Rule": "Remote Senses",
     "Category": [
       "Traits"
@@ -18171,6 +20017,15 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "45",
     "Link": "MH1:45"
+  },
+  {
+    "Rule": "Renaissance Man",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "50",
+    "Link": "SU50"
   },
   {
     "Rule": "Repairing Armor and Shields",
@@ -18578,6 +20433,15 @@
     "Link": "DFDS11"
   },
   {
+    "Rule": "Roma Aeterna",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "144",
+    "Link": "IW144"
+  },
+  {
     "Rule": "Romantic Vampire",
     "Category": [
       "Template",
@@ -18634,6 +20498,15 @@
     "Link": "SP2:36"
   },
   {
+    "Rule": "Rubberman",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "51",
+    "Link": "SU51"
+  },
+  {
     "Rule": "Ruins and Bunkers in the Post-Apocalyptic Game",
     "Category": [
       "Setting"
@@ -18643,6 +20516,34 @@
     "Link": "ATE2:32"
   },
   {
+    "Rule": "Rules for Cinematic Four-Color and Silly Campaigns",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Supers",
+    "Page": "100",
+    "Link": "SU100"
+  },
+  {
+    "Rule": "Ruling the Elements",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "104",
+    "Link": "SU104"
+  },
+  {
+    "Rule": "Run and Gun",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "9",
+    "Link": "MHPU1:9"
+  },
+  {
     "Rule": "Ruses in Combat",
     "Category": [
       "Combat"
@@ -18650,6 +20551,15 @@
     "Book": "Martial Arts",
     "Page": "101",
     "Link": "MA101"
+  },
+  {
+    "Rule": "Rustic",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "141",
+    "Link": "IW141"
   },
   {
     "Rule": "Sacrificial Dodge",
@@ -18687,6 +20597,16 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "15",
     "Link": "MH1:15"
+  },
+  {
+    "Rule": "Sage Perks (Monster Hunters)",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "14",
+    "Link": "MHPU1:14"
   },
   {
     "Rule": "Sage Talent",
@@ -19319,6 +21239,15 @@
     "Link": "MAYFS26"
   },
   {
+    "Rule": "Shaper",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "51",
+    "Link": "SU51"
+  },
+  {
     "Rule": "Shapeshifting (10 seconds)",
     "Category": [
       "Traits"
@@ -19345,6 +21274,25 @@
     "Book": "Martial Arts: Yrth Fighting Styles",
     "Page": "26",
     "Link": "MAYFS26"
+  },
+  {
+    "Rule": "Sharpshooter (Monster Hunters)",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "14",
+    "Link": "MHPU1:14"
+  },
+  {
+    "Rule": "Sherlock Parallels (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "137",
+    "Link": "IW137"
   },
   {
     "Rule": "Shield Bash",
@@ -19393,6 +21341,16 @@
     "Link": "MA51"
   },
   {
+    "Rule": "Shields (Supers)",
+    "Category": [
+      "Gear",
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "78",
+    "Link": "SU78"
+  },
+  {
     "Rule": "Shields in Close Combat",
     "Category": [
       "Combat",
@@ -19429,6 +21387,24 @@
     "Book": "Martial Arts",
     "Page": "117",
     "Link": "MA117"
+  },
+  {
+    "Rule": "Shiftrealms",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "79",
+    "Link": "IW79"
+  },
+  {
+    "Rule": "Shikaku-Mon",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "146",
+    "Link": "IW146"
   },
   {
     "Rule": "Shipboard Control Systems",
@@ -19638,6 +21614,15 @@
     "Link": "MA124"
   },
   {
+    "Rule": "Sifu",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "52",
+    "Link": "SU52"
+  },
+  {
     "Rule": "Sight-Reading Technique for Playing Music",
     "Category": [
       "Activities",
@@ -19811,6 +21796,16 @@
     "Link": "B171"
   },
   {
+    "Rule": "Skills and Super-Strength",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "35",
+    "Link": "SU35"
+  },
+  {
     "Rule": "Skills for Preparing Crafting Materials",
     "Category": [
       "Skills",
@@ -19858,6 +21853,16 @@
     "Link": "H43"
   },
   {
+    "Rule": "Slayer's Strike",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "10",
+    "Link": "MHPU1:10"
+  },
+  {
     "Rule": "Sleep",
     "Category": [
       "Affliction"
@@ -19874,6 +21879,16 @@
     "Book": "Low Tech Instant Armor",
     "Page": "20",
     "Link": "LTIA20"
+  },
+  {
+    "Rule": "Sleight of Hand Magic",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "54",
+    "Link": "SU54"
   },
   {
     "Rule": "Sleuth",
@@ -21873,6 +23888,54 @@
     "Link": "PDF6"
   },
   {
+    "Rule": "Speed (Supers)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "40",
+    "Link": "SU40"
+  },
+  {
+    "Rule": "Speed and Maneuverability (Supers)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "126",
+    "Link": "SU126"
+  },
+  {
+    "Rule": "Speed Inventor",
+    "Category": [
+      "Traits",
+      "Gear",
+      "Mechanism"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "19",
+    "Link": "MHPU1:19"
+  },
+  {
+    "Rule": "Speed Researcher",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "15",
+    "Link": "MHPU1:15"
+  },
+  {
+    "Rule": "Speedster",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "53",
+    "Link": "SU53"
+  },
+  {
     "Rule": "Spell Prerequisite Counts Table",
     "Category": [
       "Reference",
@@ -21901,6 +23964,15 @@
     "Link": "DFDT31"
   },
   {
+    "Rule": "Spending Character Points on Feats (Supers)",
+    "Category": [
+      "Character Points"
+    ],
+    "Book": "Supers",
+    "Page": "114",
+    "Link": "SU114"
+  },
+  {
     "Rule": "Spider Silk Clothing",
     "Category": [
       "Gear"
@@ -21920,7 +23992,7 @@
     "Link": "S43"
   },
   {
-    "Rule": "Spinning in Combat",
+    "Rule": "Spin to Change Your Facing at the End of a Move",
     "Category": [
       "Combat"
     ],
@@ -22027,6 +24099,15 @@
     "Link": "B397"
   },
   {
+    "Rule": "Spoor and Stigmata",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "74",
+    "Link": "IW74"
+  },
+  {
     "Rule": "Spore Clouds",
     "Category": [
       "Creatures"
@@ -22111,6 +24192,15 @@
     "Link": "DF15:17"
   },
   {
+    "Rule": "SS Raven Division Trooper",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "193",
+    "Link": "IW193"
+  },
+  {
     "Rule": "Stabilizing a Mortal Wound",
     "Category": [
       "Injury"
@@ -22184,6 +24274,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "15",
     "Link": "PU3:15"
+  },
+  {
+    "Rule": "Standard Issue Gear (Infinite Worlds)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "27",
+    "Link": "IW27"
   },
   {
     "Rule": "Standard Issue Gear of the Action Hero",
@@ -22520,6 +24619,16 @@
     "Link": "PU3:16"
   },
   {
+    "Rule": "Strength and Super-Strength",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "24",
+    "Link": "SU24"
+  },
+  {
     "Rule": "Strength to Damage Table",
     "Category": [
       "Reference",
@@ -22804,6 +24913,25 @@
     "Link": "PU3:16"
   },
   {
+    "Rule": "Super Throw",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "30",
+    "Link": "SU30"
+  },
+  {
+    "Rule": "Super-Abilities Table",
+    "Category": [
+      "Reference",
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "146",
+    "Link": "SU146"
+  },
+  {
     "Rule": "Superior Equilibrioception Talent",
     "Category": [
       "Traits"
@@ -22811,6 +24939,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "16",
     "Link": "PU3:16"
+  },
+  {
+    "Rule": "Supermage (Supers Multiple Versions)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Supers",
+    "Page": "53",
+    "Link": "SU53"
   },
   {
     "Rule": "Supernatural Perks",
@@ -22839,6 +24976,15 @@
     "Book": "Basic",
     "Page": "513",
     "Link": "B513"
+  },
+  {
+    "Rule": "Super-Soldiers (Infinite Worlds)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "185",
+    "Link": "IW185"
   },
   {
     "Rule": "Surgery",
@@ -23258,6 +25404,15 @@
     "Link": "BT65"
   },
   {
+    "Rule": "Taft-7 (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "130",
+    "Link": "IW130"
+  },
+  {
     "Rule": "Tailoring Armor (Ultra-Tech)",
     "Category": [
       "Armor"
@@ -23330,6 +25485,16 @@
     "Book": "Space",
     "Page": "29",
     "Link": "S29"
+  },
+  {
+    "Rule": "Teammates and Team Organization",
+    "Category": [
+      "Setting",
+      "NPC"
+    ],
+    "Book": "Supers",
+    "Page": "64",
+    "Link": "SU64"
   },
   {
     "Rule": "Teamwork",
@@ -23453,6 +25618,16 @@
     "Book": "Martial Arts",
     "Page": "98",
     "Link": "MA98"
+  },
+  {
+    "Rule": "Techniques (Supers)",
+    "Category": [
+      "Techniques",
+      "Combat"
+    ],
+    "Book": "Supers",
+    "Page": "38",
+    "Link": "SU38"
   },
   {
     "Rule": "Techniques List",
@@ -23633,6 +25808,15 @@
     "Link": "S114"
   },
   {
+    "Rule": "Temporal Physics",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "153",
+    "Link": "IW153"
+  },
+  {
     "Rule": "Temporal Stasis Rules",
     "Category": [
       "Setting"
@@ -23719,6 +25903,24 @@
     "Link": "FFRR18"
   },
   {
+    "Rule": "The Future (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "169",
+    "Link": "IW169"
+  },
+  {
+    "Rule": "The Gotha Parallels",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "128",
+    "Link": "IW128"
+  },
+  {
     "Rule": "The Medieval University Curriculum",
     "Category": [
       "Professions"
@@ -23745,6 +25947,16 @@
     "Book": "Steampunk 3",
     "Page": "23",
     "Link": "SP3:23"
+  },
+  {
+    "Rule": "The Spaces Between (Infinite Worlds)",
+    "Category": [
+      "Hazard",
+      "Environment"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "74",
+    "Link": "IW74"
   },
   {
     "Rule": "The Transparent Society",
@@ -23856,6 +26068,16 @@
     "Link": "DFDT18"
   },
   {
+    "Rule": "Throwing (Supers)",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Supers",
+    "Page": "121",
+    "Link": "SU121"
+  },
+  {
     "Rule": "Throwing Distance",
     "Category": [
       "Physical Act"
@@ -23912,6 +26134,15 @@
     "Link": "UT229"
   },
   {
+    "Rule": "Time Agent Equipment (Infinite Worlds)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "222",
+    "Link": "IW222"
+  },
+  {
     "Rule": "Time Dilation Table",
     "Category": [
       "Reference"
@@ -23919,6 +26150,15 @@
     "Book": "Space",
     "Page": "36",
     "Link": "S36"
+  },
+  {
+    "Rule": "Time Machines",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "162",
+    "Link": "IW162"
   },
   {
     "Rule": "Time Required to Grab and Use a Potion",
@@ -23941,6 +26181,16 @@
     "Link": "PW25"
   },
   {
+    "Rule": "Time Viewers",
+    "Category": [
+      "Gear",
+      "Mechanism"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "160",
+    "Link": "IW160"
+  },
+  {
     "Rule": "Timepieces",
     "Category": [
       "Setting"
@@ -23948,6 +26198,15 @@
     "Book": "Steampunk 2",
     "Page": "13",
     "Link": "SP2:13"
+  },
+  {
+    "Rule": "Timesickness (Infinite Worlds)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "181",
+    "Link": "IW181"
   },
   {
     "Rule": "Tip Slash",
@@ -24026,6 +26285,15 @@
     "Link": "HT23"
   },
   {
+    "Rule": "Tools of the Trade (Supers)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Supers",
+    "Page": "73",
+    "Link": "SU73"
+  },
+  {
     "Rule": "Top Speed 20% Over Move if Sprinting",
     "Category": [
       "Combat"
@@ -24074,6 +26342,16 @@
     "Link": "PTNS4"
   },
   {
+    "Rule": "Tough Guy (Monster Hunters)",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "10",
+    "Link": "MHPU1:10"
+  },
+  {
     "Rule": "Tough Guy Talent",
     "Category": [
       "Traits"
@@ -24081,6 +26359,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "16",
     "Link": "PU3:16"
+  },
+  {
+    "Rule": "Tour Guide (Infinite Worlds)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "191",
+    "Link": "IW191"
   },
   {
     "Rule": "Trader (Post-Apocalypse)",
@@ -24140,6 +26427,15 @@
     "Book": "Power-Ups 1: Imbuements",
     "Page": "11",
     "Link": "PU1:11"
+  },
+  {
+    "Rule": "Transportation",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Supers",
+    "Page": "83",
+    "Link": "SU83"
   },
   {
     "Rule": "Trapping",
@@ -24400,6 +26696,16 @@
     "Link": "B383"
   },
   {
+    "Rule": "Types of Alternate Worlds",
+    "Category": [
+      "Reference",
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "82",
+    "Link": "IW82"
+  },
+  {
     "Rule": "Typical Armor by TL Table (Ultra-Tech)",
     "Category": [
       "Reference",
@@ -24430,6 +26736,15 @@
     "Link": "UT148"
   },
   {
+    "Rule": "Ultrapower",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "30",
+    "Link": "SU30"
+  },
+  {
     "Rule": "Unarmed Critical Miss Table",
     "Category": [
       "Reference",
@@ -24438,6 +26753,15 @@
     "Book": "Basic",
     "Page": "557",
     "Link": "B557"
+  },
+  {
+    "Rule": "Unattached Agent",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "192",
+    "Link": "IW192"
   },
   {
     "Rule": "Unattended Mounts",
@@ -24605,6 +26929,34 @@
     "Book": "Bio-Tech",
     "Page": "61",
     "Link": "BT61"
+  },
+  {
+    "Rule": "Unique Equipment",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Supers",
+    "Page": "82",
+    "Link": "SU82"
+  },
+  {
+    "Rule": "United States of Lizardia",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "148",
+    "Link": "IW148"
+  },
+  {
+    "Rule": "Unkillable (Supers)",
+    "Category": [
+      "Traits",
+      "Injury"
+    ],
+    "Book": "Supers",
+    "Page": "123",
+    "Link": "SU123"
   },
   {
     "Rule": "Unseelie",
@@ -24976,6 +27328,15 @@
     "Link": "MH1:51"
   },
   {
+    "Rule": "Vanish",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "141",
+    "Link": "IW141"
+  },
+  {
     "Rule": "Variant Biotech (Magical Biotech)",
     "Category": [
       "Magic",
@@ -25098,6 +27459,15 @@
     "Link": "MAG30"
   },
   {
+    "Rule": "Versatility",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "111",
+    "Link": "SU111"
+  },
+  {
     "Rule": "Vertical Landings for Spacecraft",
     "Category": [
       "Vehicles",
@@ -25106,6 +27476,16 @@
     "Book": "Spaceships 1",
     "Page": "40",
     "Link": "SS1:40"
+  },
+  {
+    "Rule": "Very Rapid Healing Optional Rule (Monster Hunters)",
+    "Category": [
+      "Injury",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "13",
+    "Link": "MHPU1:13"
   },
   {
     "Rule": "Veteran 125 pt Lens",
@@ -25239,6 +27619,16 @@
     "Link": "MA108"
   },
   {
+    "Rule": "Walking Against the Wind",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "12",
+    "Link": "MHPU1:12"
+  },
+  {
     "Rule": "Wands and Staffs",
     "Category": [
       "Magic",
@@ -25285,6 +27675,16 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "19",
     "Link": "MH1:19"
+  },
+  {
+    "Rule": "Warrior Perks (Monster Hunters)",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "21",
+    "Link": "MHPU1:21"
   },
   {
     "Rule": "War-Trained Mounts",
@@ -25450,6 +27850,16 @@
     "Link": "LTC2:21"
   },
   {
+    "Rule": "Weapon Specialist (Monster Hunters)",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Monster Hunters Power-Ups 1",
+    "Page": "22",
+    "Link": "MHPU1:22"
+  },
+  {
     "Rule": "Weapon-Making Skills",
     "Category": [
       "Professions",
@@ -25458,6 +27868,16 @@
     "Book": "Low Tech Companion 3",
     "Page": "25",
     "Link": "LTC3:25"
+  },
+  {
+    "Rule": "Weapons (Supers)",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "Supers",
+    "Page": "80",
+    "Link": "SU80"
   },
   {
     "Rule": "Weapons and Defenses Technology Areas (Space)",
@@ -25641,6 +28061,15 @@
     "Link": "B406"
   },
   {
+    "Rule": "White Star Trader",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "190",
+    "Link": "IW190"
+  },
+  {
     "Rule": "Whiz Kid Talent",
     "Category": [
       "Traits"
@@ -25698,6 +28127,24 @@
     "Book": "Steampunk 1",
     "Page": "30",
     "Link": "SP1:30"
+  },
+  {
+    "Rule": "Wildcard Powers",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Supers",
+    "Page": "41",
+    "Link": "SU41"
+  },
+  {
+    "Rule": "Wildcard Skills",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Supers",
+    "Page": "36",
+    "Link": "SU36"
   },
   {
     "Rule": "Wilderness Gear",
@@ -26011,6 +28458,16 @@
     "Link": "S74"
   },
   {
+    "Rule": "Worldline Skill Familiarity",
+    "Category": [
+      "Skills",
+      "Reference"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "181",
+    "Link": "IW181"
+  },
+  {
     "Rule": "Worldly Swashbuckler Lens",
     "Category": [
       "Template",
@@ -26124,6 +28581,15 @@
     "Link": "HT238"
   },
   {
+    "Rule": "Wyvern",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "142",
+    "Link": "IW142"
+  },
+  {
     "Rule": "Xenonucleonics Weird Science Style",
     "Category": [
       "Skills",
@@ -26142,6 +28608,15 @@
     "Book": "Bio-Tech",
     "Page": "178",
     "Link": "BT178"
+  },
+  {
+    "Rule": "Yrth (Infinite Worlds)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Infinite Worlds",
+    "Page": "150",
+    "Link": "IW150"
   },
   {
     "Rule": "Yrth Kobolds",
