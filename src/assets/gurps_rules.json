@@ -9,6 +9,26 @@
     "Link": "PW24"
   },
   {
+    "Rule": "A Familiar Path (Familiars)",
+    "Category": [
+      "Creatures",
+      "NPC"
+    ],
+    "Book": "Pyramid #3/75",
+    "Page": "14",
+    "Link": "PY75:14"
+  },
+  {
+    "Rule": "Abilities Enhancing Skills",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "10",
+    "Link": "PES10"
+  },
+  {
     "Rule": "Absorbing Equipment when Shapeshifting",
     "Category": [
       "Traits"
@@ -27,6 +47,15 @@
     "Link": "H33"
   },
   {
+    "Rule": "Academic Communities",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "33",
+    "Link": "SEBS33"
+  },
+  {
     "Rule": "Academic Talent",
     "Category": [
       "Traits"
@@ -36,6 +65,15 @@
     "Link": "PU3:6"
   },
   {
+    "Rule": "Accelerated Learning Advantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "13",
+    "Link": "SEBS13"
+  },
+  {
     "Rule": "Accelerating Movement",
     "Category": [
       "Combat"
@@ -43,6 +81,15 @@
     "Book": "Basic",
     "Page": "395",
     "Link": "B395"
+  },
+  {
+    "Rule": "Accelerometer",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
   },
   {
     "Rule": "Accessibility",
@@ -172,6 +219,16 @@
     "Link": "B371"
   },
   {
+    "Rule": "Actions in Different Gravity",
+    "Category": [
+      "Environment",
+      "Activities"
+    ],
+    "Book": "Basic",
+    "Page": "350",
+    "Link": "B350"
+  },
+  {
     "Rule": "Active Defense",
     "Category": [
       "Limitations"
@@ -199,7 +256,16 @@
     "Link": "B420"
   },
   {
-    "Rule": "Active Sensors Table (Radar Sonar Ladar)",
+    "Rule": "Active Electroreception",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "17",
+    "Link": "PES17"
+  },
+  {
+    "Rule": "Active Sensors Table (Radar, Sonar, Ladar)",
     "Category": [
       "Reference",
       "Gear"
@@ -324,6 +390,16 @@
     "Link": "SP3:40"
   },
   {
+    "Rule": "Adversity Casting Power-Up",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "13",
+    "Link": "PU11:13"
+  },
+  {
     "Rule": "Aerial Scouting and Mapping (Dungeon Fantasy)",
     "Category": [
       "Activities",
@@ -332,6 +408,15 @@
     "Book": "Dungeon Fantasy 16",
     "Page": "27",
     "Link": "DF16:27"
+  },
+  {
+    "Rule": "Affected by Rust Quirk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "46",
+    "Link": "TT2:46"
   },
   {
     "Rule": "Affects Insubstantial",
@@ -864,13 +949,14 @@
     "Link": "SU102"
   },
   {
-    "Rule": "Amenities in Taverns",
+    "Rule": "Ammonia-Based Life Form",
     "Category": [
-      "Resources"
+      "Creatures",
+      "Environment"
     ],
-    "Book": "Dungeon Fantasy 10",
-    "Page": "4",
-    "Link": "DF10:4"
+    "Book": "Template Toolkit 2: Races",
+    "Page": "19",
+    "Link": "TT2:19"
   },
   {
     "Rule": "Ammunition and Warheads",
@@ -939,6 +1025,15 @@
     "Link": "LTIA4"
   },
   {
+    "Rule": "Anabolic Steroids",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "14",
+    "Link": "SEBS14"
+  },
+  {
     "Rule": "Anachronistic Training",
     "Category": [
       "Techniques"
@@ -946,6 +1041,33 @@
     "Book": "Infinite Worlds",
     "Page": "183",
     "Link": "IW183"
+  },
+  {
+    "Rule": "Analytical Hearing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "20",
+    "Link": "PES20"
+  },
+  {
+    "Rule": "Analytical Smell",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "24",
+    "Link": "PES24"
+  },
+  {
+    "Rule": "Analytical Taste",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "24",
+    "Link": "PES24"
   },
   {
     "Rule": "Ancient Super Tech for Reptile Races",
@@ -975,6 +1097,16 @@
     "Book": "High Tech",
     "Page": "224",
     "Link": "HT224"
+  },
+  {
+    "Rule": "Angel",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "27",
+    "Link": "TT4:27"
   },
   {
     "Rule": "Angels and Demons (Dungeon Fantasy)",
@@ -1060,6 +1192,26 @@
     "Book": "Powers: Totems and Nature Spirits",
     "Page": "10",
     "Link": "PTNS10"
+  },
+  {
+    "Rule": "Animated Character Meta-Trait",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "6",
+    "Link": "TT2:6"
+  },
+  {
+    "Rule": "Animator and Cosmic Horror Spirits",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "21",
+    "Link": "TT4:21"
   },
   {
     "Rule": "Anti-Material Bacteria",
@@ -1185,6 +1337,15 @@
     "Link": "DF15:6"
   },
   {
+    "Rule": "Apprentiship and Tutoring",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "31",
+    "Link": "SEBS31"
+  },
+  {
     "Rule": "Arcane Familiar Allies",
     "Category": [
       "Creatures",
@@ -1213,6 +1374,15 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "8",
     "Link": "DF15:8"
+  },
+  {
+    "Rule": "Archer's Trance",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "28",
+    "Link": "PES28"
   },
   {
     "Rule": "Archetype",
@@ -1488,6 +1658,15 @@
     "Link": "MH1:60"
   },
   {
+    "Rule": "Arson (Mysteries)",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mysteries",
+    "Page": "41",
+    "Link": "MYST41"
+  },
+  {
     "Rule": "Arson Tools (Action)",
     "Category": [
       "Gear",
@@ -1635,6 +1814,16 @@
     "Link": "DF12:9"
   },
   {
+    "Rule": "Assembling a Starship Crew",
+    "Category": [
+      "NPC",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "10",
+    "Link": "TT3:10"
+  },
+  {
     "Rule": "Assistance Rolls and Table",
     "Category": [
       "Reference",
@@ -1643,6 +1832,26 @@
     "Book": "Action 1: Heroes",
     "Page": "24",
     "Link": "ACT1:24"
+  },
+  {
+    "Rule": "Astral Crossing Technique (Hard)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "19",
+    "Link": "TT4:19"
+  },
+  {
+    "Rule": "Astral Plane",
+    "Category": [
+      "Setting",
+      "Environment",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "50",
+    "Link": "TT4:50"
   },
   {
     "Rule": "Astral Projection",
@@ -1829,6 +2038,15 @@
     "Book": "Infinite Worlds",
     "Page": "168",
     "Link": "IW168"
+  },
+  {
+    "Rule": "Augmented Pinnae",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "20",
+    "Link": "PES20"
   },
   {
     "Rule": "Aura",
@@ -2195,6 +2413,24 @@
     "Link": "B387"
   },
   {
+    "Rule": "Bad Sight (Low Resolution)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "45",
+    "Link": "TT2:45"
+  },
+  {
+    "Rule": "Balancing Status and Rank",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Social Engineering",
+    "Page": "13",
+    "Link": "SE13"
+  },
+  {
     "Rule": "Bandaging Restores 1 HP",
     "Category": [
       "Injury"
@@ -2456,6 +2692,15 @@
     "Link": "MH1:52"
   },
   {
+    "Rule": "Battle Arc",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "28",
+    "Link": "PES28"
+  },
+  {
     "Rule": "Battlesuits Table",
     "Category": [
       "Reference",
@@ -2568,6 +2813,15 @@
     "Book": "Martial Arts",
     "Page": "67",
     "Link": "MA67"
+  },
+  {
+    "Rule": "Binoculars (Mysteries)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Mysteries",
+    "Page": "113",
+    "Link": "MYST113"
   },
   {
     "Rule": "Biobuildings and Planet-Sized Organisms",
@@ -2991,6 +3245,15 @@
     "Link": "HT164"
   },
   {
+    "Rule": "Blackmail and Espionage",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Social Engineering",
+    "Page": "49",
+    "Link": "SE49"
+  },
+  {
     "Rule": "Black-Powder Fouling",
     "Category": [
       "Gear"
@@ -3129,6 +3392,24 @@
     "Link": "PU8:12"
   },
   {
+    "Rule": "Blood Group Analyzer",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "24",
+    "Link": "PES24"
+  },
+  {
+    "Rule": "Blood Taste",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "24",
+    "Link": "PES24"
+  },
+  {
     "Rule": "Blood Types and Transfusion Rules",
     "Category": [
       "Reference",
@@ -3179,6 +3460,15 @@
     "Link": "SU121"
   },
   {
+    "Rule": "Body Armor (Mysteries)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Mysteries",
+    "Page": "113",
+    "Link": "MYST113"
+  },
+  {
     "Rule": "Body Armor Table",
     "Category": [
       "Reference",
@@ -3226,6 +3516,16 @@
     "Book": "Ultra-Tech",
     "Page": "208",
     "Link": "UT208"
+  },
+  {
+    "Rule": "Body of Swarm",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "12",
+    "Link": "TT2:12"
   },
   {
     "Rule": "Bodysculpting Rules",
@@ -3479,6 +3779,15 @@
     "Link": "PU3:12"
   },
   {
+    "Rule": "Bound by Pentagrams Quirk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "17",
+    "Link": "TT4:17"
+  },
+  {
     "Rule": "Bounty Hunter (Space Template)",
     "Category": [
       "Template"
@@ -3672,6 +3981,15 @@
     "Link": "LTC3:32"
   },
   {
+    "Rule": "Bribery",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Social Engineering",
+    "Page": "48",
+    "Link": "SE48"
+  },
+  {
     "Rule": "Brick",
     "Category": [
       "Template"
@@ -3698,6 +4016,16 @@
     "Book": "Infinite Worlds",
     "Page": "115",
     "Link": "IW115"
+  },
+  {
+    "Rule": "Broker Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "28",
+    "Link": "TT4:28"
   },
   {
     "Rule": "Brown Dwarf Evolution Table",
@@ -3786,6 +4114,15 @@
     "Link": "LTC3:33"
   },
   {
+    "Rule": "Building Trust",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering",
+    "Page": "40",
+    "Link": "SE40"
+  },
+  {
     "Rule": "Bulk Compensation Technique (Psi)",
     "Category": [
       "Supernatural"
@@ -3821,6 +4158,15 @@
     "Book": "Dungeon Fantasy Denizens Thieves",
     "Page": "7",
     "Link": "DFDT7"
+  },
+  {
+    "Rule": "Burglary (Mysteries)",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mysteries",
+    "Page": "42",
+    "Link": "MYST42"
   },
   {
     "Rule": "Burlgar 125 pt Lens",
@@ -3897,6 +4243,15 @@
     "Book": "Infinite Worlds",
     "Page": "195",
     "Link": "IW195"
+  },
+  {
+    "Rule": "Cable Jack",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "8",
+    "Link": "PES8"
   },
   {
     "Rule": "Calculating Escape Velocity of Planets Other Than Earth",
@@ -3981,6 +4336,16 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "54",
     "Link": "MH1:54"
+  },
+  {
+    "Rule": "Cameras (Mysteries)",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "Mysteries",
+    "Page": "113",
+    "Link": "MYST113"
   },
   {
     "Rule": "Cameras and Displays",
@@ -4111,6 +4476,15 @@
     "Link": "LT89"
   },
   {
+    "Rule": "Cannot Learn Techniques for a Default Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "10",
+    "Link": "SEBS10"
+  },
+  {
     "Rule": "Cannot Read Music Quirk",
     "Category": [
       "Attributes",
@@ -4128,6 +4502,15 @@
     "Book": "Magic: The Least of Spells",
     "Page": "6",
     "Link": "MTLOS6"
+  },
+  {
+    "Rule": "Capacitive Mesh",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "18",
+    "Link": "PES18"
   },
   {
     "Rule": "Cardiac Stress",
@@ -4262,6 +4645,26 @@
     "Book": "Basic",
     "Page": "434",
     "Link": "B434"
+  },
+  {
+    "Rule": "Cause Mechanism and Manner of Death",
+    "Category": [
+      "Reference",
+      "Injury"
+    ],
+    "Book": "Mysteries",
+    "Page": "32",
+    "Link": "MYST32"
+  },
+  {
+    "Rule": "Causes of Death",
+    "Category": [
+      "Reference",
+      "Injury"
+    ],
+    "Book": "Mysteries",
+    "Page": "33",
+    "Link": "MYST33"
   },
   {
     "Rule": "Cavalryman (50 pt. Steampunk Template)",
@@ -4557,6 +4960,15 @@
     "Link": "PU3:7"
   },
   {
+    "Rule": "Child (Fantasy Portal Realms)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "18",
+    "Link": "FPR18"
+  },
+  {
     "Rule": "Child Template",
     "Category": [
       "Template",
@@ -4606,6 +5018,26 @@
     "Book": "Horror",
     "Page": "35",
     "Link": "H35"
+  },
+  {
+    "Rule": "Chinese Ghost",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "28",
+    "Link": "TT4:28"
+  },
+  {
+    "Rule": "Chlorine-Based Life Form",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "20",
+    "Link": "TT2:20"
   },
   {
     "Rule": "Choke Hold",
@@ -4662,7 +5094,7 @@
     "Link": "PSIS6"
   },
   {
-    "Rule": "Cinematic Over-the-Top Extra Effort Optional Rules",
+    "Rule": "Cinematic, Over-the-Top Extra Effort Optional Rules",
     "Category": [
       "Combat"
     ],
@@ -4678,6 +5110,15 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "41",
     "Link": "MH1:41"
+  },
+  {
+    "Rule": "Circuit Probe",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
   },
   {
     "Rule": "Circuit Sense Talent",
@@ -5024,6 +5465,24 @@
     "Link": "FFWF13"
   },
   {
+    "Rule": "Coercive Teaching",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "20",
+    "Link": "SEBS20"
+  },
+  {
+    "Rule": "Cognitive Programming (TL10)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "7",
+    "Link": "SEBS7"
+  },
+  {
     "Rule": "Coin Condition",
     "Category": [
       "Currency"
@@ -5173,6 +5632,16 @@
     "Book": "Supers",
     "Page": "110",
     "Link": "SU110"
+  },
+  {
+    "Rule": "Commander",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "4",
+    "Link": "TT3:4"
   },
   {
     "Rule": "Commando",
@@ -5329,6 +5798,25 @@
     "Link": "ACT2:5"
   },
   {
+    "Rule": "Complementary Skills (Social)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering",
+    "Page": "21",
+    "Link": "SE21"
+  },
+  {
+    "Rule": "Complexity-Limited IQ for Infomorphs",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "12",
+    "Link": "TT2:12"
+  },
+  {
     "Rule": "Components of a Magical Style",
     "Category": [
       "Skills",
@@ -5337,6 +5825,15 @@
     "Book": "Thaumatology: Magical Styles",
     "Page": "4",
     "Link": "TMS4"
+  },
+  {
+    "Rule": "Compulsive Behavior (Playfulness)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "33",
+    "Link": "TT2:33"
   },
   {
     "Rule": "Compulsive Snooping Disadvantage",
@@ -5859,6 +6356,15 @@
     "Link": "PU4:8"
   },
   {
+    "Rule": "Cost of Rooms at an Inn",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy 10",
+    "Page": "5",
+    "Link": "DF10:5"
+  },
+  {
     "Rule": "Cost of Talents (Number of Skills vs Point Cost)",
     "Category": [
       "Skills"
@@ -5953,6 +6459,15 @@
     "Link": "B407"
   },
   {
+    "Rule": "Cozy Format",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Mysteries",
+    "Page": "22",
+    "Link": "MYST22"
+  },
+  {
     "Rule": "CPR and Defibrillation Rules",
     "Category": [
       "Combat",
@@ -6029,6 +6544,15 @@
     "Book": "Steampunk 3",
     "Page": "32",
     "Link": "SP3:32"
+  },
+  {
+    "Rule": "Crime Scene Equipment",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Mysteries",
+    "Page": "114",
+    "Link": "MYST114"
   },
   {
     "Rule": "Criminal",
@@ -6250,6 +6774,15 @@
     "Link": "DF15:18"
   },
   {
+    "Rule": "Cultural Adaptability Advantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "13",
+    "Link": "FPR13"
+  },
+  {
     "Rule": "Cultural Chameleon Talent",
     "Category": [
       "Traits"
@@ -6307,6 +6840,15 @@
     "Link": "UT22"
   },
   {
+    "Rule": "Cutaneous Chemical Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "24",
+    "Link": "PES24"
+  },
+  {
     "Rule": "Cutpurse",
     "Category": [
       "Template",
@@ -6324,6 +6866,33 @@
     "Book": "Dungeon Fantasy Denizens Thieves",
     "Page": "8",
     "Link": "DFDT8"
+  },
+  {
+    "Rule": "Cutting Edge Training Perk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "16",
+    "Link": "PU2:16"
+  },
+  {
+    "Rule": "Cutting Edge Training Perk (Back to School)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "13",
+    "Link": "SEBS13"
+  },
+  {
+    "Rule": "Cutting Out Technique (Hard)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Social Engineering",
+    "Page": "81",
+    "Link": "SE81"
   },
   {
     "Rule": "Cybernetic Surgical Procedures Table",
@@ -6461,6 +7030,24 @@
     "Link": "FFE18"
   },
   {
+    "Rule": "Darksense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "28",
+    "Link": "PES28"
+  },
+  {
+    "Rule": "Darksight",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "12",
+    "Link": "PES12"
+  },
+  {
     "Rule": "Daze",
     "Category": [
       "Affliction"
@@ -6562,6 +7149,15 @@
     "Link": "FFE13"
   },
   {
+    "Rule": "Deep Study",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Psionic Powers",
+    "Page": "63",
+    "Link": "PSI63"
+  },
+  {
     "Rule": "Default Skill Rule of 20",
     "Category": [
       "Skills"
@@ -6579,6 +7175,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "4",
     "Link": "PU3:4"
+  },
+  {
+    "Rule": "Defense Attorney (Mysteries)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Mysteries",
+    "Page": "101",
+    "Link": "MYST101"
   },
   {
     "Rule": "Defense in Close Combat",
@@ -6644,6 +7249,16 @@
     "Book": "Martial Arts",
     "Page": "101",
     "Link": "MA101"
+  },
+  {
+    "Rule": "Defensive Sprays and Tasers",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "Mysteries",
+    "Page": "114",
+    "Link": "MYST114"
   },
   {
     "Rule": "Defining Psionic Powers Abilities and PMs",
@@ -6783,6 +7398,16 @@
     "Link": "MH1:49"
   },
   {
+    "Rule": "Demon",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "28",
+    "Link": "TT4:28"
+  },
+  {
     "Rule": "Demonic Critical Spell Failure Table",
     "Category": [
       "Reference",
@@ -6903,6 +7528,26 @@
     "Link": "IW191"
   },
   {
+    "Rule": "Densities of Materials Table",
+    "Category": [
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "19",
+    "Link": "TT2:19"
+  },
+  {
+    "Rule": "Density Table",
+    "Category": [
+      "Reference",
+      "Creatures"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "18",
+    "Link": "TT2:18"
+  },
+  {
     "Rule": "Designing a Stardrive",
     "Category": [
       "Setting"
@@ -6967,6 +7612,16 @@
     "Link": "UT209"
   },
   {
+    "Rule": "Detecting Lies",
+    "Category": [
+      "Skills",
+      "Reference"
+    ],
+    "Book": "Mysteries",
+    "Page": "55",
+    "Link": "MYST55"
+  },
+  {
     "Rule": "Detective (150 pt. Steampunk Template)",
     "Category": [
       "Template"
@@ -7001,6 +7656,15 @@
     "Book": "Dungeon Fantasy 9",
     "Page": "33",
     "Link": "DF9:33"
+  },
+  {
+    "Rule": "Devotion Power Modifier",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "35",
+    "Link": "TT4:35"
   },
   {
     "Rule": "Devotion Talent",
@@ -7040,6 +7704,15 @@
     "Link": "BT213"
   },
   {
+    "Rule": "Diagnostic Scan",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "29",
+    "Link": "PES29"
+  },
+  {
     "Rule": "Diana Racial Template (TL9)",
     "Category": [
       "Template",
@@ -7057,6 +7730,15 @@
     "Book": "Pyramid #3/78",
     "Page": "14",
     "Link": "PY78:14"
+  },
+  {
+    "Rule": "Different Gravity",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "350",
+    "Link": "B350"
   },
   {
     "Rule": "Digestive Agent",
@@ -7187,6 +7869,16 @@
     "Link": "HT98"
   },
   {
+    "Rule": "Dispersed Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "22",
+    "Link": "TT4:22"
+  },
+  {
     "Rule": "Dissipating Held Melee and Missile Spells",
     "Category": [
       "Magic"
@@ -7309,6 +8001,16 @@
     "Book": "Infinite Worlds",
     "Page": "120",
     "Link": "IW120"
+  },
+  {
+    "Rule": "Djinni",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "28",
+    "Link": "TT4:28"
   },
   {
     "Rule": "DNA Testing Procedures",
@@ -7669,6 +8371,15 @@
     "Link": "PSI73"
   },
   {
+    "Rule": "Dream Rehearsal Technique (Hard)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "16",
+    "Link": "SEBS16"
+  },
+  {
     "Rule": "Dream Technology",
     "Category": [
       "Supernatural",
@@ -7677,6 +8388,17 @@
     "Book": "Psi-Tech",
     "Page": "19",
     "Link": "PT19"
+  },
+  {
+    "Rule": "Dream World",
+    "Category": [
+      "Setting",
+      "Environment",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "51",
+    "Link": "TT4:51"
   },
   {
     "Rule": "Dreaming Skill (Psi Resistance)",
@@ -7706,6 +8428,15 @@
     "Book": "Basic",
     "Page": "105",
     "Link": "B105"
+  },
+  {
+    "Rule": "Drilling",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "32",
+    "Link": "SEBS32"
   },
   {
     "Rule": "Drilling Double-Barrelled Shotgun",
@@ -8061,6 +8792,15 @@
     "Link": "MH1:41"
   },
   {
+    "Rule": "Eagle Eyes (Enhanced Senses)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "13",
+    "Link": "PES13"
+  },
+  {
     "Rule": "Early Maturation",
     "Category": [
       "Traits"
@@ -8414,6 +9154,55 @@
     "Link": "HTEE6"
   },
   {
+    "Rule": "Elemental Bodies (Air, Earth, Fire, Ice, Metal)",
+    "Category": [
+      "Magic",
+      "Creatures"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "20",
+    "Link": "TT2:20"
+  },
+  {
+    "Rule": "Elemental Bodies (Electricity, Light, Sound)",
+    "Category": [
+      "Magic",
+      "Creatures"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "21",
+    "Link": "TT2:21"
+  },
+  {
+    "Rule": "Elemental Bodies (Stone, Water, Wood)",
+    "Category": [
+      "Magic",
+      "Creatures"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "21",
+    "Link": "TT2:21"
+  },
+  {
+    "Rule": "Elemental Power Modifier (as it applies to Machines)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers",
+    "Page": "27",
+    "Link": "P27"
+  },
+  {
+    "Rule": "Elemental Templates",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "22",
+    "Link": "TT4:22"
+  },
+  {
     "Rule": "Elementalist Gear",
     "Category": [
       "Gear"
@@ -8458,6 +9247,16 @@
     "Book": "Dungeon Fantasy 9",
     "Page": "26",
     "Link": "DF9:26"
+  },
+  {
+    "Rule": "Elite Experienced and Seasoned Spirits",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "20",
+    "Link": "TT4:20"
   },
   {
     "Rule": "Elven Animal Companions",
@@ -8560,6 +9359,16 @@
     "Book": "Basic",
     "Page": "112",
     "Link": "B112"
+  },
+  {
+    "Rule": "Embodied Spirit Templates",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "23",
+    "Link": "TT4:23"
   },
   {
     "Rule": "Emergencies Only",
@@ -8697,6 +9506,16 @@
     "Link": "HTEE48"
   },
   {
+    "Rule": "Encumbrance and Move in Different Gravity",
+    "Category": [
+      "Environment",
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "350",
+    "Link": "B350"
+  },
+  {
     "Rule": "Energy Reserve (Powers)",
     "Category": [
       "Magic",
@@ -8736,6 +9555,16 @@
     "Link": "M178"
   },
   {
+    "Rule": "Engineer",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "6",
+    "Link": "TT3:6"
+  },
+  {
     "Rule": "Engineer (100 pt. Steampunk Template)",
     "Category": [
       "Template"
@@ -8752,6 +9581,16 @@
     "Book": "Action 1: Heroes",
     "Page": "18",
     "Link": "ACT1:18"
+  },
+  {
+    "Rule": "Enhanced Dodge (Piloting)",
+    "Category": [
+      "Traits",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "5",
+    "Link": "TT3:5"
   },
   {
     "Rule": "Enhanced Ground Move",
@@ -8771,6 +9610,15 @@
     "Book": "Psionic Powers",
     "Page": "18",
     "Link": "PSI18"
+  },
+  {
+    "Rule": "Enhanced Reality",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "29",
+    "Link": "PES29"
   },
   {
     "Rule": "Enhanced Speed",
@@ -9256,6 +10104,36 @@
     "Link": "MA100"
   },
   {
+    "Rule": "Everyman Advantages (Space)",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "3",
+    "Link": "TT3:3"
+  },
+  {
+    "Rule": "Everyman Disadvantages (Space)",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "3",
+    "Link": "TT3:3"
+  },
+  {
+    "Rule": "Everyman Skills (Space)",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "4",
+    "Link": "TT3:4"
+  },
+  {
     "Rule": "Evil Cleric (PC Class)",
     "Category": [
       "Template"
@@ -9358,6 +10236,24 @@
     "Link": "HT103"
   },
   {
+    "Rule": "Expanded Influence and Reaction Rules",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mysteries",
+    "Page": "53",
+    "Link": "MYST53"
+  },
+  {
+    "Rule": "Expanded Influence Rolls",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering",
+    "Page": "31",
+    "Link": "SE31"
+  },
+  {
     "Rule": "Expatriate (Infinite Worlds)",
     "Category": [
       "Template"
@@ -9406,6 +10302,15 @@
     "Link": "PSIS13"
   },
   {
+    "Rule": "Expert Skill (Bardic Lore)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "23",
+    "Link": "SEBS23"
+  },
+  {
     "Rule": "Expert Skill (Cliodynamics)",
     "Category": [
       "Skills"
@@ -9450,6 +10355,15 @@
     "Book": "Steampunk 3",
     "Page": "71",
     "Link": "SP3:71"
+  },
+  {
+    "Rule": "Explorer (Fantasy Portal Realms)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "19",
+    "Link": "FPR19"
   },
   {
     "Rule": "Explorer (Space Template)",
@@ -9664,6 +10578,24 @@
     "Link": "B434"
   },
   {
+    "Rule": "Extreme Ultrasonic Hearing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "22",
+    "Link": "PES22"
+  },
+  {
+    "Rule": "Eye Protection",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "14",
+    "Link": "PES14"
+  },
+  {
     "Rule": "Eyeglasses TL5",
     "Category": [
       "Gear"
@@ -9710,6 +10642,16 @@
     "Link": "B387"
   },
   {
+    "Rule": "Faerie",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "29",
+    "Link": "TT4:29"
+  },
+  {
     "Rule": "Falling Damage",
     "Category": [
       "Physical Act",
@@ -9718,6 +10660,55 @@
     "Book": "Basic",
     "Page": "430",
     "Link": "B430"
+  },
+  {
+    "Rule": "Familiar (as a Dungeon Fantasy Power-Up)",
+    "Category": [
+      "Creatures",
+      "NPC"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "14",
+    "Link": "PU11:14"
+  },
+  {
+    "Rule": "Familiar and Familiar Master Meta-Traits",
+    "Category": [
+      "Creatures",
+      "NPC",
+      "Traits"
+    ],
+    "Book": "Pyramid #3/75",
+    "Page": "15",
+    "Link": "PY75:15"
+  },
+  {
+    "Rule": "Familiar Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "39",
+    "Link": "TT4:39"
+  },
+  {
+    "Rule": "Familiarities",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "10",
+    "Link": "SEBS10"
+  },
+  {
+    "Rule": "Familiarity",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "169",
+    "Link": "B169"
   },
   {
     "Rule": "Familiarity",
@@ -9756,6 +10747,15 @@
     "Book": "Martial Arts: Yrth Fighting Styles",
     "Page": "24",
     "Link": "MAYFS24"
+  },
+  {
+    "Rule": "Farsight",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "13",
+    "Link": "PES13"
   },
   {
     "Rule": "Fashion Sense in Steam Age Games",
@@ -9860,6 +10860,15 @@
     "Book": "Bio-Tech",
     "Page": "73",
     "Link": "BT73"
+  },
+  {
+    "Rule": "Feelers (Enhanced Senses)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "22",
+    "Link": "PES22"
   },
   {
     "Rule": "Feint Maneuver",
@@ -9971,6 +10980,15 @@
     "Link": "SP3:54"
   },
   {
+    "Rule": "Fields of View and Extra Eyes",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "16",
+    "Link": "PES16"
+  },
+  {
     "Rule": "Fifty-Foot Ape",
     "Category": [
       "Template"
@@ -10009,6 +11027,16 @@
     "Link": "MA83"
   },
   {
+    "Rule": "Fillip",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "29",
+    "Link": "TT4:29"
+  },
+  {
     "Rule": "Finding Disarming and Rearming Traps",
     "Category": [
       "Activities",
@@ -10026,6 +11054,15 @@
     "Book": "Dungeon Fantasy 7",
     "Page": "16",
     "Link": "DF7:16"
+  },
+  {
+    "Rule": "Fire Marshal",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Mysteries",
+    "Page": "102",
+    "Link": "MYST102"
   },
   {
     "Rule": "Fire Spells College",
@@ -10119,6 +11156,15 @@
     "Book": "Infinite Worlds",
     "Page": "199",
     "Link": "IW199"
+  },
+  {
+    "Rule": "Firearms (Mysteries)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Mysteries",
+    "Page": "115",
+    "Link": "MYST115"
   },
   {
     "Rule": "Firearms and Explosives (Post-Apocalyptic)",
@@ -10333,6 +11379,15 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "63",
     "Link": "MH1:63"
+  },
+  {
+    "Rule": "Flashlights (Mysteries)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Mysteries",
+    "Page": "116",
+    "Link": "MYST116"
   },
   {
     "Rule": "Flechette Rifle",
@@ -10666,6 +11721,15 @@
     "Link": "FFE21"
   },
   {
+    "Rule": "Formal Instruction",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "4",
+    "Link": "SEBS4"
+  },
+  {
     "Rule": "Four-Color Combat",
     "Category": [
       "Combat"
@@ -10823,6 +11887,15 @@
     "Book": "Basic",
     "Page": "360",
     "Link": "B360"
+  },
+  {
+    "Rule": "From Perception to Destruction",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "9",
+    "Link": "PES9"
   },
   {
     "Rule": "FTL Communications Overview",
@@ -11048,6 +12121,15 @@
     "Link": "DF8:19"
   },
   {
+    "Rule": "Gene Sequencer",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "25",
+    "Link": "PES25"
+  },
+  {
     "Rule": "General Injury and Lost HP",
     "Category": [
       "Injury"
@@ -11086,7 +12168,7 @@
     "Link": "S37"
   },
   {
-    "Rule": "Generators Table (Fission Fusion Antimatter)",
+    "Rule": "Generators Table (Fission, Fusion, Antimatter)",
     "Category": [
       "Reference",
       "Gear"
@@ -11094,6 +12176,15 @@
     "Book": "Ultra-Tech",
     "Page": "20",
     "Link": "UT20"
+  },
+  {
+    "Rule": "Genescan",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "25",
+    "Link": "PES25"
   },
   {
     "Rule": "Genetic Engineering in Play (Procedures/Costs)",
@@ -11352,6 +12443,15 @@
     "Link": "DF15:37"
   },
   {
+    "Rule": "Genius Detective",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Mysteries",
+    "Page": "103",
+    "Link": "MYST103"
+  },
+  {
     "Rule": "Gentleperson of Leisure (100 pt. Steampunk Template)",
     "Category": [
       "Template"
@@ -11425,6 +12525,26 @@
     "Book": "Horror",
     "Page": "78",
     "Link": "H78"
+  },
+  {
+    "Rule": "Ghost and Hungry Ghost",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "29",
+    "Link": "TT4:29"
+  },
+  {
+    "Rule": "Ghost Blaster",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "14",
+    "Link": "PU11:14"
   },
   {
     "Rule": "Ghost Weapon",
@@ -11632,6 +12752,15 @@
     "Book": "Thaumatology: Urban Magics",
     "Page": "13",
     "Link": "TUM13"
+  },
+  {
+    "Rule": "Glare Adaptation",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "14",
+    "Link": "PES14"
   },
   {
     "Rule": "Glassmaking",
@@ -11880,6 +13009,15 @@
     "Link": "DF7:17"
   },
   {
+    "Rule": "Going Viral Technique (Hard)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Social Engineering",
+    "Page": "81",
+    "Link": "SE81"
+  },
+  {
     "Rule": "Goldilocks Gear",
     "Category": [
       "Traits",
@@ -11898,6 +13036,15 @@
     "Book": "Low Tech",
     "Page": "91",
     "Link": "LT91"
+  },
+  {
+    "Rule": "Good Grip",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "44",
+    "Link": "TT2:44"
   },
   {
     "Rule": "Good Old-Fashioned AI Weird Science Style",
@@ -11964,6 +13111,36 @@
     "Book": "Ultra-Tech",
     "Page": "229",
     "Link": "UT229"
+  },
+  {
+    "Rule": "Gravimetry",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
+  },
+  {
+    "Rule": "Gravity Increments and Attribute Penalties",
+    "Category": [
+      "Environment",
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "350",
+    "Link": "B350"
+  },
+  {
+    "Rule": "Gravity Table for Creature SM Rating",
+    "Category": [
+      "Reference",
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "16",
+    "Link": "TT2:16"
   },
   {
     "Rule": "Great Lunge",
@@ -12342,6 +13519,17 @@
     "Link": "S87"
   },
   {
+    "Rule": "Habitats: Atmosphere and Gravity",
+    "Category": [
+      "Creatures",
+      "Attributes",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "15",
+    "Link": "TT2:15"
+  },
+  {
     "Rule": "Hacker",
     "Category": [
       "Template"
@@ -12358,6 +13546,15 @@
     "Book": "Dungeon Fantasy 2",
     "Page": "14",
     "Link": "DF2:14"
+  },
+  {
+    "Rule": "Haggling with Merchants",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering",
+    "Page": "27",
+    "Link": "SE27"
   },
   {
     "Rule": "Halberd and Fang Martial Arts Style",
@@ -12454,6 +13651,25 @@
     "Link": "HT192"
   },
   {
+    "Rule": "Handcuffing",
+    "Category": [
+      "Techniques",
+      "Combat"
+    ],
+    "Book": "Mysteries",
+    "Page": "112",
+    "Link": "MYST112"
+  },
+  {
+    "Rule": "Handcuffs (Mysteries)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Mysteries",
+    "Page": "116",
+    "Link": "MYST116"
+  },
+  {
     "Rule": "Handling a Firearm",
     "Category": [
       "Weapons"
@@ -12508,6 +13724,24 @@
     "Book": "Power-Ups 8: Limitations",
     "Page": "14",
     "Link": "PU8:14"
+  },
+  {
+    "Rule": "Hard-Boiled Detective",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Mysteries",
+    "Page": "103",
+    "Link": "MYST103"
+  },
+  {
+    "Rule": "Hard-Boiled Format",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Mysteries",
+    "Page": "22",
+    "Link": "MYST22"
   },
   {
     "Rule": "Hard-Wired Programs Rules",
@@ -12678,12 +13912,31 @@
   {
     "Rule": "Hearing Distance Table",
     "Category": [
+      "Environment",
+      "Activities"
+    ],
+    "Book": "Basic",
+    "Page": "358",
+    "Link": "B358"
+  },
+  {
+    "Rule": "Hearing Distance Table",
+    "Category": [
       "Reference",
       "Physical Act"
     ],
     "Book": "High Tech",
     "Page": "158",
     "Link": "HT158"
+  },
+  {
+    "Rule": "Hearing in Tunnels",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "22",
+    "Link": "PES22"
   },
   {
     "Rule": "Hearing Shots",
@@ -12745,6 +13998,16 @@
     "Link": "BT66"
   },
   {
+    "Rule": "Helium-Based Life Form",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "19",
+    "Link": "TT2:19"
+  },
+  {
     "Rule": "Hell Worlds (Infinite Worlds)",
     "Category": [
       "Setting"
@@ -12761,6 +14024,16 @@
     "Book": "Low Tech Instant Armor",
     "Page": "18",
     "Link": "LTIA18"
+  },
+  {
+    "Rule": "Helmsman",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "4",
+    "Link": "TT3:4"
   },
   {
     "Rule": "Helot Racial Template (TL10)",
@@ -12838,6 +14111,15 @@
     "Book": "Powers: The Weird",
     "Page": "27",
     "Link": "PW27"
+  },
+  {
+    "Rule": "HF/DF",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "11",
+    "Link": "PES11"
   },
   {
     "Rule": "Hidden Lore (Gates)",
@@ -12950,6 +14232,16 @@
     "Link": "DF20:15"
   },
   {
+    "Rule": "Higher Purpose (Starship Crew)",
+    "Category": [
+      "Skills",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "7",
+    "Link": "TT3:7"
+  },
+  {
     "Rule": "Higher Purpose in Monster Hunters",
     "Category": [
       "Traits"
@@ -12976,6 +14268,15 @@
     "Book": "Basic",
     "Page": "351",
     "Link": "B351"
+  },
+  {
+    "Rule": "Hinting Technique (Hard)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Social Engineering",
+    "Page": "81",
+    "Link": "SE81"
   },
   {
     "Rule": "Hired Gun",
@@ -13031,6 +14332,17 @@
     "Book": "Basic",
     "Page": "398",
     "Link": "B398"
+  },
+  {
+    "Rule": "Hit Locations for Other Types of Creatures Table",
+    "Category": [
+      "Reference",
+      "Creatures",
+      "Attributes"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "10",
+    "Link": "TT2:10"
   },
   {
     "Rule": "Hitting the Wrong Target",
@@ -13327,6 +14639,15 @@
     "Link": "UT227"
   },
   {
+    "Rule": "How Fast Can You Read?",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "23",
+    "Link": "PES23"
+  },
+  {
     "Rule": "HP Ammo",
     "Category": [
       "Enhancements"
@@ -13404,6 +14725,15 @@
     "Link": "LT3:5"
   },
   {
+    "Rule": "Hunting Sonar",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "19",
+    "Link": "PES19"
+  },
+  {
     "Rule": "Hurting Yourself",
     "Category": [
       "Combat"
@@ -13411,6 +14741,25 @@
     "Book": "Basic",
     "Page": "379",
     "Link": "B379"
+  },
+  {
+    "Rule": "Hydrogen-Based Life Form",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "19",
+    "Link": "TT2:19"
+  },
+  {
+    "Rule": "Hydrophony",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "21",
+    "Link": "PES21"
   },
   {
     "Rule": "Hygience in Cities",
@@ -13429,6 +14778,16 @@
     "Book": "Space",
     "Page": "37",
     "Link": "S37"
+  },
+  {
+    "Rule": "Hypersensory",
+    "Category": [
+      "Enhancements",
+      "Limitations"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "8",
+    "Link": "PES8"
   },
   {
     "Rule": "Hyperspace",
@@ -13489,6 +14848,16 @@
     "Link": "DFM1:20"
   },
   {
+    "Rule": "Identifying a Body",
+    "Category": [
+      "Reference",
+      "Injury"
+    ],
+    "Book": "Mysteries",
+    "Page": "37",
+    "Link": "MYST37"
+  },
+  {
     "Rule": "Identifying and Determining Value of Loot",
     "Category": [
       "Gear",
@@ -13518,6 +14887,33 @@
     "Link": "HTEE22"
   },
   {
+    "Rule": "Illumination",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "16",
+    "Link": "TT2:16"
+  },
+  {
+    "Rule": "Illumination (Enhanced Senses)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
+  },
+  {
+    "Rule": "Illumination Levels",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "13",
+    "Link": "PES13"
+  },
+  {
     "Rule": "Illumination Levels Table",
     "Category": [
       "Reference",
@@ -13526,6 +14922,16 @@
     "Book": "High-Tech: Electricity and Electronics",
     "Page": "20",
     "Link": "HTEE20"
+  },
+  {
+    "Rule": "Illumination Table",
+    "Category": [
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "17",
+    "Link": "TT2:17"
   },
   {
     "Rule": "Illusion and Creation Spells College",
@@ -13545,6 +14951,15 @@
     "Book": "Thaumatology",
     "Page": "258",
     "Link": "T258"
+  },
+  {
+    "Rule": "Imaging Sonar",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "19",
+    "Link": "PES19"
   },
   {
     "Rule": "Imbue Advantage",
@@ -13577,6 +14992,16 @@
     "Link": "PU1:14"
   },
   {
+    "Rule": "Imbuing Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "24",
+    "Link": "TT4:24"
+  },
+  {
     "Rule": "Immediate Action Technique",
     "Category": [
       "Techniques"
@@ -13593,6 +15018,15 @@
     "Book": "Power-Ups 8: Limitations",
     "Page": "14",
     "Link": "PU8:14"
+  },
+  {
+    "Rule": "Immune Spectrum Detection",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "25",
+    "Link": "PES25"
   },
   {
     "Rule": "Imperium Logos",
@@ -13875,6 +15309,24 @@
     "Link": "MA119"
   },
   {
+    "Rule": "Influence from Formal Leadership",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering",
+    "Page": "34",
+    "Link": "SE34"
+  },
+  {
+    "Rule": "Influence from Leaderless Groups",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering",
+    "Page": "33",
+    "Link": "SE33"
+  },
+  {
     "Rule": "Informal",
     "Category": [
       "Limitations"
@@ -13882,6 +15334,15 @@
     "Book": "Power-Ups 8: Limitations",
     "Page": "15",
     "Link": "PU8:15"
+  },
+  {
+    "Rule": "Informants",
+    "Category": [
+      "NPC"
+    ],
+    "Book": "Social Engineering",
+    "Page": "23",
+    "Link": "SE23"
   },
   {
     "Rule": "Information Gained from Detected Spacecraft",
@@ -13910,6 +15371,34 @@
     "Book": "High Tech",
     "Page": "17",
     "Link": "HT17"
+  },
+  {
+    "Rule": "Informorphs",
+    "Category": [
+      "Electronics",
+      "Creatures"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "7",
+    "Link": "TT2:7"
+  },
+  {
+    "Rule": "Infrared Sight",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "14",
+    "Link": "PES14"
+  },
+  {
+    "Rule": "Infrasonic Hearing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "20",
+    "Link": "PES20"
   },
   {
     "Rule": "Inhuman",
@@ -13989,6 +15478,15 @@
     "Link": "B61"
   },
   {
+    "Rule": "Inner Awareness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "25",
+    "Link": "PES25"
+  },
+  {
     "Rule": "Inner Balance Talent",
     "Category": [
       "Traits"
@@ -14034,6 +15532,24 @@
     "Link": "B423"
   },
   {
+    "Rule": "Instaskill Nano (TL12)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "7",
+    "Link": "SEBS7"
+  },
+  {
+    "Rule": "Instruction Methods",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "31",
+    "Link": "SEBS31"
+  },
+  {
     "Rule": "Insubstantial Only",
     "Category": [
       "Limitations"
@@ -14061,6 +15577,24 @@
     "Book": "Action 1: Heroes",
     "Page": "4",
     "Link": "ACT1:4"
+  },
+  {
+    "Rule": "Intensive Training",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "5",
+    "Link": "SEBS5"
+  },
+  {
+    "Rule": "Internal Magnetometer",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "18",
+    "Link": "PES18"
   },
   {
     "Rule": "Interrogation and Brainwashing Devices",
@@ -14118,6 +15652,16 @@
     "Link": "PU3:11"
   },
   {
+    "Rule": "Inventing Spells in Mana-Based Magic",
+    "Category": [
+      "Magic",
+      "Skills"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "31",
+    "Link": "FPR31"
+  },
+  {
     "Rule": "Invention (Supers)",
     "Category": [
       "Traits",
@@ -14126,6 +15670,25 @@
     "Book": "Supers",
     "Page": "111",
     "Link": "SU111"
+  },
+  {
+    "Rule": "Investigating Mage",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Mysteries",
+    "Page": "104",
+    "Link": "MYST104"
+  },
+  {
+    "Rule": "Investigations Using Magic",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Mysteries",
+    "Page": "84",
+    "Link": "MYST84"
   },
   {
     "Rule": "Investigator",
@@ -14176,6 +15739,25 @@
     "Book": "Magical Styles: Dungeon Magic",
     "Page": "34",
     "Link": "MSDM34"
+  },
+  {
+    "Rule": "Iron-Based Life Form",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "20",
+    "Link": "TT2:20"
+  },
+  {
+    "Rule": "Irony Technique (Hard)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Social Engineering",
+    "Page": "81",
+    "Link": "SE81"
   },
   {
     "Rule": "Ishtar Racial Template (TL9)",
@@ -14406,6 +15988,15 @@
     "Book": "Martial Arts",
     "Page": "75",
     "Link": "MA75"
+  },
+  {
+    "Rule": "Kidnapping and Blackmail",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mysteries",
+    "Page": "43",
+    "Link": "MYST43"
   },
   {
     "Rule": "Killer",
@@ -14654,6 +16245,15 @@
     "Link": "MH1:55"
   },
   {
+    "Rule": "Ladar Implants",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "14",
+    "Link": "PES14"
+  },
+  {
     "Rule": "Land Conveyances Table TL5 to TL8",
     "Category": [
       "Reference",
@@ -14747,6 +16347,33 @@
     "Link": "B411"
   },
   {
+    "Rule": "Laser Microphone",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "14",
+    "Link": "PES14"
+  },
+  {
+    "Rule": "Laser Spectrometry",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "14",
+    "Link": "PES14"
+  },
+  {
+    "Rule": "Laser Targeting",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "14",
+    "Link": "PES14"
+  },
+  {
     "Rule": "Laser Weapons",
     "Category": [
       "Weapons"
@@ -14783,6 +16410,15 @@
     "Book": "Supers",
     "Page": "113",
     "Link": "SU113"
+  },
+  {
+    "Rule": "Lateral Line (Side Sensory Organs)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "22",
+    "Link": "PES22"
   },
   {
     "Rule": "Law and Justice (Space Setting)",
@@ -14861,6 +16497,15 @@
     "Link": "PDF6"
   },
   {
+    "Rule": "Learning and Realism",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "6",
+    "Link": "SEBS6"
+  },
+  {
     "Rule": "Learning from Books",
     "Category": [
       "Activities",
@@ -14869,6 +16514,16 @@
     "Book": "Low Tech Companion 1",
     "Page": "29",
     "Link": "LTC1:29"
+  },
+  {
+    "Rule": "Learning Magic as Powers",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "32",
+    "Link": "FPR32"
   },
   {
     "Rule": "Learning New Skills",
@@ -14887,6 +16542,15 @@
     "Book": "Martial Arts",
     "Page": "146",
     "Link": "MA146"
+  },
+  {
+    "Rule": "Learning on the Job",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "4",
+    "Link": "SEBS4"
   },
   {
     "Rule": "Leech Advantage",
@@ -14925,6 +16589,15 @@
     "Book": "Ultra-Tech",
     "Page": "14",
     "Link": "UT14"
+  },
+  {
+    "Rule": "Legendary Teaching Technique (Hard)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "24",
+    "Link": "SEBS24"
   },
   {
     "Rule": "Lenin-1 (Infinite Worlds)",
@@ -14991,6 +16664,15 @@
     "Link": "DFM1:23"
   },
   {
+    "Rule": "Lies with Acting and Fast-Talk",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering",
+    "Page": "36",
+    "Link": "SE36"
+  },
+  {
     "Rule": "Life Support Systems (Space)",
     "Category": [
       "Vehicles",
@@ -15047,6 +16729,15 @@
     "Book": "Supers",
     "Page": "101",
     "Link": "SU101"
+  },
+  {
+    "Rule": "Light Amplification",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "15",
+    "Link": "PES15"
   },
   {
     "Rule": "Light and Darkness Spells College",
@@ -15183,6 +16874,15 @@
     "Link": "B112"
   },
   {
+    "Rule": "Linguistics",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "16",
+    "Link": "SEBS16"
+  },
+  {
     "Rule": "Link",
     "Category": [
       "Enhancements"
@@ -15199,6 +16899,43 @@
     "Book": "Fantasy Folk: The Reptilian Races",
     "Page": "13",
     "Link": "FFRR13"
+  },
+  {
+    "Rule": "Loadmaster",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "8",
+    "Link": "TT3:8"
+  },
+  {
+    "Rule": "Locational Hearing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "20",
+    "Link": "PES20"
+  },
+  {
+    "Rule": "Long Feelers",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "23",
+    "Link": "PES23"
+  },
+  {
+    "Rule": "Long Sense Organs",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "9",
+    "Link": "PES9"
   },
   {
     "Rule": "Long Weapons in Close Combat",
@@ -15230,6 +16967,15 @@
     "Link": "PU4:15"
   },
   {
+    "Rule": "Long-Range Smell",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
+  },
+  {
     "Rule": "Longsword Fighting Style",
     "Category": [
       "Combat",
@@ -15248,6 +16994,15 @@
     "Book": "Basic",
     "Page": "419",
     "Link": "B419"
+  },
+  {
+    "Rule": "Loudness Levels",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "21",
+    "Link": "PES21"
   },
   {
     "Rule": "Low and Very-Low-Res Mind Copies",
@@ -15276,6 +17031,15 @@
     "Book": "Power-Ups 4: Enhancements",
     "Page": "15",
     "Link": "PU4:15"
+  },
+  {
+    "Rule": "Low Resolution",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "12",
+    "Link": "PES12"
   },
   {
     "Rule": "Low Signature",
@@ -15399,6 +17163,17 @@
     "Book": "Monster Hunters Power-Ups 1",
     "Page": "19",
     "Link": "MHPU1:19"
+  },
+  {
+    "Rule": "Machine Meta-Trait",
+    "Category": [
+      "Mechanism",
+      "Electronics",
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "9",
+    "Link": "TT2:9"
   },
   {
     "Rule": "Machine Minds and Empathy",
@@ -15565,6 +17340,15 @@
     "Link": "DF20:11"
   },
   {
+    "Rule": "Mage-to-Be (Fantasy Portal Realms)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "20",
+    "Link": "FPR20"
+  },
+  {
     "Rule": "Magic and Enchanted Items",
     "Category": [
       "Magic",
@@ -15725,6 +17509,16 @@
     "Link": "TMS20"
   },
   {
+    "Rule": "Magical Trace Evidence",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Mysteries",
+    "Page": "84",
+    "Link": "MYST84"
+  },
+  {
     "Rule": "Magical Workspace Kits",
     "Category": [
       "Gear",
@@ -15742,6 +17536,26 @@
     "Book": "Steampunk 3",
     "Page": "72",
     "Link": "SP3:72"
+  },
+  {
+    "Rule": "Magivores (Organisms that Consume Magic)",
+    "Category": [
+      "Magic",
+      "Creatures"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "26",
+    "Link": "TT2:26"
+  },
+  {
+    "Rule": "Magma Life Form",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "20",
+    "Link": "TT2:20"
   },
   {
     "Rule": "Magnetic",
@@ -15763,6 +17577,24 @@
     "Link": "S34"
   },
   {
+    "Rule": "Magnetic Field Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "18",
+    "Link": "PES18"
+  },
+  {
+    "Rule": "Magnetism Detection",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "18",
+    "Link": "PES18"
+  },
+  {
     "Rule": "Magnets",
     "Category": [
       "Material"
@@ -15770,6 +17602,15 @@
     "Book": "Fantasy Tech 1",
     "Page": "24",
     "Link": "FT1:24"
+  },
+  {
+    "Rule": "Magnifiers (Enhanced Senses)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "15",
+    "Link": "PES15"
   },
   {
     "Rule": "Maintaining Gadgets (Ultra-Tech)",
@@ -15807,6 +17648,15 @@
     "Book": "Dungeon Fantasy 16",
     "Page": "45",
     "Link": "DF16:45"
+  },
+  {
+    "Rule": "Making an Impression Charisma and Appearance",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Social Engineering",
+    "Page": "18",
+    "Link": "SE18"
   },
   {
     "Rule": "Making and Breaking Spells College",
@@ -15902,6 +17752,16 @@
     "Link": "CS6"
   },
   {
+    "Rule": "Mana and the Environment",
+    "Category": [
+      "Magic",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "16",
+    "Link": "TT2:16"
+  },
+  {
     "Rule": "Mana Levels (Magic)",
     "Category": [
       "Magic",
@@ -15978,6 +17838,16 @@
     "Link": "DFM3:14"
   },
   {
+    "Rule": "Mantle Spirits",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "30",
+    "Link": "TT4:30"
+  },
+  {
     "Rule": "Manufacturing",
     "Category": [
       "Professions"
@@ -16039,6 +17909,15 @@
     "Book": "Dungeon Fantasy 11",
     "Page": "29",
     "Link": "DF11:29"
+  },
+  {
+    "Rule": "Mass Perception",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
   },
   {
     "Rule": "Massive Stars Table",
@@ -16254,6 +18133,15 @@
     "Link": "BT125"
   },
   {
+    "Rule": "Medical Examiner (Mysteries)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Mysteries",
+    "Page": "104",
+    "Link": "MYST104"
+  },
+  {
     "Rule": "Medical Gear Table (Ultra-Tech)",
     "Category": [
       "Reference",
@@ -16272,6 +18160,16 @@
     "Book": "Bio-Tech",
     "Page": "127",
     "Link": "BT127"
+  },
+  {
+    "Rule": "Medical Officer",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "7",
+    "Link": "TT3:7"
   },
   {
     "Rule": "Medical Supplies",
@@ -16346,6 +18244,15 @@
     "Book": "Dungeon Fantasy Monsters 3",
     "Page": "15",
     "Link": "DFM3:15"
+  },
+  {
+    "Rule": "Megahertz Sonar",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "8",
+    "Link": "PES8"
   },
   {
     "Rule": "Megastructures and Artificial Structures",
@@ -16471,6 +18378,15 @@
     "Link": "PU3:12"
   },
   {
+    "Rule": "Memory Palace Technique (Average)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "16",
+    "Link": "SEBS16"
+  },
+  {
     "Rule": "Memory Wipe",
     "Category": [
       "Affliction"
@@ -16478,6 +18394,16 @@
     "Book": "Horror",
     "Page": "12",
     "Link": "H12"
+  },
+  {
+    "Rule": "Memory: What Does a Witness Recall?",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Mysteries",
+    "Page": "49",
+    "Link": "MYST49"
   },
   {
     "Rule": "Mental Blow",
@@ -16582,6 +18508,16 @@
     "Link": "PU3:12"
   },
   {
+    "Rule": "Messenger Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "24",
+    "Link": "TT4:24"
+  },
+  {
     "Rule": "Metal and Plastic Spells College",
     "Category": [
       "Magic"
@@ -16589,6 +18525,24 @@
     "Book": "Magic",
     "Page": "182",
     "Link": "M182"
+  },
+  {
+    "Rule": "Metal Detection",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "18",
+    "Link": "PES18"
+  },
+  {
+    "Rule": "Metal Detector",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "18",
+    "Link": "PES18"
   },
   {
     "Rule": "Metamorph",
@@ -16630,6 +18584,52 @@
     "Link": "M121"
   },
   {
+    "Rule": "Methane-Based or Ethane-Based Life Form",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "19",
+    "Link": "TT2:19"
+  },
+  {
+    "Rule": "Microphonics",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "20",
+    "Link": "PES20"
+  },
+  {
+    "Rule": "Microscopic",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "9",
+    "Link": "PES9"
+  },
+  {
+    "Rule": "Microscopic Sight",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "14",
+    "Link": "PES14"
+  },
+  {
+    "Rule": "Micro-Touch",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "23",
+    "Link": "PES23"
+  },
+  {
     "Rule": "Microworld",
     "Category": [
       "Setting"
@@ -16637,6 +18637,15 @@
     "Book": "Infinite Worlds",
     "Page": "140",
     "Link": "IW140"
+  },
+  {
+    "Rule": "Middlemen and Go-Betweens",
+    "Category": [
+      "NPC"
+    ],
+    "Book": "Social Engineering",
+    "Page": "24",
+    "Link": "SE24"
   },
   {
     "Rule": "Mighty Blow",
@@ -16825,6 +18834,16 @@
     "Link": "UT228"
   },
   {
+    "Rule": "Minor and Standard Spirits",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "21",
+    "Link": "TT4:21"
+  },
+  {
     "Rule": "Minor Blessings",
     "Category": [
       "Divinity"
@@ -16980,6 +18999,16 @@
     "Link": "IW141"
   },
   {
+    "Rule": "Mocker Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "24",
+    "Link": "TT4:24"
+  },
+  {
     "Rule": "Modern HMMWV TL8",
     "Category": [
       "Vehicles"
@@ -17055,6 +19084,16 @@
     "Link": "MH1:52"
   },
   {
+    "Rule": "Monthly Training Rolls",
+    "Category": [
+      "Skills",
+      "Techniques"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "30",
+    "Link": "FPR30"
+  },
+  {
     "Rule": "Morph",
     "Category": [
       "Traits"
@@ -17071,6 +19110,16 @@
     "Book": "Dungeon Fantasy 3",
     "Page": "40",
     "Link": "DF3:40"
+  },
+  {
+    "Rule": "Mortal Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "24",
+    "Link": "TT4:24"
   },
   {
     "Rule": "Mortal Wounds",
@@ -17562,6 +19611,52 @@
     "Link": "PSIS16"
   },
   {
+    "Rule": "Name Bound",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "17",
+    "Link": "TT4:17"
+  },
+  {
+    "Rule": "Name Bound (Power-Ups)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Power-Ups 6: Quirks",
+    "Page": "34",
+    "Link": "PU6:34"
+  },
+  {
+    "Rule": "Name Hearing Perk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "15",
+    "Link": "TT4:15"
+  },
+  {
+    "Rule": "Names and True Names",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Thaumatology",
+    "Page": "245",
+    "Link": "T245"
+  },
+  {
+    "Rule": "Names Have Power",
+    "Category": [
+      "Traits",
+      "Attributes"
+    ],
+    "Book": "Pyramid #3/114",
+    "Page": "12",
+    "Link": "PY114:12"
+  },
+  {
     "Rule": "Nanodrugs Rules",
     "Category": [
       "Gear"
@@ -17737,6 +19832,16 @@
     "Link": "PU3:13"
   },
   {
+    "Rule": "Nature Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "29",
+    "Link": "TT4:29"
+  },
+  {
     "Rule": "Nature Spirits",
     "Category": [
       "Traits",
@@ -17768,6 +19873,15 @@
     "Link": "B428"
   },
   {
+    "Rule": "Nav Implants",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "27",
+    "Link": "PES27"
+  },
+  {
     "Rule": "Navigation Errors (FTL)",
     "Category": [
       "Setting"
@@ -17784,6 +19898,15 @@
     "Book": "Infinite Worlds",
     "Page": "185",
     "Link": "IW185"
+  },
+  {
+    "Rule": "Near Infrared Vision",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "8",
+    "Link": "PES8"
   },
   {
     "Rule": "Neck Bite Technique",
@@ -18071,6 +20194,15 @@
     "Link": "PSI21"
   },
   {
+    "Rule": "Night Sight",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "15",
+    "Link": "PES15"
+  },
+  {
     "Rule": "Nightmare",
     "Category": [
       "Affliction"
@@ -18216,6 +20348,15 @@
     "Link": "PU8:16"
   },
   {
+    "Rule": "No Fovea",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "12",
+    "Link": "PES12"
+  },
+  {
     "Rule": "No Incendiary Effect",
     "Category": [
       "Limitations"
@@ -18269,6 +20410,15 @@
     "Book": "After the End 1",
     "Page": "9",
     "Link": "ATE1:9"
+  },
+  {
+    "Rule": "Nondirectional Senses",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "9",
+    "Link": "PES9"
   },
   {
     "Rule": "Non-Human Hit Location Tables",
@@ -18412,6 +20562,24 @@
     "Link": "BT207"
   },
   {
+    "Rule": "Object Reading",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "29",
+    "Link": "PES29"
+  },
+  {
+    "Rule": "Obscure True Name Perk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "19",
+    "Link": "PU2:19"
+  },
+  {
     "Rule": "Occultist Talent",
     "Category": [
       "Traits"
@@ -18448,6 +20616,15 @@
     "Link": "MH1:42"
   },
   {
+    "Rule": "Odor of Fear",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "24",
+    "Link": "PES24"
+  },
+  {
     "Rule": "Off-Hand Weapon Training Perk",
     "Category": [
       "Combat"
@@ -18467,6 +20644,15 @@
     "Link": "DFDS13"
   },
   {
+    "Rule": "Omnivision",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "15",
+    "Link": "PES15"
+  },
+  {
     "Rule": "Once On Stays On",
     "Category": [
       "Enhancements"
@@ -18474,6 +20660,15 @@
     "Book": "Power-Ups 4: Enhancements",
     "Page": "16",
     "Link": "PU4:16"
+  },
+  {
+    "Rule": "Once On, Stays On",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers",
+    "Page": "109",
+    "Link": "P109"
   },
   {
     "Rule": "One Hand Grappling",
@@ -18599,6 +20794,16 @@
     "Link": "DFM2:11"
   },
   {
+    "Rule": "Operations Officer",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "5",
+    "Link": "TT3:5"
+  },
+  {
     "Rule": "Operative",
     "Category": [
       "Lens"
@@ -18624,6 +20829,16 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "56",
     "Link": "MH1:56"
+  },
+  {
+    "Rule": "Optional Modifiers to Investigator's Skill Roll",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Mysteries",
+    "Page": "54",
+    "Link": "MYST54"
   },
   {
     "Rule": "Optional Psionic Skill Crippling Rules",
@@ -18721,6 +20936,15 @@
     "Link": "BT67"
   },
   {
+    "Rule": "Other Crime Scene Evidence",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mysteries",
+    "Page": "38",
+    "Link": "MYST38"
+  },
+  {
     "Rule": "Other Uses for Points",
     "Category": [
       "Character Points"
@@ -18728,6 +20952,15 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "31",
     "Link": "MH1:31"
+  },
+  {
+    "Rule": "Outcast (Fantasy Portal Realms)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "20",
+    "Link": "FPR20"
   },
   {
     "Rule": "Outcast Angel",
@@ -18831,6 +21064,15 @@
     "Link": "MAG33"
   },
   {
+    "Rule": "Page at a Glance",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "31",
+    "Link": "PES31"
+  },
+  {
     "Rule": "Pain",
     "Category": [
       "Affliction"
@@ -18903,6 +21145,16 @@
     "Book": "Powers: The Weird",
     "Page": "12",
     "Link": "PW12"
+  },
+  {
+    "Rule": "Paragon Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "20",
+    "Link": "TT4:20"
   },
   {
     "Rule": "Paralabs Field Researcher",
@@ -18999,6 +21251,15 @@
     "Link": "PSIS16"
   },
   {
+    "Rule": "Para-Radar Imaging",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "27",
+    "Link": "PES27"
+  },
+  {
     "Rule": "Parkour (Action)",
     "Category": [
       "Physical Act"
@@ -19071,6 +21332,24 @@
     "Book": "Steampunk 1",
     "Page": "46",
     "Link": "SP1:46"
+  },
+  {
+    "Rule": "Passive Electroreception",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "17",
+    "Link": "PES17"
+  },
+  {
+    "Rule": "Passive Sonar",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "20",
+    "Link": "PES20"
   },
   {
     "Rule": "Passive Visual Sensors Table",
@@ -19176,6 +21455,15 @@
     "Book": "Supers",
     "Page": "106",
     "Link": "SU106"
+  },
+  {
+    "Rule": "Perfect Pitch",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "31",
+    "Link": "PES31"
   },
   {
     "Rule": "Perfect Social Faint Perk",
@@ -19306,6 +21594,16 @@
     "Book": "Basic",
     "Page": "458",
     "Link": "B458"
+  },
+  {
+    "Rule": "Phantasm Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "25",
+    "Link": "TT4:25"
   },
   {
     "Rule": "Phantom",
@@ -19610,6 +21908,15 @@
     "Link": "SU68"
   },
   {
+    "Rule": "Points-Based Learning",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "5",
+    "Link": "SEBS5"
+  },
+  {
     "Rule": "Poison Attributes",
     "Category": [
       "Poison"
@@ -19617,6 +21924,24 @@
     "Book": "Basic",
     "Page": "438",
     "Link": "B438"
+  },
+  {
+    "Rule": "Polarization Detection",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
+  },
+  {
+    "Rule": "Police Detective (Mysteries)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Mysteries",
+    "Page": "105",
+    "Link": "MYST105"
   },
   {
     "Rule": "Police-Officer TL8",
@@ -19676,6 +22001,26 @@
     "Book": "Dungeon Fantasy Denizens Swashbucklers",
     "Page": "14",
     "Link": "DFDS14"
+  },
+  {
+    "Rule": "Possessor Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "25",
+    "Link": "TT4:25"
+  },
+  {
+    "Rule": "Postmortal Bodies (Ashen, Intact, Mummified, Rotting, Skeletal)",
+    "Category": [
+      "Magic",
+      "Creatures"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "21",
+    "Link": "TT2:21"
   },
   {
     "Rule": "Postures Table",
@@ -19991,6 +22336,15 @@
     "Link": "MH1:44"
   },
   {
+    "Rule": "Precious Metals by the Pound",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "24",
+    "Link": "FPR24"
+  },
+  {
     "Rule": "Precision Aiming for Snipers",
     "Category": [
       "Combat"
@@ -20036,6 +22390,24 @@
     "Link": "B435"
   },
   {
+    "Rule": "Pressure Gauge",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "23",
+    "Link": "PES23"
+  },
+  {
+    "Rule": "Pressure Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "23",
+    "Link": "PES23"
+  },
+  {
     "Rule": "Pressure-Tolerant Lungs (Thin)",
     "Category": [
       "Traits"
@@ -20052,6 +22424,15 @@
     "Book": "Bio-Tech",
     "Page": "211",
     "Link": "BT211"
+  },
+  {
+    "Rule": "Pricing a Racially-Known Spell",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "34",
+    "Link": "TT2:34"
   },
   {
     "Rule": "Priest 125 pt Lens",
@@ -20091,6 +22472,15 @@
     "Link": "H41"
   },
   {
+    "Rule": "Private Psi",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Mysteries",
+    "Page": "106",
+    "Link": "MYST106"
+  },
+  {
     "Rule": "Probability Alteration",
     "Category": [
       "Psionic Powers"
@@ -20119,6 +22509,15 @@
     "Link": "PT23"
   },
   {
+    "Rule": "Procedural Format",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Mysteries",
+    "Page": "23",
+    "Link": "MYST23"
+  },
+  {
     "Rule": "Professional Criminal (100 pt. Steampunk Template)",
     "Category": [
       "Template"
@@ -20136,6 +22535,24 @@
     "Book": "Dungeon Fantasy 17",
     "Page": "10",
     "Link": "DF17:10"
+  },
+  {
+    "Rule": "Professional Skill (Firefighting)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Mysteries",
+    "Page": "112",
+    "Link": "MYST112"
+  },
+  {
+    "Rule": "Professional Skill (Law Enforcement)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Mysteries",
+    "Page": "112",
+    "Link": "MYST112"
   },
   {
     "Rule": "Professional Skills",
@@ -20185,6 +22602,15 @@
     "Link": "HT166"
   },
   {
+    "Rule": "Projecting Illusions",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers",
+    "Page": "94",
+    "Link": "P94"
+  },
+  {
     "Rule": "Projectors",
     "Category": [
       "Gear"
@@ -20210,6 +22636,16 @@
     "Book": "Magic",
     "Page": "166",
     "Link": "M166"
+  },
+  {
+    "Rule": "Protection from Evil/Good",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "15",
+    "Link": "PU11:15"
   },
   {
     "Rule": "Protective Clothing",
@@ -20250,6 +22686,15 @@
     "Book": "Bio-Tech",
     "Page": "185",
     "Link": "BT185"
+  },
+  {
+    "Rule": "Proximity Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "18",
+    "Link": "PES18"
   },
   {
     "Rule": "Psi",
@@ -20811,6 +23256,16 @@
     "Link": "UT22"
   },
   {
+    "Rule": "Questioning the Dead",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Mysteries",
+    "Page": "85",
+    "Link": "MYST85"
+  },
+  {
     "Rule": "Quick and Dirty Steam-Tech: Descriptive Approach",
     "Category": [
       "Crafting",
@@ -20897,6 +23352,16 @@
     "Link": "SU33"
   },
   {
+    "Rule": "Racial Norms for Radiation and Temperature",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "17",
+    "Link": "TT2:17"
+  },
+  {
     "Rule": "Racial Point Cost and Life's Price Tag",
     "Category": [
       "Reference",
@@ -20905,6 +23370,42 @@
     "Book": "Bio-Tech",
     "Page": "65",
     "Link": "BT65"
+  },
+  {
+    "Rule": "Radar Detection",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "12",
+    "Link": "PES12"
+  },
+  {
+    "Rule": "Radar Detector",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "12",
+    "Link": "PES12"
+  },
+  {
+    "Rule": "Radar Imaging",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "12",
+    "Link": "PES12"
+  },
+  {
+    "Rule": "Radar Implants",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "12",
+    "Link": "PES12"
   },
   {
     "Rule": "Radiation",
@@ -20943,13 +23444,40 @@
     "Link": "PW24"
   },
   {
-    "Rule": "Radiation Rules Optional and Simplified",
+    "Rule": "Radiation Recovery Perk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "45",
+    "Link": "TT2:45"
+  },
+  {
+    "Rule": "Radiation Rules: Optional and Simplified",
     "Category": [
       "Injury"
     ],
     "Book": "After the End 1",
     "Page": "24",
     "Link": "ATE1:24"
+  },
+  {
+    "Rule": "Radiation Scanner",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "16",
+    "Link": "PES16"
+  },
+  {
+    "Rule": "Radiation Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "16",
+    "Link": "PES16"
   },
   {
     "Rule": "Radiation Spells College",
@@ -20987,6 +23515,24 @@
     "Book": "High-Tech: Electricity and Electronics",
     "Page": "28",
     "Link": "HTEE28"
+  },
+  {
+    "Rule": "Radio Receiver",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
+  },
+  {
+    "Rule": "Radio Source Detection",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "11",
+    "Link": "PES11"
   },
   {
     "Rule": "Rage Barbarian (Denizens)",
@@ -21062,6 +23608,15 @@
     "Book": "High-Tech: Electricity and Electronics",
     "Page": "51",
     "Link": "HTEE51"
+  },
+  {
+    "Rule": "Rank Status and Wealth",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Social Engineering",
+    "Page": "12",
+    "Link": "SE12"
   },
   {
     "Rule": "Rapid Fire",
@@ -21185,6 +23740,26 @@
     "Link": "S31"
   },
   {
+    "Rule": "Reaction Rolls and Modifiers",
+    "Category": [
+      "Skills",
+      "NPC"
+    ],
+    "Book": "Social Engineering",
+    "Page": "26",
+    "Link": "SE26"
+  },
+  {
+    "Rule": "Reaction Tables",
+    "Category": [
+      "Reference",
+      "NPC"
+    ],
+    "Book": "Social Engineering",
+    "Page": "74",
+    "Link": "SE74"
+  },
+  {
     "Rule": "Reactionless Drives",
     "Category": [
       "Vehicles",
@@ -21241,6 +23816,15 @@
     "Book": "Infinite Worlds",
     "Page": "75",
     "Link": "IW75"
+  },
+  {
+    "Rule": "Reality Testing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "29",
+    "Link": "PES29"
   },
   {
     "Rule": "Reality Warping Critial Spell Failure Table",
@@ -21594,6 +24178,26 @@
     "Link": "FFRR22"
   },
   {
+    "Rule": "Requests for Aid (Non-Commercial)",
+    "Category": [
+      "Skills",
+      "NPC"
+    ],
+    "Book": "Social Engineering",
+    "Page": "28",
+    "Link": "SE28"
+  },
+  {
+    "Rule": "Requests for Information",
+    "Category": [
+      "Skills",
+      "NPC"
+    ],
+    "Book": "Social Engineering",
+    "Page": "28",
+    "Link": "SE28"
+  },
+  {
     "Rule": "Required Disadvantage",
     "Category": [
       "Limitations"
@@ -21730,6 +24334,15 @@
     "Link": "PDF16"
   },
   {
+    "Rule": "Restricted Arc",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "9",
+    "Link": "PES9"
+  },
+  {
     "Rule": "Restricted Dodge Against Firearms",
     "Category": [
       "Combat"
@@ -21793,6 +24406,15 @@
     "Link": "MA123"
   },
   {
+    "Rule": "Retreats and Workshops",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "30",
+    "Link": "SEBS30"
+  },
+  {
     "Rule": "Retrotech Approach (Vehicle/Weapon Conversion)",
     "Category": [
       "Crafting",
@@ -21811,6 +24433,15 @@
     "Book": "Ultra-Tech",
     "Page": "10",
     "Link": "UT10"
+  },
+  {
+    "Rule": "Returnee (Fantasy Portal Realms)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "20",
+    "Link": "FPR20"
   },
   {
     "Rule": "Reverse Grip",
@@ -21859,6 +24490,15 @@
     "Link": "HT94"
   },
   {
+    "Rule": "Rewired",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "30",
+    "Link": "PES30"
+  },
+  {
     "Rule": "Ricochet",
     "Category": [
       "Enhancements"
@@ -21866,6 +24506,16 @@
     "Book": "Power-Ups 4: Enhancements",
     "Page": "20",
     "Link": "PU4:20"
+  },
+  {
+    "Rule": "Rider Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "25",
+    "Link": "TT4:25"
   },
   {
     "Rule": "Riding and Draft Animals",
@@ -21924,6 +24574,16 @@
     "Link": "BT137"
   },
   {
+    "Rule": "Robots and Automata",
+    "Category": [
+      "Electronics",
+      "Creatures"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "7",
+    "Link": "TT2:7"
+  },
+  {
     "Rule": "Robots and Society",
     "Category": [
       "Setting"
@@ -21940,6 +24600,15 @@
     "Book": "Ultra-Tech",
     "Page": "34",
     "Link": "UT34"
+  },
+  {
+    "Rule": "Robust Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
   },
   {
     "Rule": "Rock Salt Ammo",
@@ -22024,7 +24693,7 @@
     "Link": "S116"
   },
   {
-    "Rule": "Round Fractional Character Points Costs Up",
+    "Rule": "Round Fractional Character Point Costs Up",
     "Category": [
       "Attributes"
     ],
@@ -22199,6 +24868,15 @@
     "Link": "DFDB7"
   },
   {
+    "Rule": "Savior (Fantasy Portal Realms)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "21",
+    "Link": "FPR21"
+  },
+  {
     "Rule": "Sawed-Off Shotgun",
     "Category": [
       "Weapons"
@@ -22290,7 +24968,7 @@
     "Link": "DF11:31"
   },
   {
-    "Rule": "SchrÃ¶dingers and Secret Advantages",
+    "Rule": "Schrodingers and Secret Advantages",
     "Category": [
       "Attributes"
     ],
@@ -22306,6 +24984,16 @@
     "Book": "Power-Ups 2: Perks",
     "Page": "14",
     "Link": "PU2:14"
+  },
+  {
+    "Rule": "Science Officer",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "7",
+    "Link": "TT3:7"
   },
   {
     "Rule": "Scientific Friends: Individuals",
@@ -22439,6 +25127,61 @@
     "Link": "CS5"
   },
   {
+    "Rule": "Searchable Archives",
+    "Category": [
+      "Skills",
+      "Setting"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "30",
+    "Link": "SEBS30"
+  },
+  {
+    "Rule": "Searching for Buyers",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Social Engineering",
+    "Page": "23",
+    "Link": "SE23"
+  },
+  {
+    "Rule": "Searching for Companionship",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Social Engineering",
+    "Page": "23",
+    "Link": "SE23"
+  },
+  {
+    "Rule": "Searching for Concealed Activities",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Social Engineering",
+    "Page": "23",
+    "Link": "SE23"
+  },
+  {
+    "Rule": "Searching for Hirelings",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Social Engineering",
+    "Page": "22",
+    "Link": "SE22"
+  },
+  {
+    "Rule": "Searching for Jobs",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Social Engineering",
+    "Page": "22",
+    "Link": "SE22"
+  },
+  {
     "Rule": "Seasickness",
     "Category": [
       "Hazard"
@@ -22543,6 +25286,16 @@
     "Link": "ACT1:5"
   },
   {
+    "Rule": "Security Officer",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "8",
+    "Link": "TT3:8"
+  },
+  {
     "Rule": "Security Officer (Space Template)",
     "Category": [
       "Template"
@@ -22578,6 +25331,15 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "46",
     "Link": "MH1:46"
+  },
+  {
+    "Rule": "Seismic Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "22",
+    "Link": "PES22"
   },
   {
     "Rule": "Seizure",
@@ -22634,6 +25396,15 @@
     "Link": "B120"
   },
   {
+    "Rule": "Self-Study",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "4",
+    "Link": "SEBS4"
+  },
+  {
     "Rule": "Semi-Automatic Pistols",
     "Category": [
       "Weapons"
@@ -22670,6 +25441,26 @@
     "Book": "Bio-Tech",
     "Page": "210",
     "Link": "BT210"
+  },
+  {
+    "Rule": "Sense Evil/Good",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "15",
+    "Link": "PU11:15"
+  },
+  {
+    "Rule": "Sense Roll Modifiers",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Mysteries",
+    "Page": "47",
+    "Link": "MYST47"
   },
   {
     "Rule": "Sense-Based",
@@ -22737,6 +25528,51 @@
     "Link": "HT45"
   },
   {
+    "Rule": "Sensory Hairs",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "22",
+    "Link": "PES22"
+  },
+  {
+    "Rule": "Sensory Hierarchy Chart",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "7",
+    "Link": "PES7"
+  },
+  {
+    "Rule": "Sensory Link",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "30",
+    "Link": "PES30"
+  },
+  {
+    "Rule": "Sensory Range",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "6",
+    "Link": "PES6"
+  },
+  {
+    "Rule": "Sensory Refocus",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "31",
+    "Link": "PES31"
+  },
+  {
     "Rule": "Serpent Folk",
     "Category": [
       "Template"
@@ -22783,6 +25619,16 @@
     "Link": "SP3:41"
   },
   {
+    "Rule": "Servitor Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "26",
+    "Link": "TT4:26"
+  },
+  {
     "Rule": "Shadow",
     "Category": [
       "Template",
@@ -22800,6 +25646,16 @@
     "Book": "Fantasy Folk: Elves",
     "Page": "15",
     "Link": "FFE15"
+  },
+  {
+    "Rule": "Shadow Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "26",
+    "Link": "TT4:26"
   },
   {
     "Rule": "Shaman (PC Class)",
@@ -22838,6 +25694,15 @@
     "Link": "DF9:18"
   },
   {
+    "Rule": "Shamanic Power Modifier",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Totems and Nature Spirits",
+    "Page": "6",
+    "Link": "PTNS6"
+  },
+  {
     "Rule": "Shape Mastery Perk",
     "Category": [
       "Traits"
@@ -22854,6 +25719,16 @@
     "Book": "Supers",
     "Page": "51",
     "Link": "SU51"
+  },
+  {
+    "Rule": "Shapeshifting",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "38",
+    "Link": "TT2:38"
   },
   {
     "Rule": "Shapeshifting (10 seconds)",
@@ -23268,6 +26143,15 @@
     "Link": "HT155"
   },
   {
+    "Rule": "Signals for Communication Other than Sound",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "44",
+    "Link": "TT2:44"
+  },
+  {
     "Rule": "Signals Intelligence Rules",
     "Category": [
       "Skills",
@@ -23344,6 +26228,15 @@
     "Link": "FFE20"
   },
   {
+    "Rule": "Six Standard Influence Skills and Descriptions",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering",
+    "Page": "30",
+    "Link": "SE30"
+  },
+  {
     "Rule": "Size Modification (Gengineering)",
     "Category": [
       "Traits",
@@ -23363,6 +26256,16 @@
     "Link": "B19"
   },
   {
+    "Rule": "Size Weight and HP Table",
+    "Category": [
+      "Creatures",
+      "Attributes"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "13",
+    "Link": "TT2:13"
+  },
+  {
     "Rule": "Skeletons",
     "Category": [
       "Template",
@@ -23371,6 +26274,15 @@
     "Book": "Horror",
     "Page": "155",
     "Link": "H155"
+  },
+  {
+    "Rule": "Skepticism Power Modifier",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "17",
+    "Link": "TT4:17"
   },
   {
     "Rule": "Skidding in Combat",
@@ -23572,6 +26484,15 @@
     "Link": "DFM4:4"
   },
   {
+    "Rule": "Smart Drugs",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "14",
+    "Link": "SEBS14"
+  },
+  {
     "Rule": "Smart Zombies",
     "Category": [
       "Template",
@@ -23677,7 +26598,7 @@
     "Link": "UT207"
   },
   {
-    "Rule": "Social Manipulation Bribery Fast-Talk Diplomacy (Action)",
+    "Rule": "Social Manipulation: Bribery, Fast-Talk, Diplomacy (Action)",
     "Category": [
       "Skills"
     ],
@@ -23712,6 +26633,15 @@
     "Book": "Psis",
     "Page": "7",
     "Link": "PSIS7"
+  },
+  {
+    "Rule": "Social Traits as Rewards",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Social Engineering",
+    "Page": "17",
+    "Link": "SE17"
   },
   {
     "Rule": "Society Types Table",
@@ -23789,6 +26719,15 @@
     "Book": "Psis",
     "Page": "18",
     "Link": "PSIS18"
+  },
+  {
+    "Rule": "Sonar Implants",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "19",
+    "Link": "PES19"
   },
   {
     "Rule": "Soothsayer Template",
@@ -25062,6 +28001,16 @@
     "Link": "SS1:15"
   },
   {
+    "Rule": "Spacecraft Piloting Skills",
+    "Category": [
+      "Skills",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "5",
+    "Link": "TT3:5"
+  },
+  {
     "Rule": "Spacecraft Power Plant Chemical Energy",
     "Category": [
       "Vehicles",
@@ -25466,7 +28415,7 @@
     "Link": "DF1:27"
   },
   {
-    "Rule": "Special Cases (Tide-Lock Red Dwarf Rogue Worlds)",
+    "Rule": "Special Cases (Tide-Lock, Red Dwarf, Rogue Worlds)",
     "Category": [
       "Setting"
     ],
@@ -25493,6 +28442,15 @@
     "Book": "Dungeon Fantasy Magic Items 1",
     "Page": "6",
     "Link": "DFMI1:6"
+  },
+  {
+    "Rule": "Specialist (Mysteries)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Mysteries",
+    "Page": "106",
+    "Link": "MYST106"
   },
   {
     "Rule": "Specialized Delver Gear (Dungeon Fantasy)",
@@ -25590,6 +28548,16 @@
     "Link": "T261"
   },
   {
+    "Rule": "Spell-Archery",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "15",
+    "Link": "PU11:15"
+  },
+  {
     "Rule": "Spell-Thief (Denizens PC Class)",
     "Category": [
       "Template"
@@ -25654,6 +28622,15 @@
     "Link": "FT1:33"
   },
   {
+    "Rule": "Spirit Advisor",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Mysteries",
+    "Page": "112",
+    "Link": "MYST112"
+  },
+  {
     "Rule": "Spirit Channeling",
     "Category": [
       "Traits",
@@ -25702,6 +28679,44 @@
     "Link": "MH1:44"
   },
   {
+    "Rule": "Spirit Meta-Traits",
+    "Category": [
+      "Spirits",
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "11",
+    "Link": "TT2:11"
+  },
+  {
+    "Rule": "Spirit of Place or Time",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "26",
+    "Link": "TT4:26"
+  },
+  {
+    "Rule": "Spirit Power Modifier",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "35",
+    "Link": "TT4:35"
+  },
+  {
+    "Rule": "Spirit Power Modifier (Powers)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers",
+    "Page": "28",
+    "Link": "P28"
+  },
+  {
     "Rule": "Spirit Roles",
     "Category": [
       "Traits",
@@ -25711,6 +28726,17 @@
     "Book": "Powers: Totems and Nature Spirits",
     "Page": "8",
     "Link": "PTNS8"
+  },
+  {
+    "Rule": "Spirit Travel",
+    "Category": [
+      "Setting",
+      "Environment",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "49",
+    "Link": "TT4:49"
   },
   {
     "Rule": "Spirit-Oriented Critical Spell Failure Table",
@@ -25724,6 +28750,15 @@
     "Link": "T260"
   },
   {
+    "Rule": "Spirits",
+    "Category": [
+      "Spirits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "8",
+    "Link": "TT2:8"
+  },
+  {
     "Rule": "Spirit-Talker Talent",
     "Category": [
       "Traits",
@@ -25732,6 +28767,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "15",
     "Link": "PU3:15"
+  },
+  {
+    "Rule": "Spiritual Sustenance Meta-Traits",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "19",
+    "Link": "TT4:19"
   },
   {
     "Rule": "Spooked Mounts",
@@ -25768,6 +28812,16 @@
     "Book": "Steampunk 3",
     "Page": "65",
     "Link": "SP3:65"
+  },
+  {
+    "Rule": "Spotting Lies",
+    "Category": [
+      "Skills",
+      "Traits"
+    ],
+    "Book": "Social Engineering",
+    "Page": "36",
+    "Link": "SE36"
   },
   {
     "Rule": "Sprawling during a Takedown Attempt",
@@ -25817,6 +28871,16 @@
     "Link": "B354"
   },
   {
+    "Rule": "Sprite",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "27",
+    "Link": "TT4:27"
+  },
+  {
     "Rule": "Spy (100 pt. Steampunk Template)",
     "Category": [
       "Template"
@@ -25824,6 +28888,15 @@
     "Book": "Steampunk 3",
     "Page": "66",
     "Link": "SP3:66"
+  },
+  {
+    "Rule": "Spy-Ray",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "27",
+    "Link": "PES27"
   },
   {
     "Rule": "Squire (NPC Template)",
@@ -25834,6 +28907,16 @@
     "Book": "Dungeon Fantasy 15",
     "Page": "17",
     "Link": "DF15:17"
+  },
+  {
+    "Rule": "Squirrelzilla and Herb (Familiar Example)",
+    "Category": [
+      "Creatures",
+      "NPC"
+    ],
+    "Book": "Pyramid #3/75",
+    "Page": "20",
+    "Link": "PY75:20"
   },
   {
     "Rule": "SS Raven Division Trooper",
@@ -26162,6 +29245,16 @@
     "Link": "S102"
   },
   {
+    "Rule": "Steward",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "9",
+    "Link": "TT3:9"
+  },
+  {
     "Rule": "Stimulants",
     "Category": [
       "Gear"
@@ -26196,6 +29289,15 @@
     "Book": "Martial Arts",
     "Page": "108",
     "Link": "MA108"
+  },
+  {
+    "Rule": "Stop Motion",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "30",
+    "Link": "PES30"
   },
   {
     "Rule": "Stop Thrust",
@@ -26317,6 +29419,16 @@
     "Book": "Martial Arts",
     "Page": "117",
     "Link": "MA117"
+  },
+  {
+    "Rule": "Strikers can be Damaged by Parrying with a Weapon",
+    "Category": [
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "29",
+    "Link": "TT2:29"
   },
   {
     "Rule": "Striking at a Shield Cloak or Buckler",
@@ -26537,6 +29649,26 @@
     "Link": "MH1:27"
   },
   {
+    "Rule": "Sulfur-Based Life Form",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "20",
+    "Link": "TT2:20"
+  },
+  {
+    "Rule": "Sulfuric Acid-Based Life Form",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "20",
+    "Link": "TT2:20"
+  },
+  {
     "Rule": "Summa Rudis",
     "Category": [
       "Template",
@@ -26555,6 +29687,16 @@
     "Book": "Steampunk 1",
     "Page": "37",
     "Link": "SP1:37"
+  },
+  {
+    "Rule": "Summoned Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "30",
+    "Link": "TT4:30"
   },
   {
     "Rule": "Sumo Wrestling Grappling Skill",
@@ -26621,6 +29763,24 @@
     "Link": "SU146"
   },
   {
+    "Rule": "Super-Balance",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "27",
+    "Link": "PES27"
+  },
+  {
+    "Rule": "Super-Hearing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "20",
+    "Link": "PES20"
+  },
+  {
     "Rule": "Superior Equilibrioception Talent",
     "Category": [
       "Traits"
@@ -26667,6 +29827,15 @@
     "Link": "B513"
   },
   {
+    "Rule": "Super-Smell",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "24",
+    "Link": "PES24"
+  },
+  {
     "Rule": "Super-Soldiers (Infinite Worlds)",
     "Category": [
       "Template"
@@ -26674,6 +29843,24 @@
     "Book": "Infinite Worlds",
     "Page": "185",
     "Link": "IW185"
+  },
+  {
+    "Rule": "Super-Taste",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "24",
+    "Link": "PES24"
+  },
+  {
+    "Rule": "Super-Touch",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "23",
+    "Link": "PES23"
   },
   {
     "Rule": "Surge",
@@ -26877,6 +30064,16 @@
     "Link": "UT35"
   },
   {
+    "Rule": "Swarms",
+    "Category": [
+      "Creatures",
+      "Attributes"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "14",
+    "Link": "TT2:14"
+  },
+  {
     "Rule": "Swashbuckler (PC Class Denizens)",
     "Category": [
       "Template"
@@ -26966,6 +30163,16 @@
     "Book": "Martial Arts",
     "Page": "81",
     "Link": "MA81"
+  },
+  {
+    "Rule": "Swimmers Can't Perform a Standing Jump out of Water",
+    "Category": [
+      "Environment",
+      "Activities"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "28",
+    "Link": "TT2:28"
   },
   {
     "Rule": "Swimming",
@@ -27090,6 +30297,15 @@
     "Link": "B109"
   },
   {
+    "Rule": "Synesthesia (Enhanced Senses)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "31",
+    "Link": "PES31"
+  },
+  {
     "Rule": "Syntactic Magic System",
     "Category": [
       "Magic"
@@ -27119,6 +30335,16 @@
     "Link": "H155"
   },
   {
+    "Rule": "Table of Solvents (Freezing, Boiling, Liquid)",
+    "Category": [
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "18",
+    "Link": "TT2:18"
+  },
+  {
     "Rule": "Taboo Traits (Gengineering Prohibitions)",
     "Category": [
       "Traits"
@@ -27126,6 +30352,25 @@
     "Book": "Bio-Tech",
     "Page": "65",
     "Link": "BT65"
+  },
+  {
+    "Rule": "Tactical Officer",
+    "Category": [
+      "Template",
+      "Space"
+    ],
+    "Book": "Template Toolkit 3: Starship Crew",
+    "Page": "6",
+    "Link": "TT3:6"
+  },
+  {
+    "Rule": "Tactile Imaging",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "23",
+    "Link": "PES23"
   },
   {
     "Rule": "Taft-7 (Infinite Worlds)",
@@ -27222,6 +30467,15 @@
     "Link": "B400"
   },
   {
+    "Rule": "Targeting Hearing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "20",
+    "Link": "PES20"
+  },
+  {
     "Rule": "Tavern Amenities (Dungeon Fantasy)",
     "Category": [
       "Professions"
@@ -27238,6 +30492,24 @@
     "Book": "Space",
     "Page": "29",
     "Link": "S29"
+  },
+  {
+    "Rule": "Teaching as a Job",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "17",
+    "Link": "SEBS17"
+  },
+  {
+    "Rule": "Teaching Exercises Technique (Average)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "24",
+    "Link": "SEBS24"
   },
   {
     "Rule": "Teammates and Team Organization",
@@ -27645,6 +30917,15 @@
     "Link": "S35"
   },
   {
+    "Rule": "Tetrachromatism",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
+  },
+  {
     "Rule": "Thanatologist Talent",
     "Category": [
       "Traits"
@@ -27652,6 +30933,15 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "16",
     "Link": "PU3:16"
+  },
+  {
+    "Rule": "That Darn Kid",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Mysteries",
+    "Page": "106",
+    "Link": "MYST106"
   },
   {
     "Rule": "Thaumatological Scholar",
@@ -27701,6 +30991,15 @@
     "Link": "IW128"
   },
   {
+    "Rule": "The Mark One Eyeball",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "15",
+    "Link": "PES15"
+  },
+  {
     "Rule": "The Medieval University Curriculum",
     "Category": [
       "Professions"
@@ -27708,6 +31007,24 @@
     "Book": "Low Tech Companion 1",
     "Page": "32",
     "Link": "LTC1:32"
+  },
+  {
+    "Rule": "The Price of Instruction",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "27",
+    "Link": "SEBS27"
+  },
+  {
+    "Rule": "The Process of Teaching",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "17",
+    "Link": "SEBS17"
   },
   {
     "Rule": "The Rocket Equation (Delta-V)",
@@ -27746,6 +31063,33 @@
     "Book": "Space",
     "Page": "56",
     "Link": "S56"
+  },
+  {
+    "Rule": "Thermal Infrared Vision",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "8",
+    "Link": "PES8"
+  },
+  {
+    "Rule": "Thermal Locator",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "15",
+    "Link": "PES15"
+  },
+  {
+    "Rule": "Thermal Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "15",
+    "Link": "PES15"
   },
   {
     "Rule": "Thermate Ammo",
@@ -27846,6 +31190,43 @@
     "Book": "Dungeon Fantasy Denizens Thieves",
     "Page": "18",
     "Link": "DFDT18"
+  },
+  {
+    "Rule": "Thought Tracking",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "29",
+    "Link": "PES29"
+  },
+  {
+    "Rule": "Threat Detection",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "29",
+    "Link": "PES29"
+  },
+  {
+    "Rule": "Threshold Entity",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "27",
+    "Link": "TT4:27"
+  },
+  {
+    "Rule": "Thriller Format",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Mysteries",
+    "Page": "24",
+    "Link": "MYST24"
   },
   {
     "Rule": "Throwing (Supers)",
@@ -27950,6 +31331,16 @@
     "Link": "IW162"
   },
   {
+    "Rule": "Time of Death",
+    "Category": [
+      "Reference",
+      "Injury"
+    ],
+    "Book": "Mysteries",
+    "Page": "32",
+    "Link": "MYST32"
+  },
+  {
     "Rule": "Time Required to Grab and Use a Potion",
     "Category": [
       "Magic",
@@ -27978,6 +31369,15 @@
     "Book": "Infinite Worlds",
     "Page": "160",
     "Link": "IW160"
+  },
+  {
+    "Rule": "Timeline (Mysteries)",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mysteries",
+    "Page": "79",
+    "Link": "MYST79"
   },
   {
     "Rule": "Timepieces",
@@ -28092,6 +31492,15 @@
     "Link": "SU73"
   },
   {
+    "Rule": "Toons",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "6",
+    "Link": "TT2:6"
+  },
+  {
     "Rule": "Top Speed 20% Over Move if Sprinting",
     "Category": [
       "Combat"
@@ -28168,6 +31577,15 @@
     "Link": "IW191"
   },
   {
+    "Rule": "Trader (Fantasy Portal Realms)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "21",
+    "Link": "FPR21"
+  },
+  {
     "Rule": "Trader (Post-Apocalypse)",
     "Category": [
       "Template",
@@ -28227,6 +31645,15 @@
     "Link": "PU1:11"
   },
   {
+    "Rule": "Transmundane (Fantasy Portal Realms)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy Portal Realms",
+    "Page": "18",
+    "Link": "FPR18"
+  },
+  {
     "Rule": "Transportation",
     "Category": [
       "Vehicles"
@@ -28273,6 +31700,24 @@
     "Link": "DF16:23"
   },
   {
+    "Rule": "T-Ray Imaging",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "12",
+    "Link": "PES12"
+  },
+  {
+    "Rule": "T-Ray Implants",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "12",
+    "Link": "PES12"
+  },
+  {
     "Rule": "Treasure-Hunter 125 pt Lens",
     "Category": [
       "Template",
@@ -28299,6 +31744,16 @@
     "Book": "Fantasy Folk: Elves",
     "Page": "18",
     "Link": "FFE18"
+  },
+  {
+    "Rule": "Triangulation (Enhanced Senses)",
+    "Category": [
+      "Techniques",
+      "Skills"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "10",
+    "Link": "PES10"
   },
   {
     "Rule": "Triangulation Rules",
@@ -28397,6 +31852,15 @@
     "Link": "P84"
   },
   {
+    "Rule": "True Name Meta-Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "19",
+    "Link": "TT4:19"
+  },
+  {
     "Rule": "True Names (Fantasy)",
     "Category": [
       "Setting"
@@ -28413,6 +31877,15 @@
     "Book": "Thaumatology",
     "Page": "245",
     "Link": "T245"
+  },
+  {
+    "Rule": "Truth Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "29",
+    "Link": "PES29"
   },
   {
     "Rule": "Truth-Seeker Talent",
@@ -28561,6 +32034,51 @@
     "Link": "SU30"
   },
   {
+    "Rule": "Ultrascan",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "27",
+    "Link": "PES27"
+  },
+  {
+    "Rule": "Ultrasonic Hearing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "21",
+    "Link": "PES21"
+  },
+  {
+    "Rule": "Ultrasonography",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "19",
+    "Link": "PES19"
+  },
+  {
+    "Rule": "Ultrasound Scanner",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "19",
+    "Link": "PES19"
+  },
+  {
+    "Rule": "Ultraviolet Sight",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "16",
+    "Link": "PES16"
+  },
+  {
     "Rule": "Unarmed Critical Miss Table",
     "Category": [
       "Reference",
@@ -28644,6 +32162,15 @@
     "Link": "PU8:19"
   },
   {
+    "Rule": "Undead",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "8",
+    "Link": "TT2:8"
+  },
+  {
     "Rule": "Undead Slime",
     "Category": [
       "Undead"
@@ -28705,6 +32232,15 @@
     "Book": "Dungeon Fantasy 20",
     "Page": "16",
     "Link": "DF20:16"
+  },
+  {
+    "Rule": "Underground Burrowing Movement Proportional to Basic Lift",
+    "Category": [
+      "Activities"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "27",
+    "Link": "TT2:27"
   },
   {
     "Rule": "Underground Engineer",
@@ -28810,6 +32346,15 @@
     "Link": "IW148"
   },
   {
+    "Rule": "Universal Smell",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
+  },
+  {
     "Rule": "Unkillable (Supers)",
     "Category": [
       "Traits",
@@ -28818,6 +32363,16 @@
     "Book": "Supers",
     "Page": "123",
     "Link": "SU123"
+  },
+  {
+    "Rule": "Unmanifested Spirit",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "27",
+    "Link": "TT4:27"
   },
   {
     "Rule": "Unreliable",
@@ -29392,6 +32947,15 @@
     "Link": "SU111"
   },
   {
+    "Rule": "Versification Technique (Average)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "16",
+    "Link": "SEBS16"
+  },
+  {
     "Rule": "Vertical Landings for Spacecraft",
     "Category": [
       "Vehicles",
@@ -29459,6 +33023,26 @@
     "Link": "HTEE34"
   },
   {
+    "Rule": "Virtual and Illusory Beings",
+    "Category": [
+      "Magic",
+      "Creatures"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "20",
+    "Link": "TT2:20"
+  },
+  {
+    "Rule": "Virtual Environments (TL9+)",
+    "Category": [
+      "Skills",
+      "Setting"
+    ],
+    "Book": "Social Engineering: Back to School",
+    "Page": "30",
+    "Link": "SEBS30"
+  },
+  {
     "Rule": "Virtual Pocket",
     "Category": [
       "Traits"
@@ -29496,6 +33080,15 @@
     "Link": "PU8:19"
   },
   {
+    "Rule": "Visual Profiling",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "30",
+    "Link": "PES30"
+  },
+  {
     "Rule": "Visualization",
     "Category": [
       "Traits",
@@ -29504,6 +33097,15 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "45",
     "Link": "MH1:45"
+  },
+  {
+    "Rule": "Voice Profiling",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "30",
+    "Link": "PES30"
   },
   {
     "Rule": "Void Dancer Racial Template (TL11)",
@@ -29619,6 +33221,15 @@
     "Link": "S40"
   },
   {
+    "Rule": "Warpsense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "26",
+    "Link": "PES26"
+  },
+  {
     "Rule": "Warrior",
     "Category": [
       "Template"
@@ -29695,6 +33306,16 @@
     "Book": "Basic",
     "Page": "464",
     "Link": "B464"
+  },
+  {
+    "Rule": "Water-Based Life Form",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Template Toolkit 2: Races",
+    "Page": "19",
+    "Link": "TT2:19"
   },
   {
     "Rule": "Watercraft Table",
@@ -29820,6 +33441,16 @@
     "Link": "MHPU1:22"
   },
   {
+    "Rule": "Weapon Tables (Mysteries)",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Mysteries",
+    "Page": "117",
+    "Link": "MYST117"
+  },
+  {
     "Rule": "Weaponized",
     "Category": [
       "Limitations"
@@ -29884,6 +33515,16 @@
     "Book": "Magic",
     "Page": "193",
     "Link": "M193"
+  },
+  {
+    "Rule": "Weird Familiars",
+    "Category": [
+      "Creatures",
+      "NPC"
+    ],
+    "Book": "Pyramid #3/75",
+    "Page": "18",
+    "Link": "PY75:18"
   },
   {
     "Rule": "Weird Power Modifier (-5 or -10%)",
@@ -30268,6 +33909,34 @@
     "Link": "ACT1:16"
   },
   {
+    "Rule": "Wiretap",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "17",
+    "Link": "PES17"
+  },
+  {
+    "Rule": "Wisp",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "27",
+    "Link": "TT4:27"
+  },
+  {
+    "Rule": "Wit Mockery and Insults",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Social Engineering",
+    "Page": "35",
+    "Link": "SE35"
+  },
+  {
     "Rule": "Witch",
     "Category": [
       "Template"
@@ -30559,7 +34228,7 @@
     "Link": "HT238"
   },
   {
-    "Rule": "Wyvern",
+    "Rule": "Wyvern (Quantum 4 Parallel 1904 World)",
     "Category": [
       "Setting"
     ],
@@ -30586,6 +34255,25 @@
     "Book": "Bio-Tech",
     "Page": "178",
     "Link": "BT178"
+  },
+  {
+    "Rule": "X-Ray Vision",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "16",
+    "Link": "PES16"
+  },
+  {
+    "Rule": "Yokai",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Template Toolkit 4: Spirits",
+    "Page": "30",
+    "Link": "TT4:30"
   },
   {
     "Rule": "Yrth (Infinite Worlds)",
@@ -30633,5 +34321,14 @@
     "Book": "Bio-Tech",
     "Page": "110",
     "Link": "BT110"
+  },
+  {
+    "Rule": "Zoom (Enhanced Senses)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers: Enhanced Senses",
+    "Page": "16",
+    "Link": "PES16"
   }
 ]
