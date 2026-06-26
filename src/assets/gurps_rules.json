@@ -9,6 +9,15 @@
     "Link": "PW24"
   },
   {
+    "Rule": "A Better Tomorrow",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies",
+    "Page": "129",
+    "Link": "Z129"
+  },
+  {
     "Rule": "A Familiar Path (Familiars)",
     "Category": [
       "Creatures",
@@ -504,6 +513,26 @@
     "Link": "DF16:27"
   },
   {
+    "Rule": "Aerospace Elements",
+    "Category": [
+      "Military Elements",
+      "Vehicles"
+    ],
+    "Book": "Mass Combat",
+    "Page": "24",
+    "Link": "MC24"
+  },
+  {
+    "Rule": "Aerospace Elements Table",
+    "Category": [
+      "Reference",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "25",
+    "Link": "MC25"
+  },
+  {
     "Rule": "Affected by Rust Quirk",
     "Category": [
       "Traits"
@@ -670,6 +699,15 @@
     "Link": "LT80"
   },
   {
+    "Rule": "Air Combat Class",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "6",
+    "Link": "MC6"
+  },
+  {
     "Rule": "Air Conveyances Table TL5 to TL8",
     "Category": [
       "Reference",
@@ -709,6 +747,16 @@
     "Link": "M23"
   },
   {
+    "Rule": "Air Superiority",
+    "Category": [
+      "Combat",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "31",
+    "Link": "MC31"
+  },
+  {
     "Rule": "Air Tank",
     "Category": [
       "Gear"
@@ -726,6 +774,15 @@
     "Book": "Basic",
     "Page": "466",
     "Link": "B466"
+  },
+  {
+    "Rule": "Airborne Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "8",
+    "Link": "MC8"
   },
   {
     "Rule": "Alarm Detection and Disabling Rules",
@@ -1017,6 +1074,24 @@
     "Link": "PU3:6"
   },
   {
+    "Rule": "All-Weather Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "8",
+    "Link": "MC8"
+  },
+  {
+    "Rule": "Alpha and Omega (Dark Supers)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies: Day One",
+    "Page": "37",
+    "Link": "ZDO37"
+  },
+  {
     "Rule": "Alpha Racial Template (TL9)",
     "Category": [
       "Template",
@@ -1073,6 +1148,16 @@
     "Link": "B61"
   },
   {
+    "Rule": "Alternative Casualty Determination",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Mass Combat",
+    "Page": "38",
+    "Link": "MC38"
+  },
+  {
     "Rule": "Alternative Power Modifiers (Magical and Super)",
     "Category": [
       "Powers",
@@ -1127,6 +1212,15 @@
     "Book": "Supers",
     "Page": "102",
     "Link": "SU102"
+  },
+  {
+    "Rule": "Ambushes (Mass Combat)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "30",
+    "Link": "MC30"
   },
   {
     "Rule": "Ammonia-Based Life Form",
@@ -1194,6 +1288,15 @@
     "Book": "High Tech",
     "Page": "176",
     "Link": "HT176"
+  },
+  {
+    "Rule": "Amphibious Assaults",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "40",
+    "Link": "MC40"
   },
   {
     "Rule": "An * Next to DR in an Armor Table Indicates Flexible",
@@ -1802,6 +1905,15 @@
     "Link": "HT65"
   },
   {
+    "Rule": "Armor Class (Mass Combat)",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "6",
+    "Link": "MC6"
+  },
+  {
     "Rule": "Armor Divisor",
     "Category": [
       "Limitations"
@@ -2048,6 +2160,15 @@
     "Book": "Bio-Tech",
     "Page": "26",
     "Link": "BT26"
+  },
+  {
+    "Rule": "Artillery Class",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "6",
+    "Link": "MC6"
   },
   {
     "Rule": "Artillery Spells over Various Spell Colleges",
@@ -2629,6 +2750,15 @@
     "Link": "HT82"
   },
   {
+    "Rule": "Automaton (Zombies)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "69",
+    "Link": "Z69"
+  },
+  {
     "Rule": "Automatons and Mechanical Men",
     "Category": [
       "Setting"
@@ -2815,6 +2945,16 @@
     "Link": "TT2:45"
   },
   {
+    "Rule": "Bad Weather (Mass Combat)",
+    "Category": [
+      "Combat",
+      "Environment"
+    ],
+    "Book": "Mass Combat",
+    "Page": "28",
+    "Link": "MC28"
+  },
+  {
     "Rule": "Balancing Status and Rank",
     "Category": [
       "Traits"
@@ -2878,6 +3018,15 @@
     "Book": "Dungeon Fantasy 1",
     "Page": "4",
     "Link": "DF1:4"
+  },
+  {
+    "Rule": "Barbarian Dragon-Slayer",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "152",
+    "Link": "DR152"
   },
   {
     "Rule": "Barbarian Gear",
@@ -3055,6 +3204,16 @@
     "Link": "B17"
   },
   {
+    "Rule": "Basic Strategy Modifier",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Mass Combat",
+    "Page": "30",
+    "Link": "MC30"
+  },
+  {
     "Rule": "Basilisk",
     "Category": [
       "Creatures"
@@ -3092,6 +3251,110 @@
     "Book": "Powers: Enhanced Senses",
     "Page": "28",
     "Link": "PES28"
+  },
+  {
+    "Rule": "Battle Captives",
+    "Category": [
+      "Combat",
+      "NPC"
+    ],
+    "Book": "Mass Combat",
+    "Page": "39",
+    "Link": "MC39"
+  },
+  {
+    "Rule": "Battle Casualties",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Mass Combat",
+    "Page": "37",
+    "Link": "MC37"
+  },
+  {
+    "Rule": "Battle Length Table",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "46",
+    "Link": "MC46"
+  },
+  {
+    "Rule": "Battle Risk",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "33",
+    "Link": "MC33"
+  },
+  {
+    "Rule": "Battle Sequence",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "32",
+    "Link": "MC32"
+  },
+  {
+    "Rule": "Battle Sequence Table",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "46",
+    "Link": "MC46"
+  },
+  {
+    "Rule": "Battle Strategies",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Mass Combat",
+    "Page": "34",
+    "Link": "MC34"
+  },
+  {
+    "Rule": "Battle Strategies Table",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "46",
+    "Link": "MC46"
+  },
+  {
+    "Rule": "Battle Strategy Roll",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Mass Combat",
+    "Page": "36",
+    "Link": "MC36"
+  },
+  {
+    "Rule": "Battle Strategy Roll Table",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "47",
+    "Link": "MC47"
+  },
+  {
+    "Rule": "Battlefield Terrain",
+    "Category": [
+      "Combat",
+      "Environment"
+    ],
+    "Book": "Mass Combat",
+    "Page": "29",
+    "Link": "MC29"
   },
   {
     "Rule": "Battlesuits Table",
@@ -3205,6 +3468,16 @@
     "Book": "Martial Arts",
     "Page": "100",
     "Link": "MA100"
+  },
+  {
+    "Rule": "Beheading Blow",
+    "Category": [
+      "Techniques",
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "36",
+    "Link": "Z36"
   },
   {
     "Rule": "Being Forcibly Unlinked from Combined Powers",
@@ -3465,6 +3738,16 @@
     "Book": "Disasters: Meltdown and Fallout",
     "Page": "20",
     "Link": "DMF20"
+  },
+  {
+    "Rule": "Biohazard!",
+    "Category": [
+      "Combat",
+      "Hazard"
+    ],
+    "Book": "Zombies",
+    "Page": "119",
+    "Link": "Z119"
   },
   {
     "Rule": "Biokinesis",
@@ -3746,6 +4029,15 @@
     "Link": "HT233"
   },
   {
+    "Rule": "Biting 101",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "108",
+    "Link": "Z108"
+  },
+  {
     "Rule": "Biting in Close Combat",
     "Category": [
       "Combat"
@@ -3883,6 +4175,16 @@
     "Book": "Infinite Worlds",
     "Page": "140",
     "Link": "IW140"
+  },
+  {
+    "Rule": "Bloated Carcass",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "96",
+    "Link": "Z96"
   },
   {
     "Rule": "Blockable",
@@ -4025,6 +4327,16 @@
     "Book": "Monster Hunters Power-Ups 1",
     "Page": "21",
     "Link": "MHPU1:21"
+  },
+  {
+    "Rule": "B-Movie Ghoul",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "91",
+    "Link": "Z91"
   },
   {
     "Rule": "Bodies Flying",
@@ -4528,6 +4840,15 @@
     "Link": "HTEE41"
   },
   {
+    "Rule": "Brains (Zombie-Maker)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "71",
+    "Link": "Z71"
+  },
+  {
     "Rule": "Brainwashing Skill (Psi Bonus)",
     "Category": [
       "Skills",
@@ -4556,6 +4877,15 @@
     "Book": "Basic",
     "Page": "182",
     "Link": "B182"
+  },
+  {
+    "Rule": "Brawn (Zombie-Maker)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "74",
+    "Link": "Z74"
   },
   {
     "Rule": "Break Free",
@@ -4973,6 +5303,16 @@
     "Link": "MH1:31"
   },
   {
+    "Rule": "Buzzing Corpse",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "99",
+    "Link": "Z99"
+  },
+  {
     "Rule": "Byzantine Eastern Roman Legionary",
     "Category": [
       "Armor"
@@ -4980,6 +5320,15 @@
     "Book": "Loadouts: Low-Tech Armor",
     "Page": "21",
     "Link": "LOLTA21"
+  },
+  {
+    "Rule": "C3I Class",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "6",
+    "Link": "MC6"
   },
   {
     "Rule": "Cabalist Mage",
@@ -5396,6 +5745,16 @@
     "Link": "M10"
   },
   {
+    "Rule": "Casualties and PCs or Major NPCs",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Mass Combat",
+    "Page": "39",
+    "Link": "MC39"
+  },
+  {
     "Rule": "Casualty Bag",
     "Category": [
       "Gear",
@@ -5470,6 +5829,25 @@
     "Book": "Mysteries",
     "Page": "33",
     "Link": "MYST33"
+  },
+  {
+    "Rule": "Cavalry Class",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "6",
+    "Link": "MC6"
+  },
+  {
+    "Rule": "Cavalry vs. Infantry",
+    "Category": [
+      "Military Elements",
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "15",
+    "Link": "MC15"
   },
   {
     "Rule": "Cavalryman (50 pt. Steampunk Template)",
@@ -5574,6 +5952,16 @@
     "Book": "Spaceships 1",
     "Page": "39",
     "Link": "SS1:39"
+  },
+  {
+    "Rule": "Chainsaws and Zombies",
+    "Category": [
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "44",
+    "Link": "Z44"
   },
   {
     "Rule": "Chambered Rounds",
@@ -5807,6 +6195,17 @@
     "Link": "S31"
   },
   {
+    "Rule": "Chemical Weapons in Mass Combat",
+    "Category": [
+      "Combat",
+      "Weapons",
+      "Poison"
+    ],
+    "Book": "Mass Combat",
+    "Page": "41",
+    "Link": "MC41"
+  },
+  {
     "Rule": "Chemicals and Munitions",
     "Category": [
       "Environment"
@@ -5940,6 +6339,16 @@
     "Book": "Horror",
     "Page": "35",
     "Link": "H35"
+  },
+  {
+    "Rule": "Chinese Dragons and all Their Variations",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "147",
+    "Link": "DR147"
   },
   {
     "Rule": "Chinese Elemental Talents (Earth, Fire, Metal, Water, Wood)",
@@ -6669,6 +7078,24 @@
     "Link": "PU2:4"
   },
   {
+    "Rule": "Combat Results",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "36",
+    "Link": "MC36"
+  },
+  {
+    "Rule": "Combat Results Table",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "47",
+    "Link": "MC47"
+  },
+  {
     "Rule": "Combat Teleport",
     "Category": [
       "Traits"
@@ -7275,6 +7702,15 @@
     "Link": "B437"
   },
   {
+    "Rule": "Contagion (Zombie-Maker)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "85",
+    "Link": "Z85"
+  },
+  {
     "Rule": "Containers",
     "Category": [
       "Gear"
@@ -7444,6 +7880,15 @@
     "Book": "Dungeon Fantasy Monsters 1",
     "Page": "8",
     "Link": "DFM1:8"
+  },
+  {
+    "Rule": "Corpse Golem (Zombies)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "92",
+    "Link": "Z92"
   },
   {
     "Rule": "Corrosion Damage Reducing DR",
@@ -7646,6 +8091,16 @@
     "Link": "PU3:4"
   },
   {
+    "Rule": "Cost to Raise a Force",
+    "Category": [
+      "Military Elements",
+      "Currency"
+    ],
+    "Book": "Mass Combat",
+    "Page": "12",
+    "Link": "MC12"
+  },
+  {
     "Rule": "Costs Fatigue",
     "Category": [
       "Limitations"
@@ -7830,6 +8285,25 @@
     "Link": "LTC3:24"
   },
   {
+    "Rule": "Crawling Wyrm",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "144",
+    "Link": "DR144"
+  },
+  {
+    "Rule": "Crazy (Zombies)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "102",
+    "Link": "Z102"
+  },
+  {
     "Rule": "Creating Fine Metalwork",
     "Category": [
       "Professions"
@@ -7837,6 +8311,15 @@
     "Book": "Low Tech Companion 3",
     "Page": "27",
     "Link": "LTC3:27"
+  },
+  {
+    "Rule": "Creepy Assistants",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Zombies",
+    "Page": "42",
+    "Link": "Z42"
   },
   {
     "Rule": "Crewman (50 pt. Steampunk Template)",
@@ -8142,6 +8625,16 @@
     "Book": "Horror",
     "Page": "12",
     "Link": "H12"
+  },
+  {
+    "Rule": "Customization Cost",
+    "Category": [
+      "Military Elements",
+      "Currency"
+    ],
+    "Book": "Mass Combat",
+    "Page": "8",
+    "Link": "MC8"
   },
   {
     "Rule": "Customizing Computer Hardware Options",
@@ -8573,6 +9066,15 @@
     "Link": "MYST101"
   },
   {
+    "Rule": "Defense Bonus (Mass Combat)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "32",
+    "Link": "MC32"
+  },
+  {
     "Rule": "Defense in Close Combat",
     "Category": [
       "Combat"
@@ -8990,6 +9492,15 @@
     "Link": "TT2:18"
   },
   {
+    "Rule": "Depravity Well (Science Fiction Horror)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies: Day One",
+    "Page": "49",
+    "Link": "ZDO49"
+  },
+  {
     "Rule": "Designing a Stardrive",
     "Category": [
       "Setting"
@@ -9026,6 +9537,15 @@
     "Book": "Basic",
     "Page": "472",
     "Link": "B472"
+  },
+  {
+    "Rule": "Desperate Strategy",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "36",
+    "Link": "MC36"
   },
   {
     "Rule": "Destiny Points",
@@ -9099,6 +9619,15 @@
     "Book": "Horror",
     "Page": "37",
     "Link": "H37"
+  },
+  {
+    "Rule": "Determining Victory",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "38",
+    "Link": "MC38"
   },
   {
     "Rule": "Determining Who Draws First",
@@ -9186,6 +9715,15 @@
     "Link": "BT68"
   },
   {
+    "Rule": "Dicing for Zombies",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Zombies",
+    "Page": "143",
+    "Link": "Z143"
+  },
+  {
     "Rule": "Dictum of Fate (Aura) (Pyramid Magazine)",
     "Category": [
       "Auras"
@@ -9222,6 +9760,15 @@
     "Link": "B350"
   },
   {
+    "Rule": "Digging Out",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "123",
+    "Link": "Z123"
+  },
+  {
     "Rule": "Dimension and Time Travel (Ultra-Tech)",
     "Category": [
       "Setting"
@@ -9247,6 +9794,16 @@
     "Book": "Infinite Worlds",
     "Page": "191",
     "Link": "IW191"
+  },
+  {
+    "Rule": "Dinosaurs, Pterosaurs, and Megalania",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "150",
+    "Link": "DR150"
   },
   {
     "Rule": "Directed Energy Weapons",
@@ -9324,6 +9881,15 @@
     "Link": "B401"
   },
   {
+    "Rule": "Disbanding Elements",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "14",
+    "Link": "MC14"
+  },
+  {
     "Rule": "Disciplines of Faith (Contemplation)",
     "Category": [
       "Traits"
@@ -9376,6 +9942,15 @@
     "Book": "High Tech",
     "Page": "98",
     "Link": "HT98"
+  },
+  {
+    "Rule": "Disloyal Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "8",
+    "Link": "MC8"
   },
   {
     "Rule": "Dispersed Spirit",
@@ -9732,6 +10307,16 @@
     "Link": "UT220"
   },
   {
+    "Rule": "Draconic Lizardman",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "144",
+    "Link": "DR144"
+  },
+  {
     "Rule": "Draconis Campaign Setting",
     "Category": [
       "Setting"
@@ -9748,6 +10333,16 @@
     "Book": "Basic",
     "Page": "371",
     "Link": "B371"
+  },
+  {
+    "Rule": "Dragon Combat Abilities and Maneuvers",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "151",
+    "Link": "DR151"
   },
   {
     "Rule": "Dragon Deadlier Weapons",
@@ -9798,6 +10393,16 @@
     "Book": "Dungeon Fantasy Monsters 4: Dragons",
     "Page": "13",
     "Link": "DFM4:13"
+  },
+  {
+    "Rule": "Dragon Personality Lenses",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "150",
+    "Link": "DR150"
   },
   {
     "Rule": "Dragon Size",
@@ -9855,6 +10460,24 @@
     "Book": "Fantasy Folk: The Reptilian Races",
     "Page": "12",
     "Link": "FFRR12"
+  },
+  {
+    "Rule": "Dragon-Blooded Human",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "152",
+    "Link": "DR152"
+  },
+  {
+    "Rule": "Dragon-Friend",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "153",
+    "Link": "DR153"
   },
   {
     "Rule": "Dragon-Man Kung Fu (Fictional) Style",
@@ -10540,6 +11163,16 @@
     "Link": "BT204"
   },
   {
+    "Rule": "Economic Considerations",
+    "Category": [
+      "Military Elements",
+      "Currency"
+    ],
+    "Book": "Mass Combat",
+    "Page": "13",
+    "Link": "MC13"
+  },
+  {
     "Rule": "Economics (Space Setting)",
     "Category": [
       "Setting"
@@ -10811,6 +11444,51 @@
     "Book": "High-Tech: Electricity and Electronics",
     "Page": "6",
     "Link": "HTEE6"
+  },
+  {
+    "Rule": "Element Customization",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "5",
+    "Link": "MC5"
+  },
+  {
+    "Rule": "Element Improvements",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "12",
+    "Link": "MC12"
+  },
+  {
+    "Rule": "Element Mobility",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "7",
+    "Link": "MC7"
+  },
+  {
+    "Rule": "Element Quantity",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "6",
+    "Link": "MC6"
+  },
+  {
+    "Rule": "Element Types",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "5",
+    "Link": "MC5"
   },
   {
     "Rule": "Elemental (Power Modifier)",
@@ -11145,6 +11823,24 @@
     "Link": "PU3:10"
   },
   {
+    "Rule": "Empire of the Necromancer-King (Fantasy)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies: Day One",
+    "Page": "5",
+    "Link": "ZDO5"
+  },
+  {
+    "Rule": "Encamped Forces",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "28",
+    "Link": "MC28"
+  },
+  {
     "Rule": "Encapsulated Cell Implants",
     "Category": [
       "Gear"
@@ -11152,6 +11848,16 @@
     "Book": "Bio-Tech",
     "Page": "120",
     "Link": "BT120"
+  },
+  {
+    "Rule": "Enchanted Gear",
+    "Category": [
+      "Gear",
+      "Magic"
+    ],
+    "Book": "Zombies",
+    "Page": "47",
+    "Link": "Z47"
   },
   {
     "Rule": "Enchanted Item Dealer",
@@ -11308,6 +12014,15 @@
     "Book": "Disasters: Meltdown and Fallout",
     "Page": "13",
     "Link": "DMF13"
+  },
+  {
+    "Rule": "Engineering Class",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "7",
+    "Link": "MC7"
   },
   {
     "Rule": "English Harquebusier, 17th Century",
@@ -11489,6 +12204,16 @@
     "Book": "Ultra-Tech",
     "Page": "176",
     "Link": "UT176"
+  },
+  {
+    "Rule": "Environmental Issues (Mass Combat)",
+    "Category": [
+      "Combat",
+      "Environment"
+    ],
+    "Book": "Mass Combat",
+    "Page": "28",
+    "Link": "MC28"
   },
   {
     "Rule": "Environmental Protection TL5 to TL8",
@@ -11692,6 +12417,25 @@
     "Book": "Power-Ups 2: Perks",
     "Page": "8",
     "Link": "PU2:8"
+  },
+  {
+    "Rule": "Equipment Quality",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "11",
+    "Link": "MC11"
+  },
+  {
+    "Rule": "Equipment Quality Table",
+    "Category": [
+      "Reference",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "11",
+    "Link": "MC11"
   },
   {
     "Rule": "Equipment Shelter (Low Tech)",
@@ -12073,6 +12817,26 @@
     "Link": "P161"
   },
   {
+    "Rule": "Examples of Zombie Contagion",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Zombies",
+    "Page": "129",
+    "Link": "Z129"
+  },
+  {
+    "Rule": "Exceptional Powers in Battle",
+    "Category": [
+      "Combat",
+      "Powers",
+      "Magic"
+    ],
+    "Book": "Mass Combat",
+    "Page": "41",
+    "Link": "MC41"
+  },
+  {
     "Rule": "Exorcism Skill (vs. Psi Abilities)",
     "Category": [
       "Skills",
@@ -12214,6 +12978,15 @@
     "Link": "IW182"
   },
   {
+    "Rule": "Expert Skill (Dracontology)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "155",
+    "Link": "DR155"
+  },
+  {
     "Rule": "Expert Skill (Natural Philosophy)",
     "Category": [
       "Skills"
@@ -12341,6 +13114,16 @@
     "Book": "High Tech",
     "Page": "181",
     "Link": "HT181"
+  },
+  {
+    "Rule": "Exposure and Resistance",
+    "Category": [
+      "Combat",
+      "Affliction"
+    ],
+    "Book": "Zombies",
+    "Page": "124",
+    "Link": "Z124"
   },
   {
     "Rule": "Extended Duration",
@@ -12639,6 +13422,15 @@
     "Link": "ACT1:9"
   },
   {
+    "Rule": "Face-Eater",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "102",
+    "Link": "Z102"
+  },
+  {
     "Rule": "Facing (Technical Grappling)",
     "Category": [
       "Combat"
@@ -12745,6 +13537,15 @@
     "Link": "B169"
   },
   {
+    "Rule": "Fanatic Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "8",
+    "Link": "MC8"
+  },
+  {
     "Rule": "Fanning and Thumbing",
     "Category": [
       "Combat"
@@ -12752,6 +13553,27 @@
     "Book": "High Tech",
     "Page": "83",
     "Link": "HT83"
+  },
+  {
+    "Rule": "Fantastic Elements",
+    "Category": [
+      "Military Elements",
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Mass Combat",
+    "Page": "18",
+    "Link": "MC18"
+  },
+  {
+    "Rule": "Fantastic Elements Table",
+    "Category": [
+      "Reference",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "19",
+    "Link": "MC19"
   },
   {
     "Rule": "Fantastical Gear (Steampunk)",
@@ -12842,6 +13664,15 @@
     "Link": "HT81"
   },
   {
+    "Rule": "Faster Fights",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "110",
+    "Link": "Z110"
+  },
+  {
     "Rule": "Fast-Firing",
     "Category": [
       "Combat"
@@ -12849,6 +13680,15 @@
     "Book": "High Tech",
     "Page": "84",
     "Link": "HT84"
+  },
+  {
+    "Rule": "Fatal Flaws (Zombie-Maker)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "80",
+    "Link": "Z80"
   },
   {
     "Rule": "Fate-Bender",
@@ -12904,6 +13744,16 @@
     "Book": "Fantasy Folk: Winged Folk",
     "Page": "24",
     "Link": "FFWF24"
+  },
+  {
+    "Rule": "Features and Quality Table",
+    "Category": [
+      "Reference",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "45",
+    "Link": "MC45"
   },
   {
     "Rule": "Februus Racial Template (TL10)",
@@ -13063,6 +13913,15 @@
     "Link": "SP3:54"
   },
   {
+    "Rule": "Fields of Fear (Historical Horror)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies: Day One",
+    "Page": "11",
+    "Link": "ZDO11"
+  },
+  {
     "Rule": "Fields of View and Extra Eyes",
     "Category": [
       "Traits"
@@ -13099,6 +13958,15 @@
     "Book": "Dungeon Fantasy 16",
     "Page": "42",
     "Link": "DF16:42"
+  },
+  {
+    "Rule": "Fighting the Battle",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "32",
+    "Link": "MC32"
   },
   {
     "Rule": "Fighting While Seated Technique",
@@ -13156,6 +14024,15 @@
     "Book": "Dungeon Fantasy 2",
     "Page": "8",
     "Link": "DF2:8"
+  },
+  {
+    "Rule": "Fire Class",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "7",
+    "Link": "MC7"
   },
   {
     "Rule": "Fire Gods (Dungeon Fantasy)",
@@ -13446,6 +14323,16 @@
     "Link": "MHPU1:16"
   },
   {
+    "Rule": "Flagship Feature",
+    "Category": [
+      "Military Elements",
+      "Vehicles"
+    ],
+    "Book": "Mass Combat",
+    "Page": "8",
+    "Link": "MC8"
+  },
+  {
     "Rule": "Flails Special Melee Rules",
     "Category": [
       "Combat"
@@ -13723,6 +14610,15 @@
     "Link": "B105"
   },
   {
+    "Rule": "Follow-Up Damage",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "381",
+    "Link": "B381"
+  },
+  {
     "Rule": "Follow-Up Poison",
     "Category": [
       "Poison"
@@ -13851,6 +14747,16 @@
     "Book": "Power-Ups 3: Talents",
     "Page": "7",
     "Link": "PU3:7"
+  },
+  {
+    "Rule": "Forces in Motion",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Mass Combat",
+    "Page": "27",
+    "Link": "MC27"
   },
   {
     "Rule": "Fording a River",
@@ -14105,6 +15011,15 @@
     "Link": "B360"
   },
   {
+    "Rule": "Fright Checks (Zombies)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "109",
+    "Link": "Z109"
+  },
+  {
     "Rule": "Fright Checks The Rule of 14",
     "Category": [
       "Attributes"
@@ -14245,6 +15160,15 @@
     "Book": "Infinite Worlds",
     "Page": "125",
     "Link": "IW125"
+  },
+  {
+    "Rule": "Galvanoid",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "92",
+    "Link": "Z92"
   },
   {
     "Rule": "Game Time",
@@ -14920,6 +15844,16 @@
     "Book": "Horror",
     "Page": "59",
     "Link": "H59"
+  },
+  {
+    "Rule": "Ghoul (Zombies)",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "96",
+    "Link": "Z96"
   },
   {
     "Rule": "Giant Ant",
@@ -16097,6 +17031,16 @@
     "Link": "FFE14"
   },
   {
+    "Rule": "Half-Human Naga",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "144",
+    "Link": "DR144"
+  },
+  {
     "Rule": "Halfling Marksmanship Talent",
     "Category": [
       "Traits"
@@ -16285,6 +17229,15 @@
     "Link": "MYST22"
   },
   {
+    "Rule": "Hardened Survivor",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Zombies",
+    "Page": "39",
+    "Link": "Z39"
+  },
+  {
     "Rule": "Hard-Wired Programs Rules",
     "Category": [
       "Skills"
@@ -16436,6 +17389,16 @@
     "Book": "Supers",
     "Page": "85",
     "Link": "SU85"
+  },
+  {
+    "Rule": "Headshot",
+    "Category": [
+      "Techniques",
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "36",
+    "Link": "Z36"
   },
   {
     "Rule": "Healer",
@@ -16700,6 +17663,25 @@
     "Link": "TCEP32"
   },
   {
+    "Rule": "Hero Feature",
+    "Category": [
+      "Military Elements",
+      "Traits"
+    ],
+    "Book": "Mass Combat",
+    "Page": "9",
+    "Link": "MC9"
+  },
+  {
+    "Rule": "Heroes Resistance and Immunity",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "30",
+    "Link": "Z30"
+  },
+  {
     "Rule": "Heroic Advantages",
     "Category": [
       "Traits"
@@ -16763,6 +17745,16 @@
     "Book": "Dungeon Fantasy 2",
     "Page": "12",
     "Link": "DF2:12"
+  },
+  {
+    "Rule": "Hideouts and Vehicles",
+    "Category": [
+      "Setting",
+      "Gear"
+    ],
+    "Book": "Zombies",
+    "Page": "122",
+    "Link": "Z122"
   },
   {
     "Rule": "High Acceleration",
@@ -16994,6 +17986,15 @@
     "Book": "Powers",
     "Page": "148",
     "Link": "P148"
+  },
+  {
+    "Rule": "Hoard Raider",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "153",
+    "Link": "DR153"
   },
   {
     "Rule": "Hobgoblin Witch Doctor",
@@ -17235,6 +18236,24 @@
     "Link": "MATG38"
   },
   {
+    "Rule": "Horde Action",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "114",
+    "Link": "Z114"
+  },
+  {
+    "Rule": "Hordes and Large-Area Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "116",
+    "Link": "Z116"
+  },
+  {
     "Rule": "Horizontal (Technical Grappling)",
     "Category": [
       "Traits"
@@ -17327,6 +18346,16 @@
     "Link": "DMF12"
   },
   {
+    "Rule": "Hovercraft Feature",
+    "Category": [
+      "Military Elements",
+      "Vehicles"
+    ],
+    "Book": "Mass Combat",
+    "Page": "9",
+    "Link": "MC9"
+  },
+  {
     "Rule": "Hovercraft Table (Ultra-Tech)",
     "Category": [
       "Reference",
@@ -17344,6 +18373,24 @@
     "Book": "Powers: Enhanced Senses",
     "Page": "23",
     "Link": "PES23"
+  },
+  {
+    "Rule": "How Many Types?",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies",
+    "Page": "141",
+    "Link": "Z141"
+  },
+  {
+    "Rule": "How Many Zombies?",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies",
+    "Page": "137",
+    "Link": "Z137"
   },
   {
     "Rule": "How Tough Is My Stuff?",
@@ -17812,6 +18859,15 @@
     "Link": "PU3:11"
   },
   {
+    "Rule": "Impetuous Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "9",
+    "Link": "MC9"
+  },
+  {
     "Rule": "Impossible Positions",
     "Category": [
       "Combat"
@@ -18083,6 +19139,24 @@
     "Link": "SP3:35"
   },
   {
+    "Rule": "Infected (Zombies)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "98",
+    "Link": "Z98"
+  },
+  {
+    "Rule": "Infester",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "99",
+    "Link": "Z99"
+  },
+  {
     "Rule": "Infiltrator",
     "Category": [
       "Template"
@@ -18231,6 +19305,15 @@
     "Link": "MH1:13"
   },
   {
+    "Rule": "Inhuman (Zombies)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "70",
+    "Link": "Z70"
+  },
+  {
     "Rule": "Inhuman Races",
     "Category": [
       "Template",
@@ -18248,6 +19331,16 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "24",
     "Link": "MH1:24"
+  },
+  {
+    "Rule": "Initial Intelligence",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Mass Combat",
+    "Page": "30",
+    "Link": "MC30"
   },
   {
     "Rule": "Initiate",
@@ -18451,6 +19544,15 @@
     "Book": "Power-Ups 8: Limitations",
     "Page": "15",
     "Link": "PU8:15"
+  },
+  {
+    "Rule": "Intact Corpse",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "68",
+    "Link": "Z68"
   },
   {
     "Rule": "Integrating and Modifying Equipment",
@@ -18854,6 +19956,16 @@
     "Link": "H38"
   },
   {
+    "Rule": "Judgment's Legionary",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "93",
+    "Link": "Z93"
+  },
+  {
     "Rule": "Judo (Technical Grappling)",
     "Category": [
       "Skills"
@@ -19156,6 +20268,15 @@
     "Book": "Dungeon Fantasy 13",
     "Page": "19",
     "Link": "DF13:19"
+  },
+  {
+    "Rule": "Knight in Shining Armor",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "153",
+    "Link": "DR153"
   },
   {
     "Rule": "Knight Power-Ups",
@@ -19793,6 +20914,15 @@
     "Link": "UT14"
   },
   {
+    "Rule": "Legally Dead",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "70",
+    "Link": "Z70"
+  },
+  {
     "Rule": "Legendary Teaching Technique (Hard)",
     "Category": [
       "Techniques"
@@ -19855,6 +20985,15 @@
     "Book": "Infinite Worlds",
     "Page": "129",
     "Link": "IW129"
+  },
+  {
+    "Rule": "Levy Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "9",
+    "Link": "MC9"
   },
   {
     "Rule": "Lich",
@@ -20140,6 +21279,15 @@
     "Link": "B106"
   },
   {
+    "Rule": "Linked Effects",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "381",
+    "Link": "B381"
+  },
+  {
     "Rule": "Linking Up to Combine Abilities",
     "Category": [
       "Traits",
@@ -20195,6 +21343,24 @@
     "Book": "Martial Arts: Technical Grappling",
     "Page": "25",
     "Link": "MATG25"
+  },
+  {
+    "Rule": "Logistic Force",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "13",
+    "Link": "MC13"
+  },
+  {
+    "Rule": "Logistic Strength (LS)",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "13",
+    "Link": "MC13"
   },
   {
     "Rule": "Long Feelers",
@@ -20262,6 +21428,25 @@
     "Book": "Martial Arts",
     "Page": "180",
     "Link": "M180"
+  },
+  {
+    "Rule": "Look and Feel (Zombie-Maker)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "87",
+    "Link": "Z87"
+  },
+  {
+    "Rule": "Looting the Battlefield",
+    "Category": [
+      "Combat",
+      "Resources"
+    ],
+    "Book": "Mass Combat",
+    "Page": "39",
+    "Link": "MC39"
   },
   {
     "Rule": "Lost HP Thresholds",
@@ -20373,6 +21558,16 @@
     "Book": "Martial Arts: Gladiators",
     "Page": "32",
     "Link": "MAG32"
+  },
+  {
+    "Rule": "Lurcher",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "96",
+    "Link": "Z96"
   },
   {
     "Rule": "Lycanthrope",
@@ -20949,6 +22144,26 @@
     "Link": "DMF6"
   },
   {
+    "Rule": "Maintaining a Force",
+    "Category": [
+      "Military Elements",
+      "Currency"
+    ],
+    "Book": "Mass Combat",
+    "Page": "13",
+    "Link": "MC13"
+  },
+  {
+    "Rule": "Maintaining a Force in Bad Terrain",
+    "Category": [
+      "Military Elements",
+      "Environment"
+    ],
+    "Book": "Mass Combat",
+    "Page": "14",
+    "Link": "MC14"
+  },
+  {
     "Rule": "Maintaining Gadgets (Ultra-Tech)",
     "Category": [
       "Gear"
@@ -21193,6 +22408,16 @@
     "Link": "LTC3:22"
   },
   {
+    "Rule": "Many-Headed Dragons",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "151",
+    "Link": "DR151"
+  },
+  {
     "Rule": "Mapping the Galaxy",
     "Category": [
       "Setting"
@@ -21209,6 +22434,15 @@
     "Book": "Space",
     "Page": "80",
     "Link": "S80"
+  },
+  {
+    "Rule": "Marine Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "9",
+    "Link": "MC9"
   },
   {
     "Rule": "Mariner Talent",
@@ -21245,6 +22479,24 @@
     "Book": "Dungeon Fantasy 11",
     "Page": "29",
     "Link": "DF11:29"
+  },
+  {
+    "Rule": "Mass Combat Glossary",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "5",
+    "Link": "MC5"
+  },
+  {
+    "Rule": "Mass Combat System",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "3",
+    "Link": "MC3"
   },
   {
     "Rule": "Mass Perception",
@@ -21862,6 +23114,15 @@
     "Link": "BS209"
   },
   {
+    "Rule": "Mercenary Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "10",
+    "Link": "MC10"
+  },
+  {
     "Rule": "Merchant",
     "Category": [
       "Template",
@@ -22122,6 +23383,15 @@
     "Link": "S187"
   },
   {
+    "Rule": "Military Units (Mass Combat)",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "5",
+    "Link": "MC5"
+  },
+  {
     "Rule": "Mind Control",
     "Category": [
       "Traits"
@@ -22353,6 +23623,25 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "56",
     "Link": "MH1:56"
+  },
+  {
+    "Rule": "Misfortunes of War",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Mass Combat",
+    "Page": "37",
+    "Link": "MC37"
+  },
+  {
+    "Rule": "Misfortunes of War Table",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "47",
+    "Link": "MC47"
   },
   {
     "Rule": "Missed Sleep",
@@ -22825,6 +24114,25 @@
     "Link": "B392"
   },
   {
+    "Rule": "Multiple Superiority Bonuses",
+    "Category": [
+      "Combat",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "32",
+    "Link": "MC32"
+  },
+  {
+    "Rule": "Mummified Corpse",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "69",
+    "Link": "Z69"
+  },
+  {
     "Rule": "Mummy",
     "Category": [
       "Template",
@@ -22984,6 +24292,24 @@
     "Book": "After the End 1",
     "Page": "25",
     "Link": "ATE1:25"
+  },
+  {
+    "Rule": "Mutatis Mutandis (Zombie-Maker)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "86",
+    "Link": "Z86"
+  },
+  {
+    "Rule": "Mutual Annihilation",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "38",
+    "Link": "MC38"
   },
   {
     "Rule": "Mycenaean Dendra Warrior",
@@ -23391,6 +24717,25 @@
     "Link": "PES27"
   },
   {
+    "Rule": "Naval Battles",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Mass Combat",
+    "Page": "40",
+    "Link": "MC40"
+  },
+  {
+    "Rule": "Naval Class",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "7",
+    "Link": "MC7"
+  },
+  {
     "Rule": "Navigation Errors (FTL)",
     "Category": [
       "Setting"
@@ -23568,6 +24913,15 @@
     "Link": "UT48"
   },
   {
+    "Rule": "Neuroid",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "104",
+    "Link": "Z104"
+  },
+  {
     "Rule": "Neurological Procedures",
     "Category": [
       "Injury",
@@ -23661,6 +25015,24 @@
     "Link": "PT38"
   },
   {
+    "Rule": "Neutralize Class Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "10",
+    "Link": "MC10"
+  },
+  {
+    "Rule": "Neutralizing Classes",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "6",
+    "Link": "MC6"
+  },
+  {
     "Rule": "New Biotech Perks (Immunity/Low Rejection/No Degeneration)",
     "Category": [
       "Traits",
@@ -23742,6 +25114,15 @@
     "Book": "Psionic Powers",
     "Page": "21",
     "Link": "PSI21"
+  },
+  {
+    "Rule": "Night Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "10",
+    "Link": "MC10"
   },
   {
     "Rule": "Night Sight",
@@ -23999,6 +25380,15 @@
     "Link": "B111"
   },
   {
+    "Rule": "Nocturnal Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "10",
+    "Link": "MC10"
+  },
+  {
     "Rule": "Nomad (Post-Apocalypse)",
     "Category": [
       "Template",
@@ -24176,6 +25566,17 @@
     "Book": "Basic",
     "Page": "112",
     "Link": "B112"
+  },
+  {
+    "Rule": "Nukes in Mass Combat",
+    "Category": [
+      "Combat",
+      "Weapons",
+      "Hazard"
+    ],
+    "Book": "Mass Combat",
+    "Page": "41",
+    "Link": "MC41"
   },
   {
     "Rule": "Nurse Template",
@@ -24488,6 +25889,15 @@
     "Link": "MH1:56"
   },
   {
+    "Rule": "Optional Features",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "8",
+    "Link": "MC8"
+  },
+  {
     "Rule": "Optional Modifiers to Investigator's Skill Roll",
     "Category": [
       "Reference",
@@ -24610,6 +26020,15 @@
     "Book": "Bio-Tech",
     "Page": "67",
     "Link": "BT67"
+  },
+  {
+    "Rule": "Ossian (Dragon Character)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "156",
+    "Link": "DR156"
   },
   {
     "Rule": "Other Crime Scene Evidence",
@@ -24980,6 +26399,15 @@
     "Book": "Powers: Enhanced Senses",
     "Page": "27",
     "Link": "PES27"
+  },
+  {
+    "Rule": "Parenthetical Support Troop Strength",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "6",
+    "Link": "MC6"
   },
   {
     "Rule": "Parkour (Action)",
@@ -25366,6 +26794,16 @@
     "Link": "SU79"
   },
   {
+    "Rule": "Personal Protection",
+    "Category": [
+      "Armor",
+      "Gear"
+    ],
+    "Book": "Zombies",
+    "Page": "45",
+    "Link": "Z45"
+  },
+  {
     "Rule": "Personal Relationships",
     "Category": [
       "Traits",
@@ -25374,6 +26812,16 @@
     "Book": "Supers",
     "Page": "67",
     "Link": "SU67"
+  },
+  {
+    "Rule": "Pestilence and Affliction",
+    "Category": [
+      "Affliction",
+      "Powers"
+    ],
+    "Book": "Zombies",
+    "Page": "56",
+    "Link": "Z56"
   },
   {
     "Rule": "Petards (Fantasy) (Jean Luc)",
@@ -25392,6 +26840,16 @@
     "Book": "Basic",
     "Page": "458",
     "Link": "B458"
+  },
+  {
+    "Rule": "Petty Drake",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "145",
+    "Link": "DR145"
   },
   {
     "Rule": "Phantasm Spirit",
@@ -25703,6 +27161,16 @@
     "Link": "MH1:46"
   },
   {
+    "Rule": "Plague Ghoul",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "90",
+    "Link": "Z90"
+  },
+  {
     "Rule": "Planetary Travel Rules (Ultra-Tech)",
     "Category": [
       "Vehicles",
@@ -25757,6 +27225,15 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "31",
     "Link": "MH1:31"
+  },
+  {
+    "Rule": "Playing Out a Siege",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "40",
+    "Link": "MC40"
   },
   {
     "Rule": "Poet Talent",
@@ -25920,6 +27397,25 @@
     "Book": "Martial Arts: Technical Grappling",
     "Page": "10",
     "Link": "MATG10"
+  },
+  {
+    "Rule": "Position Bonus (Mass Combat)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "37",
+    "Link": "MC37"
+  },
+  {
+    "Rule": "Possessed Thrall",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "94",
+    "Link": "Z94"
   },
   {
     "Rule": "Possessor Spirit",
@@ -26654,6 +28150,25 @@
     "Link": "LTC3:49"
   },
   {
+    "Rule": "Professor Friedls Mechanical Dragon",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "145",
+    "Link": "DR145"
+  },
+  {
+    "Rule": "Programming and Precedence",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "63",
+    "Link": "Z63"
+  },
+  {
     "Rule": "Projected Form",
     "Category": [
       "Traits"
@@ -27348,6 +28863,16 @@
     "Link": "MA111"
   },
   {
+    "Rule": "Pursuing a Retreating Force",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Mass Combat",
+    "Page": "38",
+    "Link": "MC38"
+  },
+  {
     "Rule": "Push Kick Technique (Martial Arts)",
     "Category": [
       "Combat",
@@ -27461,6 +28986,16 @@
     "Book": "Steampunk 1",
     "Page": "27",
     "Link": "SP1:27"
+  },
+  {
+    "Rule": "Quick Casualty Determination",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Mass Combat",
+    "Page": "38",
+    "Link": "MC38"
   },
   {
     "Rule": "Quick Contests and Technical Grappling",
@@ -27661,6 +29196,16 @@
     "Book": "Disasters: Meltdown and Fallout",
     "Page": "16",
     "Link": "DMF16"
+  },
+  {
+    "Rule": "Radiation Ghoul",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "91",
+    "Link": "Z91"
   },
   {
     "Rule": "Radiation Hazards",
@@ -27877,6 +29422,15 @@
     "Book": "Dungeon Fantasy Denizens Barbarians",
     "Page": "22",
     "Link": "DFDB22"
+  },
+  {
+    "Rule": "Raising a Force",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "12",
+    "Link": "MC12"
   },
   {
     "Rule": "Range Band Chart for Action Chase Rules",
@@ -28124,6 +29678,25 @@
     "Link": "DMF5"
   },
   {
+    "Rule": "Reading the Element Statistics",
+    "Category": [
+      "Military Elements",
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "16",
+    "Link": "MC16"
+  },
+  {
+    "Rule": "Reading Zombie Stats",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Zombies",
+    "Page": "90",
+    "Link": "Z90"
+  },
+  {
     "Rule": "Ready Maneuver",
     "Category": [
       "Combat"
@@ -28200,6 +29773,45 @@
     "Link": "T259"
   },
   {
+    "Rule": "Reanimated Corpse",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "100",
+    "Link": "Z100"
+  },
+  {
+    "Rule": "Reanimated Mummy",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "100",
+    "Link": "Z100"
+  },
+  {
+    "Rule": "Reanimated Skeleton",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "100",
+    "Link": "Z100"
+  },
+  {
+    "Rule": "Reckless Scholar",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "154",
+    "Link": "DR154"
+  },
+  {
     "Rule": "Reckoner (50 pt. Steampunk Template)",
     "Category": [
       "Template"
@@ -28216,6 +29828,34 @@
     "Book": "Basic",
     "Page": "271",
     "Link": "B271"
+  },
+  {
+    "Rule": "Recon Class",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "7",
+    "Link": "MC7"
+  },
+  {
+    "Rule": "Reconnaissance Contest Table",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "45",
+    "Link": "MC45"
+  },
+  {
+    "Rule": "Reconnaissance Operations",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Mass Combat",
+    "Page": "28",
+    "Link": "MC28"
   },
   {
     "Rule": "Reconnaissance UAVs Table",
@@ -28256,6 +29896,15 @@
     "Link": "MATG6"
   },
   {
+    "Rule": "Reduce Wounding Modifier for Impaling to Arm or Leg to x1",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "552",
+    "Link": "B552"
+  },
+  {
     "Rule": "Reduced Duration",
     "Category": [
       "Limitations"
@@ -28281,6 +29930,15 @@
     "Book": "Basic",
     "Page": "115",
     "Link": "B115"
+  },
+  {
+    "Rule": "Reduced Readiness",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "14",
+    "Link": "MC14"
   },
   {
     "Rule": "Reduced Time",
@@ -28382,6 +30040,26 @@
     "Book": "Martial Arts: Technical Grappling",
     "Page": "11",
     "Link": "MATG11"
+  },
+  {
+    "Rule": "Relative Troop Strength",
+    "Category": [
+      "Combat",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "31",
+    "Link": "MC31"
+  },
+  {
+    "Rule": "Relative Troop Strength Table",
+    "Category": [
+      "Reference",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "46",
+    "Link": "MC46"
   },
   {
     "Rule": "Relativity Effects",
@@ -28828,6 +30506,16 @@
     "Link": "B425"
   },
   {
+    "Rule": "Resuscitation (Zombies)",
+    "Category": [
+      "Techniques",
+      "Medical"
+    ],
+    "Book": "Zombies",
+    "Page": "36",
+    "Link": "Z36"
+  },
+  {
     "Rule": "Retain Weapon (Technical Grappling)",
     "Category": [
       "Combat",
@@ -28937,6 +30625,16 @@
     "Book": "Martial Arts",
     "Page": "78",
     "Link": "MA78"
+  },
+  {
+    "Rule": "ReViv-ified",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "104",
+    "Link": "Z104"
   },
   {
     "Rule": "Revolvers",
@@ -29199,6 +30897,15 @@
     "Link": "S116"
   },
   {
+    "Rule": "Rotting Corpse",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "69",
+    "Link": "Z69"
+  },
+  {
     "Rule": "Round Fractional Character Point Costs Up",
     "Category": [
       "Attributes"
@@ -29318,6 +31025,24 @@
     "Link": "IW141"
   },
   {
+    "Rule": "Sacrifice (Zombies)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "121",
+    "Link": "Z121"
+  },
+  {
+    "Rule": "Sacrifice Survivor",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "154",
+    "Link": "DR154"
+  },
+  {
     "Rule": "Sacrifice Throw (Technical Grappling)",
     "Category": [
       "Combat",
@@ -29427,6 +31152,15 @@
     "Book": "Crusades",
     "Page": "33",
     "Link": "C33"
+  },
+  {
+    "Rule": "Savage Streets (Modern Action)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies: Day One",
+    "Page": "17",
+    "Link": "ZDO17"
   },
   {
     "Rule": "Savage Warrior (Denizens)",
@@ -29678,6 +31412,15 @@
     "Link": "DF11:32"
   },
   {
+    "Rule": "Screaming Victim",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Zombies",
+    "Page": "37",
+    "Link": "Z37"
+  },
+  {
     "Rule": "Scythian Horse Archer",
     "Category": [
       "Armor"
@@ -29720,6 +31463,16 @@
       "Template",
       "Creatures"
     ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "145",
+    "Link": "DR145"
+  },
+  {
+    "Rule": "Sea Serpent",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
     "Book": "Horror",
     "Page": "154",
     "Link": "H154"
@@ -29741,6 +31494,15 @@
     "Book": "Disasters: Meltdown and Fallout",
     "Page": "11",
     "Link": "DMF11"
+  },
+  {
+    "Rule": "Sealed Feature",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "10",
+    "Link": "MC10"
   },
   {
     "Rule": "Search Modifier by City Population",
@@ -30042,6 +31804,16 @@
     "Link": "B120"
   },
   {
+    "Rule": "Selfish Dead",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "95",
+    "Link": "Z95"
+  },
+  {
     "Rule": "Self-Study",
     "Category": [
       "Skills"
@@ -30271,6 +32043,15 @@
     "Book": "Steampunk 3",
     "Page": "41",
     "Link": "SP3:41"
+  },
+  {
+    "Rule": "Servile Minion",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "154",
+    "Link": "DR154"
   },
   {
     "Rule": "Servitor Spirit",
@@ -30845,6 +32626,15 @@
     "Link": "MA124"
   },
   {
+    "Rule": "Sieges (Mass Combat)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "39",
+    "Link": "MC39"
+  },
+  {
     "Rule": "Sifu",
     "Category": [
       "Template"
@@ -30901,6 +32691,16 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "53",
     "Link": "MH1:53"
+  },
+  {
+    "Rule": "Significant Actions",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Mass Combat",
+    "Page": "33",
+    "Link": "MC33"
   },
   {
     "Rule": "Silent Ammo",
@@ -31003,6 +32803,15 @@
     "Book": "Template Toolkit 2: Races",
     "Page": "13",
     "Link": "TT2:13"
+  },
+  {
+    "Rule": "Skeletal Corpse",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "69",
+    "Link": "Z69"
   },
   {
     "Rule": "Skeletons",
@@ -31195,6 +33004,15 @@
     "Link": "H43"
   },
   {
+    "Rule": "Slayers Advisor",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "155",
+    "Link": "DR155"
+  },
+  {
     "Rule": "Slayer's Strike",
     "Category": [
       "Combat",
@@ -31363,6 +33181,16 @@
     "Link": "PU3:15"
   },
   {
+    "Rule": "Snake-Form Naga",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "144",
+    "Link": "DR144"
+  },
+  {
     "Rule": "Snap Weapon (Technical Grappling)",
     "Category": [
       "Combat",
@@ -31476,6 +33304,15 @@
     "Link": "SE17"
   },
   {
+    "Rule": "Social Traits for Zombies",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "89",
+    "Link": "Z89"
+  },
+  {
     "Rule": "Society Types Table",
     "Category": [
       "Reference"
@@ -31553,6 +33390,24 @@
     "Link": "PSIS18"
   },
   {
+    "Rule": "Soldier X",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "104",
+    "Link": "Z104"
+  },
+  {
+    "Rule": "Solidified Spirit",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "69",
+    "Link": "Z69"
+  },
+  {
     "Rule": "Sonar Implants",
     "Category": [
       "Traits"
@@ -31581,6 +33436,15 @@
     "Book": "Psis",
     "Page": "19",
     "Link": "PSIS19"
+  },
+  {
+    "Rule": "Sorcerer (Dragons)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "156",
+    "Link": "DR156"
   },
   {
     "Rule": "Sound Spells College",
@@ -33276,6 +35140,35 @@
     "Link": "S124"
   },
   {
+    "Rule": "Special Class",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "6",
+    "Link": "MC6"
+  },
+  {
+    "Rule": "Special Class Superiority",
+    "Category": [
+      "Combat",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "31",
+    "Link": "MC31"
+  },
+  {
+    "Rule": "Special Class Superiority Table",
+    "Category": [
+      "Reference",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "46",
+    "Link": "MC46"
+  },
+  {
     "Rule": "Special Exercises",
     "Category": [
       "Traits"
@@ -33667,6 +35560,15 @@
     "Link": "TT4:19"
   },
   {
+    "Rule": "Splatter (Zombies)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "125",
+    "Link": "Z125"
+  },
+  {
     "Rule": "Spooked Mounts",
     "Category": [
       "Mounts"
@@ -34002,6 +35904,25 @@
     "Book": "Ultra-Tech",
     "Page": "193",
     "Link": "UT193"
+  },
+  {
+    "Rule": "Statistics for Logistics Troops",
+    "Category": [
+      "Military Elements",
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "13",
+    "Link": "MC13"
+  },
+  {
+    "Rule": "Staying Out of Reach",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "120",
+    "Link": "Z120"
   },
   {
     "Rule": "ST-Based",
@@ -34616,6 +36537,16 @@
     "Link": "HT124"
   },
   {
+    "Rule": "Subordinate Commands",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Mass Combat",
+    "Page": "40",
+    "Link": "MC40"
+  },
+  {
     "Rule": "Substantial Only",
     "Category": [
       "Limitations"
@@ -34892,6 +36823,16 @@
     "Link": "PES27"
   },
   {
+    "Rule": "Super-Healing and Force Replacement",
+    "Category": [
+      "Military Elements",
+      "Medical"
+    ],
+    "Book": "Mass Combat",
+    "Page": "14",
+    "Link": "MC14"
+  },
+  {
     "Rule": "Super-Hearing",
     "Category": [
       "Traits"
@@ -34948,6 +36889,16 @@
     "Link": "MH1:44"
   },
   {
+    "Rule": "Supernatural Zombification",
+    "Category": [
+      "Supernatural",
+      "Magic"
+    ],
+    "Book": "Zombies",
+    "Page": "133",
+    "Link": "Z133"
+  },
+  {
     "Rule": "Superscience (TL^)",
     "Category": [
       "Setting"
@@ -34964,6 +36915,16 @@
     "Book": "Powers: Enhanced Senses",
     "Page": "24",
     "Link": "PES24"
+  },
+  {
+    "Rule": "Super-Soldier Feature",
+    "Category": [
+      "Military Elements",
+      "Traits"
+    ],
+    "Book": "Mass Combat",
+    "Page": "10",
+    "Link": "MC10"
   },
   {
     "Rule": "Super-Soldiers (Infinite Worlds)",
@@ -35134,6 +37095,15 @@
     "Link": "DMF13"
   },
   {
+    "Rule": "Survival Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Zombies",
+    "Page": "47",
+    "Link": "Z47"
+  },
+  {
     "Rule": "Survival Gear Table (Ultra-Tech)",
     "Category": [
       "Reference",
@@ -35144,6 +37114,15 @@
     "Link": "UT75"
   },
   {
+    "Rule": "Survival Traits",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "27",
+    "Link": "Z27"
+  },
+  {
     "Rule": "Survivor Barbarian (Denizens)",
     "Category": [
       "Template"
@@ -35151,6 +37130,15 @@
     "Book": "Dungeon Fantasy Denizens Barbarians",
     "Page": "8",
     "Link": "DFDB8"
+  },
+  {
+    "Rule": "Survivor Perks",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "31",
+    "Link": "Z31"
   },
   {
     "Rule": "Survivor Talent",
@@ -35199,6 +37187,15 @@
     "Book": "High Tech",
     "Page": "85",
     "Link": "HT85"
+  },
+  {
+    "Rule": "Sustenance (Zombie-Maker)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "78",
+    "Link": "Z78"
   },
   {
     "Rule": "Swamp Monster",
@@ -35500,6 +37497,15 @@
     "Book": "Basic",
     "Page": "109",
     "Link": "B109"
+  },
+  {
+    "Rule": "Symptoms (Zombies)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "128",
+    "Link": "Z128"
   },
   {
     "Rule": "Synesthesia (Enhanced Senses)",
@@ -35945,6 +37951,16 @@
     "Link": "B304"
   },
   {
+    "Rule": "Technological Zombification",
+    "Category": [
+      "Creatures",
+      "Setting"
+    ],
+    "Book": "Zombies",
+    "Page": "135",
+    "Link": "Z135"
+  },
+  {
     "Rule": "Technology Areas Overview (Space)",
     "Category": [
       "Setting"
@@ -36208,6 +38224,16 @@
     "Book": "Space",
     "Page": "129",
     "Link": "S129"
+  },
+  {
+    "Rule": "Terrain Feature",
+    "Category": [
+      "Military Elements",
+      "Environment"
+    ],
+    "Book": "Mass Combat",
+    "Page": "10",
+    "Link": "MC10"
   },
   {
     "Rule": "Terrain Type Modifiers for Wilderness Survival",
@@ -36592,6 +38618,15 @@
     "Link": "PES29"
   },
   {
+    "Rule": "Thoughtful Dragonslayer",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "155",
+    "Link": "DR155"
+  },
+  {
     "Rule": "Threat Detection",
     "Category": [
       "Traits"
@@ -36618,6 +38653,15 @@
     "Book": "Disasters: Meltdown and Fallout",
     "Page": "15",
     "Link": "DMF15"
+  },
+  {
+    "Rule": "Three-Sided Battles",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Mass Combat",
+    "Page": "40",
+    "Link": "MC40"
   },
   {
     "Rule": "Threshold Entity",
@@ -36771,6 +38815,15 @@
     "Link": "MYST32"
   },
   {
+    "Rule": "Time of the Zombies (Post Apocalyptic)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies: Day One",
+    "Page": "43",
+    "Link": "ZDO43"
+  },
+  {
     "Rule": "Time Required to Grab and Use a Potion",
     "Category": [
       "Magic",
@@ -36789,6 +38842,15 @@
     "Book": "Powers: The Weird",
     "Page": "25",
     "Link": "PW25"
+  },
+  {
+    "Rule": "Time to Raise a Force",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "12",
+    "Link": "MC12"
   },
   {
     "Rule": "Time Viewers",
@@ -36873,6 +38935,48 @@
     "Book": "Ultra-Tech",
     "Page": "8",
     "Link": "UT8"
+  },
+  {
+    "Rule": "TL0-5 Land Elements",
+    "Category": [
+      "Military Elements",
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "16",
+    "Link": "MC16"
+  },
+  {
+    "Rule": "TL0-5 Naval Elements",
+    "Category": [
+      "Military Elements",
+      "Vehicles",
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "18",
+    "Link": "MC18"
+  },
+  {
+    "Rule": "TL6-12 Land Elements",
+    "Category": [
+      "Military Elements",
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "20",
+    "Link": "MC20"
+  },
+  {
+    "Rule": "TL6-12 Naval Elements",
+    "Category": [
+      "Military Elements",
+      "Vehicles",
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "23",
+    "Link": "MC23"
   },
   {
     "Rule": "Tonfa Table",
@@ -37058,6 +39162,16 @@
     "Link": "IW191"
   },
   {
+    "Rule": "Toxic Ghoul",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "91",
+    "Link": "Z91"
+  },
+  {
     "Rule": "Trader (Fantasy Portal Realms)",
     "Category": [
       "Template"
@@ -37163,6 +39277,24 @@
     "Link": "FPR18"
   },
   {
+    "Rule": "Transport Class",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "7",
+    "Link": "MC7"
+  },
+  {
+    "Rule": "Transport Weight (WT)",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "7",
+    "Link": "MC7"
+  },
+  {
     "Rule": "Transportation",
     "Category": [
       "Vehicles"
@@ -37207,6 +39339,25 @@
     "Book": "Dungeon Fantasy 16",
     "Page": "23",
     "Link": "DF16:23"
+  },
+  {
+    "Rule": "Travel Speed of Mobile Forces",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Mass Combat",
+    "Page": "27",
+    "Link": "MC27"
+  },
+  {
+    "Rule": "Travel Speed Table",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Mass Combat",
+    "Page": "45",
+    "Link": "MC45"
   },
   {
     "Rule": "T-Ray Imaging",
@@ -37313,6 +39464,15 @@
     "Link": "PU8:18"
   },
   {
+    "Rule": "Triggers and Timelines",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "126",
+    "Link": "Z126"
+  },
+  {
     "Rule": "Tripods",
     "Category": [
       "Gear"
@@ -37348,6 +39508,44 @@
     "Book": "Dungeon Fantasy Monsters 1",
     "Page": "31",
     "Link": "DFM1:31"
+  },
+  {
+    "Rule": "Troop Quality",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "12",
+    "Link": "MC12"
+  },
+  {
+    "Rule": "Troop Quality Table",
+    "Category": [
+      "Reference",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "12",
+    "Link": "MC12"
+  },
+  {
+    "Rule": "Troop Strength (TS)",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "6",
+    "Link": "MC6"
+  },
+  {
+    "Rule": "Troop Strength Modifiers",
+    "Category": [
+      "Combat",
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "31",
+    "Link": "MC31"
   },
   {
     "Rule": "Trooper (Post-Apocalypse)",
@@ -37473,6 +39671,15 @@
     "Link": "B363"
   },
   {
+    "Rule": "Turning (Zombies)",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Zombies",
+    "Page": "31",
+    "Link": "Z31"
+  },
+  {
     "Rule": "Turning Radius at High Speeds",
     "Category": [
       "Combat",
@@ -37481,6 +39688,15 @@
     "Book": "Basic",
     "Page": "394",
     "Link": "B394"
+  },
+  {
+    "Rule": "Turning the Tide",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "117",
+    "Link": "Z117"
   },
   {
     "Rule": "Turning Your Blade",
@@ -37607,6 +39823,15 @@
     "Book": "Thaumatology: Chinese Elemental Powers",
     "Page": "23",
     "Link": "TCEP23"
+  },
+  {
+    "Rule": "Ultimate Zombie-Fighter (Modern Splatter)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies: Day One",
+    "Page": "30",
+    "Link": "ZDO30"
   },
   {
     "Rule": "Ultrapower",
@@ -37958,6 +40183,16 @@
     "Book": "Supers",
     "Page": "123",
     "Link": "SU123"
+  },
+  {
+    "Rule": "Unliving Troops",
+    "Category": [
+      "Military Elements",
+      "Undead"
+    ],
+    "Book": "Mass Combat",
+    "Page": "11",
+    "Link": "MC11"
   },
   {
     "Rule": "Unmanifested Spirit",
@@ -38742,6 +40977,25 @@
     "Link": "MH1:45"
   },
   {
+    "Rule": "Vital Signs (Zombie-Maker)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "70",
+    "Link": "Z70"
+  },
+  {
+    "Rule": "Vodou Slave",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Zombies",
+    "Page": "102",
+    "Link": "Z102"
+  },
+  {
     "Rule": "Voice Profiling",
     "Category": [
       "Traits"
@@ -39235,6 +41489,17 @@
     "Link": "MH1:59"
   },
   {
+    "Rule": "Weapons of Mass Destruction (Mass Combat)",
+    "Category": [
+      "Combat",
+      "Weapons",
+      "Hazard"
+    ],
+    "Book": "Mass Combat",
+    "Page": "41",
+    "Link": "MC41"
+  },
+  {
     "Rule": "Weather Control Power",
     "Category": [
       "Powers",
@@ -39370,6 +41635,16 @@
     "Link": "MH1:50"
   },
   {
+    "Rule": "Western Dragons of Various Sizes",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "146",
+    "Link": "DR146"
+  },
+  {
     "Rule": "Western Gun Slang",
     "Category": [
       "Setting"
@@ -39386,6 +41661,15 @@
     "Book": "Low Tech Companion 3",
     "Page": "8",
     "Link": "LTC3:8"
+  },
+  {
+    "Rule": "What an Element Represents",
+    "Category": [
+      "Military Elements"
+    ],
+    "Book": "Mass Combat",
+    "Page": "4",
+    "Link": "MC4"
   },
   {
     "Rule": "What Social Status Gets You (Steam Age)",
@@ -39425,6 +41709,15 @@
     "Book": "Basic",
     "Page": "406",
     "Link": "B406"
+  },
+  {
+    "Rule": "Whisperer",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "102",
+    "Link": "Z102"
   },
   {
     "Rule": "White Star Trader",
@@ -39928,6 +42221,15 @@
     "Link": "PU4:18"
   },
   {
+    "Rule": "Worrisome Worrying",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "110",
+    "Link": "Z110"
+  },
+  {
     "Rule": "Wounding Modifiers and Injury",
     "Category": [
       "Injury"
@@ -39935,6 +42237,16 @@
     "Book": "Basic",
     "Page": "379",
     "Link": "B379"
+  },
+  {
+    "Rule": "Wounding Modifiers and Zombies",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Zombies",
+    "Page": "110",
+    "Link": "Z110"
   },
   {
     "Rule": "Wrench (Limb) (Technical Grappling)",
@@ -40072,6 +42384,16 @@
     "Link": "HT238"
   },
   {
+    "Rule": "Wyvern (Dragons, 4e Conversion)",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Dragons (4e Conversion)",
+    "Page": "145",
+    "Link": "DR145"
+  },
+  {
     "Rule": "Wyvern (Quantum 4 Parallel 1904 World)",
     "Category": [
       "Setting"
@@ -40158,6 +42480,125 @@
     "Link": "UT186"
   },
   {
+    "Rule": "Zeta Force (Modern Monster Hunters)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies: Day One",
+    "Page": "23",
+    "Link": "ZDO23"
+  },
+  {
+    "Rule": "Zombie Advantages",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "50",
+    "Link": "Z50"
+  },
+  {
+    "Rule": "Zombie Attributes",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "49",
+    "Link": "Z49"
+  },
+  {
+    "Rule": "Zombie Dice",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "115",
+    "Link": "Z115"
+  },
+  {
+    "Rule": "Zombie Disadvantages",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "57",
+    "Link": "Z57"
+  },
+  {
+    "Rule": "Zombie Features",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "66",
+    "Link": "Z66"
+  },
+  {
+    "Rule": "Zombie Perks",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "55",
+    "Link": "Z55"
+  },
+  {
+    "Rule": "Zombie Quirks",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "66",
+    "Link": "Z66"
+  },
+  {
+    "Rule": "Zombie Threat Levels",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Zombies",
+    "Page": "138",
+    "Link": "Z138"
+  },
+  {
+    "Rule": "Zombie Toughness",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Zombies",
+    "Page": "111",
+    "Link": "Z111"
+  },
+  {
+    "Rule": "Zombie-Fighting Weapons",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "Zombies",
+    "Page": "43",
+    "Link": "Z43"
+  },
+  {
+    "Rule": "Zombie-Maker",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "70",
+    "Link": "Z70"
+  },
+  {
+    "Rule": "Zombie-Master",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Zombies",
+    "Page": "41",
+    "Link": "Z41"
+  },
+  {
     "Rule": "Zombies",
     "Category": [
       "Template",
@@ -40166,6 +42607,24 @@
     "Book": "Horror",
     "Page": "90",
     "Link": "H90"
+  },
+  {
+    "Rule": "Zombies and Self-Control",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Zombies",
+    "Page": "60",
+    "Link": "Z60"
+  },
+  {
+    "Rule": "Zombot",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Zombies",
+    "Page": "93",
+    "Link": "Z93"
   },
   {
     "Rule": "Zoogloeal Organisms (Biofilms/Giant Blobs)",
