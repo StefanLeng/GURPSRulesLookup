@@ -9230,7 +9230,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "13",
-    "Link": "PU11:13"
+    "Link": "DF11:13"
   },
   {
     "Rule": "Familiar (as a Dungeon Fantasy Power-Up)",
@@ -9240,7 +9240,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "14",
-    "Link": "PU11:14"
+    "Link": "DF11:14"
   },
   {
     "Rule": "Ghost Blaster",
@@ -9250,7 +9250,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "14",
-    "Link": "PU11:14"
+    "Link": "DF11:14"
   },
   {
     "Rule": "Protection from Evil/Good",
@@ -9260,7 +9260,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "15",
-    "Link": "PU11:15"
+    "Link": "DF11:15"
   },
   {
     "Rule": "Sense Evil/Good",
@@ -9270,7 +9270,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "15",
-    "Link": "PU11:15"
+    "Link": "DF11:15"
   },
   {
     "Rule": "Spell-Archery",
@@ -9280,7 +9280,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "15",
-    "Link": "PU11:15"
+    "Link": "DF11:13"
   },
   {
     "Rule": "Artificer Power-Ups",
@@ -9424,7 +9424,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "33",
-    "Link": "DF11:32"
+    "Link": "DF11:33"
   },
   {
     "Rule": "Swashbuckler Power-Ups",
@@ -9433,7 +9433,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "34",
-    "Link": "DF11:32"
+    "Link": "DF11:34"
   },
   {
     "Rule": "Thief Power-Ups",
@@ -9442,7 +9442,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "35",
-    "Link": "DF11:32"
+    "Link": "DF11:35"
   },
   {
     "Rule": "Unholy Warrior Power-Ups",
@@ -9451,7 +9451,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "36",
-    "Link": "DF11:32"
+    "Link": "DF11:36"
   },
   {
     "Rule": "Wizard Power-Ups",
@@ -9460,7 +9460,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "36",
-    "Link": "DF11:32"
+    "Link": "DF11:36"
   },
   {
     "Rule": "Ninja Training Power (Dungeon Fantasy)",
@@ -16560,7 +16560,7 @@
     ],
     "Book": "High Tech",
     "Page": "178",
-    "Link": "H178"
+    "Link": "HT178"
   },
   {
     "Rule": "Flamethrowers Table (High Tech)",
@@ -16871,7 +16871,7 @@
     ],
     "Book": "High Tech",
     "Page": "226",
-    "Link": "TH226"
+    "Link": "HT226"
   },
   {
     "Rule": "Wheelchairs TL6 to TL8",
@@ -17037,7 +17037,7 @@
     ],
     "Book": "High Tech: Adventure Guns",
     "Page": "25",
-    "Link": "HTAG20"
+    "Link": "HTAG25"
   },
   {
     "Rule": "Mechanical Machine Guns (TL5)",
@@ -17092,7 +17092,7 @@
     ],
     "Book": "High Tech: Adventure Guns",
     "Page": "46",
-    "Link": "HTAG45"
+    "Link": "HTAG46"
   },
   {
     "Rule": "Electrician Skill (HTEE Specialties)",
@@ -19437,7 +19437,7 @@
     "Link": "LT36"
   },
   {
-    "Rule": "Jewelry Gems and Pricing",
+    "Rule": "Jewelry, Gems, and Pricing",
     "Category": [
       "Gear",
       "Currency",
@@ -19445,7 +19445,7 @@
     ],
     "Book": "Low Tech",
     "Page": "38",
-    "Link": "LT:38"
+    "Link": "LT38"
   },
   {
     "Rule": "Equipment Entertainment (Low Tech)",
@@ -19837,33 +19837,572 @@
     "Link": "LTC1:32"
   },
   {
-    "Rule": "Fishing",
+    "Rule": "Running the Pole",
     "Category": [
-      "Activities",
-      "Professions"
+      "Combat",
+      "Techniques"
     ],
     "Book": "Low Tech Companion 2",
-    "Page": "7",
-    "Link": "LT3:7"
+    "Page": "8",
+    "Link": "LTC2:8"
   },
   {
-    "Rule": "Carrying a Shield-hand Weapon (Low Tech)",
+    "Rule": "The Stirrup (TL3)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "10",
+    "Link": "LTC2:10"
+  },
+  {
+    "Rule": "Falchion",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "12",
+    "Link": "LTC2:12"
+  },
+  {
+    "Rule": "Armor-Piercer",
+    "Category": [
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "12",
+    "Link": "LTC2:12"
+  },
+  {
+    "Rule": "Blunt Training Weapon",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "13",
+    "Link": "LTC2:13"
+  },
+  {
+    "Rule": "Flexible Training Weapon",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "13",
+    "Link": "LTC2:13"
+  },
+  {
+    "Rule": "Heavy Blunt Training Weapon",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "13",
+    "Link": "LTC2:13"
+  },
+  {
+    "Rule": "Padded Training Weapon",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "13",
+    "Link": "LTC2:13"
+  },
+  {
+    "Rule": "Ultra-Light Training Weapon",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "13",
+    "Link": "LTC2:13"
+  },
+  {
+    "Rule": "Wooden Training Weapon",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "13",
+    "Link": "LTC2:13"
+  },
+  {
+    "Rule": "Long Handle",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "13",
+    "Link": "LTC2:13"
+  },
+  {
+    "Rule": "Short Handle",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "13",
+    "Link": "LTC2:13"
+  },
+  {
+    "Rule": "Throwable",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "13",
+    "Link": "LTC2:13"
+  },
+  {
+    "Rule": "Axe Head (Weapon Modification)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "13",
+    "Link": "LTC2:13"
+  },
+  {
+    "Rule": "Barbs",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "14",
+    "Link": "LTC2:14"
+  },
+  {
+    "Rule": "Butt Spike",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "14",
+    "Link": "LTC2:14"
+  },
+  {
+    "Rule": "Chain (Weapon Modification)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "14",
+    "Link": "LTC2:14"
+  },
+  {
+    "Rule": "Flanges/Spikes/End Caps",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "14",
+    "Link": "LTC2:14"
+  },
+  {
+    "Rule": "Hammer Head",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "14",
+    "Link": "LTC2:14"
+  },
+  {
+    "Rule": "Hook (Weapon Modification)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "14",
+    "Link": "LTC2:14"
+  },
+  {
+    "Rule": "Kusari (Weapon Modification)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "14",
+    "Link": "LTC2:14"
+  },
+  {
+    "Rule": "Pick (Weapon Modification)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "14",
+    "Link": "LTC2:14"
+  },
+  {
+    "Rule": "Prongs",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "15",
+    "Link": "LTC2:15"
+  },
+  {
+    "Rule": "Sickle (Weapon Modification)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "15",
+    "Link": "LTC2:15"
+  },
+  {
+    "Rule": "Spearhead (Weapon Modification)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "15",
+    "Link": "LTC2:15"
+  },
+  {
+    "Rule": "Hilt Modifications",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "15",
+    "Link": "LTC2:15"
+  },
+  {
+    "Rule": "Basket Hilt",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "15",
+    "Link": "LTC2:15"
+  },
+  {
+    "Rule": "Determining Weapon ST",
+    "Category": [
+      "Weapons",
+      "Reference"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "15",
+    "Link": "LTC2:15"
+  },
+  {
+    "Rule": "Interesting Ethnic Weapon",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "16",
+    "Link": "LTC2:16"
+  },
+  {
+    "Rule": "Interesting Ethnic Armor",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "16",
+    "Link": "LTC2:16"
+  },
+  {
+    "Rule": "Overrated Weapon",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "16",
+    "Link": "LTC2:16"
+  },
+  {
+    "Rule": "Overrated Armor",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "16",
+    "Link": "LTC2:16"
+  },
+  {
+    "Rule": "Throwing the Unthrowable",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "17",
+    "Link": "LTC2:17"
+  },
+  {
+    "Rule": "Barbed Chain",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "17",
+    "Link": "LTC2:17"
+  },
+  {
+    "Rule": "Bladed Flails",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "18",
+    "Link": "LTC2:18"
+  },
+  {
+    "Rule": "Double Crossbow",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "18",
+    "Link": "LTC2:18"
+  },
+  {
+    "Rule": "Double-Ended Sword",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "18",
+    "Link": "LTC2:18"
+  },
+  {
+    "Rule": "Double-Headed Axe",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "18",
+    "Link": "LTC2:18"
+  },
+  {
+    "Rule": "Spiked Plate",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "18",
+    "Link": "LTC2:18"
+  },
+  {
+    "Rule": "Studded Armor",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "18",
+    "Link": "LTC2:18"
+  },
+  {
+    "Rule": "Carrying a Shield-hand Weapon",
     "Category": [
       "Combat",
       "Physical Act"
     ],
     "Book": "Low Tech Companion 2",
     "Page": "19",
-    "Link": "LT2:19"
+    "Link": "LTC2:19"
+  },
+  {
+    "Rule": "Awkward Shields",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "19",
+    "Link": "LTC2:19"
+  },
+  {
+    "Rule": "Advanced Guige Use",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "19",
+    "Link": "LTC2:19"
+  },
+  {
+    "Rule": "Shield Damage",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "19",
+    "Link": "LTC2:19"
+  },
+  {
+    "Rule": "Light Shields",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "19",
+    "Link": "LTC2:19"
+  },
+  {
+    "Rule": "Tough Shields",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "19",
+    "Link": "LTC2:19"
+  },
+  {
+    "Rule": "Metallic Shields",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "19",
+    "Link": "LTC2:19"
+  },
+  {
+    "Rule": "Alternate Grips",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "19",
+    "Link": "LTC2:19"
+  },
+  {
+    "Rule": "Blade Shield Modification",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "20",
+    "Link": "LTC2:20"
+  },
+  {
+    "Rule": "Boss (Shield)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "20",
+    "Link": "LTC2:20"
+  },
+  {
+    "Rule": "Disarming Spikes",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "20",
+    "Link": "LTC2:20"
+  },
+  {
+    "Rule": "Guige",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "20",
+    "Link": "LTC2:20"
+  },
+  {
+    "Rule": "Lance Cutout",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "20",
+    "Link": "LTC2:20"
+  },
+  {
+    "Rule": "Lantern Hook",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "20",
+    "Link": "LTC2:20"
+  },
+  {
+    "Rule": "Rim Blade",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "20",
+    "Link": "LTC2:20"
+  },
+  {
+    "Rule": "Scaling Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "20",
+    "Link": "LTC2:20"
   },
   {
     "Rule": "Weapon Scaling Size Modifier Table",
     "Category": [
+      "Reference",
       "Weapons"
     ],
     "Book": "Low Tech Companion 2",
     "Page": "21",
     "Link": "LTC2:21"
+  },
+  {
+    "Rule": "Using Oversized or Undersized Weapons",
+    "Category": [
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "21",
+    "Link": "LTC2:21"
+  },
+  {
+    "Rule": "Scaling Armor",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "21",
+    "Link": "LTC2:21"
+  },
+  {
+    "Rule": "Under the Hood: Weapon and Armor Scaling Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "21",
+    "Link": "LTC2:21"
+  },
+  {
+    "Rule": "Breaking Weapons on an Attack",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "22",
+    "Link": "LTC2:22"
+  },
+  {
+    "Rule": "Quick and Dirty Weapon Damage",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "22",
+    "Link": "LTC2:22"
   },
   {
     "Rule": "Damage Done to Weapons",
@@ -19873,7 +20412,7 @@
     ],
     "Book": "Low Tech Companion 2",
     "Page": "23",
-    "Link": "LT2:23"
+    "Link": "LTC2:23"
   },
   {
     "Rule": "Attacking Armor Straps",
@@ -19883,7 +20422,7 @@
     ],
     "Book": "Low Tech Companion 2",
     "Page": "25",
-    "Link": "LT2:25"
+    "Link": "LTC2:25"
   },
   {
     "Rule": "Repairing Armor and Shields",
@@ -19892,7 +20431,469 @@
     ],
     "Book": "Low Tech Companion 2",
     "Page": "25",
-    "Link": "LT2:25"
+    "Link": "LTC2:25"
+  },
+  {
+    "Rule": "Damage to Armor",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "25",
+    "Link": "LTC2:25"
+  },
+  {
+    "Rule": "Denting Armor Articulations",
+    "Category": [
+      "Combat",
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "25",
+    "Link": "LTC2:25"
+  },
+  {
+    "Rule": "Armor Maintenance",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "25",
+    "Link": "LTC2:25"
+  },
+  {
+    "Rule": "Quick and Dirty Armor Damage",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "25",
+    "Link": "LTC2:25"
+  },
+  {
+    "Rule": "Natural Obstacles",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "26",
+    "Link": "LTC2:26"
+  },
+  {
+    "Rule": "Ditch",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "26",
+    "Link": "LTC2:26"
+  },
+  {
+    "Rule": "Stakes/Pickets",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "26",
+    "Link": "LTC2:26"
+  },
+  {
+    "Rule": "Trench",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "26",
+    "Link": "LTC2:26"
+  },
+  {
+    "Rule": "Roman Field Camp",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "26",
+    "Link": "LTC2:26"
+  },
+  {
+    "Rule": "Ditch and Rampart (TL0)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "27",
+    "Link": "LTC2:27"
+  },
+  {
+    "Rule": "Dry Stone (TL0)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "27",
+    "Link": "LTC2:27"
+  },
+  {
+    "Rule": "Hard Earth (TL0)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "27",
+    "Link": "LTC2:27"
+  },
+  {
+    "Rule": "Hedge (TL0)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "27",
+    "Link": "LTC2:27"
+  },
+  {
+    "Rule": "Wooden Palisade (TL0)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "27",
+    "Link": "LTC2:27"
+  },
+  {
+    "Rule": "Brick (TL1)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "27",
+    "Link": "LTC2:27"
+  },
+  {
+    "Rule": "Cribwork (TL1)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "28",
+    "Link": "LTC2:28"
+  },
+  {
+    "Rule": "Mortared Stone (TL1)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "28",
+    "Link": "LTC2:28"
+  },
+  {
+    "Rule": "Piled Turf (TL1)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "28",
+    "Link": "LTC2:28"
+  },
+  {
+    "Rule": "Concrete (TL2)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "28",
+    "Link": "LTC2:28"
+  },
+  {
+    "Rule": "Embossing (TL2)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "28",
+    "Link": "LTC2:28"
+  },
+  {
+    "Rule": "Causewayed Enclosure (TL0)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "28",
+    "Link": "LTC2:28"
+  },
+  {
+    "Rule": "Hill Fort (TL1)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "28",
+    "Link": "LTC2:28"
+  },
+  {
+    "Rule": "Terramara (TL1)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "28",
+    "Link": "LTC2:28"
+  },
+  {
+    "Rule": "Motte and Bailey (TL2)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "29",
+    "Link": "LTC2:29"
+  },
+  {
+    "Rule": "Castles (TL2)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "29",
+    "Link": "LTC2:29"
+  },
+  {
+    "Rule": "Arrow Loops",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "29",
+    "Link": "LTC2:29"
+  },
+  {
+    "Rule": "Crenellations",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "29",
+    "Link": "LTC2:29"
+  },
+  {
+    "Rule": "Guards and Watchers",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "29",
+    "Link": "LTC2:29"
+  },
+  {
+    "Rule": "Star Fort (TL4)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "30",
+    "Link": "LTC2:30"
+  },
+  {
+    "Rule": "Huge Guns Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "31",
+    "Link": "LTC2:31"
+  },
+  {
+    "Rule": "Foot (Military Transportation)",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "32",
+    "Link": "LTC2:32"
+  },
+  {
+    "Rule": "Realistic Foot Travel",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "32",
+    "Link": "LTC2:32"
+  },
+  {
+    "Rule": "Mounted (Military Transportation)",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "32",
+    "Link": "LTC2:32"
+  },
+  {
+    "Rule": "Carts and Wagons",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "33",
+    "Link": "LTC2:33"
+  },
+  {
+    "Rule": "Ships (Military Transportation)",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "33",
+    "Link": "LTC2:33"
+  },
+  {
+    "Rule": "Historical Development (Naval)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "34",
+    "Link": "LTC2:34"
+  },
+  {
+    "Rule": "Small Missile Weapons (Naval)",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "35",
+    "Link": "LTC2:35"
+  },
+  {
+    "Rule": "Boarding (Naval)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "35",
+    "Link": "LTC2:35"
+  },
+  {
+    "Rule": "Corvus (TL2)",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "35",
+    "Link": "LTC2:35"
+  },
+  {
+    "Rule": "Ramming",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "35",
+    "Link": "LTC2:35"
+  },
+  {
+    "Rule": "Early Paddlewheels",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "35",
+    "Link": "LTC2:35"
+  },
+  {
+    "Rule": "Catapults (Naval)",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "36",
+    "Link": "LTC2:36"
+  },
+  {
+    "Rule": "Harpago",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "36",
+    "Link": "LTC2:36"
+  },
+  {
+    "Rule": "Incendiaries (Naval)",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "36",
+    "Link": "LTC2:36"
+  },
+  {
+    "Rule": "Bomb Ship",
+    "Category": [
+      "Combat",
+      "Weapons",
+      "Vehicles"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "36",
+    "Link": "LTC2:36"
+  },
+  {
+    "Rule": "Gunnery (Naval)",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "36",
+    "Link": "LTC2:36"
+  },
+  {
+    "Rule": "Siege Towers (TL2)",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "37",
+    "Link": "LTC2:37"
+  },
+  {
+    "Rule": "The Helepolis of Demetrios Poliorketes",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "37",
+    "Link": "LTC2:37"
+  },
+  {
+    "Rule": "Warships Table",
+    "Category": [
+      "Reference",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "38",
+    "Link": "LTC2:38"
   },
   {
     "Rule": "Gathering",
@@ -19901,7 +20902,7 @@
     ],
     "Book": "Low Tech Companion 3",
     "Page": "5",
-    "Link": "LT3:5"
+    "Link": "LTC3:5"
   },
   {
     "Rule": "Hunting",
@@ -19911,7 +20912,7 @@
     ],
     "Book": "Low Tech Companion 3",
     "Page": "5",
-    "Link": "LT3:5"
+    "Link": "LTC3:5"
   },
   {
     "Rule": "Butchering Meat",
@@ -19924,13 +20925,23 @@
     "Link": "LTC3:6"
   },
   {
+    "Rule": "Fishing",
+    "Category": [
+      "Activities",
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "7",
+    "Link": "LTC3:7"
+  },
+  {
     "Rule": "Trapping",
     "Category": [
       "Activities"
     ],
     "Book": "Low Tech Companion 3",
     "Page": "7",
-    "Link": "LT3:7"
+    "Link": "LTC3:7"
   },
   {
     "Rule": "Whaling",
@@ -22570,7 +23581,7 @@
     ],
     "Book": "Martial Arts",
     "Page": "77",
-    "Link": "77"
+    "Link": "MA77"
   },
   {
     "Rule": "Push Kick Technique (Martial Arts)",
@@ -23704,7 +24715,7 @@
     ],
     "Book": "Martial Arts",
     "Page": "180",
-    "Link": "M180"
+    "Link": "MA180"
   },
   {
     "Rule": "Archery Martial Arts Styles",
@@ -30755,7 +31766,7 @@
     ],
     "Book": "Powers",
     "Page": "133",
-    "Link": "P132"
+    "Link": "P133"
   },
   {
     "Rule": "Radiation Power",
@@ -30785,7 +31796,7 @@
     ],
     "Book": "Powers",
     "Page": "134",
-    "Link": "P133"
+    "Link": "P134"
   },
   {
     "Rule": "Telepathy Power",
@@ -36380,7 +37391,7 @@
     ],
     "Book": "Pyramid Dungeon Fantasy Collected",
     "Page": "83",
-    "Link": "PDFC84"
+    "Link": "PDFC83"
   },
   {
     "Rule": "Auras of Power",
@@ -40748,7 +41759,7 @@
     ],
     "Book": "Steampunk 2",
     "Page": "47",
-    "Link": "SP2:46"
+    "Link": "SP2:47"
   },
   {
     "Rule": "Atavistic Features Table",
