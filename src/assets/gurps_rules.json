@@ -1037,6 +1037,15 @@
     "Link": "B61"
   },
   {
+    "Rule": "Intuition",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "63",
+    "Link": "B63"
+  },
+  {
     "Rule": "Sensing a Magic Item with Magery",
     "Category": [
       "Magic",
@@ -1054,6 +1063,26 @@
     "Book": "Basic",
     "Page": "67",
     "Link": "B67"
+  },
+  {
+    "Rule": "Mana Damper",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "67",
+    "Link": "B67"
+  },
+  {
+    "Rule": "Mana Enhancer",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "68",
+    "Link": "B68"
   },
   {
     "Rule": "Rapid Healing",
@@ -2281,6 +2310,16 @@
     "Link": "B232"
   },
   {
+    "Rule": "Mana Levels",
+    "Category": [
+      "Environment",
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "235",
+    "Link": "B235"
+  },
+  {
     "Rule": "Ceremonial Magic",
     "Category": [
       "Magic"
@@ -2288,6 +2327,78 @@
     "Book": "Basic",
     "Page": "238",
     "Link": "B238"
+  },
+  {
+    "Rule": "Body of Air Meta-Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "262",
+    "Link": "B262"
+  },
+  {
+    "Rule": "Body of Earth Meta-Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "262",
+    "Link": "B262"
+  },
+  {
+    "Rule": "Body of Fire Meta-Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "262",
+    "Link": "B262"
+  },
+  {
+    "Rule": "Body of Ice Meta-Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "262",
+    "Link": "B262"
+  },
+  {
+    "Rule": "Body of Metal Meta-Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "262",
+    "Link": "B262"
+  },
+  {
+    "Rule": "Body of Stone Meta-Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "262",
+    "Link": "B262"
+  },
+  {
+    "Rule": "Body of Water Meta-Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "262",
+    "Link": "B262"
+  },
+  {
+    "Rule": "Machine Meta-Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "263",
+    "Link": "B263"
   },
   {
     "Rule": "Domestic Animal and Wild Animal Meta-Traits -30 CP each",
@@ -3375,6 +3486,15 @@
     "Rule": "Knockback",
     "Category": [
       "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "378",
+    "Link": "B378"
+  },
+  {
+    "Rule": "Damage Modifiers Can't Reduce Damage Below 0 Unless it's Crushing",
+    "Category": [
+      "Injury"
     ],
     "Book": "Basic",
     "Page": "378",
@@ -10799,6 +10919,15 @@
     "Link": "DF3:6"
   },
   {
+    "Rule": "Elementally Infused PCs",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy 3",
+    "Page": "13",
+    "Link": "DF3:13"
+  },
+  {
     "Rule": "Evil Cleric (PC Class)",
     "Category": [
       "Template"
@@ -10911,6 +11040,122 @@
     "Book": "Dungeon Fantasy 5",
     "Page": "20",
     "Link": "DF5:20"
+  },
+  {
+    "Rule": "Calculating the Familiar's Cost",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "20",
+    "Link": "DF5:20"
+  },
+  {
+    "Rule": "Abilities Granted by Familiar (GBF)",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "20",
+    "Link": "DF5:20"
+  },
+  {
+    "Rule": "Familiar Meta-Trait",
+    "Category": [
+      "Creatures",
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "21",
+    "Link": "DF5:21"
+  },
+  {
+    "Rule": "Chimp Familiar",
+    "Category": [
+      "Creatures",
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "22",
+    "Link": "DF5:22"
+  },
+  {
+    "Rule": "Cat Familiar",
+    "Category": [
+      "Creatures",
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "22",
+    "Link": "DF5:22"
+  },
+  {
+    "Rule": "Dog Familiar",
+    "Category": [
+      "Creatures",
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "22",
+    "Link": "DF5:22"
+  },
+  {
+    "Rule": "Hawk Familiar",
+    "Category": [
+      "Creatures",
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "23",
+    "Link": "DF5:23"
+  },
+  {
+    "Rule": "Familiar Options (Nonsummonable, Shared Sight, Shared Thoughts)",
+    "Category": [
+      "Creatures",
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "24",
+    "Link": "DF5:24"
+  },
+  {
+    "Rule": "Shoulder Dragon Familiar",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "26",
+    "Link": "DF5:26"
+  },
+  {
+    "Rule": "Imp Familiar",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "27",
+    "Link": "DF5:27"
+  },
+  {
+    "Rule": "Salamander Familiar",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "27",
+    "Link": "DF5:27"
   },
   {
     "Rule": "Agricultural Gods (Dungeon Fantasy)",
@@ -11235,7 +11480,95 @@
     "Link": "DF9:26"
   },
   {
+    "Rule": "Air Elementals",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "27",
+    "Link": "DF9:27"
+  },
+  {
+    "Rule": "Earth Elementals",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "27",
+    "Link": "DF9:27"
+  },
+  {
+    "Rule": "Fire Elementals",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "28",
+    "Link": "DF9:28"
+  },
+  {
+    "Rule": "Metal Elementals",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "29",
+    "Link": "DF9:29"
+  },
+  {
+    "Rule": "Void, Sound, and Ether Elementals",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "30",
+    "Link": "DF9:30"
+  },
+  {
+    "Rule": "Water Elementals",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "30",
+    "Link": "DF9:30"
+  },
+  {
+    "Rule": "Wood Elementals",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "31",
+    "Link": "DF9:31"
+  },
+  {
+    "Rule": "Infused PCs",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "32",
+    "Link": "DF9:32"
+  },
+  {
     "Rule": "Angels and Demons (Dungeon Fantasy)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "32",
+    "Link": "DF9:32"
+  },
+  {
+    "Rule": "Petty Demon",
     "Category": [
       "Creatures"
     ],
@@ -11251,6 +11584,24 @@
     "Book": "Dungeon Fantasy 9",
     "Page": "33",
     "Link": "DF9:33"
+  },
+  {
+    "Rule": "Standard Demon",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "34",
+    "Link": "DF9:34"
+  },
+  {
+    "Rule": "Angelic Emissary",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 9",
+    "Page": "35",
+    "Link": "DF9:35"
   },
   {
     "Rule": "Emissaries of the Gods (Dungeon Fantasy)",
@@ -12383,6 +12734,186 @@
     "Link": "F67"
   },
   {
+    "Rule": "Artificer",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "114",
+    "Link": "F114"
+  },
+  {
+    "Rule": "Archer",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "114",
+    "Link": "F114"
+  },
+  {
+    "Rule": "Assassin",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "115",
+    "Link": "F115"
+  },
+  {
+    "Rule": "Barbarian (Fantasy)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "116",
+    "Link": "F116"
+  },
+  {
+    "Rule": "Bandit",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "116",
+    "Link": "F116"
+  },
+  {
+    "Rule": "Bard (Fantasy)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "117",
+    "Link": "F117"
+  },
+  {
+    "Rule": "Battle Wizard",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "118",
+    "Link": "F118"
+  },
+  {
+    "Rule": "Hedge Wizard",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "119",
+    "Link": "F119"
+  },
+  {
+    "Rule": "Enchanter",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "119",
+    "Link": "F119"
+  },
+  {
+    "Rule": "Holy Man",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "120",
+    "Link": "F120"
+  },
+  {
+    "Rule": "Merchant",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "121",
+    "Link": "F121"
+  },
+  {
+    "Rule": "Knight",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "121",
+    "Link": "F121"
+  },
+  {
+    "Rule": "Peasant Adventurer",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "122",
+    "Link": "F122"
+  },
+  {
+    "Rule": "Slayer (Fantasy)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "123",
+    "Link": "F123"
+  },
+  {
+    "Rule": "Scholar",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "123",
+    "Link": "F123"
+  },
+  {
+    "Rule": "Thief",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "124",
+    "Link": "F124"
+  },
+  {
+    "Rule": "Spellcaster (Intermediate Mage)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "124",
+    "Link": "F124"
+  },
+  {
+    "Rule": "Village Sage",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "125",
+    "Link": "F125"
+  },
+  {
+    "Rule": "True King",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "125",
+    "Link": "F125"
+  },
+  {
+    "Rule": "Wardancer",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Fantasy",
+    "Page": "126",
+    "Link": "F126"
+  },
+  {
     "Rule": "Limited Magery (Fantasy)",
     "Category": [
       "Magic",
@@ -12391,6 +12922,312 @@
     "Book": "Fantasy",
     "Page": "129",
     "Link": "F129"
+  },
+  {
+    "Rule": "Ceremonial Magery",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "129",
+    "Link": "F129"
+  },
+  {
+    "Rule": "Divided Magery",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "129",
+    "Link": "F129"
+  },
+  {
+    "Rule": "Impermanent Magery",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "129",
+    "Link": "F129"
+  },
+  {
+    "Rule": "One-College Magery",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "129",
+    "Link": "F129"
+  },
+  {
+    "Rule": "One-Spell Magery",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "129",
+    "Link": "F129"
+  },
+  {
+    "Rule": "Preparation Required Spellcasting",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "129",
+    "Link": "F129"
+  },
+  {
+    "Rule": "Solitary Ceremonial Spellcasting",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "130",
+    "Link": "F130"
+  },
+  {
+    "Rule": "Spirit Trapping (Modular Ability)",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "130",
+    "Link": "F130"
+  },
+  {
+    "Rule": "Rapier Wit (Fantasy)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "130",
+    "Link": "F130"
+  },
+  {
+    "Rule": "Additional Shapeshifting Options",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "131",
+    "Link": "F131"
+  },
+  {
+    "Rule": "Code of Honor (Highwaymen)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "132",
+    "Link": "F132"
+  },
+  {
+    "Rule": "Spirits Bound to Particular Place",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "132",
+    "Link": "F132"
+  },
+  {
+    "Rule": "Corporeal Undead (Intact, Rotting, Skeletal)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "133",
+    "Link": "F133"
+  },
+  {
+    "Rule": "Mummified Undead",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "134",
+    "Link": "F134"
+  },
+  {
+    "Rule": "Unmanifested Spirit",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "134",
+    "Link": "F134"
+  },
+  {
+    "Rule": "Spirit Materializaiton",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "134",
+    "Link": "F134"
+  },
+  {
+    "Rule": "Apparition, Phantasm, Magical Spirit, Poltergeist",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy",
+    "Page": "134",
+    "Link": "F134"
+  },
+  {
+    "Rule": "Savoir-Faire (Magical)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Fantasy",
+    "Page": "135",
+    "Link": "F135"
+  },
+  {
+    "Rule": "Chariot Archery",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Fantasy",
+    "Page": "136",
+    "Link": "F136"
+  },
+  {
+    "Rule": "Purse Cutting",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Fantasy",
+    "Page": "136",
+    "Link": "F136"
+  },
+  {
+    "Rule": "Charioteer's Sharp Turn",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Fantasy",
+    "Page": "136",
+    "Link": "F136"
+  },
+  {
+    "Rule": "Using Weapons of a Different SM",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Fantasy",
+    "Page": "137",
+    "Link": "F137"
+  },
+  {
+    "Rule": "Armorer",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy",
+    "Page": "138",
+    "Link": "F138"
+  },
+  {
+    "Rule": "Beggar",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy",
+    "Page": "138",
+    "Link": "F138"
+  },
+  {
+    "Rule": "Barmaid",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy",
+    "Page": "139",
+    "Link": "F139"
+  },
+  {
+    "Rule": "Courtier",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy",
+    "Page": "139",
+    "Link": "F139"
+  },
+  {
+    "Rule": "Farmer",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy",
+    "Page": "139",
+    "Link": "F139"
+  },
+  {
+    "Rule": "Fisherman",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy",
+    "Page": "139",
+    "Link": "F139"
+  },
+  {
+    "Rule": "Lackey",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy",
+    "Page": "139",
+    "Link": "F139"
+  },
+  {
+    "Rule": "Mercenary",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy",
+    "Page": "139",
+    "Link": "F139"
+  },
+  {
+    "Rule": "Priest",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy",
+    "Page": "139",
+    "Link": "F139"
+  },
+  {
+    "Rule": "Smith",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy",
+    "Page": "139",
+    "Link": "F139"
+  },
+  {
+    "Rule": "Tavernkeeper",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy",
+    "Page": "139",
+    "Link": "F139"
   },
   {
     "Rule": "Vehicles (Fantasy)",
@@ -12419,6 +13256,16 @@
     "Book": "Fantasy",
     "Page": "147",
     "Link": "F147"
+  },
+  {
+    "Rule": "Magic Based on Other Attributes",
+    "Category": [
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Fantasy",
+    "Page": "161",
+    "Link": "F161"
   },
   {
     "Rule": "True Names (Fantasy)",
@@ -19314,6 +20161,87 @@
     "Link": "LTC3:45"
   },
   {
+    "Rule": "Big Man, Brewer, Fisherman, Gatherer, Hunter, Tribal Chief (TL0)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "45",
+    "Link": "LTC3:45"
+  },
+  {
+    "Rule": "Animal Driver (TL1)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "45",
+    "Link": "LTC3:45"
+  },
+  {
+    "Rule": "Architect, Armorer, Building Laborer, Bureaucrat, Carpenter (TL1)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "46",
+    "Link": "LTC3:46"
+  },
+  {
+    "Rule": "Charcoal-Burner, Clerk, Clothworker, Courier (TL1)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "46",
+    "Link": "LTC3:46"
+  },
+  {
+    "Rule": "Farmer, Forester, Gamekeeper (TL1)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "46",
+    "Link": "LTC3:46"
+  },
+  {
+    "Rule": "Glassblower, Herdsmen, Illuminator, Jeweler  (TL1)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "47",
+    "Link": "LTC3:47"
+  },
+  {
+    "Rule": "Judge, Mason, Miller, Miner, Pilot (TL1)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "47",
+    "Link": "LTC3:47"
+  },
+  {
+    "Rule": "Porter, Potter, Sailor, Serf, Sharecropper, Servant (TL1)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "48",
+    "Link": "LTC3:48"
+  },
+  {
+    "Rule": "Shipwright, Smith, Tailor, Tanner, Teacher (TL1)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "48",
+    "Link": "LTC3:48"
+  },
+  {
     "Rule": "Professional Skills",
     "Category": [
       "Skills"
@@ -19321,6 +20249,73 @@
     "Book": "Low Tech Companion 3",
     "Page": "49",
     "Link": "LTC3:49"
+  },
+  {
+    "Rule": "Village Blacksmith (TL1)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "49",
+    "Link": "LTC3:49"
+  },
+  {
+    "Rule": "Alchemist, Money-Lender (TL2)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "49",
+    "Link": "LTC3:49"
+  },
+  {
+    "Rule": "Clockmaker (TL4)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "49",
+    "Link": "LTC3:49"
+  },
+  {
+    "Rule": "Brewer, Brickmaker, Butcher, Charcoal-Burner",
+    "Category": [
+      "Professions",
+      "Skills"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "49",
+    "Link": "LTC3:49"
+  },
+  {
+    "Rule": "Clothmaker, Courtesan, Distiller, Dyer",
+    "Category": [
+      "Professions",
+      "Skills"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "50",
+    "Link": "LTC3:50"
+  },
+  {
+    "Rule": "Forester, Glassblower, Masseur, Midwife",
+    "Category": [
+      "Professions",
+      "Skills"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "50",
+    "Link": "LTC3:50"
+  },
+  {
+    "Rule": "Miller, Scribe, Sericulturist, Tanner",
+    "Category": [
+      "Professions",
+      "Skills"
+    ],
+    "Book": "Low Tech Companion 3",
+    "Page": "50",
+    "Link": "LTC3:50"
   },
   {
     "Rule": "An * Next to DR in an Armor Table Indicates Flexible",
@@ -19655,6 +20650,16 @@
     "Link": "M23"
   },
   {
+    "Rule": "Small Air Elemental",
+    "Category": [
+      "Magic",
+      "Creatures"
+    ],
+    "Book": "Magic",
+    "Page": "28",
+    "Link": "M28"
+  },
+  {
     "Rule": "Animal Spells College",
     "Category": [
       "Magic"
@@ -19857,6 +20862,36 @@
     "Link": "M149"
   },
   {
+    "Rule": "Demon Template",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Magic",
+    "Page": "155",
+    "Link": "M155"
+  },
+  {
+    "Rule": "Demon Contracts",
+    "Category": [
+      "Creatures",
+      "Setting"
+    ],
+    "Book": "Magic",
+    "Page": "156",
+    "Link": "M156"
+  },
+  {
+    "Rule": "Black Magic Critical Spell Failure Table",
+    "Category": [
+      "Reference",
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "157",
+    "Link": "M157"
+  },
+  {
     "Rule": "Plant Spells College",
     "Category": [
       "Magic"
@@ -19938,6 +20973,17 @@
     "Link": "M193"
   },
   {
+    "Rule": "Body of Lightning Meta-Trait",
+    "Category": [
+      "Magic",
+      "Traits",
+      "Template"
+    ],
+    "Book": "Magic",
+    "Page": "198",
+    "Link": "M198"
+  },
+  {
     "Rule": "Syntactic Magic System",
     "Category": [
       "Magic"
@@ -20015,7 +21061,6 @@
     "Rule": "Fluidist (Blue Robe)",
     "Category": [
       "Template",
-      "NPC",
       "Magic"
     ],
     "Book": "Magical Styles: Dungeon Magic",
@@ -29241,11 +30286,38 @@
   {
     "Rule": "Pricing Talents",
     "Category": [
-      "Powers"
+      "Skills"
     ],
     "Book": "Powers",
     "Page": "29",
     "Link": "P29"
+  },
+  {
+    "Rule": "Insubstantiality",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers",
+    "Page": "55",
+    "Link": "P55"
+  },
+  {
+    "Rule": "Powers Limitation: No Vertical Move",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Powers",
+    "Page": "56",
+    "Link": "P56"
+  },
+  {
+    "Rule": "Intuition (Powers)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Powers",
+    "Page": "56",
+    "Link": "P56"
   },
   {
     "Rule": "Absorbing Equipment when Shapeshifting",
@@ -36047,6 +37119,680 @@
     "Link": "SEBS33"
   },
   {
+    "Rule": "Beyond Sorcery",
+    "Category": [
+      "Powers",
+      "Limitations"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "3",
+    "Link": "SPWS3"
+  },
+  {
+    "Rule": "Armor (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "4",
+    "Link": "SPWS4"
+  },
+  {
+    "Rule": "Atmosphere Dome (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "4",
+    "Link": "SPWS4"
+  },
+  {
+    "Rule": "Black Sphere (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "4",
+    "Link": "SPWS4"
+  },
+  {
+    "Rule": "Bladeturning (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "5",
+    "Link": "SPWS5"
+  },
+  {
+    "Rule": "Catch Missile (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "5",
+    "Link": "SPWS5"
+  },
+  {
+    "Rule": "Blocked",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "5",
+    "Link": "SPWS5"
+  },
+  {
+    "Rule": "Coolness (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "5",
+    "Link": "SPWS5"
+  },
+  {
+    "Rule": "Detect Poison (Sorcery)",
+    "Category": [
+      "Powers",
+      "Medical"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "6",
+    "Link": "SPWS6"
+  },
+  {
+    "Rule": "Magical Creatures (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "6",
+    "Link": "SPWS6"
+  },
+  {
+    "Rule": "Force Dome (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "6",
+    "Link": "SPWS6"
+  },
+  {
+    "Rule": "Force Guillotine (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "6",
+    "Link": "SPWS6"
+  },
+  {
+    "Rule": "Force Wall (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "7",
+    "Link": "SPWS7"
+  },
+  {
+    "Rule": "Freedom (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "7",
+    "Link": "SPWS7"
+  },
+  {
+    "Rule": "Iron Arm (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "7",
+    "Link": "SPWS7"
+  },
+  {
+    "Rule": "Missile Shield (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "8",
+    "Link": "SPWS8"
+  },
+  {
+    "Rule": "Mystic Mist (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "8",
+    "Link": "SPWS8"
+  },
+  {
+    "Rule": "Nightingale (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "8",
+    "Link": "SPWS8"
+  },
+  {
+    "Rule": "Protect Animals (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "9",
+    "Link": "SPWS9"
+  },
+  {
+    "Rule": "Reflect Gaze (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "9",
+    "Link": "SPWS9"
+  },
+  {
+    "Rule": "Resist Acid (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "9",
+    "Link": "SPWS9"
+  },
+  {
+    "Rule": "Sealed (Acid-Resistant Only)",
+    "Category": [
+      "Traits",
+      "Limitations"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "9",
+    "Link": "SPWS9"
+  },
+  {
+    "Rule": "Resist Disease (Sorcery)",
+    "Category": [
+      "Powers",
+      "Medical"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "10",
+    "Link": "SPWS10"
+  },
+  {
+    "Rule": "Resist Lightning (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "10",
+    "Link": "SPWS10"
+  },
+  {
+    "Rule": "Resist Poison (Sorcery)",
+    "Category": [
+      "Powers",
+      "Medical"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "10",
+    "Link": "SPWS10"
+  },
+  {
+    "Rule": "Resist Pressure (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "10",
+    "Link": "SPWS10"
+  },
+  {
+    "Rule": "Resist Radiation (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "10",
+    "Link": "SPWS10"
+  },
+  {
+    "Rule": "Resist Water (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "11",
+    "Link": "SPWS11"
+  },
+  {
+    "Rule": "Internal Defenses",
+    "Category": [
+      "Powers",
+      "Limitations"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "11",
+    "Link": "SPWS11"
+  },
+  {
+    "Rule": "Sense Danger (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "12",
+    "Link": "SPWS12"
+  },
+  {
+    "Rule": "Sense Observation (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "12",
+    "Link": "SPWS12"
+  },
+  {
+    "Rule": "Shade (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "12",
+    "Link": "SPWS12"
+  },
+  {
+    "Rule": "Shield (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "13",
+    "Link": "SPWS13"
+  },
+  {
+    "Rule": "Teleport Shield (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "13",
+    "Link": "SPWS13"
+  },
+  {
+    "Rule": "Umbrella (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "13",
+    "Link": "SPWS13"
+  },
+  {
+    "Rule": "Utter Dome (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "13",
+    "Link": "SPWS13"
+  },
+  {
+    "Rule": "Utter Wall (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "14",
+    "Link": "SPWS14"
+  },
+  {
+    "Rule": "Warmth (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "14",
+    "Link": "SPWS14"
+  },
+  {
+    "Rule": "Watchdog (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "14",
+    "Link": "SPWS14"
+  },
+  {
+    "Rule": "Weather Dome (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Protection and Warning Spells",
+    "Page": "14",
+    "Link": "SPWS14"
+  },
+  {
+    "Rule": "Alter Voice (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "4",
+    "Link": "SSS4"
+  },
+  {
+    "Rule": "Concussion (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "4",
+    "Link": "SSS4"
+  },
+  {
+    "Rule": "Converse (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "4",
+    "Link": "SSS4"
+  },
+  {
+    "Rule": "Disrupt (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "5",
+    "Link": "SSS5"
+  },
+  {
+    "Rule": "Echoes of the Past (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "5",
+    "Link": "SSS5"
+  },
+  {
+    "Rule": "Far-Hearing (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "6",
+    "Link": "SSS6"
+  },
+  {
+    "Rule": "Fatal Frequency (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "6",
+    "Link": "SSS6"
+  },
+  {
+    "Rule": "Garble (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "6",
+    "Link": "SSS6"
+  },
+  {
+    "Rule": "Great Voice (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "6",
+    "Link": "SSS6"
+  },
+  {
+    "Rule": "Hush (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "6",
+    "Link": "SSS6"
+  },
+  {
+    "Rule": "Imitate Voice (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "7",
+    "Link": "SSS7"
+  },
+  {
+    "Rule": "Improved Concussion (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "7",
+    "Link": "SSS7"
+  },
+  {
+    "Rule": "Invisible Wizard Ear (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "7",
+    "Link": "SSS7"
+  },
+  {
+    "Rule": "Keen Hearing (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "7",
+    "Link": "SSS7"
+  },
+  {
+    "Rule": "Mage-Stealth (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "8",
+    "Link": "SSS8"
+  },
+  {
+    "Rule": "Mass Resist Sound (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "8",
+    "Link": "SSS8"
+  },
+  {
+    "Rule": "Message (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "8",
+    "Link": "SSS8"
+  },
+  {
+    "Rule": "Musical Scribe (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "8",
+    "Link": "SSS8"
+  },
+  {
+    "Rule": "Noise (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "9",
+    "Link": "SSS9"
+  },
+  {
+    "Rule": "Perilous Pulsations (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "9",
+    "Link": "SSS9"
+  },
+  {
+    "Rule": "Resist Sound (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "9",
+    "Link": "SSS9"
+  },
+  {
+    "Rule": "Scribe (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "9",
+    "Link": "SSS9"
+  },
+  {
+    "Rule": "Silence (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "9",
+    "Link": "SSS9"
+  },
+  {
+    "Rule": "Silver Tongue (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "10",
+    "Link": "SSS10"
+  },
+  {
+    "Rule": "Sound (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "10",
+    "Link": "SSS10"
+  },
+  {
+    "Rule": "Sound Jet (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "10",
+    "Link": "SSS10"
+  },
+  {
+    "Rule": "Sound Vision (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "10",
+    "Link": "SSS10"
+  },
+  {
+    "Rule": "Voices (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "11",
+    "Link": "SSS11"
+  },
+  {
+    "Rule": "Wail of the Banshee (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "11",
+    "Link": "SSS11"
+  },
+  {
+    "Rule": "Wall of Silence (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "12",
+    "Link": "SSS12"
+  },
+  {
+    "Rule": "Withering Wail (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "12",
+    "Link": "SSS12"
+  },
+  {
+    "Rule": "Wizard Ear (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "12",
+    "Link": "SSS12"
+  },
+  {
+    "Rule": "Wizard Mouth (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Sorcery: Sound Spells",
+    "Page": "12",
+    "Link": "SSS12"
+  },
+  {
     "Rule": "Hard and Soft Science Fiction (Space)",
     "Category": [
       "Setting"
@@ -42464,6 +44210,298 @@
     "Link": "TT4:51"
   },
   {
+    "Rule": "Astrological Magery",
+    "Category": [
+      "Environment",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "23",
+    "Link": "T23"
+  },
+  {
+    "Rule": "Lunar Magery",
+    "Category": [
+      "Environment",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "23",
+    "Link": "T23"
+  },
+  {
+    "Rule": "Ceremonial Magery",
+    "Category": [
+      "Environment",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "23",
+    "Link": "T23"
+  },
+  {
+    "Rule": "Injurious Magic (Magic that Hurts to Use)",
+    "Category": [
+      "Magic",
+      "Setting",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "25",
+    "Link": "T25"
+  },
+  {
+    "Rule": "Visible Magical Gifts, Spell Signatures, and Trademarks",
+    "Category": [
+      "Magic",
+      "Setting",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "25",
+    "Link": "T25"
+  },
+  {
+    "Rule": "One-Spell Magery",
+    "Category": [
+      "Magic",
+      "Setting",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "25",
+    "Link": "T25"
+  },
+  {
+    "Rule": "Limited Colleges Magery",
+    "Category": [
+      "Magic",
+      "Setting",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "25",
+    "Link": "T25"
+  },
+  {
+    "Rule": "Sacrificial Killing for Mana",
+    "Category": [
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Thaumatology",
+    "Page": "57",
+    "Link": "T57"
+  },
+  {
+    "Rule": "Non-Letheal Sacrifices for Mana",
+    "Category": [
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Thaumatology",
+    "Page": "57",
+    "Link": "T57"
+  },
+  {
+    "Rule": "Continuous Mana",
+    "Category": [
+      "Environment",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "58",
+    "Link": "T58"
+  },
+  {
+    "Rule": "Mana Levels (Thaumatology)",
+    "Category": [
+      "Environment",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "58",
+    "Link": "T58"
+  },
+  {
+    "Rule": "Variable Mana",
+    "Category": [
+      "Environment",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "58",
+    "Link": "T58"
+  },
+  {
+    "Rule": "Aspected Mana",
+    "Category": [
+      "Environment",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "59",
+    "Link": "T59"
+  },
+  {
+    "Rule": "Wild Mana",
+    "Category": [
+      "Environment",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "59",
+    "Link": "T59"
+  },
+  {
+    "Rule": "Mana Damper and Mana Enhancer",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "60",
+    "Link": "T60"
+  },
+  {
+    "Rule": "Twisted Mana",
+    "Category": [
+      "Environment",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "60",
+    "Link": "T60"
+  },
+  {
+    "Rule": "Wild Mana Generator",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "61",
+    "Link": "T61"
+  },
+  {
+    "Rule": "Twisted Mana Generator",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "61",
+    "Link": "T61"
+  },
+  {
+    "Rule": "Limited Magic Resistance",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "63",
+    "Link": "T63"
+  },
+  {
+    "Rule": "Addiction from Magic Use",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "63",
+    "Link": "T63"
+  },
+  {
+    "Rule": "Limited Magical DR",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "63",
+    "Link": "T63"
+  },
+  {
+    "Rule": "Power Investiture",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "66",
+    "Link": "T66"
+  },
+  {
+    "Rule": "Power Investiture (Shamanic)",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "66",
+    "Link": "T66"
+  },
+  {
+    "Rule": "Power Investiture Shouldn't be Limited or Enhanced",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "67",
+    "Link": "T67"
+  },
+  {
+    "Rule": "Divine Ceremonial Casting and Helpers",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "67",
+    "Link": "T67"
+  },
+  {
+    "Rule": "Sanctity and Sanctity Levels for Divine Casters",
+    "Category": [
+      "Divinity",
+      "Environment"
+    ],
+    "Book": "Thaumatology",
+    "Page": "68",
+    "Link": "T68"
+  },
+  {
+    "Rule": "Sanctifying an Area with Religious Ritual",
+    "Category": [
+      "Divinity",
+      "Environment"
+    ],
+    "Book": "Thaumatology",
+    "Page": "68",
+    "Link": "T68"
+  },
+  {
+    "Rule": "Critical Failures on Clerical Magic",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Thaumatology",
+    "Page": "69",
+    "Link": "T69"
+  },
+  {
+    "Rule": "Creating Priestly Spell Lists",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Thaumatology",
+    "Page": "69",
+    "Link": "T69"
+  },
+  {
     "Rule": "Names and True Names",
     "Category": [
       "Attributes"
@@ -43994,6 +46032,26 @@
     "Link": "TMS27"
   },
   {
+    "Rule": "Life-Force Burn Perk",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology: Magical Styles",
+    "Page": "27",
+    "Link": "TMS27"
+  },
+  {
+    "Rule": "Melee Spell Mastery Perk",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology: Magical Styles",
+    "Page": "27",
+    "Link": "TMS27"
+  },
+  {
     "Rule": "Mighty Spell Perk",
     "Category": [
       "Traits",
@@ -44021,6 +46079,925 @@
     "Book": "Thaumatology: Magical Styles",
     "Page": "29",
     "Link": "TMS29"
+  },
+  {
+    "Rule": "Sorcerous Empowerment",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "4",
+    "Link": "TSOR4"
+  },
+  {
+    "Rule": "Limited Colleges",
+    "Category": [
+      "Traits",
+      "Limitations"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "4",
+    "Link": "TSOR4"
+  },
+  {
+    "Rule": "Sorcery Talent",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "5",
+    "Link": "TSOR5"
+  },
+  {
+    "Rule": "Limited Scope (Sorcery)",
+    "Category": [
+      "Traits",
+      "Limitations"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "5",
+    "Link": "TSOR5"
+  },
+  {
+    "Rule": "Magic Resistance (Sorcery)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "5",
+    "Link": "TSOR5"
+  },
+  {
+    "Rule": "Sorcerous Spells",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "5",
+    "Link": "TSOR5"
+  },
+  {
+    "Rule": "Casting Spells (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "6",
+    "Link": "TSOR6"
+  },
+  {
+    "Rule": "Known Spells (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "6",
+    "Link": "TSOR6"
+  },
+  {
+    "Rule": "Extra Effort (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "6",
+    "Link": "TSOR6"
+  },
+  {
+    "Rule": "Improvised Magic (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "6",
+    "Link": "TSOR6"
+  },
+  {
+    "Rule": "Hardcore Improvisation",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "7",
+    "Link": "TSOR7"
+  },
+  {
+    "Rule": "Alternative Rituals (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "7",
+    "Link": "TSOR7"
+  },
+  {
+    "Rule": "Maintaining Spells (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "8",
+    "Link": "TSOR8"
+  },
+  {
+    "Rule": "Simultaneous Spells (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "8",
+    "Link": "TSOR8"
+  },
+  {
+    "Rule": "Area (Sorcery Spell Type)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "9",
+    "Link": "TSOR9"
+  },
+  {
+    "Rule": "Leveled Area Table",
+    "Category": [
+      "Reference",
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "9",
+    "Link": "TSOR9"
+  },
+  {
+    "Rule": "Buff (Sorcery Spell Type)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "9",
+    "Link": "TSOR9"
+  },
+  {
+    "Rule": "Information (Sorcery Spell Type)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "10",
+    "Link": "TSOR10"
+  },
+  {
+    "Rule": "Jet (Sorcery Spell Type)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "10",
+    "Link": "TSOR10"
+  },
+  {
+    "Rule": "Missile (Sorcery Spell Type)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "10",
+    "Link": "TSOR10"
+  },
+  {
+    "Rule": "Obvious (Sorcery Spell Type)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "10",
+    "Link": "TSOR10"
+  },
+  {
+    "Rule": "Resisted (Sorcery Spell Type)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "10",
+    "Link": "TSOR10"
+  },
+  {
+    "Rule": "Capping Spell Damage",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "10",
+    "Link": "TSOR10"
+  },
+  {
+    "Rule": "Weapon Buff (Sorcery Spell Type)",
+    "Category": [
+      "Powers",
+      "Weapons"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "11",
+    "Link": "TSOR11"
+  },
+  {
+    "Rule": "Air Jet (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "12",
+    "Link": "TSOR12"
+  },
+  {
+    "Rule": "Inventing New Spells",
+    "Category": [
+      "Powers",
+      "Limitations"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "13",
+    "Link": "TSOR13"
+  },
+  {
+    "Rule": "No-Smell",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "13",
+    "Link": "TSOR13"
+  },
+  {
+    "Rule": "Animal Control (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "13",
+    "Link": "TSOR13"
+  },
+  {
+    "Rule": "Repel Animals (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "14",
+    "Link": "TSOR14"
+  },
+  {
+    "Rule": "Telekinesis (One Task)",
+    "Category": [
+      "Powers",
+      "Limitations"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "14",
+    "Link": "TSOR14"
+  },
+  {
+    "Rule": "Haircut (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "14",
+    "Link": "TSOR14"
+  },
+  {
+    "Rule": "Tanglefoot (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "14",
+    "Link": "TSOR14"
+  },
+  {
+    "Rule": "Gift of Tongues",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "14",
+    "Link": "TSOR14"
+  },
+  {
+    "Rule": "Sense Life (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "15",
+    "Link": "TSOR15"
+  },
+  {
+    "Rule": "Flesh to Stone (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "15",
+    "Link": "TSOR15"
+  },
+  {
+    "Rule": "Walk Through Earth",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "15",
+    "Link": "TSOR15"
+  },
+  {
+    "Rule": "Enchant (Sorcery)",
+    "Category": [
+      "Powers",
+      "Magic"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "15",
+    "Link": "TSOR15"
+  },
+  {
+    "Rule": "Penetrating Weapon (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "16",
+    "Link": "TSOR16"
+  },
+  {
+    "Rule": "Ignite Fire (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "16",
+    "Link": "TSOR16"
+  },
+  {
+    "Rule": "Shape Fire (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "16",
+    "Link": "TSOR16"
+  },
+  {
+    "Rule": "Planar Visit (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "16",
+    "Link": "TSOR16"
+  },
+  {
+    "Rule": "Suspend Time (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "17",
+    "Link": "TSOR17"
+  },
+  {
+    "Rule": "Minor Healing (Sorcery)",
+    "Category": [
+      "Powers",
+      "Medical"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "17",
+    "Link": "TSOR17"
+  },
+  {
+    "Rule": "Relieve Madness",
+    "Category": [
+      "Powers",
+      "Medical"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "17",
+    "Link": "TSOR17"
+  },
+  {
+    "Rule": "All or Nothing (Sorcery Limitation)",
+    "Category": [
+      "Powers",
+      "Limitations"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "17",
+    "Link": "TSOR17"
+  },
+  {
+    "Rule": "High-Fatigue Spells",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "17",
+    "Link": "TSOR17"
+  },
+  {
+    "Rule": "Complex Illusion",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "18",
+    "Link": "TSOR18"
+  },
+  {
+    "Rule": "Create Object (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "18",
+    "Link": "TSOR18"
+  },
+  {
+    "Rule": "Detect Magic (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "19",
+    "Link": "TSOR19"
+  },
+  {
+    "Rule": "Divination (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "19",
+    "Link": "TSOR19"
+  },
+  {
+    "Rule": "Light (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "19",
+    "Link": "TSOR19"
+  },
+  {
+    "Rule": "Sunbolt",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "19",
+    "Link": "TSOR19"
+  },
+  {
+    "Rule": "Cancel Spells",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "20",
+    "Link": "TSOR20"
+  },
+  {
+    "Rule": "Disintegrate (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "20",
+    "Link": "TSOR20"
+  },
+  {
+    "Rule": "Inspired Creation",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "20",
+    "Link": "TSOR20"
+  },
+  {
+    "Rule": "Dispel Magic (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "21",
+    "Link": "TSOR21"
+  },
+  {
+    "Rule": "Remove Curse (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "21",
+    "Link": "TSOR21"
+  },
+  {
+    "Rule": "Scryguard",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "21",
+    "Link": "TSOR21"
+  },
+  {
+    "Rule": "Lesser Geas (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "21",
+    "Link": "TSOR21"
+  },
+  {
+    "Rule": "Terror (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "22",
+    "Link": "TSOR22"
+  },
+  {
+    "Rule": "Grease (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "22",
+    "Link": "TSOR22"
+  },
+  {
+    "Rule": "Locksmith (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "22",
+    "Link": "TSOR22"
+  },
+  {
+    "Rule": "Steal Vitality (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "22",
+    "Link": "TSOR22"
+  },
+  {
+    "Rule": "Turn Zombie (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "22",
+    "Link": "TSOR22"
+  },
+  {
+    "Rule": "Blight (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "23",
+    "Link": "TSOR23"
+  },
+  {
+    "Rule": "Body of Wood",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "23",
+    "Link": "TSOR23"
+  },
+  {
+    "Rule": "Magelock",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "23",
+    "Link": "TSOR23"
+  },
+  {
+    "Rule": "Mana (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "23",
+    "Link": "TSOR23"
+  },
+  {
+    "Rule": "Reverse Missiles",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "24",
+    "Link": "TSOR24"
+  },
+  {
+    "Rule": "Delayed Message (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "24",
+    "Link": "TSOR24"
+  },
+  {
+    "Rule": "Thunderclap (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "24",
+    "Link": "TSOR24"
+  },
+  {
+    "Rule": "Awaken Computer",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "24",
+    "Link": "TSOR24"
+  },
+  {
+    "Rule": "Preserve Fuel (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "25",
+    "Link": "TSOR25"
+  },
+  {
+    "Rule": "Improving Spells",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "25",
+    "Link": "TSOR25"
+  },
+  {
+    "Rule": "Icy Weapon (Sorcery)",
+    "Category": [
+      "Powers",
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "25",
+    "Link": "TSOR25"
+  },
+  {
+    "Rule": "Whirlpool (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "25",
+    "Link": "TSOR25"
+  },
+  {
+    "Rule": "Cool (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "26",
+    "Link": "TSOR26"
+  },
+  {
+    "Rule": "Predict Weather (Sorcery)",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "26",
+    "Link": "TSOR26"
+  },
+  {
+    "Rule": "Creating an Enchanted Item",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "27",
+    "Link": "TSOR27"
+  },
+  {
+    "Rule": "Usually On Items",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "27",
+    "Link": "TSOR27"
+  },
+  {
+    "Rule": "Weapon Buff Enchantments",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "28",
+    "Link": "TSOR28"
+  },
+  {
+    "Rule": "Enchanted Item Forms",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "28",
+    "Link": "TSOR28"
+  },
+  {
+    "Rule": "Additional Details (Enchanting)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "29",
+    "Link": "TSOR29"
+  },
+  {
+    "Rule": "Enchantment Points",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "29",
+    "Link": "TSOR29"
+  },
+  {
+    "Rule": "Objects of Value",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "30",
+    "Link": "TSOR30"
+  },
+  {
+    "Rule": "Inherent Value Table",
+    "Category": [
+      "Reference",
+      "Currency"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "30",
+    "Link": "TSOR30"
+  },
+  {
+    "Rule": "Imbuing the Power",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "30",
+    "Link": "TSOR30"
+  },
+  {
+    "Rule": "Personal Sacrifice (Enchanting)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "30",
+    "Link": "TSOR30"
+  },
+  {
+    "Rule": "Spectral Forging",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "31",
+    "Link": "TSOR31"
+  },
+  {
+    "Rule": "The Cost of Enchanting",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "31",
+    "Link": "TSOR31"
+  },
+  {
+    "Rule": "Assistants (Enchanting)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "32",
+    "Link": "TSOR32"
+  },
+  {
+    "Rule": "Using Enchanted Items",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "32",
+    "Link": "TSOR32"
+  },
+  {
+    "Rule": "Upgrading Enchanted Items",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "32",
+    "Link": "TSOR32"
+  },
+  {
+    "Rule": "Alchemy (Sorcery)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "32",
+    "Link": "TSOR32"
+  },
+  {
+    "Rule": "Enchanting Jobs",
+    "Category": [
+      "Magic",
+      "Professions"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "33",
+    "Link": "TSOR33"
+  },
+  {
+    "Rule": "Buying Magic Items (Sorcery)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "33",
+    "Link": "TSOR33"
+  },
+  {
+    "Rule": "Wages per Enchantment Point Table",
+    "Category": [
+      "Reference",
+      "Currency"
+    ],
+    "Book": "Thaumatology: Sorcery",
+    "Page": "33",
+    "Link": "TSOR33"
   },
   {
     "Rule": "Mages Guilds",
