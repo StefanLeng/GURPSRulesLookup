@@ -373,6 +373,1317 @@
     "Link": "ACT2:42"
   },
   {
+    "Rule": "Basic Action Template (BAT)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "4",
+    "Link": "ACT4:4"
+  },
+  {
+    "Rule": "Power Levels (Action)",
+    "Category": [
+      "Character Points",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "5",
+    "Link": "ACT4:5"
+  },
+  {
+    "Rule": "Slush Fund (Action)",
+    "Category": [
+      "Character Points",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "6",
+    "Link": "ACT4:6"
+  },
+  {
+    "Rule": "Lean and Mean (BAT Variant)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "7",
+    "Link": "ACT4:7"
+  },
+  {
+    "Rule": "Sidekicks (Action Ally Design)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "8",
+    "Link": "ACT4:8"
+  },
+  {
+    "Rule": "Academics",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "10",
+    "Link": "ACT4:10"
+  },
+  {
+    "Rule": "Doubling Up (Action)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "11",
+    "Link": "ACT4:11"
+  },
+  {
+    "Rule": "Airborne School",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "11",
+    "Link": "ACT4:11"
+  },
+  {
+    "Rule": "Amphibious Operations",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "11",
+    "Link": "ACT4:11"
+  },
+  {
+    "Rule": "Area Security",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "11",
+    "Link": "ACT4:11"
+  },
+  {
+    "Rule": "Armory",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "11",
+    "Link": "ACT4:11"
+  },
+  {
+    "Rule": "Bon Vivant",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "11",
+    "Link": "ACT4:11"
+  },
+  {
+    "Rule": "Booby Traps",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "11",
+    "Link": "ACT4:11"
+  },
+  {
+    "Rule": "Bugging",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "11",
+    "Link": "ACT4:11"
+  },
+  {
+    "Rule": "Bushwhacker",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "12",
+    "Link": "ACT4:12"
+  },
+  {
+    "Rule": "Businessperson",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "12",
+    "Link": "ACT4:12"
+  },
+  {
+    "Rule": "Car Thief",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "12",
+    "Link": "ACT4:12"
+  },
+  {
+    "Rule": "Chemical Safety",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "12",
+    "Link": "ACT4:12"
+  },
+  {
+    "Rule": "Cleaning",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "12",
+    "Link": "ACT4:12"
+  },
+  {
+    "Rule": "Climber",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "12",
+    "Link": "ACT4:12"
+  },
+  {
+    "Rule": "Close-Quarters Battle",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "12",
+    "Link": "ACT4:12"
+  },
+  {
+    "Rule": "Command",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "13",
+    "Link": "ACT4:13"
+  },
+  {
+    "Rule": "Communications",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "13",
+    "Link": "ACT4:13"
+  },
+  {
+    "Rule": "Computer Intrusion",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "13",
+    "Link": "ACT4:13"
+  },
+  {
+    "Rule": "Conspiracies",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "13",
+    "Link": "ACT4:13"
+  },
+  {
+    "Rule": "Construction",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "13",
+    "Link": "ACT4:13"
+  },
+  {
+    "Rule": "Countersurveillance",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "13",
+    "Link": "ACT4:13"
+  },
+  {
+    "Rule": "Cowboy",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "14",
+    "Link": "ACT4:14"
+  },
+  {
+    "Rule": "Criminal Past",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "14",
+    "Link": "ACT4:14"
+  },
+  {
+    "Rule": "Demolitions",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "14",
+    "Link": "ACT4:14"
+  },
+  {
+    "Rule": "Desert Training",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "14",
+    "Link": "ACT4:14"
+  },
+  {
+    "Rule": "Detective Work",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "14",
+    "Link": "ACT4:14"
+  },
+  {
+    "Rule": "Disease Control",
+    "Category": [
+      "Template",
+      "Lens",
+      "Medical"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "14",
+    "Link": "ACT4:14"
+  },
+  {
+    "Rule": "Electronic Surveillance",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "14",
+    "Link": "ACT4:14"
+  },
+  {
+    "Rule": "Electronics (Action)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "15",
+    "Link": "ACT4:15"
+  },
+  {
+    "Rule": "Escape and Evasion",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "15",
+    "Link": "ACT4:15"
+  },
+  {
+    "Rule": "Explosive Ordnance Disposal (EOD)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "15",
+    "Link": "ACT4:15"
+  },
+  {
+    "Rule": "Femme Fatale",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "15",
+    "Link": "ACT4:15"
+  },
+  {
+    "Rule": "Fireman",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "15",
+    "Link": "ACT4:15"
+  },
+  {
+    "Rule": "Fixer (Action)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "15",
+    "Link": "ACT4:15"
+  },
+  {
+    "Rule": "Flight School: Civilian Pilot",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "16",
+    "Link": "ACT4:16"
+  },
+  {
+    "Rule": "Flight School: Military Pilot",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "16",
+    "Link": "ACT4:16"
+  },
+  {
+    "Rule": "Forensics",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "16",
+    "Link": "ACT4:16"
+  },
+  {
+    "Rule": "Forest or Jungle Training",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "16",
+    "Link": "ACT4:16"
+  },
+  {
+    "Rule": "Goon",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "16",
+    "Link": "ACT4:16"
+  },
+  {
+    "Rule": "Heavy Weapons",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "16",
+    "Link": "ACT4:16"
+  },
+  {
+    "Rule": "Hostile Extraction",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "16",
+    "Link": "ACT4:16"
+  },
+  {
+    "Rule": "Illicit Entry",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "17",
+    "Link": "ACT4:17"
+  },
+  {
+    "Rule": "Impersonation",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "17",
+    "Link": "ACT4:17"
+  },
+  {
+    "Rule": "Infantry Training",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "17",
+    "Link": "ACT4:17"
+  },
+  {
+    "Rule": "Intelligence",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "17",
+    "Link": "ACT4:17"
+  },
+  {
+    "Rule": "Interrogation",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "17",
+    "Link": "ACT4:17"
+  },
+  {
+    "Rule": "Journalism",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "17",
+    "Link": "ACT4:17"
+  },
+  {
+    "Rule": "Law Enforcement (Action)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "17",
+    "Link": "ACT4:17"
+  },
+  {
+    "Rule": "Linguist",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "18",
+    "Link": "ACT4:18"
+  },
+  {
+    "Rule": "Local Expert",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "18",
+    "Link": "ACT4:18"
+  },
+  {
+    "Rule": "Mastermind",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "18",
+    "Link": "ACT4:18"
+  },
+  {
+    "Rule": "Medicine: Medic",
+    "Category": [
+      "Template",
+      "Lens",
+      "Medical"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "18",
+    "Link": "ACT4:18"
+  },
+  {
+    "Rule": "Medicine: Doctor",
+    "Category": [
+      "Template",
+      "Lens",
+      "Medical"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "18",
+    "Link": "ACT4:18"
+  },
+  {
+    "Rule": "Mountain Training",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "18",
+    "Link": "ACT4:18"
+  },
+  {
+    "Rule": "Negotiator 1",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "19",
+    "Link": "ACT4:19"
+  },
+  {
+    "Rule": "Negotiator 2",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "19",
+    "Link": "ACT4:19"
+  },
+  {
+    "Rule": "Nuclear Disposal",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "19",
+    "Link": "ACT4:19"
+  },
+  {
+    "Rule": "Obsolete Weapons",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "19",
+    "Link": "ACT4:19"
+  },
+  {
+    "Rule": "Parkour",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "19",
+    "Link": "ACT4:19"
+  },
+  {
+    "Rule": "Personal Security",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "19",
+    "Link": "ACT4:19"
+  },
+  {
+    "Rule": "Physical Training",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "19",
+    "Link": "ACT4:19"
+  },
+  {
+    "Rule": "Pistolero",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "20",
+    "Link": "ACT4:20"
+  },
+  {
+    "Rule": "Psy-Ops",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "20",
+    "Link": "ACT4:20"
+  },
+  {
+    "Rule": "Recon",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "20",
+    "Link": "ACT4:20"
+  },
+  {
+    "Rule": "Records Falsification",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "20",
+    "Link": "ACT4:20"
+  },
+  {
+    "Rule": "Repairman",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "20",
+    "Link": "ACT4:20"
+  },
+  {
+    "Rule": "Researcher",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "20",
+    "Link": "ACT4:20"
+  },
+  {
+    "Rule": "Resistance",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "21",
+    "Link": "ACT4:21"
+  },
+  {
+    "Rule": "Sabotage",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "21",
+    "Link": "ACT4:21"
+  },
+  {
+    "Rule": "Safecracking",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "21",
+    "Link": "ACT4:21"
+  },
+  {
+    "Rule": "Sailor: Civilian Crewman",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "21",
+    "Link": "ACT4:21"
+  },
+  {
+    "Rule": "Sailor: Military Crewman",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "21",
+    "Link": "ACT4:21"
+  },
+  {
+    "Rule": "Scientist",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "21",
+    "Link": "ACT4:21"
+  },
+  {
+    "Rule": "Security Systems",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "21",
+    "Link": "ACT4:21"
+  },
+  {
+    "Rule": "Silent Killing",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "21",
+    "Link": "ACT4:21"
+  },
+  {
+    "Rule": "Sniper School",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "22",
+    "Link": "ACT4:22"
+  },
+  {
+    "Rule": "Social Engineering (Action)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "22",
+    "Link": "ACT4:22"
+  },
+  {
+    "Rule": "Spin Doctor",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "22",
+    "Link": "ACT4:22"
+  },
+  {
+    "Rule": "Surveillance",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "22",
+    "Link": "ACT4:22"
+  },
+  {
+    "Rule": "Survival",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "22",
+    "Link": "ACT4:22"
+  },
+  {
+    "Rule": "Tactical Driving",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "22",
+    "Link": "ACT4:22"
+  },
+  {
+    "Rule": "Theft",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "22",
+    "Link": "ACT4:22"
+  },
+  {
+    "Rule": "Toxicology",
+    "Category": [
+      "Template",
+      "Lens",
+      "Medical"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "22",
+    "Link": "ACT4:22"
+  },
+  {
+    "Rule": "Tradecraft",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Unarmed Combat: Self-Defense",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Unarmed Combat: Martial Arts",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Undercover",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Underwater Operations",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Cheaper Gear",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Equipment Bond",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Huge Weapons",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Naval Training",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Old Salt",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Precautions",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Robust Hearing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Robust Vision",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Sartorial Integrity",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Upside-Down",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "23",
+    "Link": "ACT4:23"
+  },
+  {
+    "Rule": "Urban Assault",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "24",
+    "Link": "ACT4:24"
+  },
+  {
+    "Rule": "Winter Operations",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "24",
+    "Link": "ACT4:24"
+  },
+  {
+    "Rule": "Cat",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "24",
+    "Link": "ACT4:24"
+  },
+  {
+    "Rule": "Extra Life",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "24",
+    "Link": "ACT4:24"
+  },
+  {
+    "Rule": "Gadgeteer: H4xx0r",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "25",
+    "Link": "ACT4:25"
+  },
+  {
+    "Rule": "Gadgeteer: Soldering-Gun Slinger",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "25",
+    "Link": "ACT4:25"
+  },
+  {
+    "Rule": "Gadgeteer: Ultimate Repairman",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "25",
+    "Link": "ACT4:25"
+  },
+  {
+    "Rule": "Gunslinger (Action)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "25",
+    "Link": "ACT4:25"
+  },
+  {
+    "Rule": "Just That Good",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "25",
+    "Link": "ACT4:25"
+  },
+  {
+    "Rule": "Martial-Arts Master: Master (Armed)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "26",
+    "Link": "ACT4:26"
+  },
+  {
+    "Rule": "Martial-Arts Master: Master (Ninja)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "26",
+    "Link": "ACT4:26"
+  },
+  {
+    "Rule": "Martial-Arts Master: Master (Unarmed)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "26",
+    "Link": "ACT4:26"
+  },
+  {
+    "Rule": "Packages as Level-Ups (Action)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "26",
+    "Link": "ACT4:26"
+  },
+  {
+    "Rule": "Special Agent",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "27",
+    "Link": "ACT4:27"
+  },
+  {
+    "Rule": "Super Luck",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "27",
+    "Link": "ACT4:27"
+  },
+  {
+    "Rule": "Survivor",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "27",
+    "Link": "ACT4:27"
+  },
+  {
+    "Rule": "Traceur",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "27",
+    "Link": "ACT4:27"
+  },
+  {
+    "Rule": "Transporter",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "27",
+    "Link": "ACT4:27"
+  },
+  {
+    "Rule": "Attribute and Secondary Characteristic Caps (Action)",
+    "Category": [
+      "Character Points",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "28",
+    "Link": "ACT4:28"
+  },
+  {
+    "Rule": "Perk Limits (Action Character Creation)",
+    "Category": [
+      "Traits",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "29",
+    "Link": "ACT4:29"
+  },
+  {
+    "Rule": "Advantage Limits (Action Character Creation)",
+    "Category": [
+      "Traits",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "29",
+    "Link": "ACT4:29"
+  },
+  {
+    "Rule": "Trading Up (Action)",
+    "Category": [
+      "Character Points",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "30",
+    "Link": "ACT4:30"
+  },
+  {
+    "Rule": "In the Hole? (Negative Slush Fund)",
+    "Category": [
+      "Character Points",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "31",
+    "Link": "ACT4:31"
+  },
+  {
+    "Rule": "Jack of All Trades (Action)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "32",
+    "Link": "ACT4:32"
+  },
+  {
+    "Rule": "Sidelines (Action)",
+    "Category": [
+      "Template",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "33",
+    "Link": "ACT4:33"
+  },
+  {
+    "Rule": "Dabbler",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "33",
+    "Link": "ACT4:33"
+  },
+  {
+    "Rule": "I Take My Job Seriously (Custom Higher Purpose)",
+    "Category": [
+      "Traits",
+      "Setting"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "34",
+    "Link": "ACT4:34"
+  },
+  {
+    "Rule": "Buddy Bond",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Action 4: Specialists",
+    "Page": "34",
+    "Link": "ACT4:34"
+  },
+  {
     "Rule": "Doc (Post-Apocalypse)",
     "Category": [
       "Template",
@@ -1050,6 +2361,16 @@
     "Category": [
       "Magic",
       "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "66",
+    "Link": "B66"
+  },
+  {
+    "Rule": "Limitation Cost Reduction Applies to Magery 1+ (not Magery 0)",
+    "Category": [
+      "Magic",
+      "Traits"
     ],
     "Book": "Basic",
     "Page": "66",
@@ -2754,9 +4075,63 @@
     "Link": "B327"
   },
   {
+    "Rule": "Success Rolls",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "343",
+    "Link": "B343"
+  },
+  {
+    "Rule": "When to Roll",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "343",
+    "Link": "B343"
+  },
+  {
+    "Rule": "Base Skill vs Effective Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "344",
+    "Link": "B344"
+  },
+  {
+    "Rule": "Default Rolls",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "344",
+    "Link": "B344"
+  },
+  {
+    "Rule": "Rule of 20 for Skills based on Attributes",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "344",
+    "Link": "B344"
+  },
+  {
     "Rule": "Equipment Modifiers",
     "Category": [
       "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "345",
+    "Link": "B345"
+  },
+  {
+    "Rule": "Task Difficulty",
+    "Category": [
+      "Skills"
     ],
     "Book": "Basic",
     "Page": "345",
@@ -2772,7 +4147,106 @@
     "Link": "B346"
   },
   {
+    "Rule": "Long Tasks",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "346",
+    "Link": "B346"
+  },
+  {
+    "Rule": "Extra Time Spent on Tasks Gives Skill Bonuses",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "346",
+    "Link": "B346"
+  },
+  {
+    "Rule": "Critical Success",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "347",
+    "Link": "B347"
+  },
+  {
+    "Rule": "Degree of Success or Failure",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "347",
+    "Link": "B347"
+  },
+  {
+    "Rule": "Influencing Success Rolls",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "347",
+    "Link": "B347"
+  },
+  {
     "Rule": "Repeated Skill Roll Tries at Cumulative -1 per Attempt",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "348",
+    "Link": "B348"
+  },
+  {
+    "Rule": "Contests",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "348",
+    "Link": "B348"
+  },
+  {
+    "Rule": "Margin of Victory",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "348",
+    "Link": "B348"
+  },
+  {
+    "Rule": "Quick Contests",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "348",
+    "Link": "B348"
+  },
+  {
+    "Rule": "Resistance Rolls",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "348",
+    "Link": "B348"
+  },
+  {
+    "Rule": "Critical Failure",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "348",
+    "Link": "B348"
+  },
+  {
+    "Rule": "Repeated Attempts",
     "Category": [
       "Skills"
     ],
@@ -2784,6 +4258,33 @@
     "Rule": "Climbing",
     "Category": [
       "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "349",
+    "Link": "B349"
+  },
+  {
+    "Rule": "Regular Contests",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "349",
+    "Link": "B349"
+  },
+  {
+    "Rule": "The Rule of 16, Supernatural Resistance Roll",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "349",
+    "Link": "B349"
+  },
+  {
+    "Rule": "Physical Feats",
+    "Category": [
+      "Skills"
     ],
     "Book": "Basic",
     "Page": "349",
@@ -2875,6 +4376,15 @@
     "Link": "B352"
   },
   {
+    "Rule": "Optional Jumping Rules",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "352",
+    "Link": "B352"
+  },
+  {
     "Rule": "Lifting and Moving Things",
     "Category": [
       "Physical Act"
@@ -2922,6 +4432,15 @@
   },
   {
     "Rule": "Swimming Speed",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "354",
+    "Link": "B354"
+  },
+  {
+    "Rule": "Flying",
     "Category": [
       "Physical Act"
     ],
@@ -3013,6 +4532,15 @@
     "Link": "B357"
   },
   {
+    "Rule": "Notes for Specific Physical Tasks",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "357",
+    "Link": "B357"
+  },
+  {
     "Rule": "Hearing Distance Table",
     "Category": [
       "Environment",
@@ -3021,6 +4549,60 @@
     "Book": "Basic",
     "Page": "358",
     "Link": "B358"
+  },
+  {
+    "Rule": "Sense Rolls",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "358",
+    "Link": "B358"
+  },
+  {
+    "Rule": "Taste/Smell",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "358",
+    "Link": "B358"
+  },
+  {
+    "Rule": "Vision",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "358",
+    "Link": "B358"
+  },
+  {
+    "Rule": "Influence Rolls",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "359",
+    "Link": "B359"
+  },
+  {
+    "Rule": "Psychological Warfare",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "359",
+    "Link": "B359"
+  },
+  {
+    "Rule": "Influencing the PCs",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "359",
+    "Link": "B359"
   },
   {
     "Rule": "Fright Check Table",
@@ -3050,6 +4632,24 @@
     "Book": "Basic",
     "Page": "360",
     "Link": "B360"
+  },
+  {
+    "Rule": "Will Rolls",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "360",
+    "Link": "B360"
+  },
+  {
+    "Rule": "Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "362",
+    "Link": "B362"
   },
   {
     "Rule": "Turn Sequence",
@@ -3217,6 +4817,24 @@
     "Link": "B366"
   },
   {
+    "Rule": "Movement and Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "367",
+    "Link": "B367"
+  },
+  {
+    "Rule": "Movement (Basic)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "367",
+    "Link": "B367"
+  },
+  {
     "Rule": "Crouching",
     "Category": [
       "Physical Act"
@@ -3236,7 +4854,70 @@
     "Link": "B368"
   },
   {
+    "Rule": "Moving Through Other Characters",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "368",
+    "Link": "B368"
+  },
+  {
+    "Rule": "Spacing (Basic)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "368",
+    "Link": "B368"
+  },
+  {
+    "Rule": "Step (Basic)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "368",
+    "Link": "B368"
+  },
+  {
     "Rule": "Deceptive Attack",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "369",
+    "Link": "B369"
+  },
+  {
+    "Rule": "Attacking",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "369",
+    "Link": "B369"
+  },
+  {
+    "Rule": "Attack Roll",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "369",
+    "Link": "B369"
+  },
+  {
+    "Rule": "Melee Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "369",
+    "Link": "B369"
+  },
+  {
+    "Rule": "Melee Attack Options",
     "Category": [
       "Combat"
     ],
@@ -3291,6 +4972,51 @@
     "Link": "B370"
   },
   {
+    "Rule": "Unarmed Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "370",
+    "Link": "B370"
+  },
+  {
+    "Rule": "Grabbing",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "370",
+    "Link": "B370"
+  },
+  {
+    "Rule": "Grappling",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "370",
+    "Link": "B370"
+  },
+  {
+    "Rule": "Pin",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "370",
+    "Link": "B370"
+  },
+  {
+    "Rule": "Striking (Basic)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "370",
+    "Link": "B370"
+  },
+  {
     "Rule": "Actions after being Grappled",
     "Category": [
       "Combat"
@@ -3320,6 +5046,24 @@
   },
   {
     "Rule": "Slam",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "371",
+    "Link": "B371"
+  },
+  {
+    "Rule": "Neck Snap or Wrench Limb",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "371",
+    "Link": "B371"
+  },
+  {
+    "Rule": "Other Actions",
     "Category": [
       "Combat"
     ],
@@ -3374,6 +5118,15 @@
     "Link": "B372"
   },
   {
+    "Rule": "Ranged Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "372",
+    "Link": "B372"
+  },
+  {
     "Rule": "Rate of Fire (RoF) and Reloading",
     "Category": [
       "Combat"
@@ -3381,6 +5134,51 @@
     "Book": "Basic",
     "Page": "373",
     "Link": "B373"
+  },
+  {
+    "Rule": "Missile Weapon Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "373",
+    "Link": "B373"
+  },
+  {
+    "Rule": "Thrown Weapon Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "373",
+    "Link": "B373"
+  },
+  {
+    "Rule": "Defending",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "374",
+    "Link": "B374"
+  },
+  {
+    "Rule": "Active Defense Rolls",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "374",
+    "Link": "B374"
+  },
+  {
+    "Rule": "Dodging",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "374",
+    "Link": "B374"
   },
   {
     "Rule": "Acrobatic Dodge",
@@ -3393,6 +5191,24 @@
   },
   {
     "Rule": "Sacrificial Dodge",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "375",
+    "Link": "B375"
+  },
+  {
+    "Rule": "Vehicular Dodge",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "375",
+    "Link": "B375"
+  },
+  {
+    "Rule": "Blocking",
     "Category": [
       "Combat"
     ],
@@ -3446,6 +5262,33 @@
     "Link": "B376"
   },
   {
+    "Rule": "Parrying",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "376",
+    "Link": "B376"
+  },
+  {
+    "Rule": "Parrying Unarmed",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "376",
+    "Link": "B376"
+  },
+  {
+    "Rule": "Parrying with Improvised Weapons",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "376",
+    "Link": "B376"
+  },
+  {
     "Rule": "Dive for Cover",
     "Category": [
       "Combat",
@@ -3466,6 +5309,24 @@
   },
   {
     "Rule": "Retreat Defense",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "377",
+    "Link": "B377"
+  },
+  {
+    "Rule": "Active Defense Options",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "377",
+    "Link": "B377"
+  },
+  {
+    "Rule": "Damage and Injury",
     "Category": [
       "Combat"
     ],
@@ -3495,6 +5356,33 @@
     "Rule": "Damage Modifiers Can't Reduce Damage Below 0 Unless it's Crushing",
     "Category": [
       "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "378",
+    "Link": "B378"
+  },
+  {
+    "Rule": "Damage Resistance (DR) and Penetration",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "378",
+    "Link": "B378"
+  },
+  {
+    "Rule": "Armor Divisors and Pentration Modifiers",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "378",
+    "Link": "B378"
+  },
+  {
+    "Rule": "Damage Roll",
+    "Category": [
+      "Combat"
     ],
     "Book": "Basic",
     "Page": "378",
@@ -3548,10 +5436,37 @@
     "Link": "B379"
   },
   {
+    "Rule": "Flexible Armor and Blunt Trauma",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "379",
+    "Link": "B379"
+  },
+  {
+    "Rule": "Overpenetration and Cover",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "379",
+    "Link": "B379"
+  },
+  {
     "Rule": "Injury to Unliving Homogenous and Diffuse Targets",
     "Category": [
       "Reference",
       "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "380",
+    "Link": "B380"
+  },
+  {
+    "Rule": "Injury to Unliving, Homogenous and Diffuse Targets",
+    "Category": [
+      "Combat"
     ],
     "Book": "Basic",
     "Page": "380",
@@ -3585,6 +5500,42 @@
     "Link": "B381"
   },
   {
+    "Rule": "Followup Damage",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "381",
+    "Link": "B381"
+  },
+  {
+    "Rule": "Special Damage",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "381",
+    "Link": "B381"
+  },
+  {
+    "Rule": "Critical Hits and Misses",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "381",
+    "Link": "B381"
+  },
+  {
+    "Rule": "Critical Hits",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "381",
+    "Link": "B381"
+  },
+  {
     "Rule": "Crit Failing Block Causes the Shield to become Unready",
     "Category": [
       "Combat"
@@ -3595,6 +5546,33 @@
   },
   {
     "Rule": "Crit Failing Dodge Causes the Dodger to Fall Down",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "382",
+    "Link": "B382"
+  },
+  {
+    "Rule": "Critical Misses",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "382",
+    "Link": "B382"
+  },
+  {
+    "Rule": "Other Actions in Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "382",
+    "Link": "B382"
+  },
+  {
+    "Rule": "Readying Weapons and Other gear",
     "Category": [
       "Combat"
     ],
@@ -3664,6 +5642,60 @@
     "Link": "B383"
   },
   {
+    "Rule": "Typical Long Actions",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "383",
+    "Link": "B383"
+  },
+  {
+    "Rule": "Tactical Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "384",
+    "Link": "B384"
+  },
+  {
+    "Rule": "Maneuvers in Tactical Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "385",
+    "Link": "B385"
+  },
+  {
+    "Rule": "Wait Maneouvre Strategy",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "385",
+    "Link": "B385"
+  },
+  {
+    "Rule": "Movement in Tactical Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "386",
+    "Link": "B386"
+  },
+  {
+    "Rule": "Movement and Facing",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "386",
+    "Link": "B386"
+  },
+  {
     "Rule": "Bad Footing Walking Through Shallow Water",
     "Category": [
       "Activities"
@@ -3727,6 +5759,33 @@
     "Link": "B388"
   },
   {
+    "Rule": "Attacking in Tactical Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "388",
+    "Link": "B388"
+  },
+  {
+    "Rule": "Attacking Through an Occupied Hex",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "388",
+    "Link": "B388"
+  },
+  {
+    "Rule": "Long Weapon Tactics",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "388",
+    "Link": "B388"
+  },
+  {
     "Rule": "Hitting the Wrong Target",
     "Category": [
       "Combat"
@@ -3737,6 +5796,33 @@
   },
   {
     "Rule": "Shooting Blind",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "389",
+    "Link": "B389"
+  },
+  {
+    "Rule": "Ranged Attacks (Tactical Combat)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "389",
+    "Link": "B389"
+  },
+  {
+    "Rule": "Arc of Vision (Ranged Attacks)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "389",
+    "Link": "B389"
+  },
+  {
+    "Rule": "Firing Through an Occupioed Hex",
     "Category": [
       "Combat"
     ],
@@ -3781,6 +5867,42 @@
     "Link": "B390"
   },
   {
+    "Rule": "Opportunity Shots",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "390",
+    "Link": "B390"
+  },
+  {
+    "Rule": "Overshooting and Stray Shots",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "390",
+    "Link": "B390"
+  },
+  {
+    "Rule": "Defending in Tactical Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "390",
+    "Link": "B390"
+  },
+  {
+    "Rule": "Defending Against Attacks from the Side",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "390",
+    "Link": "B390"
+  },
+  {
     "Rule": "Close Combat",
     "Category": [
       "Combat"
@@ -3809,6 +5931,60 @@
   },
   {
     "Rule": "Weapons in Close Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "391",
+    "Link": "B391"
+  },
+  {
+    "Rule": "Retreating",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "391",
+    "Link": "B391"
+  },
+  {
+    "Rule": "Runaround Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "391",
+    "Link": "B391"
+  },
+  {
+    "Rule": "Entering a Foe's Hex",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "391",
+    "Link": "B391"
+  },
+  {
+    "Rule": "Leaving a Foe's Hex",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "391",
+    "Link": "B391"
+  },
+  {
+    "Rule": "Readying in Close Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "391",
+    "Link": "B391"
+  },
+  {
+    "Rule": "Weapons for Close Combat",
     "Category": [
       "Combat"
     ],
@@ -3854,6 +6030,69 @@
     "Link": "B392"
   },
   {
+    "Rule": "Multiple Close Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "392",
+    "Link": "B392"
+  },
+  {
+    "Rule": "Striking into a Close Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "392",
+    "Link": "B392"
+  },
+  {
+    "Rule": "Multi-Hex Figures",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "392",
+    "Link": "B392"
+  },
+  {
+    "Rule": "Arc of Vision (Multi-Hex Figures)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "392",
+    "Link": "B392"
+  },
+  {
+    "Rule": "Front, Side and Back Hexes",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "392",
+    "Link": "B392"
+  },
+  {
+    "Rule": "Slam and Overrun",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "392",
+    "Link": "B392"
+  },
+  {
+    "Rule": "Special Combat Situations",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "393",
+    "Link": "B393"
+  },
+  {
     "Rule": "Initiative",
     "Category": [
       "Combat"
@@ -3886,6 +6125,33 @@
     "Category": [
       "Physical Act",
       "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "394",
+    "Link": "B394"
+  },
+  {
+    "Rule": "Special Movement",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "394",
+    "Link": "B394"
+  },
+  {
+    "Rule": "High Speed Movement",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "394",
+    "Link": "B394"
+  },
+  {
+    "Rule": "Torches and Flashlights",
+    "Category": [
+      "Combat"
     ],
     "Book": "Basic",
     "Page": "394",
@@ -3966,6 +6232,24 @@
     "Link": "B398"
   },
   {
+    "Rule": "Flying Combat",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "398",
+    "Link": "B398"
+  },
+  {
+    "Rule": "Aerial Attack and Defense",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "398",
+    "Link": "B398"
+  },
+  {
     "Rule": "Tight Beam Burning Attack",
     "Category": [
       "Combat"
@@ -3994,6 +6278,15 @@
   },
   {
     "Rule": "Targeting Chinks in Armor",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "400",
+    "Link": "B400"
+  },
+  {
+    "Rule": "Striking at Weapons",
     "Category": [
       "Combat"
     ],
@@ -4065,7 +6358,34 @@
     "Link": "B402"
   },
   {
+    "Rule": "Special Melee Combat Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "402",
+    "Link": "B402"
+  },
+  {
+    "Rule": "Attacking From Above",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "402",
+    "Link": "B402"
+  },
+  {
     "Rule": "Arm Lock",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "403",
+    "Link": "B403"
+  },
+  {
+    "Rule": "Special Unarmed Combat Techniques",
     "Category": [
       "Combat"
     ],
@@ -4176,6 +6496,15 @@
     "Link": "B404"
   },
   {
+    "Rule": "Special Melee Weapon Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
     "Rule": "Flails Special Melee Rules",
     "Category": [
       "Combat"
@@ -4195,6 +6524,15 @@
   },
   {
     "Rule": "Picks Special Melee Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "405",
+    "Link": "B405"
+  },
+  {
+    "Rule": "Dirty Tricks",
     "Category": [
       "Combat"
     ],
@@ -4296,6 +6634,15 @@
     "Link": "B407"
   },
   {
+    "Rule": "Special Ranged Combat Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "407",
+    "Link": "B407"
+  },
+  {
     "Rule": "Overpenetration",
     "Category": [
       "Combat"
@@ -4306,6 +6653,33 @@
   },
   {
     "Rule": "Spraying Fire and Suppression Fire",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "408",
+    "Link": "B408"
+  },
+  {
+    "Rule": "Special Rules for Rapid Fire",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "408",
+    "Link": "B408"
+  },
+  {
+    "Rule": "Automatic Weapons and Full-Auto Only",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "408",
+    "Link": "B408"
+  },
+  {
+    "Rule": "Rapid Fire vs Close Stationary Targets",
     "Category": [
       "Combat"
     ],
@@ -4362,6 +6736,15 @@
     "Link": "B410"
   },
   {
+    "Rule": "Special Ranged Weapons",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "410",
+    "Link": "B410"
+  },
+  {
     "Rule": "Harpoons Special Ranged Rules",
     "Category": [
       "Combat",
@@ -4401,6 +6784,15 @@
     "Link": "B411"
   },
   {
+    "Rule": "Molotov Coctails and Oil Flasks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "411",
+    "Link": "B411"
+  },
+  {
     "Rule": "Guided Weapons",
     "Category": [
       "Weapons"
@@ -4419,7 +6811,97 @@
     "Link": "B412"
   },
   {
+    "Rule": "Firearm Accessories",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "412",
+    "Link": "B412"
+  },
+  {
+    "Rule": "Laser Sights",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "412",
+    "Link": "B412"
+  },
+  {
+    "Rule": "Scopes",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "412",
+    "Link": "B412"
+  },
+  {
+    "Rule": "Silencers",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "412",
+    "Link": "B412"
+  },
+  {
+    "Rule": "Guided and Homing Weapons",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "412",
+    "Link": "B412"
+  },
+  {
+    "Rule": "Semi-Active Homing Weapons",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "412",
+    "Link": "B412"
+  },
+  {
     "Rule": "Area and Spreading Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "413",
+    "Link": "B413"
+  },
+  {
+    "Rule": "Homing Weapons",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "413",
+    "Link": "B413"
+  },
+  {
+    "Rule": "Time to Target",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "413",
+    "Link": "B413"
+  },
+  {
+    "Rule": "Area-Effect Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "413",
+    "Link": "B413"
+  },
+  {
+    "Rule": "Cone Attacks",
     "Category": [
       "Combat"
     ],
@@ -4453,6 +6935,141 @@
     "Book": "Basic",
     "Page": "414",
     "Link": "B414"
+  },
+  {
+    "Rule": "Attacking an Area/Scatter",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "414",
+    "Link": "B414"
+  },
+  {
+    "Rule": "Fragmentation Damage",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "414",
+    "Link": "B414"
+  },
+  {
+    "Rule": "Demolition",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "415",
+    "Link": "B415"
+  },
+  {
+    "Rule": "Explosions in Other Environments",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "415",
+    "Link": "B415"
+  },
+  {
+    "Rule": "Relative Explosive Force",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "415",
+    "Link": "B415"
+  },
+  {
+    "Rule": "Special Damage (Special Ranged Combat Rules)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "416",
+    "Link": "B416"
+  },
+  {
+    "Rule": "Afflictions (Special Ranged Combat Rules)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "416",
+    "Link": "B416"
+  },
+  {
+    "Rule": "Special Penetration Modifiers",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "416",
+    "Link": "B416"
+  },
+  {
+    "Rule": "Cinematic Combat Rules",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "417",
+    "Link": "B417"
+  },
+  {
+    "Rule": "Bulletproof Nudity",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "417",
+    "Link": "B417"
+  },
+  {
+    "Rule": "Cannon Fodder",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "417",
+    "Link": "B417"
+  },
+  {
+    "Rule": "Cinematic Explosions",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "417",
+    "Link": "B417"
+  },
+  {
+    "Rule": "Melee Etiquette",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "417",
+    "Link": "B417"
+  },
+  {
+    "Rule": "Dual Weapon Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "417",
+    "Link": "B417"
+  },
+  {
+    "Rule": "TV Action Violence",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "417",
+    "Link": "B417"
   },
   {
     "Rule": "General Injury and Lost HP",
@@ -4536,9 +7153,72 @@
     "Link": "B420"
   },
   {
+    "Rule": "Optional Rules for Injury",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "420",
+    "Link": "B420"
+  },
+  {
+    "Rule": "Last Wounds",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "420",
+    "Link": "B420"
+  },
+  {
+    "Rule": "Crippling Extra Limbs",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "421",
+    "Link": "B421"
+  },
+  {
+    "Rule": "Effects of Crippling Injury",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "421",
+    "Link": "B421"
+  },
+  {
+    "Rule": "Patient Status",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "421",
+    "Link": "B421"
+  },
+  {
+    "Rule": "Temporary Attribute Penalties",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "421",
+    "Link": "B421"
+  },
+  {
     "Rule": "Duration of Crippling Injuries",
     "Category": [
       "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "422",
+    "Link": "B422"
+  },
+  {
+    "Rule": "Nonhuman Body Parts",
+    "Category": [
+      "Affliction"
     ],
     "Book": "Basic",
     "Page": "422",
@@ -4566,6 +7246,15 @@
     "Rule": "Recovering from Unconsciousness",
     "Category": [
       "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "423",
+    "Link": "B423"
+  },
+  {
+    "Rule": "Dying Actions",
+    "Category": [
+      "Affliction"
     ],
     "Book": "Basic",
     "Page": "423",
@@ -4623,9 +7312,55 @@
     "Link": "B424"
   },
   {
+    "Rule": "Repairing Lasting Crippling Injuries",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "424",
+    "Link": "B424"
+  },
+  {
+    "Rule": "Repairing Permanent Crippling Injuries",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "424",
+    "Link": "B424"
+  },
+  {
+    "Rule": "High HP and Healing",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "424",
+    "Link": "B424"
+  },
+  {
     "Rule": "Resuscitation",
     "Category": [
       "Injury",
+      "Medical"
+    ],
+    "Book": "Basic",
+    "Page": "425",
+    "Link": "B425"
+  },
+  {
+    "Rule": "Ultratech Drugs",
+    "Category": [
+      "Medical"
+    ],
+    "Book": "Basic",
+    "Page": "425",
+    "Link": "B425"
+  },
+  {
+    "Rule": "Medical Help",
+    "Category": [
+      "Affliction",
       "Medical"
     ],
     "Book": "Basic",
@@ -4670,9 +7405,54 @@
     "Link": "B426"
   },
   {
+    "Rule": "Fatigue Costs",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "426",
+    "Link": "B426"
+  },
+  {
+    "Rule": "Lost Fatigue Points",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "426",
+    "Link": "B426"
+  },
+  {
     "Rule": "Foraging",
     "Category": [
       "Activities"
+    ],
+    "Book": "Basic",
+    "Page": "427",
+    "Link": "B427"
+  },
+  {
+    "Rule": "Getting Up Early",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "427",
+    "Link": "B427"
+  },
+  {
+    "Rule": "Recovering from Fatigue",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "427",
+    "Link": "B427"
+  },
+  {
+    "Rule": "Staying Up Late",
+    "Category": [
+      "Affliction"
     ],
     "Book": "Basic",
     "Page": "427",
@@ -4787,6 +7567,52 @@
     "Link": "B428"
   },
   {
+    "Rule": "Hazards",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Afflictions (Hazards)",
+    "Category": [
+      "Affliction",
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Incapacitating Conditions",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Irritating Conditions",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
+    "Rule": "Mortal Conditions",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "428",
+    "Link": "B428"
+  },
+  {
     "Rule": "Atmospheric Pressure",
     "Category": [
       "Environment"
@@ -4859,6 +7685,15 @@
     "Link": "B429"
   },
   {
+    "Rule": "Unconsciousness",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "429",
+    "Link": "B429"
+  },
+  {
     "Rule": "Extreme Cold",
     "Category": [
       "Hazard"
@@ -4878,6 +7713,69 @@
     "Link": "B430"
   },
   {
+    "Rule": "Collisions and Falls",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "430",
+    "Link": "B430"
+  },
+  {
+    "Rule": "Damage from Collisions",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "430",
+    "Link": "B430"
+  },
+  {
+    "Rule": "Damage from Falling Objects",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "431",
+    "Link": "B431"
+  },
+  {
+    "Rule": "Falling (Basic)",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "431",
+    "Link": "B431"
+  },
+  {
+    "Rule": "Immovable Objects",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "431",
+    "Link": "B431"
+  },
+  {
+    "Rule": "Hit Location from a Fall",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "431",
+    "Link": "B431"
+  },
+  {
+    "Rule": "Falling Velocity",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "431",
+    "Link": "B431"
+  },
+  {
     "Rule": "Electricity",
     "Category": [
       "Hazard"
@@ -4887,9 +7785,72 @@
     "Link": "B432"
   },
   {
+    "Rule": "Collision Angle",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "432",
+    "Link": "B432"
+  },
+  {
+    "Rule": "Overruns",
+    "Category": [
+      "Physical Acts"
+    ],
+    "Book": "Basic",
+    "Page": "432",
+    "Link": "B432"
+  },
+  {
+    "Rule": "Whiplash and Collision",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "432",
+    "Link": "B432"
+  },
+  {
+    "Rule": "Lethal Electrical Damage",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "432",
+    "Link": "B432"
+  },
+  {
+    "Rule": "Nonlethal Electrical Damage",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "432",
+    "Link": "B432"
+  },
+  {
     "Rule": "Flame",
     "Category": [
       "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "433",
+    "Link": "B433"
+  },
+  {
+    "Rule": "Fire Sources",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "433",
+    "Link": "B433"
+  },
+  {
+    "Rule": "Making Things Burn",
+    "Category": [
+      "Affliction"
     ],
     "Book": "Basic",
     "Page": "433",
@@ -4926,6 +7887,24 @@
     "Rule": "Space Adaptation Syndrome (Space Sickness)",
     "Category": [
       "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "434",
+    "Link": "B434"
+  },
+  {
+    "Rule": "Gravity and Acceleration",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "434",
+    "Link": "B434"
+  },
+  {
+    "Rule": "Space Adaptation Syndrome (\"Space Sickness\")",
+    "Category": [
+      "Affliction"
     ],
     "Book": "Basic",
     "Page": "434",
@@ -4981,6 +7960,33 @@
     "Rule": "Suffocation",
     "Category": [
       "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "436",
+    "Link": "B436"
+  },
+  {
+    "Rule": "Radiation and Nonhumans",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "436",
+    "Link": "B436"
+  },
+  {
+    "Rule": "Radiation Protection",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Basic",
+    "Page": "436",
+    "Link": "B436"
+  },
+  {
+    "Rule": "Radiation Effects",
+    "Category": [
+      "Hazard"
     ],
     "Book": "Basic",
     "Page": "436",
@@ -5051,6 +8057,15 @@
     "Link": "B437"
   },
   {
+    "Rule": "Describing Poisons",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "437",
+    "Link": "B437"
+  },
+  {
     "Rule": "Poison Attributes",
     "Category": [
       "Poison"
@@ -5080,6 +8095,15 @@
   },
   {
     "Rule": "Treating Poison",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Basic",
+    "Page": "439",
+    "Link": "B439"
+  },
+  {
+    "Rule": "Poison Examples",
     "Category": [
       "Poison"
     ],
@@ -5135,9 +8159,99 @@
     "Link": "B441"
   },
   {
+    "Rule": "Illness",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "442",
+    "Link": "B442"
+  },
+  {
+    "Rule": "Disease",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "442",
+    "Link": "B442"
+  },
+  {
+    "Rule": "Contagion",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "443",
+    "Link": "B443"
+  },
+  {
+    "Rule": "Age and Aging",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "444",
+    "Link": "B444"
+  },
+  {
+    "Rule": "Infection",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "444",
+    "Link": "B444"
+  },
+  {
+    "Rule": "Creating Templates",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Basic",
+    "Page": "445",
+    "Link": "B445"
+  },
+  {
+    "Rule": "Character Templates",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Basic",
+    "Page": "445",
+    "Link": "B445"
+  },
+  {
+    "Rule": "Racial Templates",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Basic",
+    "Page": "450",
+    "Link": "B450"
+  },
+  {
     "Rule": "Animal and Monster Stat blocks",
     "Category": [
       "Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "455",
+    "Link": "B455"
+  },
+  {
+    "Rule": "Animals and Monsters",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "455",
+    "Link": "B455"
+  },
+  {
+    "Rule": "Common Animals",
+    "Category": [
+      "Affliction"
     ],
     "Book": "Basic",
     "Page": "455",
@@ -5165,6 +8279,15 @@
     "Rule": "Python (Quick Stat Block in Basic)",
     "Category": [
       "Creature"
+    ],
+    "Book": "Basic",
+    "Page": "458",
+    "Link": "B458"
+  },
+  {
+    "Rule": "Animal Training",
+    "Category": [
+      "Creatures"
     ],
     "Book": "Basic",
     "Page": "458",
@@ -5199,6 +8322,24 @@
     "Link": "B460"
   },
   {
+    "Rule": "Fantasy Monsters",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "460",
+    "Link": "B460"
+  },
+  {
+    "Rule": "Damage for Animals",
+    "Category": [
+      "Affliction"
+    ],
+    "Book": "Basic",
+    "Page": "460",
+    "Link": "B460"
+  },
+  {
     "Rule": "Swarm Attacks",
     "Category": [
       "Combat"
@@ -5206,6 +8347,52 @@
     "Book": "Basic",
     "Page": "461",
     "Link": "B461"
+  },
+  {
+    "Rule": "Animals in Combat",
+    "Category": [
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "461",
+    "Link": "B461"
+  },
+  {
+    "Rule": "Vehicles (Basic)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "462",
+    "Link": "B462"
+  },
+  {
+    "Rule": "Vehicle Statistics",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "462",
+    "Link": "B462"
+  },
+  {
+    "Rule": "Basic Vehicle Movement",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "463",
+    "Link": "B463"
+  },
+  {
+    "Rule": "Long-Distance Movement",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "463",
+    "Link": "B463"
   },
   {
     "Rule": "Ground Vehicle Table",
@@ -5221,6 +8408,15 @@
     "Rule": "Water Vehicle Table",
     "Category": [
       "Reference",
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "464",
+    "Link": "B464"
+  },
+  {
+    "Rule": "Vehicle Stats Table",
+    "Category": [
       "Vehicles"
     ],
     "Book": "Basic",
@@ -5256,6 +8452,96 @@
     "Link": "B466"
   },
   {
+    "Rule": "Vehicle Control Rolls (Movement)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "466",
+    "Link": "B466"
+  },
+  {
+    "Rule": "Vehicle Ground Travel",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "466",
+    "Link": "B466"
+  },
+  {
+    "Rule": "Vehicle Water Travel",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "466",
+    "Link": "B466"
+  },
+  {
+    "Rule": "Basic Vehicle Combat",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "467",
+    "Link": "B467"
+  },
+  {
+    "Rule": "Maneuvers",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "467",
+    "Link": "B467"
+  },
+  {
+    "Rule": "Vehicle Weapon Mounts",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "467",
+    "Link": "B467"
+  },
+  {
+    "Rule": "Vehicle Movement During Combat",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "468",
+    "Link": "B468"
+  },
+  {
+    "Rule": "Vehicle Control Rolls (Combat)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "469",
+    "Link": "B469"
+  },
+  {
+    "Rule": "Vehicle Attacks",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "469",
+    "Link": "B469"
+  },
+  {
+    "Rule": "Weapon Fire from a Moving Vehicle",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "469",
+    "Link": "B469"
+  },
+  {
     "Rule": "Decade (x10) and Century (x100) Scale for Large Vehicles",
     "Category": [
       "Vehicles"
@@ -5263,6 +8549,105 @@
     "Book": "Basic",
     "Page": "470",
     "Link": "B470"
+  },
+  {
+    "Rule": "Vehicle Defense",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "470",
+    "Link": "B470"
+  },
+  {
+    "Rule": "Combat Results and Hit Location",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "470",
+    "Link": "B470"
+  },
+  {
+    "Rule": "Vehicle Collisions",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "470",
+    "Link": "B470"
+  },
+  {
+    "Rule": "Who's at the Wheel",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "470",
+    "Link": "B470"
+  },
+  {
+    "Rule": "Vehicle Leaking",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "470",
+    "Link": "B470"
+  },
+  {
+    "Rule": "Scaling Damage",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "470",
+    "Link": "B470"
+  },
+  {
+    "Rule": "Electronics",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "471",
+    "Link": "B471"
+  },
+  {
+    "Rule": "Communicators",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "471",
+    "Link": "B471"
+  },
+  {
+    "Rule": "Sensors",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "471",
+    "Link": "B471"
+  },
+  {
+    "Rule": "Using Sensors",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "471",
+    "Link": "B471"
+  },
+  {
+    "Rule": "Passive Visual Sensors",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "471",
+    "Link": "B471"
   },
   {
     "Rule": "Computer Network Complexity",
@@ -5292,6 +8677,267 @@
     "Link": "B472"
   },
   {
+    "Rule": "Active Sensors",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "472",
+    "Link": "B472"
+  },
+  {
+    "Rule": "Complexity (Basic)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "472",
+    "Link": "B472"
+  },
+  {
+    "Rule": "Data Storage",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "472",
+    "Link": "B472"
+  },
+  {
+    "Rule": "Software (Basic)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "472",
+    "Link": "B472"
+  },
+  {
+    "Rule": "Other Software",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Basic",
+    "Page": "472",
+    "Link": "B472"
+  },
+  {
+    "Rule": "New Inventions",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "473",
+    "Link": "B473"
+  },
+  {
+    "Rule": "Complexity, Concept and Prototypes",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "473",
+    "Link": "B473"
+  },
+  {
+    "Rule": "Testing, Bugs and Production",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "474",
+    "Link": "B474"
+  },
+  {
+    "Rule": "Funding",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "474",
+    "Link": "B474"
+  },
+  {
+    "Rule": "Gadgeteering",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "475",
+    "Link": "B475"
+  },
+  {
+    "Rule": "Inventing Gadgets",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "475",
+    "Link": "B475"
+  },
+  {
+    "Rule": "Quick Gadgeteering",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "476",
+    "Link": "B476"
+  },
+  {
+    "Rule": "Gadget Bugs Table",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "476",
+    "Link": "B476"
+  },
+  {
+    "Rule": "Gadgeteering during Adventures",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "477",
+    "Link": "B477"
+  },
+  {
+    "Rule": "Gadgets for Non-Gadgeteers",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "477",
+    "Link": "B477"
+  },
+  {
+    "Rule": "Futuristic and Alien Artifacts",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "478",
+    "Link": "B478"
+  },
+  {
+    "Rule": "Enigmatic Device Table",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "478",
+    "Link": "B478"
+  },
+  {
+    "Rule": "Weird Technology",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "479",
+    "Link": "B479"
+  },
+  {
+    "Rule": "Magic Items",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "480",
+    "Link": "B480"
+  },
+  {
+    "Rule": "Enchantment Spells",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "480",
+    "Link": "B480"
+  },
+  {
+    "Rule": "Enchanting",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "481",
+    "Link": "B481"
+  },
+  {
+    "Rule": "Power of a Magic Item",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "481",
+    "Link": "B481"
+  },
+  {
+    "Rule": "Quick and Dirty Enchantment",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "481",
+    "Link": "B481"
+  },
+  {
+    "Rule": "Success Rolls for Enchanting",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "481",
+    "Link": "B481"
+  },
+  {
+    "Rule": "Slow and Sure Enchantment",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "481",
+    "Link": "B481"
+  },
+  {
+    "Rule": "Interruptions",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "481",
+    "Link": "B481"
+  },
+  {
+    "Rule": "Buying Magic Items",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "482",
+    "Link": "B482"
+  },
+  {
+    "Rule": "Using Magic Items",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "482",
+    "Link": "B482"
+  },
+  {
+    "Rule": "Spells for Enchantment",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "482",
+    "Link": "B482"
+  },
+  {
     "Rule": "Effects of Injury",
     "Category": [
       "Injury"
@@ -5304,6 +8950,15 @@
     "Rule": "Detailed HP Calculation",
     "Category": [
       "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "483",
+    "Link": "B483"
+  },
+  {
+    "Rule": "Damage to Objects",
+    "Category": [
+      "Gear"
     ],
     "Book": "Basic",
     "Page": "483",
@@ -5339,6 +8994,78 @@
     "Link": "B484"
   },
   {
+    "Rule": "Damage to Buildings and Structures",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "484",
+    "Link": "B484"
+  },
+  {
+    "Rule": "Repairs",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "484",
+    "Link": "B484"
+  },
+  {
+    "Rule": "Breakdowns",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "485",
+    "Link": "B485"
+  },
+  {
+    "Rule": "Broken Weapons",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "485",
+    "Link": "B485"
+  },
+  {
+    "Rule": "Reaction Rolls",
+    "Category": [
+      "Influence"
+    ],
+    "Book": "Basic",
+    "Page": "494",
+    "Link": "B494"
+  },
+  {
+    "Rule": "Predetermined Actions",
+    "Category": [
+      "Actions"
+    ],
+    "Book": "Basic",
+    "Page": "495",
+    "Link": "B495"
+  },
+  {
+    "Rule": "Second Reaction Rolls",
+    "Category": [
+      "Influence"
+    ],
+    "Book": "Basic",
+    "Page": "495",
+    "Link": "B495"
+  },
+  {
+    "Rule": "Influence Skills",
+    "Category": [
+      "Influence"
+    ],
+    "Book": "Basic",
+    "Page": "495",
+    "Link": "B495"
+  },
+  {
     "Rule": "Awarding Character Points",
     "Category": [
       "Character Points"
@@ -5346,6 +9073,42 @@
     "Book": "Basic",
     "Page": "498",
     "Link": "B498"
+  },
+  {
+    "Rule": "Language",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "506",
+    "Link": "B506"
+  },
+  {
+    "Rule": "Control Rating",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "506",
+    "Link": "B506"
+  },
+  {
+    "Rule": "Legality",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "507",
+    "Link": "B507"
+  },
+  {
+    "Rule": "Society and Government Types",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "509",
+    "Link": "B509"
   },
   {
     "Rule": "Historical Tech Level",
@@ -5375,6 +9138,124 @@
     "Link": "B513"
   },
   {
+    "Rule": "Improving Skills in Alternate Tech Levels",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "513",
+    "Link": "B513"
+  },
+  {
+    "Rule": "Buying and Selling",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "514",
+    "Link": "B514"
+  },
+  {
+    "Rule": "Loot, and Disposing of It",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "515",
+    "Link": "B515"
+  },
+  {
+    "Rule": "Jobs",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "516",
+    "Link": "B516"
+  },
+  {
+    "Rule": "Wealth and Status",
+    "Category": [
+      "Attributes"
+    ],
+    "Book": "Basic",
+    "Page": "516",
+    "Link": "B516"
+  },
+  {
+    "Rule": "Hirelings",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "517",
+    "Link": "B517"
+  },
+  {
+    "Rule": "Monthly Pay",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "517",
+    "Link": "B517"
+  },
+  {
+    "Rule": "Slaves",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "518",
+    "Link": "B518"
+  },
+  {
+    "Rule": "Loyalty Checks",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "519",
+    "Link": "B519"
+  },
+  {
+    "Rule": "Types of Realities",
+    "Category": [
+      "UNCERTAIN"
+    ],
+    "Book": "Basic",
+    "Page": "520",
+    "Link": "B520"
+  },
+  {
+    "Rule": "Interplanar Travel",
+    "Category": [
+      "UNCERTAIN"
+    ],
+    "Book": "Basic",
+    "Page": "522",
+    "Link": "B522"
+  },
+  {
+    "Rule": "Combat Modifiers",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "547",
+    "Link": "B547"
+  },
+  {
+    "Rule": "Melee Attack Modifiers",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "547",
+    "Link": "B547"
+  },
+  {
     "Rule": "Unarmed Parry vs. Weapon",
     "Category": [
       "Combat"
@@ -5384,7 +9265,47 @@
     "Link": "B548"
   },
   {
+    "Rule": "Active Defense Modifiers",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "548",
+    "Link": "B548"
+  },
+  {
+    "Rule": "Ranged Attack Modifiers",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "548",
+    "Link": "B548"
+  },
+  {
+    "Rule": "Size and Speed/Range Table",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "550",
+    "Link": "B550"
+  },
+  {
     "Rule": "Postures Table",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "551",
+    "Link": "B551"
+  },
+  {
+    "Rule": "Maneuvers/Manoeuvres",
     "Category": [
       "Reference",
       "Combat"
@@ -5407,6 +9328,26 @@
     "Rule": "Reduce Wounding Modifier for Impaling to Arm or Leg to x1",
     "Category": [
       "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "552",
+    "Link": "B552"
+  },
+  {
+    "Rule": "Human and Humanoid Hit Location Table",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "552",
+    "Link": "B552"
+  },
+  {
+    "Rule": "Non-Humanoid Hit Location Tables",
+    "Category": [
+      "Reference",
+      "Combat"
     ],
     "Book": "Basic",
     "Page": "552",
@@ -5464,6 +9405,25 @@
     "Link": "B556"
   },
   {
+    "Rule": "Critical Success and Failure",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "556",
+    "Link": "B556"
+  },
+  {
+    "Rule": "Critical Head Blow Table",
+    "Category": [
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "556",
+    "Link": "B556"
+  },
+  {
     "Rule": "HP and DR of Objects and Cover",
     "Category": [
       "Reference",
@@ -5484,6 +9444,15 @@
     "Link": "B557"
   },
   {
+    "Rule": "HP and DR of Structures",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "558",
+    "Link": "B558"
+  },
+  {
     "Rule": "Cover DR and Cover DR Table",
     "Category": [
       "Reference",
@@ -5492,6 +9461,75 @@
     "Book": "Basic",
     "Page": "559",
     "Link": "B559"
+  },
+  {
+    "Rule": "NPC Reactions",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Basic",
+    "Page": "559",
+    "Link": "B559"
+  },
+  {
+    "Rule": "Reaction Table",
+    "Category": [
+      "Reference",
+      "NPC"
+    ],
+    "Book": "Basic",
+    "Page": "560",
+    "Link": "B560"
+  },
+  {
+    "Rule": "Potental Combat Situations (and Morale Checks)",
+    "Category": [
+      "Reference",
+      "NPC"
+    ],
+    "Book": "Basic",
+    "Page": "561",
+    "Link": "B561"
+  },
+  {
+    "Rule": "General Reaction",
+    "Category": [
+      "Reference",
+      "NPC"
+    ],
+    "Book": "Basic",
+    "Page": "561",
+    "Link": "B561"
+  },
+  {
+    "Rule": "Commercial Transactions",
+    "Category": [
+      "Reference",
+      "NPC"
+    ],
+    "Book": "Basic",
+    "Page": "562",
+    "Link": "B562"
+  },
+  {
+    "Rule": "Loyalty",
+    "Category": [
+      "Reference",
+      "NPC"
+    ],
+    "Book": "Basic",
+    "Page": "562",
+    "Link": "B562"
+  },
+  {
+    "Rule": "Requests for Aid",
+    "Category": [
+      "Reference",
+      "NPC"
+    ],
+    "Book": "Basic",
+    "Page": "562",
+    "Link": "B562"
   },
   {
     "Rule": "DNA Testing Procedures",
@@ -13677,9 +17715,7 @@
   {
     "Rule": "Goblin Double-Knife Martial Arts Style",
     "Category": [
-      "Template",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Fantasy Folk: Goblins and Hobgoblins",
     "Page": "20",
@@ -13688,9 +17724,7 @@
   {
     "Rule": "Goblin The Way of Confusion Martial Arts Style",
     "Category": [
-      "Template",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Fantasy Folk: Goblins and Hobgoblins",
     "Page": "21",
@@ -13861,6 +17895,7 @@
   {
     "Rule": "The Art of the Serpent Magical Style",
     "Category": [
+      "Styles",
       "Magic"
     ],
     "Book": "Fantasy Folk: The Reptilian Races",
@@ -13879,8 +17914,7 @@
   {
     "Rule": "Halberd and Fang Martial Arts Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Fantasy Folk: The Reptilian Races",
     "Page": "20",
@@ -13962,8 +17996,7 @@
   {
     "Rule": "Winged Folk Martial Arts Styles",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Fantasy Folk: Winged Folk",
     "Page": "14",
@@ -13972,7 +18005,7 @@
   {
     "Rule": "Winged Folk Magical Styles",
     "Category": [
-      "Skills",
+      "Styles",
       "Magic"
     ],
     "Book": "Fantasy Folk: Winged Folk",
@@ -15392,8 +19425,7 @@
   {
     "Rule": "Double Trouble Gun Fu Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Gun Fu",
     "Page": "31",
@@ -15402,8 +19434,7 @@
   {
     "Rule": "Future Kill Gun Fu Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Gun Fu",
     "Page": "32",
@@ -15412,8 +19443,7 @@
   {
     "Rule": "One-Man Army Gun Fu Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Gun Fu",
     "Page": "32",
@@ -15422,8 +19452,7 @@
   {
     "Rule": "Sniper Gun Fu Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Gun Fu",
     "Page": "33",
@@ -15432,8 +19461,7 @@
   {
     "Rule": "Ultimate Shootist Gun Fu Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Gun Fu",
     "Page": "34",
@@ -15442,8 +19470,7 @@
   {
     "Rule": "Crossbow Fu Gun Fu Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Gun Fu",
     "Page": "34",
@@ -15452,8 +19479,7 @@
   {
     "Rule": "Way of the West Gun Fu Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Gun Fu",
     "Page": "35",
@@ -15462,8 +19488,7 @@
   {
     "Rule": "Way of the Galaxy Gun Fu Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Gun Fu",
     "Page": "35",
@@ -21474,6 +25499,42 @@
     "Link": "M9"
   },
   {
+    "Rule": "Optional Rule: Alternate Spell Casting Rituals",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "9",
+    "Link": "M9"
+  },
+  {
+    "Rule": "Optional Rule: Casting a Spell withSoft Speech is at -2 penalty to Skill",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "9",
+    "Link": "M9"
+  },
+  {
+    "Rule": "Optional Rule: Casting a Spell with no Speech is at -4 penalty to Skill",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "9",
+    "Link": "M9"
+  },
+  {
+    "Rule": "Optional Rule: Doubling Casting Time Gives +1 to Spell Skill",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "9",
+    "Link": "M9"
+  },
+  {
     "Rule": "Canceling Spells",
     "Category": [
       "Magic"
@@ -22071,7 +26132,7 @@
   {
     "Rule": "Fluidist (Blue Robe)",
     "Category": [
-      "Template",
+      "Styles",
       "Magic"
     ],
     "Book": "Magical Styles: Dungeon Magic",
@@ -22081,7 +26142,7 @@
   {
     "Rule": "Iron Mage (Red Robe)",
     "Category": [
-      "Template",
+      "Styles",
       "Magic"
     ],
     "Book": "Magical Styles: Dungeon Magic",
@@ -22091,7 +26152,7 @@
   {
     "Rule": "Underworld Mage (Black Robe)",
     "Category": [
-      "Template",
+      "Styles",
       "Magic"
     ],
     "Book": "Magical Styles: Dungeon Magic",
@@ -22101,7 +26162,7 @@
   {
     "Rule": "Thaumaturgeticist (Yellow-Robe)",
     "Category": [
-      "Template",
+      "Styles",
       "Magic"
     ],
     "Book": "Magical Styles: Dungeon Magic",
@@ -22111,7 +26172,7 @@
   {
     "Rule": "Echoist (Green Robe)",
     "Category": [
-      "Template",
+      "Styles",
       "Magic"
     ],
     "Book": "Magical Styles: Dungeon Magic",
@@ -22121,7 +26182,7 @@
   {
     "Rule": "Pentaclist (Orange Robe)",
     "Category": [
-      "Template",
+      "Styles",
       "Magic"
     ],
     "Book": "Magical Styles: Dungeon Magic",
@@ -22131,7 +26192,7 @@
   {
     "Rule": "Mirror-Mage (White Robe)",
     "Category": [
-      "Template",
+      "Styles",
       "Magic"
     ],
     "Book": "Magical Styles: Dungeon Magic",
@@ -22141,7 +26202,8 @@
   {
     "Rule": "Power-Ups for Dungeon Magical Styles",
     "Category": [
-      "Traits"
+      "Styles",
+      "Magic"
     ],
     "Book": "Magical Styles: Dungeon Magic",
     "Page": "42",
@@ -22178,7 +26240,8 @@
     "Rule": "Cult Secrets Style Prerequisite",
     "Category": [
       "Magic",
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Magical Styles: Horror Magic",
     "Page": "5",
@@ -22233,7 +26296,8 @@
     "Rule": "Dark Path Style Prerequisite",
     "Category": [
       "Magic",
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Magical Styles: Horror Magic",
     "Page": "8",
@@ -22288,7 +26352,8 @@
     "Rule": "Forgotten Wisdom Style Prerequisites",
     "Category": [
       "Magic",
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Magical Styles: Horror Magic",
     "Page": "10",
@@ -22354,7 +26419,8 @@
   {
     "Rule": "Modern Magical Styles",
     "Category": [
-      "Magic"
+      "Magic",
+      "Styles"
     ],
     "Book": "Magical Styles: Modern Magic",
     "Page": "4",
@@ -22364,7 +26430,8 @@
     "Rule": "In Summary (Modern Magic Styles)",
     "Category": [
       "Magic",
-      "Setting"
+      "Setting",
+      "Styles"
     ],
     "Book": "Magical Styles: Modern Magic",
     "Page": "4",
@@ -22373,7 +26440,8 @@
   {
     "Rule": "Style Guide (Modern Magic)",
     "Category": [
-      "Magic"
+      "Magic",
+      "Styles"
     ],
     "Book": "Magical Styles: Modern Magic",
     "Page": "5",
@@ -22392,7 +26460,8 @@
     "Rule": "The Librarian's Art Style Prerequisites",
     "Category": [
       "Magic",
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Magical Styles: Modern Magic",
     "Page": "5",
@@ -22483,7 +26552,8 @@
     "Rule": "Magical Demagoguery Style Prerequisites",
     "Category": [
       "Magic",
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Magical Styles: Modern Magic",
     "Page": "9",
@@ -22557,7 +26627,7 @@
     "Rule": "Punk Magic Style Prerequisites",
     "Category": [
       "Magic",
-      "Traits"
+      "Styles"
     ],
     "Book": "Magical Styles: Modern Magic",
     "Page": "12",
@@ -22649,7 +26719,7 @@
     "Rule": "Rock and Roll Magic Style Prerequisites",
     "Category": [
       "Magic",
-      "Traits"
+      "Styles"
     ],
     "Book": "Magical Styles: Modern Magic",
     "Page": "17",
@@ -22773,7 +26843,7 @@
     "Rule": "Trenchcoat Magic Style Prerequisites",
     "Category": [
       "Magic",
-      "Traits"
+      "Styles"
     ],
     "Book": "Magical Styles: Modern Magic",
     "Page": "21",
@@ -22839,7 +26909,8 @@
     "Rule": "Traditional Styles",
     "Category": [
       "Magic",
-      "Setting"
+      "Setting",
+      "Styles"
     ],
     "Book": "Magical Styles: Traditional Styles",
     "Page": "3",
@@ -22848,7 +26919,8 @@
   {
     "Rule": "Traditional Magical Styles",
     "Category": [
-      "Magic"
+      "Magic",
+      "Styles"
     ],
     "Book": "Magical Styles: Traditional Styles",
     "Page": "4",
@@ -22858,7 +26930,8 @@
     "Rule": "In Summary (Traditional Styles)",
     "Category": [
       "Magic",
-      "Setting"
+      "Setting",
+      "Styles"
     ],
     "Book": "Magical Styles: Traditional Styles",
     "Page": "4",
@@ -22867,7 +26940,8 @@
   {
     "Rule": "Style Guide (Traditional Styles)",
     "Category": [
-      "Magic"
+      "Magic",
+      "Styles"
     ],
     "Book": "Magical Styles: Traditional Styles",
     "Page": "4",
@@ -22886,7 +26960,8 @@
     "Rule": "Bodily Magic Style Prerequisites",
     "Category": [
       "Magic",
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Magical Styles: Traditional Styles",
     "Page": "5",
@@ -23015,7 +27090,8 @@
     "Rule": "Dream Magic Style Prerequisites",
     "Category": [
       "Magic",
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Magical Styles: Traditional Styles",
     "Page": "8",
@@ -23071,7 +27147,8 @@
     "Rule": "Spoken Word Magic Style Prerequisites",
     "Category": [
       "Magic",
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Magical Styles: Traditional Styles",
     "Page": "11",
@@ -23200,7 +27277,7 @@
     "Rule": "Theurgy Style Prerequisites",
     "Category": [
       "Magic",
-      "Traits",
+      "Styles",
       "Divinity"
     ],
     "Book": "Magical Styles: Traditional Styles",
@@ -23300,7 +27377,7 @@
     "Rule": "Mystic Assassin Style Prerequisites",
     "Category": [
       "Magic",
-      "Traits"
+      "Styles"
     ],
     "Book": "Magical Styles: Traditional Styles",
     "Page": "19",
@@ -24560,8 +28637,8 @@
   {
     "Rule": "Style Familiarity Perk",
     "Category": [
-      "Traits",
-      "Skills"
+      "Styles",
+      "Traits"
     ],
     "Book": "Martial Arts",
     "Page": "142",
@@ -24570,7 +28647,7 @@
   {
     "Rule": "Learning New Styles During Play (Martial Arts)",
     "Category": [
-      "Skills"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "146",
@@ -24579,8 +28656,7 @@
   {
     "Rule": "Style Cost Breakdown (Martial Arts)",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "146",
@@ -24589,38 +28665,124 @@
   {
     "Rule": "Style Perks 1 per 10 CP in Style (Martial Arts)",
     "Category": [
-      "Skills"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "146",
     "Link": "MA146"
   },
   {
-    "Rule": "Aikijutsu Martial Arts Style",
+    "Rule": "Combining Styles",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "147",
+    "Link": "MA147"
+  },
+  {
+    "Rule": "Aikido",
+    "Category": [
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "149",
     "Link": "MA149"
   },
   {
+    "Rule": "Aikijutsu",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "149",
+    "Link": "MA149"
+  },
+  {
+    "Rule": "Armatura and Armatura Equestris",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "150",
+    "Link": "MA150"
+  },
+  {
+    "Rule": "Bajutsu",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "151",
+    "Link": "MA151"
+  },
+  {
+    "Rule": "Bando",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "151",
+    "Link": "MA151"
+  },
+  {
     "Rule": "Boxing Martial Arts Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "152",
     "Link": "MA152"
   },
   {
+    "Rule": "Ancient Greek Boxing",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "153",
+    "Link": "MA153"
+  },
+  {
+    "Rule": "Bare-Knuckle Boxing",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "153",
+    "Link": "MA153"
+  },
+  {
+    "Rule": "Capoeira",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "153",
+    "Link": "MA153"
+  },
+  {
+    "Rule": "Chin Na",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "154",
+    "Link": "MA154"
+  },
+  {
     "Rule": "Dagger Fighting Style",
     "Category": [
-      "Combat",
-      "Skills",
-      "Techniques"
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "155",
+    "Link": "MA155"
+  },
+  {
+    "Rule": "Escrima",
+    "Category": [
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "155",
@@ -24629,58 +28791,178 @@
   {
     "Rule": "Fencing Styles",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "156",
     "Link": "MA156"
   },
   {
+    "Rule": "Stickfighting",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "157",
+    "Link": "MA157"
+  },
+  {
+    "Rule": "Furusiyya",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "159",
+    "Link": "MA159"
+  },
+  {
+    "Rule": "Sport Fencing (Épée, Foil, Saber, and Schläger)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "160",
+    "Link": "MA160"
+  },
+  {
+    "Rule": "Hapkido",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "161",
+    "Link": "MA161"
+  },
+  {
+    "Rule": "Hoplomachia",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "161",
+    "Link": "MA161"
+  },
+  {
+    "Rule": "Hsing I Chuan",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "162",
+    "Link": "MA162"
+  },
+  {
     "Rule": "Hung Gar Kung Fu (Tiger-Crane Style)",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "163",
     "Link": "MA163"
   },
   {
-    "Rule": "Jeet Kune Do Martial Arts Style Bruce Lee",
+    "Rule": "Hwa Rang Do (Korean)",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "163",
+    "Link": "MA163"
+  },
+  {
+    "Rule": "Jeet Kune Do (Bruce Lee)",
+    "Category": [
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "164",
     "Link": "MA164"
   },
   {
-    "Rule": "Jujutsu Martial Arts Style",
+    "Rule": "Judo Martial Arts Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "166",
     "Link": "MA166"
   },
   {
+    "Rule": "Jujutsu",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "166",
+    "Link": "MA166"
+  },
+  {
+    "Rule": "Kajukenbo (Hawaiian)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "168",
+    "Link": "MA168"
+  },
+  {
+    "Rule": "Kalaripayit (Indian)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "168",
+    "Link": "MA168"
+  },
+  {
     "Rule": "Karate Martial Arts Fighting Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "169",
     "Link": "MA169"
   },
   {
+    "Rule": "Kempo",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "172",
+    "Link": "MA172"
+  },
+  {
+    "Rule": "Kenjutsu",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "173",
+    "Link": "MA173"
+  },
+  {
+    "Rule": "Kendo",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "175",
+    "Link": "MA175"
+  },
+  {
+    "Rule": "Iaido",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "175",
+    "Link": "MA175"
+  },
+  {
     "Rule": "Early Medieval Mounted Combat Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "175",
@@ -24689,8 +28971,7 @@
   {
     "Rule": "High Medieval Mounted Combat Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "176",
@@ -24699,79 +28980,277 @@
   {
     "Rule": "Late Medieval Mounted Combat Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "177",
     "Link": "MA177"
   },
   {
+    "Rule": "Kobujutsu (Okinawan Weapon Training)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "178",
+    "Link": "MA178"
+  },
+  {
+    "Rule": "Kuntao (Indonesia and Malaysia)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "178",
+    "Link": "MA178"
+  },
+  {
+    "Rule": "Kusarijutsu (Jaoanese use of the Kusari)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "179",
+    "Link": "MA179"
+  },
+  {
+    "Rule": "Kyujutsu (Japanese use of the Bow)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "179",
+    "Link": "MA179"
+  },
+  {
     "Rule": "Longsword Fighting Style",
     "Category": [
-      "Combat",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "180",
     "Link": "MA180"
   },
   {
-    "Rule": "Archery Martial Arts Styles",
+    "Rule": "Kusarigamajutsu (Attaching the Kusari to Other Weapons)",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "180",
+    "Link": "MA180"
+  },
+  {
+    "Rule": "Archery Martial Arts Styles (Foot Archery, Kyudo, Yabusame)",
+    "Category": [
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "181",
     "Link": "MA181"
   },
   {
+    "Rule": "Masters of Defense Weapon Training (English, German)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "182",
+    "Link": "MA182"
+  },
+  {
+    "Rule": "Fairbairn Close Combat Training",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "182",
+    "Link": "MA182"
+  },
+  {
+    "Rule": "Krav Maga",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "183",
+    "Link": "MA183"
+  },
+  {
+    "Rule": "MCMAP (U.S. Marine Corps Martial Arts Program)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "183",
+    "Link": "MA183"
+  },
+  {
+    "Rule": "Muay Thai (Thailand)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "185",
+    "Link": "MA185"
+  },
+  {
+    "Rule": "Lethwei (Burmese Boxing)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "186",
+    "Link": "MA186"
+  },
+  {
+    "Rule": "Naginatajutsu (Japanese Polearm Fighting)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "186",
+    "Link": "MA186"
+  },
+  {
     "Rule": "Polearm Martial Arts Fighting Styles",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "187",
     "Link": "MA187"
   },
   {
+    "Rule": "Pa Kua Chuan (Chinese Kung Fu)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "187",
+    "Link": "MA187"
+  },
+  {
+    "Rule": "Pak Hok (Tibetan Monk Kung Fu)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "188",
+    "Link": "MA188"
+  },
+  {
+    "Rule": "Pankration (Greek Wrestling)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "188",
+    "Link": "MA188"
+  },
+  {
+    "Rule": "Pentjak Silat (indonesian)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "189",
+    "Link": "MA189"
+  },
+  {
+    "Rule": "Pollaxe Fighting",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "191",
+    "Link": "MA191"
+  },
+  {
+    "Rule": "Praying Mantis Kung Fu",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "191",
+    "Link": "MA191"
+  },
+  {
     "Rule": "Quarterstaff Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "192",
     "Link": "MA192"
   },
   {
+    "Rule": "Staff Fighting (Bojutsu, Jojutsu, Sport Quarterstaff)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "192",
+    "Link": "MA192"
+  },
+  {
+    "Rule": "Savate (French)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "193",
+    "Link": "MA193"
+  },
+  {
+    "Rule": "Shaolin Kung Fu (Shaolin Temple Monks)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "194",
+    "Link": "MA194"
+  },
+  {
     "Rule": "Shortsword Fighting Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "195",
     "Link": "MA195"
   },
   {
-    "Rule": "Spear Fighting Style",
+    "Rule": "Spear Fighting Style (Chinese, and Heroic)",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "196",
     "Link": "MA196"
   },
   {
+    "Rule": "Spear Fighting Style (Iklwa, Jukenjutsu, Viking Spear Fighting)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "197",
+    "Link": "MA197"
+  },
+  {
+    "Rule": "Sojutsu (Japanese Spear Fighting)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "197",
+    "Link": "MA197"
+  },
+  {
     "Rule": "Sumo Fighting Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "198",
@@ -24780,8 +29259,7 @@
   {
     "Rule": "Sword-and-Buckler Play",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "199",
@@ -24790,39 +29268,43 @@
   {
     "Rule": "Sword-and-Shield Fighting",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "199",
     "Link": "MA199"
   },
   {
-    "Rule": "T’ai Chi Chuan Fighting Style",
+    "Rule": "T’ai Chi Chuan (T’ai Chi-meditative version)",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "200",
     "Link": "MA200"
   },
   {
-    "Rule": "Tae Kwon Do Fighting Style",
+    "Rule": "Tae Kwon Do",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "200",
     "Link": "MA200"
   },
   {
-    "Rule": "Taijutsu Ninja Striking Style",
+    "Rule": "Taijutsu Ninja",
     "Category": [
-      "Combat",
-      "Skills",
-      "Techniques"
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "201",
+    "Link": "MA201"
+  },
+  {
+    "Rule": "Taihojutsu (Japanese Jutte-Style)",
+    "Category": [
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "201",
@@ -24831,19 +29313,25 @@
   {
     "Rule": "Ninjutsu Ninja Fighting Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "202",
     "Link": "MA202"
   },
   {
+    "Rule": "Wing Chun (Southern Chinese Fighting Style)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "203",
+    "Link": "MA203"
+  },
+  {
     "Rule": "Wrestling Combat Style",
     "Category": [
-      "Combat",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "204",
@@ -24852,29 +29340,52 @@
   {
     "Rule": "Wrestling Fighting Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "204",
     "Link": "MA204"
   },
   {
-    "Rule": "Greco-Roman Wrestling Style",
+    "Rule": "Greco-Roman Wrestling",
     "Category": [
-      "Combat",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "205",
     "Link": "MA205"
   },
   {
+    "Rule": "Indian Wrestling",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "205",
+    "Link": "MA205"
+  },
+  {
+    "Rule": "Wushu (Modern Chinese)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "206",
+    "Link": "MA206"
+  },
+  {
+    "Rule": "Death Fist (Fictional) Style",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts",
+    "Page": "207",
+    "Link": "MA207"
+  },
+  {
     "Rule": "Dragon-Man Kung Fu (Fictional) Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts",
     "Page": "208",
@@ -26850,7 +31361,7 @@
     "Rule": "Bears (Animal Style)",
     "Category": [
       "Creatures",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts: Technical Grappling",
     "Page": "44",
@@ -26860,7 +31371,7 @@
     "Rule": "Canines (Animal Style)",
     "Category": [
       "Creatures",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts: Technical Grappling",
     "Page": "44",
@@ -26870,7 +31381,7 @@
     "Rule": "Constrictor Snakes (Animal Style)",
     "Category": [
       "Creatures",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts: Technical Grappling",
     "Page": "44",
@@ -26889,8 +31400,7 @@
     "Rule": "Belt or Jacket Wrestling (Style)",
     "Category": [
       "Combat",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts: Technical Grappling",
     "Page": "45",
@@ -26900,8 +31410,7 @@
     "Rule": "Collegiate Wrestling (Style)",
     "Category": [
       "Combat",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts: Technical Grappling",
     "Page": "45",
@@ -26911,7 +31420,7 @@
     "Rule": "Felines (Animal Style)",
     "Category": [
       "Creatures",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts: Technical Grappling",
     "Page": "45",
@@ -26921,8 +31430,7 @@
     "Rule": "Jo'baak Wrestling (Style)",
     "Category": [
       "Combat",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts: Technical Grappling",
     "Page": "45",
@@ -26932,8 +31440,7 @@
     "Rule": "Passive Restraint (Style)",
     "Category": [
       "Combat",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts: Technical Grappling",
     "Page": "46",
@@ -26943,8 +31450,7 @@
     "Rule": "Shuai Jiao (Style)",
     "Category": [
       "Combat",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts: Technical Grappling",
     "Page": "46",
@@ -26954,8 +31460,7 @@
     "Rule": "The Night Way (Style)",
     "Category": [
       "Combat",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Martial Arts: Technical Grappling",
     "Page": "46",
@@ -26996,6 +31501,169 @@
     "Book": "Martial Arts: Technical Grappling",
     "Page": "48",
     "Link": "MATG48"
+  },
+  {
+    "Rule": "Alquetalle",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "12",
+    "Link": "MAYFS12"
+  },
+  {
+    "Rule": "Fantasy Style Lenses Attached to Martial Arts Styles",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "13",
+    "Link": "MAYFS13"
+  },
+  {
+    "Rule": "Aralaise Estoc School",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "13",
+    "Link": "MAYFS13"
+  },
+  {
+    "Rule": "Ars Clemens",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "14",
+    "Link": "MAYFS14"
+  },
+  {
+    "Rule": "Battlecraft",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "14",
+    "Link": "MAYFS14"
+  },
+  {
+    "Rule": "Unarmed Battlecraft",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "15",
+    "Link": "MAYFS15"
+  },
+  {
+    "Rule": "Berserkergang",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "15",
+    "Link": "MAYFS15"
+  },
+  {
+    "Rule": "Dragon Fighting",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "16",
+    "Link": "MAYFS16"
+  },
+  {
+    "Rule": "Harmony (Halfling Style)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "17",
+    "Link": "MAYFS17"
+  },
+  {
+    "Rule": "Imperial Legion Training (Crossbow, Field Wizard)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "17",
+    "Link": "MAYFS17"
+  },
+  {
+    "Rule": "Sylvan War Lore (Bow, Staff, and Sword)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "18",
+    "Link": "MAYFS18"
+  },
+  {
+    "Rule": "Imbuement Skills added to Yrth Styles",
+    "Category": [
+      "Magic",
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "19",
+    "Link": "MAYFS19"
+  },
+  {
+    "Rule": "Tahtib (Egyptian Bedouin Staff-Fighting)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "20",
+    "Link": "MAYFS20"
+  },
+  {
+    "Rule": "Centaur Battle Lore",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "20",
+    "Link": "MAYFS20"
+  },
+  {
+    "Rule": "Ulvinger Fighting",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "21",
+    "Link": "MAYFS21"
+  },
+  {
+    "Rule": "Underwater Styles (Merfolk Spear, Net and Trident)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "21",
+    "Link": "MAYFS21"
+  },
+  {
+    "Rule": "Underwater Styles (Octopus-Folk Wrestling, Samebito Kenjutsu)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "22",
+    "Link": "MAYFS22"
+  },
+  {
+    "Rule": "Underwater Fighting",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts: Yrth Fighting Styles",
+    "Page": "22",
+    "Link": "MAYFS22"
   },
   {
     "Rule": "Shapeshifting (Yrth)",
@@ -33508,8 +38176,7 @@
   {
     "Rule": "Automata Weird Science Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Powers: The Weird",
     "Page": "8",
@@ -33527,8 +38194,7 @@
   {
     "Rule": "Good Old-Fashioned AI Weird Science Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Powers: The Weird",
     "Page": "9",
@@ -33537,8 +38203,7 @@
   {
     "Rule": "Controlled Evolution Weird Science Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Powers: The Weird",
     "Page": "10",
@@ -33547,8 +38212,7 @@
   {
     "Rule": "Nanotech Weird Science Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Powers: The Weird",
     "Page": "10",
@@ -33557,8 +38221,7 @@
   {
     "Rule": "Mind Modification Weird Science Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Powers: The Weird",
     "Page": "11",
@@ -33567,8 +38230,7 @@
   {
     "Rule": "Ontogenetics Weird Science Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Powers: The Weird",
     "Page": "11",
@@ -33577,8 +38239,7 @@
   {
     "Rule": "Para-Energetics Weird Science Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Powers: The Weird",
     "Page": "12",
@@ -33587,8 +38248,7 @@
   {
     "Rule": "Psycical Research Weird Science Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Powers: The Weird",
     "Page": "13",
@@ -33597,8 +38257,7 @@
   {
     "Rule": "Tesseraxis Weird Science Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Powers: The Weird",
     "Page": "13",
@@ -33607,8 +38266,7 @@
   {
     "Rule": "Transcendental Philosophy Weird Science Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Powers: The Weird",
     "Page": "13",
@@ -33617,8 +38275,7 @@
   {
     "Rule": "Xenonucleonics Weird Science Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Powers: The Weird",
     "Page": "14",
@@ -33854,6 +38511,240 @@
     "Link": "PU1:6"
   },
   {
+    "Rule": "Annihilating Weapon",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "6",
+    "Link": "PU1:6"
+  },
+  {
+    "Rule": "Arching Shot",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "6",
+    "Link": "PU1:6"
+  },
+  {
+    "Rule": "Bank Shot",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "6",
+    "Link": "PU1:6"
+  },
+  {
+    "Rule": "Conic Blast",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "6",
+    "Link": "PU1:6"
+  },
+  {
+    "Rule": "Continuing Attack",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "7",
+    "Link": "PU1:7"
+  },
+  {
+    "Rule": "Crippling Blow",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "7",
+    "Link": "PU1:7"
+  },
+  {
+    "Rule": "Dancing Weapon",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "7",
+    "Link": "PU1:7"
+  },
+  {
+    "Rule": "Drugged Weapon",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "7",
+    "Link": "PU1:7"
+  },
+  {
+    "Rule": "Electric Weapon",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "7",
+    "Link": "PU1:7"
+  },
+  {
+    "Rule": "Envenomed Weapon",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "8",
+    "Link": "PU1:8"
+  },
+  {
+    "Rule": "Far Shot",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "8",
+    "Link": "PU1:8"
+  },
+  {
+    "Rule": "Forceful Blow",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "8",
+    "Link": "PU1:8"
+  },
+  {
+    "Rule": "Ghostly Weapon",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "8",
+    "Link": "PU1:8"
+  },
+  {
+    "Rule": "Guided Weapon",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "8",
+    "Link": "PU1:8"
+  },
+  {
+    "Rule": "Homing Weapon",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "9",
+    "Link": "PU1:9"
+  },
+  {
+    "Rule": "Incendiary Weapon",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "9",
+    "Link": "PU1:9"
+  },
+  {
+    "Rule": "Multi-Shot",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "9",
+    "Link": "PU1:9"
+  },
+  {
+    "Rule": "Penetrating Strike",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "9",
+    "Link": "PU1:9"
+  },
+  {
+    "Rule": "Project Blow",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "9",
+    "Link": "PU1:9"
+  },
+  {
+    "Rule": "Shattershot",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "10",
+    "Link": "PU1:10"
+  },
+  {
+    "Rule": "Shockwave",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "10",
+    "Link": "PU1:10"
+  },
+  {
+    "Rule": "Stealthy Attack",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "10",
+    "Link": "PU1:10"
+  },
+  {
+    "Rule": "Stupefying Blow",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "10",
+    "Link": "PU1:10"
+  },
+  {
+    "Rule": "Sudden Death",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "10",
+    "Link": "PU1:10"
+  },
+  {
+    "Rule": "Supreme Control",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "10",
+    "Link": "PU1:10"
+  },
+  {
+    "Rule": "Telescoping Weapon",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "10",
+    "Link": "PU1:10"
+  },
+  {
     "Rule": "Transformation Imbuement Skills",
     "Category": [
       "Skills",
@@ -33864,10 +38755,182 @@
     "Link": "PU1:11"
   },
   {
+    "Rule": "Traumatic Blow",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "11",
+    "Link": "PU1:11"
+  },
+  {
+    "Rule": "Binding Shot",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "11",
+    "Link": "PU1:11"
+  },
+  {
+    "Rule": "Burning Strike",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "11",
+    "Link": "PU1:11"
+  },
+  {
+    "Rule": "Chilling Strike",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "11",
+    "Link": "PU1:11"
+  },
+  {
+    "Rule": "Corrosive Strike",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "11",
+    "Link": "PU1:11"
+  },
+  {
+    "Rule": "Crushing Strike",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "11",
+    "Link": "PU1:11"
+  },
+  {
+    "Rule": "Imbuing Spells",
+    "Category": [
+      "Imbuements",
+      "Magic"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "11",
+    "Link": "PU1:11"
+  },
+  {
+    "Rule": "Non-Combat Imbuements",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "12",
+    "Link": "PU1:12"
+  },
+  {
+    "Rule": "Cutting Strike",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "12",
+    "Link": "PU1:12"
+  },
+  {
+    "Rule": "Dazzling Display",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "12",
+    "Link": "PU1:12"
+  },
+  {
+    "Rule": "Deafening Display",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "12",
+    "Link": "PU1:12"
+  },
+  {
+    "Rule": "Fatiguing Strike",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "12",
+    "Link": "PU1:12"
+  },
+  {
+    "Rule": "Impaling Strike",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "12",
+    "Link": "PU1:12"
+  },
+  {
     "Rule": "Combining Imbue Skills",
     "Category": [
       "Skills",
       "Magic"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "13",
+    "Link": "PU1:13"
+  },
+  {
+    "Rule": "Piercing Strike",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "13",
+    "Link": "PU1:13"
+  },
+  {
+    "Rule": "Strike of Negation",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "13",
+    "Link": "PU1:13"
+  },
+  {
+    "Rule": "Toxic Strike",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "13",
+    "Link": "PU1:13"
+  },
+  {
+    "Rule": "Vampiric Weapon",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "13",
+    "Link": "PU1:13"
+  },
+  {
+    "Rule": "Withering Strike",
+    "Category": [
+      "Imbuements"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "13",
+    "Link": "PU1:13"
+  },
+  {
+    "Rule": "Optional Rule: Combination Imbuement Skills",
+    "Category": [
+      "Imbuements"
     ],
     "Book": "Power-Ups 1: Imbuements",
     "Page": "13",
@@ -33884,10 +38947,49 @@
     "Link": "PU1:14"
   },
   {
+    "Rule": "Dungeon Fantasy Imbuements",
+    "Category": [
+      "Imbuements",
+      "Setting"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "14",
+    "Link": "PU1:14"
+  },
+  {
+    "Rule": "Martial Arts Imbuements",
+    "Category": [
+      "Imbuements",
+      "Setting"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "15",
+    "Link": "PU1:15"
+  },
+  {
+    "Rule": "Supers Imbuements",
+    "Category": [
+      "Imbuements",
+      "Setting"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "16",
+    "Link": "PU1:16"
+  },
+  {
     "Rule": "Imbuement Talent",
     "Category": [
       "Traits",
       "Magic"
+    ],
+    "Book": "Power-Ups 1: Imbuements",
+    "Page": "17",
+    "Link": "PU1:17"
+  },
+  {
+    "Rule": "Imbuement and Imbuement Talent",
+    "Category": [
+      "Imbuements"
     ],
     "Book": "Power-Ups 1: Imbuements",
     "Page": "17",
@@ -33957,6 +39059,51 @@
     "Book": "Power-Ups 2: Perks",
     "Page": "6",
     "Link": "PU2:6"
+  },
+  {
+    "Rule": "Shield Wall Training Perk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "7",
+    "Link": "PU2:7"
+  },
+  {
+    "Rule": "Shoving Perk (Specialized by Weapon or a Shield)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "7",
+    "Link": "PU2:7"
+  },
+  {
+    "Rule": "Strongbow Perk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "7",
+    "Link": "PU2:7"
+  },
+  {
+    "Rule": "Crossbow Finesse Perk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "7",
+    "Link": "PU2:7"
+  },
+  {
+    "Rule": "Sure-Footed Perk (Specialized by Terrain)+A4382",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "8",
+    "Link": "PU2:8"
   },
   {
     "Rule": "Equipment Perks",
@@ -37251,6 +42398,189 @@
     "Link": "PT39"
   },
   {
+    "Rule": "Animal Combat Styles",
+    "Category": [
+      "Combat",
+      "Styles",
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "26",
+    "Link": "PY111:26"
+  },
+  {
+    "Rule": "Ambush Predator Style",
+    "Category": [
+      "Combat",
+      "Styles",
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "26",
+    "Link": "PY111:26"
+  },
+  {
+    "Rule": "Bird of Prey Style",
+    "Category": [
+      "Combat",
+      "Styles",
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "27",
+    "Link": "PY111:27"
+  },
+  {
+    "Rule": "Hero's Steed Style",
+    "Category": [
+      "Creatures",
+      "Styles"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "27",
+    "Link": "PY111:27"
+  },
+  {
+    "Rule": "Pack Predator Style",
+    "Category": [
+      "Creatures",
+      "Styles"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "27",
+    "Link": "PY111:27"
+  },
+  {
+    "Rule": "Watery Death Style (Aquatic)",
+    "Category": [
+      "Creatures",
+      "Styles"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "27",
+    "Link": "PY111:27"
+  },
+  {
+    "Rule": "Prey Animal Style",
+    "Category": [
+      "Creatures",
+      "Styles"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "28",
+    "Link": "PY111:28"
+  },
+  {
+    "Rule": "Rush Predator Style",
+    "Category": [
+      "Creatures",
+      "Styles"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "28",
+    "Link": "PY111:28"
+  },
+  {
+    "Rule": "Crafty Dodge Technique",
+    "Category": [
+      "Creatures",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "28",
+    "Link": "PY111:28"
+  },
+  {
+    "Rule": "Dancing Death Technique",
+    "Category": [
+      "Creatures",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "28",
+    "Link": "PY111:28"
+  },
+  {
+    "Rule": "Death From Below Technique",
+    "Category": [
+      "Creatures",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "28",
+    "Link": "PY111:28"
+  },
+  {
+    "Rule": "Deadly Pounce Technique",
+    "Category": [
+      "Creatures",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "28",
+    "Link": "PY111:28"
+  },
+  {
+    "Rule": "Full Braking Technique",
+    "Category": [
+      "Creatures",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "28",
+    "Link": "PY111:28"
+  },
+  {
+    "Rule": "Hide in Sun Technique",
+    "Category": [
+      "Creatures",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "28",
+    "Link": "PY111:28"
+  },
+  {
+    "Rule": "In and Out Technique",
+    "Category": [
+      "Creatures",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "29",
+    "Link": "PY111:29"
+  },
+  {
+    "Rule": "Rushing Death Technique",
+    "Category": [
+      "Creatures",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "29",
+    "Link": "PY111:29"
+  },
+  {
+    "Rule": "Skirt Death from Above Technique",
+    "Category": [
+      "Creatures",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "29",
+    "Link": "PY111:29"
+  },
+  {
+    "Rule": "Swooping Attack Technique",
+    "Category": [
+      "Creatures",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "29",
+    "Link": "PY111:29"
+  },
+  {
     "Rule": "Names Have Power",
     "Category": [
       "Traits",
@@ -37259,6 +42589,250 @@
     "Book": "Pyramid #3/114",
     "Page": "12",
     "Link": "PY114:12"
+  },
+  {
+    "Rule": "Fight While in Flight (Aerial Fighting Styles)",
+    "Category": [
+      "Combat",
+      "Environment"
+    ],
+    "Book": "Pyramid #3/14",
+    "Page": "17",
+    "Link": "PY14:17"
+  },
+  {
+    "Rule": "Aerial Jujustu (Flying)",
+    "Category": [
+      "Combat",
+      "Environment",
+      "Styles"
+    ],
+    "Book": "Pyramid #3/14",
+    "Page": "17",
+    "Link": "PY14:17"
+  },
+  {
+    "Rule": "Flying Brick Style (Flying)",
+    "Category": [
+      "Combat",
+      "Environment",
+      "Styles"
+    ],
+    "Book": "Pyramid #3/14",
+    "Page": "18",
+    "Link": "PY14:18"
+  },
+  {
+    "Rule": "Jumping Combat Style (Flying)",
+    "Category": [
+      "Combat",
+      "Environment",
+      "Styles"
+    ],
+    "Book": "Pyramid #3/14",
+    "Page": "18",
+    "Link": "PY14:18"
+  },
+  {
+    "Rule": "Winged Mount Combat Style (Flying) (House of the Dragon)",
+    "Category": [
+      "Combat",
+      "Environment",
+      "Styles"
+    ],
+    "Book": "Pyramid #3/14",
+    "Page": "18",
+    "Link": "PY14:18"
+  },
+  {
+    "Rule": "Winged Victory Style (Flying)",
+    "Category": [
+      "Combat",
+      "Environment",
+      "Styles"
+    ],
+    "Book": "Pyramid #3/14",
+    "Page": "19",
+    "Link": "PY14:19"
+  },
+  {
+    "Rule": "Aerial Sweep (Flying)",
+    "Category": [
+      "Combat",
+      "Environment",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/14",
+    "Page": "20",
+    "Link": "PY14:20"
+  },
+  {
+    "Rule": "Aerial Trip (Flying)",
+    "Category": [
+      "Combat",
+      "Environment",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/14",
+    "Page": "20",
+    "Link": "PY14:20"
+  },
+  {
+    "Rule": "Aerial Throw (Flying)",
+    "Category": [
+      "Combat",
+      "Environment",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/14",
+    "Page": "20",
+    "Link": "PY14:20"
+  },
+  {
+    "Rule": "Aerobatic Recovery (Flying)",
+    "Category": [
+      "Combat",
+      "Environment",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/14",
+    "Page": "20",
+    "Link": "PY14:20"
+  },
+  {
+    "Rule": "Wing Buffet (Flying)",
+    "Category": [
+      "Combat",
+      "Environment",
+      "Techniques"
+    ],
+    "Book": "Pyramid #3/14",
+    "Page": "20",
+    "Link": "PY14:20"
+  },
+  {
+    "Rule": "Fathom Five (Underwater Fighting Rules)",
+    "Category": [
+      "Environment",
+      "Combat"
+    ],
+    "Book": "Pyramid #3/26",
+    "Page": "4",
+    "Link": "PY26:4"
+  },
+  {
+    "Rule": "Nitrogen Narcosis Table (Underwater)",
+    "Category": [
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Pyramid #3/26",
+    "Page": "4",
+    "Link": "PY26:4"
+  },
+  {
+    "Rule": "Nitrogen Narcosis Intoxication Levels",
+    "Category": [
+      "Environment",
+      "Affliction"
+    ],
+    "Book": "Pyramid #3/26",
+    "Page": "5",
+    "Link": "PY26:5"
+  },
+  {
+    "Rule": "Decompression Table",
+    "Category": [
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Pyramid #3/26",
+    "Page": "5",
+    "Link": "PY26:5"
+  },
+  {
+    "Rule": "The Psychology of Diving",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Pyramid #3/26",
+    "Page": "6",
+    "Link": "PY26:6"
+  },
+  {
+    "Rule": "Surface Pressure",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Pyramid #3/26",
+    "Page": "6",
+    "Link": "PY26:6"
+  },
+  {
+    "Rule": "Heat and Cold (Underwater)",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Pyramid #3/26",
+    "Page": "6",
+    "Link": "PY26:6"
+  },
+  {
+    "Rule": "Moving in Water",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Pyramid #3/26",
+    "Page": "7",
+    "Link": "PY26:7"
+  },
+  {
+    "Rule": "Actions and Finding Things in Water",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Pyramid #3/26",
+    "Page": "7",
+    "Link": "PY26:7"
+  },
+  {
+    "Rule": "Fighting in Water (Melee, Thrown Weapons, Guns)",
+    "Category": [
+      "Combat",
+      "Environment"
+    ],
+    "Book": "Pyramid #3/26",
+    "Page": "7",
+    "Link": "PY26:7"
+  },
+  {
+    "Rule": "Fighting in Water (Explosions, Energy Weapons)",
+    "Category": [
+      "Combat",
+      "Environment"
+    ],
+    "Book": "Pyramid #3/26",
+    "Page": "8",
+    "Link": "PY26:8"
+  },
+  {
+    "Rule": "The Deadly Spring (Way Too Much Info about Bows)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Pyramid #3/33",
+    "Page": "4",
+    "Link": "PY33:4"
+  },
+  {
+    "Rule": "Sample Bow and Arrow Statistics Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Pyramid #3/33",
+    "Page": "14",
+    "Link": "PY33:14"
   },
   {
     "Rule": "Military Uniforms TL8",
@@ -41833,8 +47407,7 @@
   {
     "Rule": "Heavy Pistol Combat Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Steampunk 3",
     "Page": "22",
@@ -41843,8 +47416,7 @@
   {
     "Rule": "Scientific Pugilism Combat Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Steampunk 3",
     "Page": "23",
@@ -41853,8 +47425,7 @@
   {
     "Rule": "The Secret Stick Combat Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Steampunk 3",
     "Page": "23",
@@ -41863,8 +47434,7 @@
   {
     "Rule": "Sword-and-Pistol Combat Style",
     "Category": [
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Steampunk 3",
     "Page": "24",
@@ -41874,8 +47444,7 @@
     "Rule": "Vehicle Mastery Weird-Science Style",
     "Category": [
       "Vehicles",
-      "Skills",
-      "Techniques"
+      "Styles"
     ],
     "Book": "Steampunk 3",
     "Page": "25",
@@ -43549,7 +49118,8 @@
     "Rule": "Barricade Tactics Style Perk",
     "Category": [
       "Combat",
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Tactical Shooting",
     "Page": "37",
@@ -43559,7 +49129,8 @@
     "Rule": "Battle Drills Style Perk",
     "Category": [
       "Combat",
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Tactical Shooting",
     "Page": "37",
@@ -43569,7 +49140,8 @@
     "Rule": "Deadeye Style Perk",
     "Category": [
       "Combat",
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Tactical Shooting",
     "Page": "38",
@@ -45295,6 +50867,82 @@
     "Link": "T25"
   },
   {
+    "Rule": "Handling Restricted College Spell Prerequisites",
+    "Category": [
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Thaumatology",
+    "Page": "26",
+    "Link": "T26"
+  },
+  {
+    "Rule": "Magery limited Pacts (for Warlocks and the like)",
+    "Category": [
+      "Magic",
+      "Traits",
+      "Limitations"
+    ],
+    "Book": "Thaumatology",
+    "Page": "27",
+    "Link": "27"
+  },
+  {
+    "Rule": "Unreliable Magery (Needs a Roll to Activate Magery)",
+    "Category": [
+      "Magic",
+      "Traits",
+      "Limitations"
+    ],
+    "Book": "Thaumatology",
+    "Page": "27",
+    "Link": "27"
+  },
+  {
+    "Rule": "Buying off Limitations on Magery",
+    "Category": [
+      "Magic",
+      "Traits",
+      "Limitations"
+    ],
+    "Book": "Thaumatology",
+    "Page": "27",
+    "Link": "27"
+  },
+  {
+    "Rule": "Optional Rule: Rituals and Encumbrance (Penalties to Cast)",
+    "Category": [
+      "Magic",
+      "Traits",
+      "Limitations"
+    ],
+    "Book": "Thaumatology",
+    "Page": "28",
+    "Link": "28"
+  },
+  {
+    "Rule": "Easy Casting, Magery Enhancement",
+    "Category": [
+      "Enhancements",
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "28",
+    "Link": "28"
+  },
+  {
+    "Rule": "Subtle Aura Magery Enhancement",
+    "Category": [
+      "Enhancements",
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "29",
+    "Link": "29"
+  },
+  {
     "Rule": "Sacrificial Killing for Mana",
     "Category": [
       "Magic",
@@ -46927,8 +52575,8 @@
   {
     "Rule": "Components of a Magical Style",
     "Category": [
-      "Skills",
-      "Traits"
+      "Magic",
+      "Styles"
     ],
     "Book": "Thaumatology: Magical Styles",
     "Page": "4",
@@ -46939,7 +52587,8 @@
     "Category": [
       "Reference",
       "Traits",
-      "Magic"
+      "Magic",
+      "Styles"
     ],
     "Book": "Thaumatology: Magical Styles",
     "Page": "12",
@@ -46948,7 +52597,7 @@
   {
     "Rule": "Buying Magical Styles",
     "Category": [
-      "Skills"
+      "Styles"
     ],
     "Book": "Thaumatology: Magical Styles",
     "Page": "19",
@@ -46976,7 +52625,8 @@
   {
     "Rule": "New Magical Style Perks",
     "Category": [
-      "Traits"
+      "Traits",
+      "Styles"
     ],
     "Book": "Thaumatology: Magical Styles",
     "Page": "20",
