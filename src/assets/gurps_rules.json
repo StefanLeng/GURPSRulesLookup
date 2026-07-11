@@ -2292,6 +2292,60 @@
     "Link": "B43"
   },
   {
+    "Rule": "Enhanced Move",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "52",
+    "Link": "B52"
+  },
+  {
+    "Rule": "Enhanced Time Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "52",
+    "Link": "B52"
+  },
+  {
+    "Rule": "Fit and Very Fit",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "55",
+    "Link": "B55"
+  },
+  {
+    "Rule": "Gadgeteer",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "56",
+    "Link": "B56"
+  },
+  {
+    "Rule": "Quick Gadgeteer",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "57",
+    "Link": "B57"
+  },
+  {
+    "Rule": "Gizmos",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "57",
+    "Link": "B57"
+  },
+  {
     "Rule": "Gunslinger",
     "Category": [
       "Traits"
@@ -2328,6 +2382,15 @@
     "Link": "B59"
   },
   {
+    "Rule": "Injury Tolerance",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "60",
+    "Link": "B60"
+  },
+  {
     "Rule": "Alternative Attacks",
     "Category": [
       "Traits",
@@ -2348,6 +2411,15 @@
     "Link": "B61"
   },
   {
+    "Rule": "Insubstantiality",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "62",
+    "Link": "B62"
+  },
+  {
     "Rule": "Intuition",
     "Category": [
       "Traits"
@@ -2355,6 +2427,52 @@
     "Book": "Basic",
     "Page": "63",
     "Link": "B63"
+  },
+  {
+    "Rule": "Invisibility",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "63",
+    "Link": "B63"
+  },
+  {
+    "Rule": "Less Sleep (2 CP/level, max 4 levels, 1 hour less sleep per level)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "65",
+    "Link": "B65"
+  },
+  {
+    "Rule": "Lifting ST",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "65",
+    "Link": "B65"
+  },
+  {
+    "Rule": "Luck",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "66",
+    "Link": "B66"
+  },
+  {
+    "Rule": "Magery",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "66",
+    "Link": "B66"
   },
   {
     "Rule": "Sensing a Magic Item with Magery",
@@ -2386,7 +2504,7 @@
     "Link": "B67"
   },
   {
-    "Rule": "Mana Damper",
+    "Rule": "Mana Damper (Area Effect, Switchable)",
     "Category": [
       "Magic",
       "Traits"
@@ -2396,7 +2514,7 @@
     "Link": "B67"
   },
   {
-    "Rule": "Mana Enhancer",
+    "Rule": "Mana Enhancer (Area Effect, Switchable)",
     "Category": [
       "Magic",
       "Traits"
@@ -2404,6 +2522,70 @@
     "Book": "Basic",
     "Page": "68",
     "Link": "B68"
+  },
+  {
+    "Rule": "Modular Abilities (Computer Brain, Chip Slots, Super-Memorization)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "71",
+    "Link": "B71"
+  },
+  {
+    "Rule": "Obscure (Defensive, Extended, Ranged, Stealthy, Always On)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "72",
+    "Link": "B72"
+  },
+  {
+    "Rule": "Peripheral Vision",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "74",
+    "Link": "B74"
+  },
+  {
+    "Rule": "Plant Empathy",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "75",
+    "Link": "B75"
+  },
+  {
+    "Rule": "Power Investiture",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "77",
+    "Link": "B77"
+  },
+  {
+    "Rule": "Clerical and Magical Spells of the same name are different",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "77",
+    "Link": "B77"
+  },
+  {
+    "Rule": "Psi Static",
+    "Category": [
+      "Traits",
+      "Psionics"
+    ],
+    "Book": "Basic",
+    "Page": "78",
+    "Link": "B78"
   },
   {
     "Rule": "Rapid Healing",
@@ -2415,13 +2597,33 @@
     "Link": "B79"
   },
   {
-    "Rule": "Rapier Wit",
+    "Rule": "Rapier Wit (appropriate only in silly campaigns?)",
     "Category": [
       "Traits"
     ],
     "Book": "Basic",
     "Page": "79",
     "Link": "B79"
+  },
+  {
+    "Rule": "Recovery (from unconsciousness, 1/60th)",
+    "Category": [
+      "Traits",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "80",
+    "Link": "B80"
+  },
+  {
+    "Rule": "Regeneration (Slow through Extreme, Heals Radiation)",
+    "Category": [
+      "Traits",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "80",
+    "Link": "B80"
   },
   {
     "Rule": "Alternate Form(s)",
@@ -2468,6 +2670,15 @@
     "Book": "Basic",
     "Page": "88",
     "Link": "B88"
+  },
+  {
+    "Rule": "Green Thumb Talent",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "89",
+    "Link": "B89"
   },
   {
     "Rule": "Accurate",
@@ -3379,6 +3590,78 @@
     "Link": "B120"
   },
   {
+    "Rule": "Destiny Disadvantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "131",
+    "Link": "B131"
+  },
+  {
+    "Rule": "Disciplines of Faith Disadvantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "132",
+    "Link": "B132"
+  },
+  {
+    "Rule": "Divine Curse Disadvantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "132",
+    "Link": "B132"
+  },
+  {
+    "Rule": "Dread Disadvantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "132",
+    "Link": "B132"
+  },
+  {
+    "Rule": "Easy to Read Disadvantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "134",
+    "Link": "B134"
+  },
+  {
+    "Rule": "Electrical Disadvantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "134",
+    "Link": "B134"
+  },
+  {
+    "Rule": "Fragile Disadvantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "136",
+    "Link": "B136"
+  },
+  {
+    "Rule": "Gullibility Disadvantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "137",
+    "Link": "B137"
+  },
+  {
     "Rule": "One-Eye Disadvantage",
     "Category": [
       "Traits"
@@ -3631,7 +3914,7 @@
     "Link": "B232"
   },
   {
-    "Rule": "Mana Levels",
+    "Rule": "Mana Levels (also Mana Zones)",
     "Category": [
       "Environment",
       "Magic"
@@ -14409,6 +14692,1220 @@
     "Link": "DF18:13"
   },
   {
+    "Rule": "Complementary Skills for Casting (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "4",
+    "Link": "DF19:4"
+  },
+  {
+    "Rule": "Incantation Gift",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "4",
+    "Link": "DF19:4"
+  },
+  {
+    "Rule": "Gizmos for Incanters",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "4",
+    "Link": "DF19:4"
+  },
+  {
+    "Rule": "Unusual Background (Incantation Mage)",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "5",
+    "Link": "DF19:5"
+  },
+  {
+    "Rule": "Alchemy (Infusions)",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "5",
+    "Link": "DF19:5"
+  },
+  {
+    "Rule": "Professional Skill (Dungeon Butcher)",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "5",
+    "Link": "DF19:5"
+  },
+  {
+    "Rule": "Ritual Magic (Incantation)",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "5",
+    "Link": "DF19:5"
+  },
+  {
+    "Rule": "Symbol Drawing (Scripts)",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "5",
+    "Link": "DF19:5"
+  },
+  {
+    "Rule": "Incanter",
+    "Category": [
+      "Template",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "5",
+    "Link": "DF19:5"
+  },
+  {
+    "Rule": "Incantation Magic Glossary",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "5",
+    "Link": "DF19:5"
+  },
+  {
+    "Rule": "Incanter Power-Ups",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "6",
+    "Link": "DF19:6"
+  },
+  {
+    "Rule": "Adept (Incantation Magic)",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "7",
+    "Link": "DF19:7"
+  },
+  {
+    "Rule": "Field Caster (Incantation Magic)",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "7",
+    "Link": "DF19:7"
+  },
+  {
+    "Rule": "Incanter Perks",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "7",
+    "Link": "DF19:7"
+  },
+  {
+    "Rule": "Focused Aptitude (Incantation Magic)",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "7",
+    "Link": "DF19:7"
+  },
+  {
+    "Rule": "Methodical Ritual (Incantation Magic)",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "7",
+    "Link": "DF19:7"
+  },
+  {
+    "Rule": "Rote Invocation (Incantation Magic)",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "7",
+    "Link": "DF19:7"
+  },
+  {
+    "Rule": "Lenses for Incanters",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "7",
+    "Link": "DF19:7"
+  },
+  {
+    "Rule": "Incanter-Barbarian",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "7",
+    "Link": "DF19:7"
+  },
+  {
+    "Rule": "Incanter-Bard",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "7",
+    "Link": "DF19:7"
+  },
+  {
+    "Rule": "Incanter-Cleric",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "8",
+    "Link": "DF19:8"
+  },
+  {
+    "Rule": "Incanter-Evil Cleric",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "8",
+    "Link": "DF19:8"
+  },
+  {
+    "Rule": "Incanter-Druid",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "8",
+    "Link": "DF19:8"
+  },
+  {
+    "Rule": "Incanter-Holy Warrior",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "8",
+    "Link": "DF19:8"
+  },
+  {
+    "Rule": "Incanter-Unholy Warrior",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "8",
+    "Link": "DF19:8"
+  },
+  {
+    "Rule": "Incanter-Knight",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "8",
+    "Link": "DF19:8"
+  },
+  {
+    "Rule": "Incanter-Martial Artist",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "9",
+    "Link": "DF19:9"
+  },
+  {
+    "Rule": "Incanter-Scout",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "9",
+    "Link": "DF19:9"
+  },
+  {
+    "Rule": "Incanter-Swashbuckler",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "9",
+    "Link": "DF19:9"
+  },
+  {
+    "Rule": "Incanter-Thief",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "9",
+    "Link": "DF19:9"
+  },
+  {
+    "Rule": "Incanter-Wizard",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "9",
+    "Link": "DF19:9"
+  },
+  {
+    "Rule": "Henchman Incanters",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "9",
+    "Link": "DF19:9"
+  },
+  {
+    "Rule": "Incanter Lens",
+    "Category": [
+      "Lens",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "9",
+    "Link": "DF19:9"
+  },
+  {
+    "Rule": "Mana Level (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "10",
+    "Link": "DF19:10"
+  },
+  {
+    "Rule": "Incantation Paths",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "10",
+    "Link": "DF19:10"
+  },
+  {
+    "Rule": "Path of Arcanum",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "11",
+    "Link": "DF19:11"
+  },
+  {
+    "Rule": "Path of Augury",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "11",
+    "Link": "DF19:11"
+  },
+  {
+    "Rule": "Path of Demonology",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "11",
+    "Link": "DF19:11"
+  },
+  {
+    "Rule": "Path of Elementalism",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "12",
+    "Link": "DF19:12"
+  },
+  {
+    "Rule": "Path of Mesmerism",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "12",
+    "Link": "DF19:12"
+  },
+  {
+    "Rule": "Path of Necromancy",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "13",
+    "Link": "DF19:13"
+  },
+  {
+    "Rule": "Path of Protection",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "13",
+    "Link": "DF19:13"
+  },
+  {
+    "Rule": "The Limits of Power (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "13",
+    "Link": "DF19:13"
+  },
+  {
+    "Rule": "Path of Transfiguration",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "14",
+    "Link": "DF19:14"
+  },
+  {
+    "Rule": "Building a Spell (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "14",
+    "Link": "DF19:14"
+  },
+  {
+    "Rule": "Spell Penalty Table (Incantation Magic)",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "14",
+    "Link": "DF19:14"
+  },
+  {
+    "Rule": "Spell Effects (Incantation Magic)",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "14",
+    "Link": "DF19:14"
+  },
+  {
+    "Rule": "Afflictions (Incantation Magic Spell Modifier)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "15",
+    "Link": "DF19:15"
+  },
+  {
+    "Rule": "Altered Traits (Incantation Magic Spell Modifier)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "15",
+    "Link": "DF19:15"
+  },
+  {
+    "Rule": "Bestows a Bonus or Penalty (Incantation Magic Spell Modifier)",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "15",
+    "Link": "DF19:15"
+  },
+  {
+    "Rule": "Limited Spells (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "15",
+    "Link": "DF19:15"
+  },
+  {
+    "Rule": "Damage (Incantation Magic Spell Modifier)",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "15",
+    "Link": "DF19:15"
+  },
+  {
+    "Rule": "Area of Effect (Incantation Magic Spell Modifier)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "15",
+    "Link": "DF19:15"
+  },
+  {
+    "Rule": "Damage Table (Incantation Magic)",
+    "Category": [
+      "Magic",
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "16",
+    "Link": "DF19:16"
+  },
+  {
+    "Rule": "Duration (Incantation Magic Spell Modifier)",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "16",
+    "Link": "DF19:16"
+  },
+  {
+    "Rule": "Girded (Incantation Magic Spell Modifier)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "16",
+    "Link": "DF19:16"
+  },
+  {
+    "Rule": "Range (Incantation Magic Spell Modifier)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "16",
+    "Link": "DF19:16"
+  },
+  {
+    "Rule": "Speed (Incantation Magic Spell Modifier)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "16",
+    "Link": "DF19:16"
+  },
+  {
+    "Rule": "Subject Weight (Incantation Magic Spell Modifier)",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "16",
+    "Link": "DF19:16"
+  },
+  {
+    "Rule": "Summoned (Incantation Magic Spell Modifier)",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "16",
+    "Link": "DF19:16"
+  },
+  {
+    "Rule": "Ritual Circle Requirement (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "17",
+    "Link": "DF19:17"
+  },
+  {
+    "Rule": "Casting Time (Incantation Magic)",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "17",
+    "Link": "DF19:17"
+  },
+  {
+    "Rule": "The Casting Roll (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "17",
+    "Link": "DF19:17"
+  },
+  {
+    "Rule": "Reasons to Cast Without Preparation (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "17",
+    "Link": "DF19:17"
+  },
+  {
+    "Rule": "Grimoires (Incantation Magic)",
+    "Category": [
+      "Gear",
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "18",
+    "Link": "DF19:18"
+  },
+  {
+    "Rule": "Magical Components (Incantation Magic)",
+    "Category": [
+      "Gear",
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "18",
+    "Link": "DF19:18"
+  },
+  {
+    "Rule": "Portable Workspace Kits (Incantation Magic)",
+    "Category": [
+      "Gear",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "18",
+    "Link": "DF19:18"
+  },
+  {
+    "Rule": "Prepared Casting (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "19",
+    "Link": "DF19:19"
+  },
+  {
+    "Rule": "Magic Slots (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "19",
+    "Link": "DF19:19"
+  },
+  {
+    "Rule": "Incantations",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "19",
+    "Link": "DF19:19"
+  },
+  {
+    "Rule": "Infusions (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "19",
+    "Link": "DF19:19"
+  },
+  {
+    "Rule": "Scripts (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "20",
+    "Link": "DF19:20"
+  },
+  {
+    "Rule": "Deriving Stats for Spell Creations (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "20",
+    "Link": "DF19:20"
+  },
+  {
+    "Rule": "Blocking Spells (Incantation Magic)",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "20",
+    "Link": "DF19:20"
+  },
+  {
+    "Rule": "Conditional Spells (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "20",
+    "Link": "DF19:20"
+  },
+  {
+    "Rule": "Defining a Specific Spell (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "21",
+    "Link": "DF19:21"
+  },
+  {
+    "Rule": "Damage Tricks (Incantation Magic)",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "21",
+    "Link": "DF19:21"
+  },
+  {
+    "Rule": "Vampiric Spells (Incantation Magic)",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "21",
+    "Link": "DF19:21"
+  },
+  {
+    "Rule": "Divination (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "21",
+    "Link": "DF19:21"
+  },
+  {
+    "Rule": "Multiple Path Skills (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "21",
+    "Link": "DF19:21"
+  },
+  {
+    "Rule": "Magic vs. Magic (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "21",
+    "Link": "DF19:21"
+  },
+  {
+    "Rule": "Stacking Spells (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "21",
+    "Link": "DF19:21"
+  },
+  {
+    "Rule": "Voluntary Sacrifice (Incantation Magic)",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "22",
+    "Link": "DF19:22"
+  },
+  {
+    "Rule": "Warding (Incantation Magic)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "22",
+    "Link": "DF19:22"
+  },
+  {
+    "Rule": "Alarm",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "23",
+    "Link": "DF19:23"
+  },
+  {
+    "Rule": "Animate Object",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "23",
+    "Link": "DF19:23"
+  },
+  {
+    "Rule": "Arcane Fire",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "24",
+    "Link": "DF19:24"
+  },
+  {
+    "Rule": "Bewitchment",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "24",
+    "Link": "DF19:24"
+  },
+  {
+    "Rule": "Black Blade",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "24",
+    "Link": "DF19:24"
+  },
+  {
+    "Rule": "Bond of Servitude for (Class)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "24",
+    "Link": "DF19:24"
+  },
+  {
+    "Rule": "Bulwark",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "24",
+    "Link": "DF19:24"
+  },
+  {
+    "Rule": "Censure",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "24",
+    "Link": "DF19:24"
+  },
+  {
+    "Rule": "Cone of Flame",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "25",
+    "Link": "DF19:25"
+  },
+  {
+    "Rule": "Create Golem Warrior",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "25",
+    "Link": "DF19:25"
+  },
+  {
+    "Rule": "Create Undead Servitor",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "25",
+    "Link": "DF19:25"
+  },
+  {
+    "Rule": "Warrior Simulacrum",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "25",
+    "Link": "DF19:25"
+  },
+  {
+    "Rule": "Creeping Frost",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "25",
+    "Link": "DF19:25"
+  },
+  {
+    "Rule": "Dispelling",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "26",
+    "Link": "DF19:26"
+  },
+  {
+    "Rule": "(Elemental) Blast",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "26",
+    "Link": "DF19:26"
+  },
+  {
+    "Rule": "(Elemental) Blast Table",
+    "Category": [
+      "Magic",
+      "Reference",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "26",
+    "Link": "DF19:26"
+  },
+  {
+    "Rule": "Firebomb",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "26",
+    "Link": "DF19:26"
+  },
+  {
+    "Rule": "Flesh Mask",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "27",
+    "Link": "DF19:27"
+  },
+  {
+    "Rule": "Frozen Bonds",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "27",
+    "Link": "DF19:27"
+  },
+  {
+    "Rule": "Greater Solidify Spirit",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "27",
+    "Link": "DF19:27"
+  },
+  {
+    "Rule": "Hellfire Aura",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "27",
+    "Link": "DF19:27"
+  },
+  {
+    "Rule": "Illusion",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "27",
+    "Link": "DF19:27"
+  },
+  {
+    "Rule": "Invisibility",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "27",
+    "Link": "DF19:27"
+  },
+  {
+    "Rule": "Jinx",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "28",
+    "Link": "DF19:28"
+  },
+  {
+    "Rule": "Lesser Solidify Spirit",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "28",
+    "Link": "DF19:28"
+  },
+  {
+    "Rule": "Mage-Arrow",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "28",
+    "Link": "DF19:28"
+  },
+  {
+    "Rule": "Mule's Strength",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "28",
+    "Link": "DF19:28"
+  },
+  {
+    "Rule": "Occultus Oculus",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "28",
+    "Link": "DF19:28"
+  },
+  {
+    "Rule": "Partial Shapeshifting (Bat Wings)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "28",
+    "Link": "DF19:28"
+  },
+  {
+    "Rule": "Peel Back the Skin",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "28",
+    "Link": "DF19:28"
+  },
+  {
+    "Rule": "Radiant Shield",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "29",
+    "Link": "DF19:29"
+  },
+  {
+    "Rule": "Red Blade",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "29",
+    "Link": "DF19:29"
+  },
+  {
+    "Rule": "Repair Undead",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "29",
+    "Link": "DF19:29"
+  },
+  {
+    "Rule": "Safeguard",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "29",
+    "Link": "DF19:29"
+  },
+  {
+    "Rule": "Scry",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "29",
+    "Link": "DF19:29"
+  },
+  {
+    "Rule": "Seek Treasure",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "29",
+    "Link": "DF19:29"
+  },
+  {
+    "Rule": "Summon Flaming Skull",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "29",
+    "Link": "DF19:29"
+  },
+  {
+    "Rule": "GURPS Magic Colleges and Paths (Incantation Magic)",
+    "Category": [
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "30",
+    "Link": "DF19:30"
+  },
+  {
+    "Rule": "Twist of Fate",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "30",
+    "Link": "DF19:30"
+  },
+  {
+    "Rule": "Ward for (Class)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "30",
+    "Link": "DF19:30"
+  },
+  {
+    "Rule": "Whiplash",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "30",
+    "Link": "DF19:30"
+  },
+  {
+    "Rule": "Wrathchild",
+    "Category": [
+      "Magic",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy 19",
+    "Page": "30",
+    "Link": "DF19:30"
+  },
+  {
     "Rule": "Dungeon Parkour",
     "Category": [
       "Combat",
@@ -15501,7 +16998,8 @@
   {
     "Rule": "Material Undead Servants",
     "Category": [
-      "Creatures"
+      "Creatures",
+      "Undead"
     ],
     "Book": "Dungeon Fantasy 9",
     "Page": "25",
@@ -17080,7 +18578,8 @@
   {
     "Rule": "Corporeal Undead (Intact, Rotting, Skeletal)",
     "Category": [
-      "Traits"
+      "Traits",
+      "Undead"
     ],
     "Book": "Fantasy",
     "Page": "133",
@@ -25242,7 +26741,7 @@
     "Link": "LTC3:46"
   },
   {
-    "Rule": "Glassblower, Herdsmen, Illuminator, Jeweler  (TL1)",
+    "Rule": "Glassblower, Herdsmen, Illuminator, Jeweler (TL1)",
     "Category": [
       "Professions"
     ],
@@ -25775,6 +27274,16 @@
     "Book": "Magic",
     "Page": "56",
     "Link": "M56"
+  },
+  {
+    "Rule": "Weapon Spirit Enchantment",
+    "Category": [
+      "Magic",
+      "NPCs"
+    ],
+    "Book": "Magic",
+    "Page": "64",
+    "Link": "M64"
   },
   {
     "Rule": "Magic Staff Spell",
@@ -33472,6 +34981,143 @@
     "Link": "MH1:31"
   },
   {
+    "Rule": "Ritual Path Magic",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "32",
+    "Link": "MH1:32"
+  },
+  {
+    "Rule": "RPM Skills (9 different IQ/VH Skills)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "32",
+    "Link": "MH1:32"
+  },
+  {
+    "Rule": "RPM Skills default to Thaumatology-6, max Skill of 12",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "33",
+    "Link": "MH1:33"
+  },
+  {
+    "Rule": "Ritual Definition and Cost",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "33",
+    "Link": "MH1:33"
+  },
+  {
+    "Rule": "Ritual Path Magic Effect Table",
+    "Category": [
+      "Reference",
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "35",
+    "Link": "MH1:35"
+  },
+  {
+    "Rule": "Ritual Path Magic Warding",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "35",
+    "Link": "MH1:35"
+  },
+  {
+    "Rule": "Gathering and Trapping Ambient Energy (RPM)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "36",
+    "Link": "MH1:36"
+  },
+  {
+    "Rule": "Casting Ritual Path Magic Spells",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "36",
+    "Link": "MH1:36"
+  },
+  {
+    "Rule": "Non-Adepts and Magic",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "36",
+    "Link": "MH1:36"
+  },
+  {
+    "Rule": "Ritual Path Magic \"Blocking\" Spells",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "37",
+    "Link": "MH1:37"
+  },
+  {
+    "Rule": "Stacking Ritual Path Magic Spells",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "37",
+    "Link": "MH1:37"
+  },
+  {
+    "Rule": "Conditional Rituals (Charms)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "38",
+    "Link": "MH1:38"
+  },
+  {
+    "Rule": "Ritual Path Magic Grimoires",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "39",
+    "Link": "MH1:39"
+  },
+  {
+    "Rule": "Defining Ritual Path Magic Rituals",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "39",
+    "Link": "MH1:39"
+  },
+  {
+    "Rule": "Working Together, Ritual Path Magic",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Monster Hunters 1: Champions",
+    "Page": "39",
+    "Link": "MH1:39"
+  },
+  {
     "Rule": "Bioenhancement",
     "Category": [
       "Traits",
@@ -35064,6 +36710,801 @@
     "Book": "Monster Hunters 1: Champions",
     "Page": "63",
     "Link": "MH1:63"
+  },
+  {
+    "Rule": "Ghosts",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "4",
+    "Link": "MH3:4"
+  },
+  {
+    "Rule": "Ghostly Abilities",
+    "Category": [
+      "Creatures",
+      "Traits",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "5",
+    "Link": "MH3:5"
+  },
+  {
+    "Rule": "Ghost Stat Block",
+    "Category": [
+      "Creatures",
+      "Template",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "6",
+    "Link": "MH3:6"
+  },
+  {
+    "Rule": "Mummies",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "6",
+    "Link": "MH3:6"
+  },
+  {
+    "Rule": "The Mummy's Curse",
+    "Category": [
+      "Setting",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "7",
+    "Link": "MH3:7"
+  },
+  {
+    "Rule": "Mummy Stat Block",
+    "Category": [
+      "Creatures",
+      "Undead",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "7",
+    "Link": "MH3:7"
+  },
+  {
+    "Rule": "Mummy (Locust and Scarab Forms Stat Blocks)",
+    "Category": [
+      "Creatures",
+      "Undead",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "8",
+    "Link": "MH3:8"
+  },
+  {
+    "Rule": "Vampires",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "8",
+    "Link": "MH3:8"
+  },
+  {
+    "Rule": "Conversion to a Vampire",
+    "Category": [
+      "Traits",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "9",
+    "Link": "MH3:9"
+  },
+  {
+    "Rule": "Vampire Weaknesses",
+    "Category": [
+      "Traits",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "10",
+    "Link": "MH3:10"
+  },
+  {
+    "Rule": "Feral Vampire Stat Block",
+    "Category": [
+      "Undead",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "10",
+    "Link": "MH3:10"
+  },
+  {
+    "Rule": "Mature Vampire Stat Block",
+    "Category": [
+      "Undead",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "11",
+    "Link": "MH3:11"
+  },
+  {
+    "Rule": "Master Vampire Stat Block",
+    "Category": [
+      "Undead",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "11",
+    "Link": "MH3:11"
+  },
+  {
+    "Rule": "Burning Down the House (Using Fire on and around Wood)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "11",
+    "Link": "MH3:11"
+  },
+  {
+    "Rule": "Zombies (Creation and Infection)",
+    "Category": [
+      "Setting",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "12",
+    "Link": "MH3:12"
+  },
+  {
+    "Rule": "Slow Zombie Stat Block",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "13",
+    "Link": "MH3:13"
+  },
+  {
+    "Rule": "Fast Zombie Stat Block",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "14",
+    "Link": "MH3:14"
+  },
+  {
+    "Rule": "Zombie Mobs",
+    "Category": [
+      "Template",
+      "Undead"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "14",
+    "Link": "MH3:14"
+  },
+  {
+    "Rule": "Angels and Angel Stat Block",
+    "Category": [
+      "Divinity",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "16",
+    "Link": "MH3:16"
+  },
+  {
+    "Rule": "Demons and Demon Magic",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "17",
+    "Link": "MH3:17"
+  },
+  {
+    "Rule": "Demon Weaknesses",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "18",
+    "Link": "MH3:18"
+  },
+  {
+    "Rule": "Weak and Strong Demon Stat Blocks",
+    "Category": [
+      "Creatures",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "18",
+    "Link": "MH3:18"
+  },
+  {
+    "Rule": "Spell-Casting Demon Stat Block",
+    "Category": [
+      "Creatures",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "19",
+    "Link": "MH3:19"
+  },
+  {
+    "Rule": "Demonic Variety",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "19",
+    "Link": "MH3:19"
+  },
+  {
+    "Rule": "Demon Lord Stat Block",
+    "Category": [
+      "Creatures",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "20",
+    "Link": "MH3:20"
+  },
+  {
+    "Rule": "Skin-Changers",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "20",
+    "Link": "MH3:20"
+  },
+  {
+    "Rule": "Skin-Changer Stat Block",
+    "Category": [
+      "Creatures",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "21",
+    "Link": "MH3:21"
+  },
+  {
+    "Rule": "Albino Alligators",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "22",
+    "Link": "MH3:22"
+  },
+  {
+    "Rule": "Chupacabra",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "23",
+    "Link": "MH3:23"
+  },
+  {
+    "Rule": "Lycanthropes and their Creation",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "24",
+    "Link": "MH3:24"
+  },
+  {
+    "Rule": "Injury Tolerance",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "25",
+    "Link": "MH3:25"
+  },
+  {
+    "Rule": "Lycanthrope Strengths and Weaknesses",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "26",
+    "Link": "MH3:26"
+  },
+  {
+    "Rule": "Werebear Stat Block",
+    "Category": [
+      "Creatures",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "26",
+    "Link": "MH3:26"
+  },
+  {
+    "Rule": "Were-Eagle, Weretiger, and Werewolf",
+    "Category": [
+      "Creatures",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "27",
+    "Link": "MH3:27"
+  },
+  {
+    "Rule": "Lycanthrope (Human Form)",
+    "Category": [
+      "Creatures",
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "28",
+    "Link": "MH3:28"
+  },
+  {
+    "Rule": "Rogue Crusaders",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "29",
+    "Link": "MH3:29"
+  },
+  {
+    "Rule": "Evil Cultists",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "31",
+    "Link": "MH3:31"
+  },
+  {
+    "Rule": "Rogue Experiments",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "32",
+    "Link": "MH3:32"
+  },
+  {
+    "Rule": "Rogue Psis",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "33",
+    "Link": "MH3:33"
+  },
+  {
+    "Rule": "Witches",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "35",
+    "Link": "MH3:35"
+  },
+  {
+    "Rule": "Witch Covens",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Monster Hunters 3: The Enemy",
+    "Page": "36",
+    "Link": "MH3:36"
+  },
+  {
+    "Rule": "Brother Sidekick (Social, Antisocial)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "5",
+    "Link": "MH4:5"
+  },
+  {
+    "Rule": "Fixer Sidekick (Combatant, Social Animal, Wheel Man)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "6",
+    "Link": "MH4:6"
+  },
+  {
+    "Rule": "Geek Sidekick (Analyst, Armorer, Hacker, Mechanic)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "7",
+    "Link": "MH4:7"
+  },
+  {
+    "Rule": "Gifted Sidekick (Empowered, 7th Son, Inhuman Blooded)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "8",
+    "Link": "MH4:8"
+  },
+  {
+    "Rule": "Gunman Sidekick (Gunslinger)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "10",
+    "Link": "MH4:10"
+  },
+  {
+    "Rule": "Magician Sidekick (Charms)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "11",
+    "Link": "MH4:11"
+  },
+  {
+    "Rule": "Muscle Sidekick (Quick, Strong, and Touch Guy)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "12",
+    "Link": "MH4:12"
+  },
+  {
+    "Rule": "Occultist Sidekick (Know Thy Enemy)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "13",
+    "Link": "MH4:13"
+  },
+  {
+    "Rule": "Scout Sidekick (Searcher, Snake, Spider, Spotter, Spy)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "14",
+    "Link": "MH4:14"
+  },
+  {
+    "Rule": "Whitecoat Sidekick (Forensic Scientist, Medical Doctor)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "14",
+    "Link": "MH4:14"
+  },
+  {
+    "Rule": "Low End Sidekicks (Tough Guy, Wise Guy)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "16",
+    "Link": "MH4:16"
+  },
+  {
+    "Rule": "Junior Hunters and Mixed Power Levels",
+    "Category": [
+      "NPCs",
+      "Character Points"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "19",
+    "Link": "MH4:19"
+  },
+  {
+    "Rule": "Optional Rule: Sidekick Plot Protection",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "20",
+    "Link": "MH4:20"
+  },
+  {
+    "Rule": "Caster Sidekick Lens",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "21",
+    "Link": "MH4:21"
+  },
+  {
+    "Rule": "Enhanced Sidekick Lens",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "21",
+    "Link": "MH4:21"
+  },
+  {
+    "Rule": "Monstrous Sidekick Lens",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "21",
+    "Link": "MH4:21"
+  },
+  {
+    "Rule": "Mystic Sidekick Lens",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "22",
+    "Link": "MH4:22"
+  },
+  {
+    "Rule": "Overman Sidekick Lens",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "22",
+    "Link": "MH4:22"
+  },
+  {
+    "Rule": "Psychic Sidekick Lens",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Monster Hunters 4: Sidekicks",
+    "Page": "22",
+    "Link": "MH4:22"
+  },
+  {
+    "Rule": "Programmed Scripts for Technomagic",
+    "Category": [
+      "Electronics",
+      "Magic"
+    ],
+    "Book": "Monster Hunters 5: Applied Xenology",
+    "Page": "16",
+    "Link": "MH5:16"
+  },
+  {
+    "Rule": "Computer Table for Technomagic, Complexity and Cost",
+    "Category": [
+      "Reference",
+      "Electronics",
+      "Magic"
+    ],
+    "Book": "Monster Hunters 5: Applied Xenology",
+    "Page": "20",
+    "Link": "MH5:20"
+  },
+  {
+    "Rule": "Higher and Lower TLs (Baseline TL8) in Monster Hunters",
+    "Category": [
+      "Setting",
+      "Electronics"
+    ],
+    "Book": "Monster Hunters 5: Applied Xenology",
+    "Page": "21",
+    "Link": "MH5:21"
+  },
+  {
+    "Rule": "Thaumatological Coding Suite (TCS)",
+    "Category": [
+      "Electronics",
+      "Magic"
+    ],
+    "Book": "Monster Hunters 5: Applied Xenology",
+    "Page": "21",
+    "Link": "MH5:21"
+  },
+  {
+    "Rule": "Digital Grimoires",
+    "Category": [
+      "Electronics",
+      "Magic"
+    ],
+    "Book": "Monster Hunters 5: Applied Xenology",
+    "Page": "21",
+    "Link": "MH5:21"
+  },
+  {
+    "Rule": "Animated Servitor",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "12",
+    "Link": "MH6:12"
+  },
+  {
+    "Rule": "Animated Servitor Stat Block",
+    "Category": [
+      "Creattures",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "13",
+    "Link": "MH6:13"
+  },
+  {
+    "Rule": "Astral Projection",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "13",
+    "Link": "MH6:13"
+  },
+  {
+    "Rule": "Divine Vessel and Sample Spirits",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "14",
+    "Link": "MH6:14"
+  },
+  {
+    "Rule": "Vessel Bond, Divine Vessel Power-Up",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "15",
+    "Link": "MH6:15"
+  },
+  {
+    "Rule": "Instant Karma",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "15",
+    "Link": "MH6:15"
+  },
+  {
+    "Rule": "Purifying Incense",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "15",
+    "Link": "MH6:15"
+  },
+  {
+    "Rule": "Rapid Cleansing",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "15",
+    "Link": "MH6:15"
+  },
+  {
+    "Rule": "Totem Bond",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "16",
+    "Link": "MH6:16"
+  },
+  {
+    "Rule": "Abaddon Locust (Christian)",
+    "Category": [
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "17",
+    "Link": "MH6:17"
+  },
+  {
+    "Rule": "Huli Jing (Chinese Traditional)",
+    "Category": [
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "18",
+    "Link": "MH6:18"
+  },
+  {
+    "Rule": "Ifrit (Islam)",
+    "Category": [
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "18",
+    "Link": "MH6:18"
+  },
+  {
+    "Rule": "Impundulu (African Traditional)",
+    "Category": [
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "19",
+    "Link": "MH6:19"
+  },
+  {
+    "Rule": "Jor?gumo (Shinto)",
+    "Category": [
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "20",
+    "Link": "MH6:20"
+  },
+  {
+    "Rule": "Linnormr (Ásatrú)",
+    "Category": [
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "20",
+    "Link": "MH6:20"
+  },
+  {
+    "Rule": "Rakshasa (Hinduism)",
+    "Category": [
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "21",
+    "Link": "MH6:21"
+  },
+  {
+    "Rule": "Shamir (Judaism)",
+    "Category": [
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Monster Hunters 6: Holy Hunters",
+    "Page": "22",
+    "Link": "MH6:22"
   },
   {
     "Rule": "Dual-Weapon Fighting",
@@ -50885,7 +53326,7 @@
     ],
     "Book": "Thaumatology",
     "Page": "27",
-    "Link": "27"
+    "Link": "T27"
   },
   {
     "Rule": "Unreliable Magery (Needs a Roll to Activate Magery)",
@@ -50896,7 +53337,7 @@
     ],
     "Book": "Thaumatology",
     "Page": "27",
-    "Link": "27"
+    "Link": "T27"
   },
   {
     "Rule": "Buying off Limitations on Magery",
@@ -50907,7 +53348,7 @@
     ],
     "Book": "Thaumatology",
     "Page": "27",
-    "Link": "27"
+    "Link": "T27"
   },
   {
     "Rule": "Optional Rule: Rituals and Encumbrance (Penalties to Cast)",
@@ -50918,7 +53359,7 @@
     ],
     "Book": "Thaumatology",
     "Page": "28",
-    "Link": "28"
+    "Link": "T28"
   },
   {
     "Rule": "Easy Casting, Magery Enhancement",
@@ -50929,7 +53370,7 @@
     ],
     "Book": "Thaumatology",
     "Page": "28",
-    "Link": "28"
+    "Link": "T28"
   },
   {
     "Rule": "Subtle Aura Magery Enhancement",
@@ -50940,7 +53381,214 @@
     ],
     "Book": "Thaumatology",
     "Page": "29",
-    "Link": "29"
+    "Link": "T29"
+  },
+  {
+    "Rule": "Critical Successes With Spells",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "30",
+    "Link": "T30"
+  },
+  {
+    "Rule": "Secret and Lost Spells",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "31",
+    "Link": "T31"
+  },
+  {
+    "Rule": "Optional Rule: No Spell Skill can be Higher than it's Prerequisites",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "32",
+    "Link": "T32"
+  },
+  {
+    "Rule": "The Prerequisite Count",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "33",
+    "Link": "T33"
+  },
+  {
+    "Rule": "Shapeshifters' Choices",
+    "Category": [
+      "Magic",
+      "Creatures"
+    ],
+    "Book": "Thaumatology",
+    "Page": "34",
+    "Link": "T34"
+  },
+  {
+    "Rule": "Flexible Spell Rituals",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "37",
+    "Link": "T37"
+  },
+  {
+    "Rule": "Spell Grimoires",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "38",
+    "Link": "T38"
+  },
+  {
+    "Rule": "Copying Spells from One Grimoire to Another",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "38",
+    "Link": "T38"
+  },
+  {
+    "Rule": "Optional Rule: Spell Defaults",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "38",
+    "Link": "T38"
+  },
+  {
+    "Rule": "Optional Rule: Trading Energy for Speed and Skill",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "39",
+    "Link": "T39"
+  },
+  {
+    "Rule": "Optional Rule: Trading Energy and Skill for Spell Enhancements",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "39",
+    "Link": "T39"
+  },
+  {
+    "Rule": "Optional Rule: Specific Perk Requirements for any Spell Variance",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "39",
+    "Link": "T39"
+  },
+  {
+    "Rule": "Capping Spell Skill Levels",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "40",
+    "Link": "T40"
+  },
+  {
+    "Rule": "Limiting Spell Skill Level by Mundane Skills",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "40",
+    "Link": "T40"
+  },
+  {
+    "Rule": "Skills to Salvage Critical Failures",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "40",
+    "Link": "T40"
+  },
+  {
+    "Rule": "Spell Skill Capped by Magery (suggested: 10+(Magery × 2))",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "41",
+    "Link": "T41"
+  },
+  {
+    "Rule": "Suggested Metal and Wood Colleges of Magic",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "47",
+    "Link": "T47"
+  },
+  {
+    "Rule": "Suggestions for a Void Magic College (vague)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "48",
+    "Link": "T48"
+  },
+  {
+    "Rule": "Metal, Void, and Wood Elemental Spirits",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "48",
+    "Link": "T48"
+  },
+  {
+    "Rule": "Ethics and Spells",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "49",
+    "Link": "T49"
+  },
+  {
+    "Rule": "Ethics Spells (Sense, Seek, Protection From, Repel)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "49",
+    "Link": "T49"
+  },
+  {
+    "Rule": "Ethics Spells (Exclude, and Loyalty of)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "50",
+    "Link": "T50"
   },
   {
     "Rule": "Sacrificial Killing for Mana",
@@ -51159,6 +53807,513 @@
     "Book": "Thaumatology",
     "Page": "69",
     "Link": "T69"
+  },
+  {
+    "Rule": "Alchemy Laboratories (Home, Professional, Excellent)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Thaumatology",
+    "Page": "102",
+    "Link": "T102"
+  },
+  {
+    "Rule": "Alechemical Inventions, Prototypes and Gadgeteer",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Thaumatology",
+    "Page": "103",
+    "Link": "T103"
+  },
+  {
+    "Rule": "Alchemical Gadgeteering, Quick Gadgeteering",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Thaumatology",
+    "Page": "103",
+    "Link": "T103"
+  },
+  {
+    "Rule": "Alchemical Gizmos",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Thaumatology",
+    "Page": "104",
+    "Link": "T104"
+  },
+  {
+    "Rule": "Alchemy through Herb Lore: Capabilities, Costs, Limitations",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Thaumatology",
+    "Page": "104",
+    "Link": "T104"
+  },
+  {
+    "Rule": "Herbs for Herb Lore",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Thaumatology",
+    "Page": "105",
+    "Link": "T105"
+  },
+  {
+    "Rule": "Combining Elixirs",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Thaumatology",
+    "Page": "106",
+    "Link": "T106"
+  },
+  {
+    "Rule": "Alchemical Medicine",
+    "Category": [
+      "Professions",
+      "Medical"
+    ],
+    "Book": "Thaumatology",
+    "Page": "106",
+    "Link": "T106"
+  },
+  {
+    "Rule": "Esoteric Medicine and Alchemical Cures",
+    "Category": [
+      "Professions",
+      "Medical"
+    ],
+    "Book": "Thaumatology",
+    "Page": "106",
+    "Link": "T106"
+  },
+  {
+    "Rule": "Elixir Delivery Methods and Onset Times",
+    "Category": [
+      "Professions",
+      "Medical"
+    ],
+    "Book": "Thaumatology",
+    "Page": "107",
+    "Link": "T107"
+  },
+  {
+    "Rule": "Enchanting Items",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "107",
+    "Link": "T107"
+  },
+  {
+    "Rule": "Quick-and-Dirty vs. Slow-and-Sure Enchanting",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "107",
+    "Link": "T107"
+  },
+  {
+    "Rule": "Enchanting Time and Reliability",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "108",
+    "Link": "T108"
+  },
+  {
+    "Rule": "Lend Skill in Items and Maintaining Game Balance",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "109",
+    "Link": "T109"
+  },
+  {
+    "Rule": "Enchanting: Resonant Designs and Materials",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "110",
+    "Link": "T110"
+  },
+  {
+    "Rule": "Enchantment through Age",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "110",
+    "Link": "T110"
+  },
+  {
+    "Rule": "Activating Magic Items",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "111",
+    "Link": "T111"
+  },
+  {
+    "Rule": "Enchantment through Deeds",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "112",
+    "Link": "T112"
+  },
+  {
+    "Rule": "Devotional Enchantment",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "113",
+    "Link": "T113"
+  },
+  {
+    "Rule": "Magic Items as Advantages",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "113",
+    "Link": "T113"
+  },
+  {
+    "Rule": "Cursed Magic Items",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "116",
+    "Link": "T116"
+  },
+  {
+    "Rule": "Willful and Sapient Magic Items",
+    "Category": [
+      "Magic",
+      "NPCs"
+    ],
+    "Book": "Thaumatology",
+    "Page": "116",
+    "Link": "T116"
+  },
+  {
+    "Rule": "Sapient Magic Item's IQ",
+    "Category": [
+      "Magic",
+      "NPCs",
+      "Attributes"
+    ],
+    "Book": "Thaumatology",
+    "Page": "116",
+    "Link": "T116"
+  },
+  {
+    "Rule": "Enchanting a Weapon to be Sapient",
+    "Category": [
+      "Magic",
+      "NPCs",
+      "Attributes"
+    ],
+    "Book": "Thaumatology",
+    "Page": "116",
+    "Link": "T116"
+  },
+  {
+    "Rule": "Common Sapient Magic Item Abilities",
+    "Category": [
+      "Magic",
+      "NPCs",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "117",
+    "Link": "T117"
+  },
+  {
+    "Rule": "Sapient Magic Items as Characters",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "118",
+    "Link": "T118"
+  },
+  {
+    "Rule": "Shapeshifting",
+    "Category": [
+      "Magic",
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "197",
+    "Link": "T197"
+  },
+  {
+    "Rule": "Unusual Background (Supernatural Ancestry)",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "197",
+    "Link": "T197"
+  },
+  {
+    "Rule": "Conjuring Assistance",
+    "Category": [
+      "Magic",
+      "Creatures"
+    ],
+    "Book": "Thaumatology",
+    "Page": "198",
+    "Link": "T198"
+  },
+  {
+    "Rule": "Aspected Limitation",
+    "Category": [
+      "Magic",
+      "Limitations"
+    ],
+    "Book": "Thaumatology",
+    "Page": "200",
+    "Link": "T200"
+  },
+  {
+    "Rule": "Fickle Limitation",
+    "Category": [
+      "Magic",
+      "Limitations"
+    ],
+    "Book": "Thaumatology",
+    "Page": "200",
+    "Link": "T200"
+  },
+  {
+    "Rule": "Affliction: The Evil Eye and Countermeasures",
+    "Category": [
+      "Magic",
+      "Afflictions"
+    ],
+    "Book": "Thaumatology",
+    "Page": "201",
+    "Link": "T201"
+  },
+  {
+    "Rule": "Glamour Limitation",
+    "Category": [
+      "Magic",
+      "Limitations"
+    ],
+    "Book": "Thaumatology",
+    "Page": "201",
+    "Link": "T201"
+  },
+  {
+    "Rule": "Supernatural Creature Allies",
+    "Category": [
+      "Supernatural",
+      "Creatures"
+    ],
+    "Book": "Thaumatology",
+    "Page": "203",
+    "Link": "T203"
+  },
+  {
+    "Rule": "Power Talents and Magic",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "203",
+    "Link": "T203"
+  },
+  {
+    "Rule": "Dispelling Magical Advantages",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "204",
+    "Link": "T204"
+  },
+  {
+    "Rule": "Bardic Arts Power Modifier",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "204",
+    "Link": "T204"
+  },
+  {
+    "Rule": "Elemental Command Power Modifier",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "204",
+    "Link": "T204"
+  },
+  {
+    "Rule": "Personal Holiness Power Modifier",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "205",
+    "Link": "T205"
+  },
+  {
+    "Rule": "Plane-Walking Power Modifier",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "206",
+    "Link": "T206"
+  },
+  {
+    "Rule": "Reincarnate Power Modifier",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "206",
+    "Link": "T206"
+  },
+  {
+    "Rule": "Chi Control Powers",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "207",
+    "Link": "T207"
+  },
+  {
+    "Rule": "Shamanic Power Modifier",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "207",
+    "Link": "T207"
+  },
+  {
+    "Rule": "Soothsaying Power Modifier",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "208",
+    "Link": "T208"
+  },
+  {
+    "Rule": "Summoning and Binding Supernatural Servants",
+    "Category": [
+      "Supernatural",
+      "Creatures"
+    ],
+    "Book": "Thaumatology",
+    "Page": "209",
+    "Link": "T209"
+  },
+  {
+    "Rule": "Supernatural Allies and Patrons",
+    "Category": [
+      "Supernatural",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "209",
+    "Link": "T209"
+  },
+  {
+    "Rule": "Example: A Shaman and his Spirits",
+    "Category": [
+      "Supernatural",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "210",
+    "Link": "T210"
+  },
+  {
+    "Rule": "Spirit Vessel Game Mechanics",
+    "Category": [
+      "Supernatural",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "211",
+    "Link": "T211"
+  },
+  {
+    "Rule": "Creating a Spirit-Vessel Template",
+    "Category": [
+      "Supernatural",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "211",
+    "Link": "T211"
+  },
+  {
+    "Rule": "Non-Human Spirit Vessels",
+    "Category": [
+      "Supernatural",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "213",
+    "Link": "T213"
+  },
+  {
+    "Rule": "Limiting Advantages in Spirit Vessels",
+    "Category": [
+      "Supernatural",
+      "Traits",
+      "Limitations"
+    ],
+    "Book": "Thaumatology",
+    "Page": "213",
+    "Link": "T213"
+  },
+  {
+    "Rule": "Sample Spirit Vessel Package: The Mask of Coyote",
+    "Category": [
+      "Supernatural",
+      "Traits"
+    ],
+    "Book": "Thaumatology",
+    "Page": "214",
+    "Link": "T214"
   },
   {
     "Rule": "Names and True Names",
