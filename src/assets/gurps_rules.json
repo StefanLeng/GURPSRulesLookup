@@ -2635,6 +2635,15 @@
     "Link": "B83"
   },
   {
+    "Rule": "Shadow Form",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "83",
+    "Link": "B83"
+  },
+  {
     "Rule": "Shapeshifting (10 seconds)",
     "Category": [
       "Traits"
@@ -2663,9 +2672,37 @@
     "Link": "B84"
   },
   {
+    "Rule": "Silence",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "85",
+    "Link": "B85"
+  },
+  {
+    "Rule": "Single-Minded",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "85",
+    "Link": "B85"
+  },
+  {
     "Rule": "Striker",
     "Category": [
-      "Combat"
+      "Combat",
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "88",
+    "Link": "B88"
+  },
+  {
+    "Rule": "Striking ST",
+    "Category": [
+      "Traits"
     ],
     "Book": "Basic",
     "Page": "88",
@@ -2679,6 +2716,60 @@
     "Book": "Basic",
     "Page": "89",
     "Link": "B89"
+  },
+  {
+    "Rule": "Trained by a Master",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "93",
+    "Link": "B93"
+  },
+  {
+    "Rule": "True Faith",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "94",
+    "Link": "B94"
+  },
+  {
+    "Rule": "Unfazeable",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "95",
+    "Link": "B95"
+  },
+  {
+    "Rule": "Vampiric Bite",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "96",
+    "Link": "B96"
+  },
+  {
+    "Rule": "Warp",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "97",
+    "Link": "B97"
+  },
+  {
+    "Rule": "Perks",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "100",
+    "Link": "B100"
   },
   {
     "Rule": "Accurate",
@@ -4021,6 +4112,15 @@
     "Book": "Basic",
     "Page": "263",
     "Link": "B263"
+  },
+  {
+    "Rule": "Cost of Living",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "265",
+    "Link": "B265"
   },
   {
     "Rule": "Armor Divisor Explanation",
@@ -7427,6 +7527,24 @@
     "Link": "B420"
   },
   {
+    "Rule": "Physical Stun and Recovery",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "420",
+    "Link": "B420"
+  },
+  {
+    "Rule": "Mental Stun and Recovery",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "420",
+    "Link": "B420"
+  },
+  {
     "Rule": "Major Wounds",
     "Category": [
       "Injury"
@@ -8523,6 +8641,15 @@
     "Link": "B455"
   },
   {
+    "Rule": "Apes",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "455",
+    "Link": "B455"
+  },
+  {
     "Rule": "Animals and Monsters",
     "Category": [
       "Creatures"
@@ -8541,6 +8668,42 @@
     "Link": "B455"
   },
   {
+    "Rule": "Chimpanzee and Gorilla",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "456",
+    "Link": "B456"
+  },
+  {
+    "Rule": "Bears (Black, Grizzly, Polar, and Cave)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "456",
+    "Link": "B456"
+  },
+  {
+    "Rule": "Cats (House Cat, Lion, Tiger)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "456",
+    "Link": "B456"
+  },
+  {
+    "Rule": "Deer, Dogs, Falcons, Sharks",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "457",
+    "Link": "B457"
+  },
+  {
     "Rule": "Individualizing Animals",
     "Category": [
       "Creatures"
@@ -8548,6 +8711,15 @@
     "Book": "Basic",
     "Page": "457",
     "Link": "B457"
+  },
+  {
+    "Rule": "Snakes, Wild Boars, Wolves",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "458",
+    "Link": "B458"
   },
   {
     "Rule": "Pets and Trained Animals",
@@ -8577,7 +8749,26 @@
     "Link": "B458"
   },
   {
+    "Rule": "Animal Training Table",
+    "Category": [
+      "Reference",
+      "Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "459",
+    "Link": "B459"
+  },
+  {
     "Rule": "Riding and Draft Animals",
+    "Category": [
+      "Mounts"
+    ],
+    "Book": "Basic",
+    "Page": "459",
+    "Link": "B459"
+  },
+  {
+    "Rule": "Camels, Donkeys, Horses, Mules",
     "Category": [
       "Mounts"
     ],
@@ -8596,8 +8787,18 @@
     "Link": "B459"
   },
   {
-    "Rule": "Gryphons",
+    "Rule": "Basilisk, Gryphon",
     "Category": [
+      "Creatures"
+    ],
+    "Book": "Basic",
+    "Page": "460",
+    "Link": "B460"
+  },
+  {
+    "Rule": "Pony, Race Horse, Saddle Horse, Elephants, Oxen",
+    "Category": [
+      "Mounts",
       "Creatures"
     ],
     "Book": "Basic",
@@ -8607,7 +8808,7 @@
   {
     "Rule": "Fantasy Monsters",
     "Category": [
-      "Affliction"
+      "Creatures"
     ],
     "Book": "Basic",
     "Page": "460",
@@ -8623,9 +8824,27 @@
     "Link": "B460"
   },
   {
-    "Rule": "Swarm Attacks",
+    "Rule": "Swarm Creatures and Swarm Attacks",
     "Category": [
       "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "461",
+    "Link": "B461"
+  },
+  {
+    "Rule": "Attacking a Swarm",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "461",
+    "Link": "B461"
+  },
+  {
+    "Rule": "Strix (Stirges)",
+    "Category": [
+      "Creatures"
     ],
     "Book": "Basic",
     "Page": "461",
@@ -9403,6 +9622,24 @@
     "Link": "B511"
   },
   {
+    "Rule": "Variations within a Tech Level",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "511",
+    "Link": "B511"
+  },
+  {
+    "Rule": "Tech Levels by Field",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "512",
+    "Link": "B512"
+  },
+  {
     "Rule": "Divergent Tech Levels TL(X+Y)",
     "Category": [
       "Setting"
@@ -9430,6 +9667,24 @@
     "Link": "B513"
   },
   {
+    "Rule": "Tech Level by Genre",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "514",
+    "Link": "B514"
+  },
+  {
+    "Rule": "GURPS Bucks",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "514",
+    "Link": "B514"
+  },
+  {
     "Rule": "Buying and Selling",
     "Category": [
       "Reference"
@@ -9439,16 +9694,25 @@
     "Link": "B514"
   },
   {
-    "Rule": "Loot, and Disposing of It",
+    "Rule": "Loot, and Disposing of It (Selling to Merchants)",
     "Category": [
-      "Reference"
+      "Skills"
     ],
     "Book": "Basic",
     "Page": "515",
     "Link": "B515"
   },
   {
-    "Rule": "Jobs",
+    "Rule": "Gold and Silver",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "515",
+    "Link": "B515"
+  },
+  {
+    "Rule": "Jobs, Prerequisites for Jobs, and Job Rolls",
     "Category": [
       "Reference"
     ],
@@ -9468,6 +9732,16 @@
   {
     "Rule": "Hirelings",
     "Category": [
+      "Setting",
+      "NPCs"
+    ],
+    "Book": "Basic",
+    "Page": "517",
+    "Link": "B517"
+  },
+  {
+    "Rule": "Monthly Pay by Campaign Tech Level",
+    "Category": [
       "Reference"
     ],
     "Book": "Basic",
@@ -9475,13 +9749,13 @@
     "Link": "B517"
   },
   {
-    "Rule": "Monthly Pay",
+    "Rule": "Loyalty of Hirelings",
     "Category": [
-      "Reference"
+      "NPCs"
     ],
     "Book": "Basic",
-    "Page": "517",
-    "Link": "B517"
+    "Page": "518",
+    "Link": "B518"
   },
   {
     "Rule": "Slaves",
@@ -24913,6 +25187,660 @@
     "Book": "Loadouts: Low-Tech Armor",
     "Page": "47",
     "Link": "LOLTA47"
+  },
+  {
+    "Rule": "The Five Rs of Investigation (Loadouts: Monster Hunters)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "4",
+    "Link": "LOMH4"
+  },
+  {
+    "Rule": "The Five Ts of Monster-Hunting Strategy (Loadouts: Monster Hunters)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "5",
+    "Link": "LOMH5"
+  },
+  {
+    "Rule": "Hunter Tactics (Loadouts: Monster Hunters)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "5",
+    "Link": "LOMH5"
+  },
+  {
+    "Rule": "The Fatal Four (Loadouts: Monster Hunters)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "5",
+    "Link": "LOMH5"
+  },
+  {
+    "Rule": "Scout Role (Loadouts: Monster Hunters)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "6",
+    "Link": "LOMH6"
+  },
+  {
+    "Rule": "Slayer Role (Loadouts: Monster Hunters)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "6",
+    "Link": "LOMH6"
+  },
+  {
+    "Rule": "Sage Role (Loadouts: Monster Hunters)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "6",
+    "Link": "LOMH6"
+  },
+  {
+    "Rule": "Super Hunters (Loadouts: Monster Hunters)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "6",
+    "Link": "LOMH6"
+  },
+  {
+    "Rule": "Bare Essentials (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "6",
+    "Link": "LOMH6"
+  },
+  {
+    "Rule": "Esoteric Tool Kit (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "7",
+    "Link": "LOMH7"
+  },
+  {
+    "Rule": "Forensics Lab (TL6) (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "7",
+    "Link": "LOMH7"
+  },
+  {
+    "Rule": "Manuals (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "7",
+    "Link": "LOMH7"
+  },
+  {
+    "Rule": "Signature Gear (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear",
+      "Character Points"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "8",
+    "Link": "LOMH8"
+  },
+  {
+    "Rule": "Bigger Is Better (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons",
+      "Reference"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "9",
+    "Link": "LOMH9"
+  },
+  {
+    "Rule": "Magnum Arms BFR (.45-70 Springfield)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "10",
+    "Link": "LOMH10"
+  },
+  {
+    "Rule": "Guncrafter Industries Model 2 (.50 GI)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "10",
+    "Link": "LOMH10"
+  },
+  {
+    "Rule": "Crescent Faultless (12G 2.75”)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "10",
+    "Link": "LOMH10"
+  },
+  {
+    "Rule": "A-Square Hannibal (.577 Tyrannosaur)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "11",
+    "Link": "LOMH11"
+  },
+  {
+    "Rule": "Alexander Arms .50 Beowulf Entry Carbine",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "11",
+    "Link": "LOMH11"
+  },
+  {
+    "Rule": "FN MK 13 MOD 0 EGLM (40×46mmSR)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "11",
+    "Link": "LOMH11"
+  },
+  {
+    "Rule": "Herbs (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "11",
+    "Link": "LOMH11"
+  },
+  {
+    "Rule": "Incense (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "11",
+    "Link": "LOMH11"
+  },
+  {
+    "Rule": "Light (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "11",
+    "Link": "LOMH11"
+  },
+  {
+    "Rule": "Poison (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "11",
+    "Link": "LOMH11"
+  },
+  {
+    "Rule": "Silver Nitrate (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "11",
+    "Link": "LOMH11"
+  },
+  {
+    "Rule": "Water or Oil (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "11",
+    "Link": "LOMH11"
+  },
+  {
+    "Rule": "Wood (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "11",
+    "Link": "LOMH11"
+  },
+  {
+    "Rule": "Wooden Stake (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "12",
+    "Link": "LOMH12"
+  },
+  {
+    "Rule": "Wooden Arrow (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "12",
+    "Link": "LOMH12"
+  },
+  {
+    "Rule": "Wooden Bullet (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "12",
+    "Link": "LOMH12"
+  },
+  {
+    "Rule": "Shotgun Stake (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "12",
+    "Link": "LOMH12"
+  },
+  {
+    "Rule": "Grenade Launcher Stake (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "12",
+    "Link": "LOMH12"
+  },
+  {
+    "Rule": "Automatic Crossbow (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "12",
+    "Link": "LOMH12"
+  },
+  {
+    "Rule": "Holy Weapons (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons",
+      "Traits"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "12",
+    "Link": "LOMH12"
+  },
+  {
+    "Rule": "Silver Blades (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "13",
+    "Link": "LOMH13"
+  },
+  {
+    "Rule": "Silver Bullets (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "13",
+    "Link": "LOMH13"
+  },
+  {
+    "Rule": "Silver Fragmentation (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "13",
+    "Link": "LOMH13"
+  },
+  {
+    "Rule": "Budget Monster Hunter Basic Kit (TL6)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "14",
+    "Link": "LOMH14"
+  },
+  {
+    "Rule": "How to Read the Loadouts (Loadouts: Monster Hunters)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "15",
+    "Link": "LOMH15"
+  },
+  {
+    "Rule": "Firearms Costs and Weights (Loadouts: Monster Hunters)",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "15",
+    "Link": "LOMH15"
+  },
+  {
+    "Rule": "Slayer Lens (TL6 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "15",
+    "Link": "LOMH15"
+  },
+  {
+    "Rule": "Supernatural Slayer Lens (TL6 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "15",
+    "Link": "LOMH15"
+  },
+  {
+    "Rule": "Scout Lens (TL6 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "15",
+    "Link": "LOMH15"
+  },
+  {
+    "Rule": "Supernatural Scout Lens (TL6 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "16",
+    "Link": "LOMH16"
+  },
+  {
+    "Rule": "Sage Lens (TL6 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "16",
+    "Link": "LOMH16"
+  },
+  {
+    "Rule": "Supernatural Sage Lens (TL6 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "16",
+    "Link": "LOMH16"
+  },
+  {
+    "Rule": "Legendary Monster Hunter Basic Kit (TL6)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "16",
+    "Link": "LOMH16"
+  },
+  {
+    "Rule": "Slayer Lens (TL6 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "16",
+    "Link": "LOMH16"
+  },
+  {
+    "Rule": "Supernatural Slayer Lens (TL6 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "17",
+    "Link": "LOMH17"
+  },
+  {
+    "Rule": "Fire Slayer Lens (TL6 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "17",
+    "Link": "LOMH17"
+  },
+  {
+    "Rule": "Scout Lens (TL6 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "17",
+    "Link": "LOMH17"
+  },
+  {
+    "Rule": "Supernatural Scout Lens (TL6 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "18",
+    "Link": "LOMH18"
+  },
+  {
+    "Rule": "Sage Lens (TL6 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "18",
+    "Link": "LOMH18"
+  },
+  {
+    "Rule": "Supernatural Sage Lens (TL6 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "18",
+    "Link": "LOMH18"
+  },
+  {
+    "Rule": "Budget Monster Hunter Basic Kit (TL8)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "19",
+    "Link": "LOMH19"
+  },
+  {
+    "Rule": "Slayer Lens (TL8 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "20",
+    "Link": "LOMH20"
+  },
+  {
+    "Rule": "Assault Rifle Slayer Lens (TL8 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "20",
+    "Link": "LOMH20"
+  },
+  {
+    "Rule": "Supernatural Slayer Lens (TL8 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "20",
+    "Link": "LOMH20"
+  },
+  {
+    "Rule": "Scout Lens (TL8 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "20",
+    "Link": "LOMH20"
+  },
+  {
+    "Rule": "Supernatural Scout Lens (TL8 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "21",
+    "Link": "LOMH21"
+  },
+  {
+    "Rule": "Sage Lens (TL8 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "21",
+    "Link": "LOMH21"
+  },
+  {
+    "Rule": "Supernatural Sage Lens (TL8 Budget)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "21",
+    "Link": "LOMH21"
+  },
+  {
+    "Rule": "Legendary Monster Hunter Basic Kit (TL8)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "22",
+    "Link": "LOMH22"
+  },
+  {
+    "Rule": "Slayer Lens (TL8 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "22",
+    "Link": "LOMH22"
+  },
+  {
+    "Rule": "Assault Rifle Slayer Lens (TL8 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "22",
+    "Link": "LOMH22"
+  },
+  {
+    "Rule": "Minigun Slayer Lens (TL8 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "23",
+    "Link": "LOMH23"
+  },
+  {
+    "Rule": "Supernatural Slayer Lens (TL8 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "23",
+    "Link": "LOMH23"
+  },
+  {
+    "Rule": "Supernatural Chainsaw Slayer Lens (TL8 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "23",
+    "Link": "LOMH23"
+  },
+  {
+    "Rule": "Scout Lens (TL8 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "23",
+    "Link": "LOMH23"
+  },
+  {
+    "Rule": "Supernatural Scout Lens (TL8 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "24",
+    "Link": "LOMH24"
+  },
+  {
+    "Rule": "Sage Lens (TL8 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "24",
+    "Link": "LOMH24"
+  },
+  {
+    "Rule": "Supernatural Sage Lens (TL8 Legendary)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Loadouts: Monster Hunters",
+    "Page": "24",
+    "Link": "LOMH24"
   },
   {
     "Rule": "Bonesetting Hard Technique",
