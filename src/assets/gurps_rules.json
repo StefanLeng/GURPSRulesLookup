@@ -2002,6 +2002,251 @@
     "Link": "ATE2:36"
   },
   {
+    "Rule": "Banestorm Spells",
+    "Category": [
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Banestorm",
+    "Page": "25",
+    "Link": "BS25"
+  },
+  {
+    "Rule": "Feudalism in Ytarria",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Banestorm",
+    "Page": "45",
+    "Link": "BS45"
+  },
+  {
+    "Rule": "What Cost of Living Gets You",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Banestorm",
+    "Page": "187",
+    "Link": "BS187"
+  },
+  {
+    "Rule": "Centaurs",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "188",
+    "Link": "BS188"
+  },
+  {
+    "Rule": "Djinn Ascended Ones",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "188",
+    "Link": "BS188"
+  },
+  {
+    "Rule": "Dolphins",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "189",
+    "Link": "BS189"
+  },
+  {
+    "Rule": "Dwarves",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "189",
+    "Link": "BS189"
+  },
+  {
+    "Rule": "Elves",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "190",
+    "Link": "BS190"
+  },
+  {
+    "Rule": "Gargoyles",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "190",
+    "Link": "BS190"
+  },
+  {
+    "Rule": "Dark Elves",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "191",
+    "Link": "BS191"
+  },
+  {
+    "Rule": "Half-Elves",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "191",
+    "Link": "BS191"
+  },
+  {
+    "Rule": "Giants",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "191",
+    "Link": "BS191"
+  },
+  {
+    "Rule": "Insect Men",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "192",
+    "Link": "BS192"
+  },
+  {
+    "Rule": "Gnomes, Goblins, Halflings",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "192",
+    "Link": "BS192"
+  },
+  {
+    "Rule": "Hobgoblins, Kobolds",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "193",
+    "Link": "BS193"
+  },
+  {
+    "Rule": "Great Eagle, Noble Horse, Wise Owl",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "194",
+    "Link": "BS194"
+  },
+  {
+    "Rule": "Medusa",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "194",
+    "Link": "BS194"
+  },
+  {
+    "Rule": "Merfolk",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "195",
+    "Link": "BS195"
+  },
+  {
+    "Rule": "Minotaurs, Ogres, Orcs",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "196",
+    "Link": "BS196"
+  },
+  {
+    "Rule": "Octopus Folk",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "196",
+    "Link": "BS196"
+  },
+  {
+    "Rule": "Half-Orcs",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "197",
+    "Link": "BS197"
+  },
+  {
+    "Rule": "Reptile Men",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "197",
+    "Link": "BS197"
+  },
+  {
+    "Rule": "Sea Elves, Sharkmen",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "198",
+    "Link": "BS198"
+  },
+  {
+    "Rule": "Sphinxes",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "198",
+    "Link": "BS198"
+  },
+  {
+    "Rule": "Spring Spirit",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "199",
+    "Link": "BS199"
+  },
+  {
+    "Rule": "Trolls",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "199",
+    "Link": "BS199"
+  },
+  {
+    "Rule": "Ghouls (Banestorm)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "200",
+    "Link": "BS200"
+  },
+  {
     "Rule": "Lycanthropes (Banestorm)",
     "Category": [
       "Template"
@@ -2009,6 +2254,24 @@
     "Book": "Banestorm",
     "Page": "200",
     "Link": "BS200"
+  },
+  {
+    "Rule": "Werebear, Wereboar, Were-Eagle, Were-Snake, Werewolf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "201",
+    "Link": "BS201"
+  },
+  {
+    "Rule": "Vampires (Banestorm)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Banestorm",
+    "Page": "201",
+    "Link": "BS201"
   },
   {
     "Rule": "Charlatan",
@@ -2023,7 +2286,7 @@
     "Rule": "Courtier",
     "Category": [
       "Template",
-      "NPC"
+      "NPCs"
     ],
     "Book": "Banestorm",
     "Page": "205",
@@ -2033,7 +2296,7 @@
     "Rule": "Entertainer",
     "Category": [
       "Template",
-      "NPC"
+      "NPCs"
     ],
     "Book": "Banestorm",
     "Page": "206",
@@ -2043,7 +2306,7 @@
     "Rule": "Healer",
     "Category": [
       "Template",
-      "NPC"
+      "NPCs"
     ],
     "Book": "Banestorm",
     "Page": "208",
@@ -2053,7 +2316,7 @@
     "Rule": "Knight-Errant",
     "Category": [
       "Template",
-      "NPC"
+      "NPCs"
     ],
     "Book": "Banestorm",
     "Page": "208",
@@ -2063,7 +2326,7 @@
     "Rule": "Mercenary",
     "Category": [
       "Template",
-      "NPC"
+      "NPCs"
     ],
     "Book": "Banestorm",
     "Page": "209",
@@ -2073,7 +2336,7 @@
     "Rule": "Merchant",
     "Category": [
       "Template",
-      "NPC"
+      "NPCs"
     ],
     "Book": "Banestorm",
     "Page": "210",
@@ -2083,7 +2346,7 @@
     "Rule": "Mystic",
     "Category": [
       "Template",
-      "NPC"
+      "NPCs"
     ],
     "Book": "Banestorm",
     "Page": "212",
@@ -2093,7 +2356,7 @@
     "Rule": "Peasant Hero",
     "Category": [
       "Template",
-      "NPC"
+      "NPCs"
     ],
     "Book": "Banestorm",
     "Page": "214",
@@ -2103,7 +2366,7 @@
     "Rule": "Underground Engineer",
     "Category": [
       "Template",
-      "NPC"
+      "NPCs"
     ],
     "Book": "Banestorm",
     "Page": "215",
@@ -2113,7 +2376,7 @@
     "Rule": "Urban Rogue",
     "Category": [
       "Template",
-      "NPC"
+      "NPCs"
     ],
     "Book": "Banestorm",
     "Page": "216",
@@ -2123,7 +2386,7 @@
     "Rule": "Watchman",
     "Category": [
       "Template",
-      "NPC",
+      "NPCs",
       "Professions"
     ],
     "Book": "Banestorm",
@@ -2134,12 +2397,168 @@
     "Rule": "Woodsman",
     "Category": [
       "Template",
-      "NPC",
+      "NPCs",
       "Professions"
     ],
     "Book": "Banestorm",
     "Page": "217",
     "Link": "BS217"
+  },
+  {
+    "Rule": "Bushwolves",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "219",
+    "Link": "BS219"
+  },
+  {
+    "Rule": "Caustiguses,Giant Spiders",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "220",
+    "Link": "BS220"
+  },
+  {
+    "Rule": "Harpies, Hellsharks",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "221",
+    "Link": "BS221"
+  },
+  {
+    "Rule": "Hippogriffs, Hydras",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "222",
+    "Link": "BS222"
+  },
+  {
+    "Rule": "Krakens, Nightstalkers",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "223",
+    "Link": "BS223"
+  },
+  {
+    "Rule": "Paladins (Turtle-like Grazing Animals in Ytarria)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "223",
+    "Link": "BS223"
+  },
+  {
+    "Rule": "Pegasus, Pegasi",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "224",
+    "Link": "BS224"
+  },
+  {
+    "Rule": "Reeks (Brown Ooze)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "224",
+    "Link": "BS224"
+  },
+  {
+    "Rule": "Striders (Large Flightless Birds)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "224",
+    "Link": "BS224"
+  },
+  {
+    "Rule": "Treetippers",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "225",
+    "Link": "BS225"
+  },
+  {
+    "Rule": "Unicorn, Unicorns",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "225",
+    "Link": "BS225"
+  },
+  {
+    "Rule": "Wyvern, Wyverns",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "226",
+    "Link": "BS226"
+  },
+  {
+    "Rule": "Dragon Templates and Dragon Meta-Trait",
+    "Category": [
+      "Creatures",
+      "Template",
+      "Traits"
+    ],
+    "Book": "Banestorm",
+    "Page": "227",
+    "Link": "BS227"
+  },
+  {
+    "Rule": "Dragons in Combat",
+    "Category": [
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Banestorm",
+    "Page": "228",
+    "Link": "BS228"
+  },
+  {
+    "Rule": "Variant Dragons",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "228",
+    "Link": "BS228"
+  },
+  {
+    "Rule": "Dragon PCs",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "228",
+    "Link": "BS228"
+  },
+  {
+    "Rule": "Domestic Animals (Camels, Horses, Blacksheep)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Banestorm",
+    "Page": "228",
+    "Link": "BS228"
   },
   {
     "Rule": "Round Fractional Character Point Costs Up",
@@ -2254,13 +2673,31 @@
     "Link": "B33"
   },
   {
-    "Rule": "Mana-Sensitive",
+    "Rule": "Absolute Direction (3D Spatial Sense, 10 CP)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "34",
+    "Link": "B34"
+  },
+  {
+    "Rule": "Mana-Sensitive (-10% Limitation)",
     "Category": [
       "Limitations"
     ],
     "Book": "Basic",
     "Page": "34",
     "Link": "B34"
+  },
+  {
+    "Rule": "Absolute Timing (Chronolocation)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "35",
+    "Link": "B35"
   },
   {
     "Rule": "Dual-Wielding Ambidexterity",
@@ -3367,6 +3804,15 @@
   },
   {
     "Rule": "Bombardment",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "111",
+    "Link": "B111"
+  },
+  {
+    "Rule": "Optional Rule: Limited Enhancements",
     "Category": [
       "Limitations"
     ],
@@ -16802,6 +17248,15 @@
     "Link": "DF4:4"
   },
   {
+    "Rule": "Artificer Lenses",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "5",
+    "Link": "DF4:5"
+  },
+  {
     "Rule": "Scholar (PC Class)",
     "Category": [
       "Template"
@@ -16811,7 +17266,54 @@
     "Link": "DF4:8"
   },
   {
-    "Rule": "Magic Scrolls",
+    "Rule": "Scholar Lenses",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "9",
+    "Link": "DF4:9"
+  },
+  {
+    "Rule": "Gadgets and Artificer's Tools",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "12",
+    "Link": "DF4:12"
+  },
+  {
+    "Rule": "Manuals",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "13",
+    "Link": "DF4:13"
+  },
+  {
+    "Rule": "Maps and Scrolls",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "14",
+    "Link": "DF4:14"
+  },
+  {
+    "Rule": "Textbook and Thesis Sized Grimoires Table",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "14",
+    "Link": "DF4:14"
+  },
+  {
+    "Rule": "Using Scrolls",
     "Category": [
       "Magic",
       "Gear"
@@ -16819,6 +17321,57 @@
     "Book": "Dungeon Fantasy 4",
     "Page": "14",
     "Link": "DF4:14"
+  },
+  {
+    "Rule": "Types of Scrolls",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "15",
+    "Link": "DF4:15"
+  },
+  {
+    "Rule": "Buying Scrolls, Cost of Scrolls Table",
+    "Category": [
+      "Reference",
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "15",
+    "Link": "DF4:15"
+  },
+  {
+    "Rule": "Variant Scrolls",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "15",
+    "Link": "DF4:15"
+  },
+  {
+    "Rule": "Scrolls on Gear and Tattooed Scrolls",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "16",
+    "Link": "DF4:16"
+  },
+  {
+    "Rule": "Example Scrolls (Cure Disease, Remove Curse, Major Healing, etc.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 4",
+    "Page": "16",
+    "Link": "DF4:16"
   },
   {
     "Rule": "Druidic Animal Allies",
@@ -20366,6 +20919,1352 @@
     "Book": "Fantasy Tech 2",
     "Page": "12",
     "Link": "FT2:12"
+  },
+  {
+    "Rule": "Finding Your Animal",
+    "Category": [
+      "Reference"
+    ],
+    "Book": "Furries",
+    "Page": "5",
+    "Link": "FUR5"
+  },
+  {
+    "Rule": "Cinematic Scale Table, Size Modifier",
+    "Category": [
+      "Reference",
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "11",
+    "Link": "FUR11"
+  },
+  {
+    "Rule": "Binding (Sticky Body Part Attacks)",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "11",
+    "Link": "FUR11"
+  },
+  {
+    "Rule": "Damage Resistance (Fur/Scales/Hide)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "12",
+    "Link": "FUR12"
+  },
+  {
+    "Rule": "Partial (Chimeric Armor Limitation), Centaur",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "12",
+    "Link": "FUR12"
+  },
+  {
+    "Rule": "Hybridization (Racial Design Strategies)",
+    "Category": [
+      "Traits",
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "12",
+    "Link": "FUR12"
+  },
+  {
+    "Rule": "Hypersensory (Danger Sense Limitation)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "12",
+    "Link": "FUR12"
+  },
+  {
+    "Rule": "Beak and Tongue",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "12",
+    "Link": "FUR12"
+  },
+  {
+    "Rule": "Extensible Tongue",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "12",
+    "Link": "FUR12"
+  },
+  {
+    "Rule": "Grasping Feet",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "12",
+    "Link": "FUR12"
+  },
+  {
+    "Rule": "Prehensile Tail",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "12",
+    "Link": "FUR12"
+  },
+  {
+    "Rule": "Trunk (Elephant Trunk Manipulator)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "12",
+    "Link": "FUR12"
+  },
+  {
+    "Rule": "Long Neck",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "12",
+    "Link": "FUR12"
+  },
+  {
+    "Rule": "Chisel Teeth",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Curls Up",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Fly-Whisk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Retraction (Perk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Tail Slap",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Thumper (Skill)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Waterproofing (Perk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Resistant to Bleeding",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Striker (Furry Combat and Crippling Rules)",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Temperature Tolerance (Aquatic Thermal Comfort Zone)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Good Grip (Furries)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Low Resolution (Furries Bad Sight Variant)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "13",
+    "Link": "FUR13"
+  },
+  {
+    "Rule": "Ambitious (Quirk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "14",
+    "Link": "FUR14"
+  },
+  {
+    "Rule": "Audacious (Quirk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "14",
+    "Link": "FUR14"
+  },
+  {
+    "Rule": "Confident (Quirk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "14",
+    "Link": "FUR14"
+  },
+  {
+    "Rule": "Irritable (Quirk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "14",
+    "Link": "FUR14"
+  },
+  {
+    "Rule": "Opportunistic (Quirk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "14",
+    "Link": "FUR14"
+  },
+  {
+    "Rule": "Rivalrous (Quirk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "14",
+    "Link": "FUR14"
+  },
+  {
+    "Rule": "Restricted Diet (Carnivore/Herbivore/Scavenger Levels)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "14",
+    "Link": "FUR14"
+  },
+  {
+    "Rule": "Visible Racial Features (Supernatural vs. Unnatural vs. Distinctive)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "14",
+    "Link": "FUR14"
+  },
+  {
+    "Rule": "Limited Arc (Furry Attack Modifier)",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "14",
+    "Link": "FUR14"
+  },
+  {
+    "Rule": "Reversed Arc",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "14",
+    "Link": "FUR14"
+  },
+  {
+    "Rule": "Spray Innate Attack",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Born Biter (Furries)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Digitigrade",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Four-Fingered",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Good and Bad Angel",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Gracile",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Potential Form (Irreversible Alternate Form)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Robust (Feature)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Sign Language (Feature)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Tail (Cosmetic Feature)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Zoomorph (Species)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Signature Traits",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Furries",
+    "Page": "15",
+    "Link": "FUR15"
+  },
+  {
+    "Rule": "Claws (Combat Option)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Hooves (Combat Option)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Horns (Combat Option)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Head Butt (Horns)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Horn Shove (Horns)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Mouth (Combat Option)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Bite (Mouth)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Mouth Grapple (Mouth)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Bite and Mouth Grapple Hit Locations",
+    "Category": [
+      "Combat",
+      "Reference"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Tail (Combat Option)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Tail Strike (Tail)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Tail Sweep (Tail)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Torso (Combat Option)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "16",
+    "Link": "FUR16"
+  },
+  {
+    "Rule": "Back Spray",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "17",
+    "Link": "FUR17"
+  },
+  {
+    "Rule": "Back Tail Strike",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "17",
+    "Link": "FUR17"
+  },
+  {
+    "Rule": "Clawed Grapple",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "17",
+    "Link": "FUR17"
+  },
+  {
+    "Rule": "Dual Back Kick",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "17",
+    "Link": "FUR17"
+  },
+  {
+    "Rule": "Front Tail Strike",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "17",
+    "Link": "FUR17"
+  },
+  {
+    "Rule": "Leg Loop",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "17",
+    "Link": "FUR17"
+  },
+  {
+    "Rule": "Locking Horns",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "17",
+    "Link": "FUR17"
+  },
+  {
+    "Rule": "Neck Snap (Teeth)",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "17",
+    "Link": "FUR17"
+  },
+  {
+    "Rule": "Rearing Kick",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "18",
+    "Link": "FUR18"
+  },
+  {
+    "Rule": "Rolling Slam",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "18",
+    "Link": "FUR18"
+  },
+  {
+    "Rule": "Stamp (Kick Technique)",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "18",
+    "Link": "FUR18"
+  },
+  {
+    "Rule": "Sweep (Horns)",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "18",
+    "Link": "FUR18"
+  },
+  {
+    "Rule": "Sweep (Tail)",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "19",
+    "Link": "FUR19"
+  },
+  {
+    "Rule": "Wrench (Limb) (Teeth)",
+    "Category": [
+      "Combat",
+      "Techniques"
+    ],
+    "Book": "Furries",
+    "Page": "19",
+    "Link": "FUR19"
+  },
+  {
+    "Rule": "Alate Combat (Style), Bird",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Furries",
+    "Page": "19",
+    "Link": "FUR19"
+  },
+  {
+    "Rule": "Canine Police Combat (Style), Dog Fu",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Furries",
+    "Page": "19",
+    "Link": "FUR19"
+  },
+  {
+    "Rule": "Hnarff (Style), Horse",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Furries",
+    "Page": "19",
+    "Link": "FUR19"
+  },
+  {
+    "Rule": "Sauromachia (Style), Lizard",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Furries",
+    "Page": "20",
+    "Link": "FUR20"
+  },
+  {
+    "Rule": "The Way of the Claw (Style), Cat",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Furries",
+    "Page": "20",
+    "Link": "FUR20"
+  },
+  {
+    "Rule": "Armor Scaling (for Furry Races)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Furries",
+    "Page": "20",
+    "Link": "FUR20"
+  },
+  {
+    "Rule": "Weapons and Tools Scaling (for Furry Races)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Furries",
+    "Page": "20",
+    "Link": "FUR20"
+  },
+  {
+    "Rule": "Weapon and Armor Scaling Table",
+    "Category": [
+      "Reference",
+      "Gear",
+      "Weapons",
+      "Armor"
+    ],
+    "Book": "Furries",
+    "Page": "20",
+    "Link": "FUR20"
+  },
+  {
+    "Rule": "Educated Chimpanzee, Monkey",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "21",
+    "Link": "FUR21"
+  },
+  {
+    "Rule": "Medved, Bear",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "22",
+    "Link": "FUR22"
+  },
+  {
+    "Rule": "Neodog",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "22",
+    "Link": "FUR22"
+  },
+  {
+    "Rule": "Polynesia (Furry Parrot Template)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "22",
+    "Link": "FUR22"
+  },
+  {
+    "Rule": "Tek-Rat",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "23",
+    "Link": "FUR23"
+  },
+  {
+    "Rule": "Accipiter, Hawk",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "23",
+    "Link": "FUR23"
+  },
+  {
+    "Rule": "Big Cat",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "23",
+    "Link": "FUR23"
+  },
+  {
+    "Rule": "Jag (Big Cat Lens), Jaguar",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "23",
+    "Link": "FUR23"
+  },
+  {
+    "Rule": "Leo (Big Cat Lens), Lion",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Ounce (Big Cat Lens), Snow Leopard",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Pard (Big Cat Lens), Leopard",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Tigris (Big Cat Lens), Tiger",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Canid, Dog",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Large Canid (Alternate Size)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Small Canid (Alternate Size)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Toy Canid (Alternate Size)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Gazehound (Canid Breed Option)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Herder (Canid Breed Option)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Molosser (Canid Breed Option)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Retriever (Canid Breed Option)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Scenthound (Canid Breed Option)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Terrier (Canid Breed Option)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Turnspit (Canid Breed Option)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "24",
+    "Link": "FUR24"
+  },
+  {
+    "Rule": "Castor, Beaver",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "25",
+    "Link": "FUR25"
+  },
+  {
+    "Rule": "Crocutid, Hyena",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "25",
+    "Link": "FUR25"
+  },
+  {
+    "Rule": "Draconid, Dragon",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "25",
+    "Link": "FUR25"
+  },
+  {
+    "Rule": "Felinoid, Cat",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "25",
+    "Link": "FUR25"
+  },
+  {
+    "Rule": "Formicarius, Anteater",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "26",
+    "Link": "FUR26"
+  },
+  {
+    "Rule": "Lapine, Rabbit",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "26",
+    "Link": "FUR26"
+  },
+  {
+    "Rule": "Lupine, Wolf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "26",
+    "Link": "FUR26"
+  },
+  {
+    "Rule": "Lutrid, Otter",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "26",
+    "Link": "FUR26"
+  },
+  {
+    "Rule": "Mephitid, Skunk",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "26",
+    "Link": "FUR26"
+  },
+  {
+    "Rule": "Skunk Spray (Mechanics)",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Furries",
+    "Page": "27",
+    "Link": "FUR27"
+  },
+  {
+    "Rule": "Porcid, Pig",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "27",
+    "Link": "FUR27"
+  },
+  {
+    "Rule": "Procyon, Raccoon",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "27",
+    "Link": "FUR27"
+  },
+  {
+    "Rule": "Qilin, Giraffe",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "27",
+    "Link": "FUR27"
+  },
+  {
+    "Rule": "Saur, Lizard",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "28",
+    "Link": "FUR28"
+  },
+  {
+    "Rule": "Armored (Saur Lens), Lizard",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "28",
+    "Link": "FUR28"
+  },
+  {
+    "Rule": "Fire-Breathing (Saur Lens), Lizard",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "28",
+    "Link": "FUR28"
+  },
+  {
+    "Rule": "Runner (Saur Lens), Lizard",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "28",
+    "Link": "FUR28"
+  },
+  {
+    "Rule": "Swimmer (Saur Lens), Lizard",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "28",
+    "Link": "FUR28"
+  },
+  {
+    "Rule": "Third Eye (Saur Lens), Lizard",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "28",
+    "Link": "FUR28"
+  },
+  {
+    "Rule": "Shekru, Squirrel",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "28",
+    "Link": "FUR28"
+  },
+  {
+    "Rule": "Urchin, Hedgehog",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "29",
+    "Link": "FUR29"
+  },
+  {
+    "Rule": "Ursinoid, Bear",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "29",
+    "Link": "FUR29"
+  },
+  {
+    "Rule": "Vulpid, Fox",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "29",
+    "Link": "FUR29"
+  },
+  {
+    "Rule": "Cat/Dog",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "29",
+    "Link": "FUR29"
+  },
+  {
+    "Rule": "Folf, Fox, Wolf",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "30",
+    "Link": "FUR30"
+  },
+  {
+    "Rule": "Frog Prince",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "30",
+    "Link": "FUR30"
+  },
+  {
+    "Rule": "Houyhnhnm, Horse",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "30",
+    "Link": "FUR30"
+  },
+  {
+    "Rule": "Samebito, Shark",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "30",
+    "Link": "FUR30"
+  },
+  {
+    "Rule": "Tigricentaur, Tiger",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "31",
+    "Link": "FUR31"
+  },
+  {
+    "Rule": "Kitsune, Fox",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "31",
+    "Link": "FUR31"
+  },
+  {
+    "Rule": "Kitsune's Human Form",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "32",
+    "Link": "FUR32"
+  },
+  {
+    "Rule": "Mighty Mole",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "32",
+    "Link": "FUR32"
+  },
+  {
+    "Rule": "Oracular Lamia, Snake",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "32",
+    "Link": "FUR32"
+  },
+  {
+    "Rule": "Wardog",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "33",
+    "Link": "FUR33"
+  },
+  {
+    "Rule": "Biological Enhancements (Wardog Lens)",
+    "Category": [
+      "Template",
+      "Lens"
+    ],
+    "Book": "Furries",
+    "Page": "33",
+    "Link": "FUR33"
+  },
+  {
+    "Rule": "Duck (Funny Animal Template)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "34",
+    "Link": "FUR34"
+  },
+  {
+    "Rule": "Mouse (Funny Animal Template)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "34",
+    "Link": "FUR34"
+  },
+  {
+    "Rule": "Raptor (Funny Animal Template)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "34",
+    "Link": "FUR34"
+  },
+  {
+    "Rule": "Turtle (Funny Animal Template)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Furries",
+    "Page": "34",
+    "Link": "FUR34"
   },
   {
     "Rule": "Simplified Range",
@@ -28204,6 +30103,34 @@
     "Link": "M56"
   },
   {
+    "Rule": "Enchant Spell and Temporary Enchantment Spell",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "56",
+    "Link": "M56"
+  },
+  {
+    "Rule": "Scroll Spell",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "57",
+    "Link": "M57"
+  },
+  {
+    "Rule": "Clay Golem",
+    "Category": [
+      "Magic",
+      "Creatures"
+    ],
+    "Book": "Magic",
+    "Page": "59",
+    "Link": "M59"
+  },
+  {
     "Rule": "Weapon Spirit Enchantment",
     "Category": [
       "Magic",
@@ -28212,6 +30139,15 @@
     "Book": "Magic",
     "Page": "64",
     "Link": "M64"
+  },
+  {
+    "Rule": "Piece-by-Piece Armor Prices",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Magic",
+    "Page": "66",
+    "Link": "M66"
   },
   {
     "Rule": "Magic Staff Spell",
@@ -35359,6 +37295,1422 @@
     "Link": "MC47"
   },
   {
+    "Rule": "Building a Meta-Tech Device",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "4",
+    "Link": "MT4"
+  },
+  {
+    "Rule": "Using a Meta-Tech Device",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "4",
+    "Link": "MT4"
+  },
+  {
+    "Rule": "Meta-Tech Critical Failures",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "4",
+    "Link": "MT4"
+  },
+  {
+    "Rule": "Meta-Tech Extra Effort",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "4",
+    "Link": "MT4"
+  },
+  {
+    "Rule": "Meta-Tech Devices and Combining Powers",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "5",
+    "Link": "MT5"
+  },
+  {
+    "Rule": "Underlying Form",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "5",
+    "Link": "MT5"
+  },
+  {
+    "Rule": "Meta-Tech Legality Class",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "5",
+    "Link": "MT5"
+  },
+  {
+    "Rule": "Damaging Meta-Tech",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "5",
+    "Link": "MT5"
+  },
+  {
+    "Rule": "Powering Meta-Tech",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "5",
+    "Link": "MT5"
+  },
+  {
+    "Rule": "Batteries and Power Cells Table (Meta-Tech)",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "5",
+    "Link": "MT5"
+  },
+  {
+    "Rule": "Battery and Power Cell Exchanges",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "5",
+    "Link": "MT5"
+  },
+  {
+    "Rule": "Meta-Tech Device Table",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "6",
+    "Link": "MT6"
+  },
+  {
+    "Rule": "Limiting Meta-Tech Devices",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "6",
+    "Link": "MT6"
+  },
+  {
+    "Rule": "What's My Size Again",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "7",
+    "Link": "MT7"
+  },
+  {
+    "Rule": "Object Size Examples",
+    "Category": [
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "7",
+    "Link": "MT7"
+  },
+  {
+    "Rule": "Flawed Devices",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "7",
+    "Link": "MT7"
+  },
+  {
+    "Rule": "Interdependent Devices",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "8",
+    "Link": "MT8"
+  },
+  {
+    "Rule": "Scaling Costs for Item Ubiquity",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "8",
+    "Link": "MT8"
+  },
+  {
+    "Rule": "Different Battery Types",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "8",
+    "Link": "MT8"
+  },
+  {
+    "Rule": "Physical Ammunition Table",
+    "Category": [
+      "Reference",
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "9",
+    "Link": "MT9"
+  },
+  {
+    "Rule": "Ammunition (Meta-Tech Design)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "9",
+    "Link": "MT9"
+  },
+  {
+    "Rule": "Armor Clothing Powered Suits and Shields Design",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "9",
+    "Link": "MT9"
+  },
+  {
+    "Rule": "Attachables",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "10",
+    "Link": "MT10"
+  },
+  {
+    "Rule": "Constructs",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "10",
+    "Link": "MT10"
+  },
+  {
+    "Rule": "Cybernetics (Meta-Tech Design)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "10",
+    "Link": "MT10"
+  },
+  {
+    "Rule": "Disadvantageous Meta-Tech",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "11",
+    "Link": "MT11"
+  },
+  {
+    "Rule": "Melee Weapons Design",
+    "Category": [
+      "Gear",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "11",
+    "Link": "MT11"
+  },
+  {
+    "Rule": "Pharmaceutical Traits",
+    "Category": [
+      "Gear",
+      "Medical"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "11",
+    "Link": "MT11"
+  },
+  {
+    "Rule": "Pharmaceutical Forms",
+    "Category": [
+      "Gear",
+      "Medical"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "11",
+    "Link": "MT11"
+  },
+  {
+    "Rule": "Pharmaceutical Duration",
+    "Category": [
+      "Gear",
+      "Medical"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "12",
+    "Link": "MT12"
+  },
+  {
+    "Rule": "Pharmaceutical Resistance",
+    "Category": [
+      "Gear",
+      "Medical"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "12",
+    "Link": "MT12"
+  },
+  {
+    "Rule": "Pharmaceutical Size Cost and Weight",
+    "Category": [
+      "Gear",
+      "Medical"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "12",
+    "Link": "MT12"
+  },
+  {
+    "Rule": "Power Amplifiers Enhancers Mitigators Dampers and Neutralizers",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "12",
+    "Link": "MT12"
+  },
+  {
+    "Rule": "Power Batteries (Meta-Tech Design)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "12",
+    "Link": "MT12"
+  },
+  {
+    "Rule": "Power Generators (Meta-Tech Design)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "12",
+    "Link": "MT12"
+  },
+  {
+    "Rule": "Ranged Weapons Design",
+    "Category": [
+      "Gear",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "12",
+    "Link": "MT12"
+  },
+  {
+    "Rule": "Beam Weapons Design",
+    "Category": [
+      "Gear",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "12",
+    "Link": "MT12"
+  },
+  {
+    "Rule": "Conventional Weapons Design",
+    "Category": [
+      "Gear",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "13",
+    "Link": "MT13"
+  },
+  {
+    "Rule": "Grenades and Explosives Design",
+    "Category": [
+      "Gear",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "13",
+    "Link": "MT13"
+  },
+  {
+    "Rule": "Liquid Projectors Design",
+    "Category": [
+      "Gear",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "13",
+    "Link": "MT13"
+  },
+  {
+    "Rule": "Muscle-Powered Weapons Design",
+    "Category": [
+      "Gear",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "13",
+    "Link": "MT13"
+  },
+  {
+    "Rule": "Meta-Tech Vehicle Construction Overview",
+    "Category": [
+      "Gear",
+      "Vehicles"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "13",
+    "Link": "MT13"
+  },
+  {
+    "Rule": "Vehicle ST HP and Move for Meta-Tech",
+    "Category": [
+      "Gear",
+      "Vehicles"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "13",
+    "Link": "MT13"
+  },
+  {
+    "Rule": "Meta-Tech Modifier Cost Factor",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "14",
+    "Link": "MT14"
+  },
+  {
+    "Rule": "Disguised Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "14",
+    "Link": "MT14"
+  },
+  {
+    "Rule": "Easy Repairs Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "14",
+    "Link": "MT14"
+  },
+  {
+    "Rule": "Effortless Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "14",
+    "Link": "MT14"
+  },
+  {
+    "Rule": "Energy Hog Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "14",
+    "Link": "MT14"
+  },
+  {
+    "Rule": "Energy-Saver Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "14",
+    "Link": "MT14"
+  },
+  {
+    "Rule": "Vehicle DX and IQ for Meta-Tech",
+    "Category": [
+      "Gear",
+      "Vehicles"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "14",
+    "Link": "MT14"
+  },
+  {
+    "Rule": "Vehicle Handling Stability and HT for Meta-Tech",
+    "Category": [
+      "Gear",
+      "Vehicles"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "14",
+    "Link": "MT14"
+  },
+  {
+    "Rule": "Vehicle Payload Load and Range for Meta-Tech",
+    "Category": [
+      "Gear",
+      "Vehicles"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "14",
+    "Link": "MT14"
+  },
+  {
+    "Rule": "Finicky Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "15",
+    "Link": "MT15"
+  },
+  {
+    "Rule": "Hardened Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "15",
+    "Link": "MT15"
+  },
+  {
+    "Rule": "Limited or Loyal Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "15",
+    "Link": "MT15"
+  },
+  {
+    "Rule": "Metamorphic Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "15",
+    "Link": "MT15"
+  },
+  {
+    "Rule": "Redline-Resistant Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "15",
+    "Link": "MT15"
+  },
+  {
+    "Rule": "Self-Powered Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "15",
+    "Link": "MT15"
+  },
+  {
+    "Rule": "Summonable Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "15",
+    "Link": "MT15"
+  },
+  {
+    "Rule": "Uncomplicated Meta-Tech Modifier",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "15",
+    "Link": "MT15"
+  },
+  {
+    "Rule": "Meta-Tech Origins Overview",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "16",
+    "Link": "MT16"
+  },
+  {
+    "Rule": "Alchemical Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "16",
+    "Link": "MT16"
+  },
+  {
+    "Rule": "Bio-Organic Technology Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "16",
+    "Link": "MT16"
+  },
+  {
+    "Rule": "Chi Artifacts Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "17",
+    "Link": "MT17"
+  },
+  {
+    "Rule": "Clockwork Tech Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "17",
+    "Link": "MT17"
+  },
+  {
+    "Rule": "Cosmic Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "17",
+    "Link": "MT17"
+  },
+  {
+    "Rule": "Cthulhutech Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "17",
+    "Link": "MT17"
+  },
+  {
+    "Rule": "Cultural Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "18",
+    "Link": "MT18"
+  },
+  {
+    "Rule": "Dieselpunk Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "18",
+    "Link": "MT18"
+  },
+  {
+    "Rule": "Divine Relics Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "18",
+    "Link": "MT18"
+  },
+  {
+    "Rule": "Enchanted Items Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "18",
+    "Link": "MT18"
+  },
+  {
+    "Rule": "High-Tech Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "18",
+    "Link": "MT18"
+  },
+  {
+    "Rule": "Materials Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "19",
+    "Link": "MT19"
+  },
+  {
+    "Rule": "Mythological Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "19",
+    "Link": "MT19"
+  },
+  {
+    "Rule": "Nanotech Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "19",
+    "Link": "MT19"
+  },
+  {
+    "Rule": "Natural or Paranatural Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "19",
+    "Link": "MT19"
+  },
+  {
+    "Rule": "Necromantic Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "20",
+    "Link": "MT20"
+  },
+  {
+    "Rule": "Ontological Remnants Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "20",
+    "Link": "MT20"
+  },
+  {
+    "Rule": "Psi-Tech Origin (Meta-Tech)",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "20",
+    "Link": "MT20"
+  },
+  {
+    "Rule": "Spirit Fetishes Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "20",
+    "Link": "MT20"
+  },
+  {
+    "Rule": "Steam-Tech Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "20",
+    "Link": "MT20"
+  },
+  {
+    "Rule": "Superscience Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "21",
+    "Link": "MT21"
+  },
+  {
+    "Rule": "Weird Origin",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "21",
+    "Link": "MT21"
+  },
+  {
+    "Rule": "Making Your Own Origins",
+    "Category": [
+      "Gear",
+      "Powers"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "21",
+    "Link": "MT21"
+  },
+  {
+    "Rule": "Task Modifier Ranges Table",
+    "Category": [
+      "Reference",
+      "Traits"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "22",
+    "Link": "MT22"
+  },
+  {
+    "Rule": "Allies for Meta-Tech Summoning Devices",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "22",
+    "Link": "MT22"
+  },
+  {
+    "Rule": "Affliction New Enhancements Tertiary Effect and Task Modifier",
+    "Category": [
+      "Traits",
+      "Enhancements"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "22",
+    "Link": "MT22"
+  },
+  {
+    "Rule": "New Altered Time Rate Options",
+    "Category": [
+      "Traits",
+      "Enhancements",
+      "Limitations"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "22",
+    "Link": "MT22"
+  },
+  {
+    "Rule": "New Binding Rules and Options",
+    "Category": [
+      "Traits",
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "23",
+    "Link": "MT23"
+  },
+  {
+    "Rule": "More Than a Sword Device Traits",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "23",
+    "Link": "MT23"
+  },
+  {
+    "Rule": "Create Advantage for Powering Meta-Tech",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "24",
+    "Link": "MT24"
+  },
+  {
+    "Rule": "New Energy Reserve Options for Meta-Tech",
+    "Category": [
+      "Traits",
+      "Enhancements",
+      "Limitations",
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "24",
+    "Link": "MT24"
+  },
+  {
+    "Rule": "New Enhanced Time Sense Options",
+    "Category": [
+      "Traits",
+      "Enhancements"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "24",
+    "Link": "MT24"
+  },
+  {
+    "Rule": "Inspired Gadgeteer",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "25",
+    "Link": "MT25"
+  },
+  {
+    "Rule": "Gizmos for Meta-Tech",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "25",
+    "Link": "MT25"
+  },
+  {
+    "Rule": "New Healing Enhancements",
+    "Category": [
+      "Traits",
+      "Enhancements",
+      "Medical"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "25",
+    "Link": "MT25"
+  },
+  {
+    "Rule": "Baneful Healing Limitation",
+    "Category": [
+      "Traits",
+      "Limitations",
+      "Medical"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "26",
+    "Link": "MT26"
+  },
+  {
+    "Rule": "Meta-Tech Innate Attack Damage Limits",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "26",
+    "Link": "MT26"
+  },
+  {
+    "Rule": "New Obscure Options",
+    "Category": [
+      "Traits",
+      "Enhancements",
+      "Limitations"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "26",
+    "Link": "MT26"
+  },
+  {
+    "Rule": "New Payload Options",
+    "Category": [
+      "Traits",
+      "Enhancements",
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "26",
+    "Link": "MT26"
+  },
+  {
+    "Rule": "Racial Skill Bonuses for Meta-Tech Devices",
+    "Category": [
+      "Traits",
+      "Skills"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "27",
+    "Link": "MT27"
+  },
+  {
+    "Rule": "Resistant Bonus Table",
+    "Category": [
+      "Reference",
+      "Traits"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "27",
+    "Link": "MT27"
+  },
+  {
+    "Rule": "Resistant New Effects and Meta-Game Resistances",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "27",
+    "Link": "MT27"
+  },
+  {
+    "Rule": "New Striking ST Options",
+    "Category": [
+      "Traits",
+      "Enhancements",
+      "Limitations",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "27",
+    "Link": "MT27"
+  },
+  {
+    "Rule": "Luck Bonus Super Luck Variant",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "28",
+    "Link": "MT28"
+  },
+  {
+    "Rule": "New Warp Penalties Optional Rule",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "28",
+    "Link": "MT28"
+  },
+  {
+    "Rule": "New Warp Options",
+    "Category": [
+      "Traits",
+      "Enhancements",
+      "Limitations"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "28",
+    "Link": "MT28"
+  },
+  {
+    "Rule": "Device Amplification Perk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "29",
+    "Link": "MT29"
+  },
+  {
+    "Rule": "Bodkin Points Ammunition Modifier",
+    "Category": [
+      "Enhancements",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "29",
+    "Link": "MT29"
+  },
+  {
+    "Rule": "Area Effect Vertical and Large-Area Injury Clarification",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "29",
+    "Link": "MT29"
+  },
+  {
+    "Rule": "Armor Divisor 100 Enhancement",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "29",
+    "Link": "MT29"
+  },
+  {
+    "Rule": "Based on Different Attribute Modifier",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "29",
+    "Link": "MT29"
+  },
+  {
+    "Rule": "Cancellation Enhancement",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "29",
+    "Link": "MT29"
+  },
+  {
+    "Rule": "Cosmic Erodes DR Enhancement",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "29",
+    "Link": "MT29"
+  },
+  {
+    "Rule": "Cosmic Irresistible Assault Enhancement",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "29",
+    "Link": "MT29"
+  },
+  {
+    "Rule": "Costs Fatigue Conversion Guidelines",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "30",
+    "Link": "MT30"
+  },
+  {
+    "Rule": "Counts as Type Damage Modifier",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "30",
+    "Link": "MT30"
+  },
+  {
+    "Rule": "Cumulative Damage Modifiers Enhancement",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "30",
+    "Link": "MT30"
+  },
+  {
+    "Rule": "Extra Bulk Limitation",
+    "Category": [
+      "Limitations",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "30",
+    "Link": "MT30"
+  },
+  {
+    "Rule": "Extra Minimum ST Limitation",
+    "Category": [
+      "Limitations",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "30",
+    "Link": "MT30"
+  },
+  {
+    "Rule": "Extra Recoil and Reduced Recoil",
+    "Category": [
+      "Enhancements",
+      "Limitations",
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "30",
+    "Link": "MT30"
+  },
+  {
+    "Rule": "Follow-Up Universal Enhancement",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "30",
+    "Link": "MT30"
+  },
+  {
+    "Rule": "Hard to Use and Reliable for Ranged Attacks",
+    "Category": [
+      "Enhancements",
+      "Limitations",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "30",
+    "Link": "MT30"
+  },
+  {
+    "Rule": "Hotshotable Enhancement",
+    "Category": [
+      "Enhancements",
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "31",
+    "Link": "MT31"
+  },
+  {
+    "Rule": "Conf-Use-d Choosing a Usage-Limit Modifier",
+    "Category": [
+      "Traits",
+      "Gear"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "31",
+    "Link": "MT31"
+  },
+  {
+    "Rule": "Throwing Range Enhancement",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "32",
+    "Link": "MT32"
+  },
+  {
+    "Rule": "Independent Enhancement for Autonomous Attacks",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "32",
+    "Link": "MT32"
+  },
+  {
+    "Rule": "Melee Attack Reach and Hand Occupation",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "32",
+    "Link": "MT32"
+  },
+  {
+    "Rule": "New Limited Use Options",
+    "Category": [
+      "Limitations",
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "32",
+    "Link": "MT32"
+  },
+  {
+    "Rule": "Muscle-Powered Range Modifier",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "33",
+    "Link": "MT33"
+  },
+  {
+    "Rule": "New Melee Attack Options",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "33",
+    "Link": "MT33"
+  },
+  {
+    "Rule": "Real Time and Frequency-Based Limited Use",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "33",
+    "Link": "MT33"
+  },
+  {
+    "Rule": "Reduced Duration Table for Meta-Tech",
+    "Category": [
+      "Reference",
+      "Limitations"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "34",
+    "Link": "MT34"
+  },
+  {
+    "Rule": "Regulatable Limitation Enhancement",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "34",
+    "Link": "MT34"
+  },
+  {
+    "Rule": "Selective Damage Type Enhancement",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "34",
+    "Link": "MT34"
+  },
+  {
+    "Rule": "Selective Effect Smart Enhancement",
+    "Category": [
+      "Enhancements"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "34",
+    "Link": "MT34"
+  },
+  {
+    "Rule": "ST-Based Enhancement",
+    "Category": [
+      "Enhancements",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "34",
+    "Link": "MT34"
+  },
+  {
+    "Rule": "Modifying Existing Damage",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "34",
+    "Link": "MT34"
+  },
+  {
+    "Rule": "Weaponized for Meta-Tech Devices",
+    "Category": [
+      "Limitations",
+      "Combat"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "35",
+    "Link": "MT35"
+  },
+  {
+    "Rule": "Electronics Operation Meta-Tech Specialty",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "35",
+    "Link": "MT35"
+  },
+  {
+    "Rule": "Electronics Repair Meta-Tech Specialty",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "35",
+    "Link": "MT35"
+  },
+  {
+    "Rule": "Engineer Meta-Tech Specialty",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "35",
+    "Link": "MT35"
+  },
+  {
+    "Rule": "Machine Operation TL",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "35",
+    "Link": "MT35"
+  },
+  {
+    "Rule": "Weird Science Analyzing Meta-Tech Devices",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Meta-Tech",
+    "Page": "35",
+    "Link": "MT35"
+  },
+  {
     "Rule": "Monster Hunters Campaign Types",
     "Category": [
       "Setting"
@@ -39339,6 +42691,16 @@
     "Book": "Powers",
     "Page": "29",
     "Link": "P29"
+  },
+  {
+    "Rule": "Cannot Hover, Flight Power Limitation (-15%)",
+    "Category": [
+      "Traits",
+      "Limitations"
+    ],
+    "Book": "Powers",
+    "Page": "50",
+    "Link": "P50"
   },
   {
     "Rule": "Insubstantiality",
@@ -54162,6 +57524,15 @@
     "Link": "TT4:51"
   },
   {
+    "Rule": "Ley Lines",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "12",
+    "Link": "T12"
+  },
+  {
     "Rule": "Astrological Magery",
     "Category": [
       "Environment",
@@ -54519,7 +57890,133 @@
     "Link": "T50"
   },
   {
-    "Rule": "Sacrificial Killing for Mana",
+    "Rule": "Increased Fatigue Recovery (Other than Recover Energy)",
+    "Category": [
+      "Magic",
+      "Enhancements",
+      "Limitations"
+    ],
+    "Book": "Thaumatology",
+    "Page": "50",
+    "Link": "T50"
+  },
+  {
+    "Rule": "Familiars Supplying Fatigue",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "50",
+    "Link": "T50"
+  },
+  {
+    "Rule": "Energy Reserve (ER)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "50",
+    "Link": "T50"
+  },
+  {
+    "Rule": "Mass Magic (Crowd Sourcing FP)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "51",
+    "Link": "T51"
+  },
+  {
+    "Rule": "Powerstones",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology",
+    "Page": "51",
+    "Link": "T51"
+  },
+  {
+    "Rule": "Power Staff",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Thaumatology",
+    "Page": "52",
+    "Link": "T52"
+  },
+  {
+    "Rule": "Paut (Liquid Manastone)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology",
+    "Page": "52",
+    "Link": "T52"
+  },
+  {
+    "Rule": "Raise Cone of Power Spell",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "52",
+    "Link": "T52"
+  },
+  {
+    "Rule": "Ley Spells",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "53",
+    "Link": "T53"
+  },
+  {
+    "Rule": "Sacrifices and a Sacrifice Spell",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Thaumatology",
+    "Page": "54",
+    "Link": "T54"
+  },
+  {
+    "Rule": "Sacrifice Value",
+    "Category": [
+      "Magic",
+      "Character Points"
+    ],
+    "Book": "Thaumatology",
+    "Page": "55",
+    "Link": "T55"
+  },
+  {
+    "Rule": "Inanimate Sacrifices",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Thaumatology",
+    "Page": "55",
+    "Link": "T55"
+  },
+  {
+    "Rule": "Sacrificing the Living",
+    "Category": [
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Thaumatology",
+    "Page": "56",
+    "Link": "T56"
+  },
+  {
+    "Rule": "Non-Letheal Sacrifices",
     "Category": [
       "Magic",
       "Setting"
@@ -54529,14 +58026,14 @@
     "Link": "T57"
   },
   {
-    "Rule": "Non-Letheal Sacrifices for Mana",
+    "Rule": "Flavored Sacrificial Energy",
     "Category": [
       "Magic",
       "Setting"
     ],
     "Book": "Thaumatology",
-    "Page": "57",
-    "Link": "T57"
+    "Page": "58",
+    "Link": "T58"
   },
   {
     "Rule": "Continuous Mana",
@@ -58998,6 +62495,1333 @@
     "Book": "Ultra-Tech",
     "Page": "234",
     "Link": "UT234"
+  },
+  {
+    "Rule": "Ymir",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "5",
+    "Link": "UA5"
+  },
+  {
+    "Rule": "Physics of Earth's Interior",
+    "Category": [
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "8",
+    "Link": "UA8"
+  },
+  {
+    "Rule": "Planetary Destruction",
+    "Category": [
+      "Combat",
+      "Powers"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "9",
+    "Link": "UA9"
+  },
+  {
+    "Rule": "Vision Underground",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "10",
+    "Link": "UA10"
+  },
+  {
+    "Rule": "Infravision and Thermal Imaging Underground",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "10",
+    "Link": "UA10"
+  },
+  {
+    "Rule": "Moving Without Light",
+    "Category": [
+      "Physical Act",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "10",
+    "Link": "UA10"
+  },
+  {
+    "Rule": "Hearing Underground",
+    "Category": [
+      "Environment",
+      "Combat"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "10",
+    "Link": "UA10"
+  },
+  {
+    "Rule": "Underground Navigation",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "10",
+    "Link": "UA10"
+  },
+  {
+    "Rule": "Moving Quietly Underground",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "11",
+    "Link": "UA11"
+  },
+  {
+    "Rule": "Poor Cave Terrain",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "11",
+    "Link": "UA11"
+  },
+  {
+    "Rule": "Climbing Underground",
+    "Category": [
+      "Physical Act",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "11",
+    "Link": "UA11"
+  },
+  {
+    "Rule": "Chimneying",
+    "Category": [
+      "Reference",
+      "Physical Act"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "11",
+    "Link": "UA11"
+  },
+  {
+    "Rule": "Gaps and Chasms",
+    "Category": [
+      "Physical Act",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "11",
+    "Link": "UA11"
+  },
+  {
+    "Rule": "Crossbows and Grapnels",
+    "Category": [
+      "Combat",
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "11",
+    "Link": "UA11"
+  },
+  {
+    "Rule": "Narrow Passages",
+    "Category": [
+      "Physical Act",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "12",
+    "Link": "UA12"
+  },
+  {
+    "Rule": "Fighting in Confined Spaces",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "12",
+    "Link": "UA12"
+  },
+  {
+    "Rule": "Underwater Passages",
+    "Category": [
+      "Physical Act",
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "12",
+    "Link": "UA12"
+  },
+  {
+    "Rule": "Hot and Cold Water",
+    "Category": [
+      "Hazard",
+      "Environment"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "12",
+    "Link": "UA12"
+  },
+  {
+    "Rule": "Flooding",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "12",
+    "Link": "UA12"
+  },
+  {
+    "Rule": "Underground Temperature",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "12",
+    "Link": "UA12"
+  },
+  {
+    "Rule": "Underground Air Pressure",
+    "Category": [
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "13",
+    "Link": "UA13"
+  },
+  {
+    "Rule": "Black-damp",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "13",
+    "Link": "UA13"
+  },
+  {
+    "Rule": "Coal-damp",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "13",
+    "Link": "UA13"
+  },
+  {
+    "Rule": "Stink-damp",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "13",
+    "Link": "UA13"
+  },
+  {
+    "Rule": "White-damp",
+    "Category": [
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "13",
+    "Link": "UA13"
+  },
+  {
+    "Rule": "Underground Gas Explosions",
+    "Category": [
+      "Hazard",
+      "Combat"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "13",
+    "Link": "UA13"
+  },
+  {
+    "Rule": "Tunneling Rates and Conversions",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "13",
+    "Link": "UA13"
+  },
+  {
+    "Rule": "Underground Construction Costs",
+    "Category": [
+      "Skills",
+      "Currency"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "13",
+    "Link": "UA13"
+  },
+  {
+    "Rule": "Tunnel Structural Integrity",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "13",
+    "Link": "UA13"
+  },
+  {
+    "Rule": "Cave-In Effects",
+    "Category": [
+      "Hazard",
+      "Combat"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "14",
+    "Link": "UA14"
+  },
+  {
+    "Rule": "Rock Bursts",
+    "Category": [
+      "Hazard",
+      "Combat"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "14",
+    "Link": "UA14"
+  },
+  {
+    "Rule": "Fright Checks (Underground Hazards)",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "14",
+    "Link": "UA14"
+  },
+  {
+    "Rule": "Using Magic Underground",
+    "Category": [
+      "Magic",
+      "Environment"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "14",
+    "Link": "UA14"
+  },
+  {
+    "Rule": "Caver (Underground)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "15",
+    "Link": "UA15"
+  },
+  {
+    "Rule": "Chthonomancer (Underground)",
+    "Category": [
+      "Template",
+      "Magic"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "15",
+    "Link": "UA15"
+  },
+  {
+    "Rule": "Geologist (Underground)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "16",
+    "Link": "UA16"
+  },
+  {
+    "Rule": "Lurker (Underground)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "16",
+    "Link": "UA16"
+  },
+  {
+    "Rule": "Miner (Underground)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "17",
+    "Link": "UA17"
+  },
+  {
+    "Rule": "Subterranean Supers",
+    "Category": [
+      "Template",
+      "Powers"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "17",
+    "Link": "UA17"
+  },
+  {
+    "Rule": "Absolute Direction and 3D Spatial Sense Underground",
+    "Category": [
+      "Traits",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "18",
+    "Link": "UA18"
+  },
+  {
+    "Rule": "Dark Vision (Underground)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "18",
+    "Link": "UA18"
+  },
+  {
+    "Rule": "Detect (Underground Substances)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "18",
+    "Link": "UA18"
+  },
+  {
+    "Rule": "Filter Lungs (Underground Dust Protection)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "18",
+    "Link": "UA18"
+  },
+  {
+    "Rule": "Flexibility and Double-Jointed (Underground)",
+    "Category": [
+      "Traits",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "18",
+    "Link": "UA18"
+  },
+  {
+    "Rule": "Night Vision (Native Light Level Variant)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "18",
+    "Link": "UA18"
+  },
+  {
+    "Rule": "Pressure Support (Underground Depths)",
+    "Category": [
+      "Traits",
+      "Environment"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "18",
+    "Link": "UA18"
+  },
+  {
+    "Rule": "Resistant to Respiratory Poison (Damps)",
+    "Category": [
+      "Traits",
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "18",
+    "Link": "UA18"
+  },
+  {
+    "Rule": "Ground-Penetrating Radar (Scanning Sense Build)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "18",
+    "Link": "UA18"
+  },
+  {
+    "Rule": "Seismic Sonar (Underground Scanning)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "18",
+    "Link": "UA18"
+  },
+  {
+    "Rule": "Magma Sonar (Ultrasound)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "18",
+    "Link": "UA18"
+  },
+  {
+    "Rule": "Sensitive Touch (Underground Creatures)",
+    "Category": [
+      "Traits",
+      "Creatures"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Slippery (Narrow Passages)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Subsonic Hearing (Seismic Vibration Sense)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Natural Scientist (Talent)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Strangler (Talent)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Survivor (Talent)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Temperature Tolerance (Water Comfort Zone)",
+    "Category": [
+      "Traits",
+      "Environment"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Tunneling (Advantage)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Burrower (Perk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Climbing Line (Perk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Horizontal Jackhammering (Perk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Illumination (Perk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Pressure-Tolerant Lungs (Perk)",
+    "Category": [
+      "Traits",
+      "Environment"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Standard Operating Procedure (Perk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Piton Testing (Standard Operating Procedure)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Safe Diver (Standard Operating Procedure)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Blindness (Cave Creatures)",
+    "Category": [
+      "Traits",
+      "Creatures"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "19",
+    "Link": "UA19"
+  },
+  {
+    "Rule": "Disciplines of Faith (Underground Asceticism)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Invertebrate (Narrow Passages Bonus)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Phobia (Agoraphobia in Underground Campaigns)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Code of Honor (Caver's)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Distinctive Features (Albino Cave Dwellers)",
+    "Category": [
+      "Traits",
+      "Creatures"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Likes (Underground)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Blind Fighting (Underground)",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Driving (Construction Equipment Specialty)",
+    "Category": [
+      "Skills",
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Electronics Operation and Repair (Scientific/Sensors Specialties)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Engineer (Mining)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Forced Entry (Mining Applications)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Expert Skill (Natural Philosophy for Geology)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "20",
+    "Link": "UA20"
+  },
+  {
+    "Rule": "Geology (Speleology)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Hidden Lore (Chthonian Lore)",
+    "Category": [
+      "Skills",
+      "Spirit"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Hobby Skill (Rock Collecting)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Masonry (Tunnel Construction)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Mechanic (Pumping Equipment)",
+    "Category": [
+      "Skills",
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Navigation (Underground)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Scuba (Cave Diving Prep Time)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Survival (Underground)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Cane Travel (Technique)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Masonry Techniques",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Bracing (Masonry Technique)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Hoisting (Masonry Technique)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Scaffolding (Masonry Technique)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "21",
+    "Link": "UA21"
+  },
+  {
+    "Rule": "Penetration Diving (Technique)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "22",
+    "Link": "UA22"
+  },
+  {
+    "Rule": "Total Exhalation (Technique)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "22",
+    "Link": "UA22"
+  },
+  {
+    "Rule": "Test Air",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "22",
+    "Link": "UA22"
+  },
+  {
+    "Rule": "Monitor Air",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "22",
+    "Link": "UA22"
+  },
+  {
+    "Rule": "Breath Adaptation",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "22",
+    "Link": "UA22"
+  },
+  {
+    "Rule": "Seek Landform",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "22",
+    "Link": "UA22"
+  },
+  {
+    "Rule": "Trace Labyrinth",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "22",
+    "Link": "UA22"
+  },
+  {
+    "Rule": "Break Rock",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "23",
+    "Link": "UA23"
+  },
+  {
+    "Rule": "Rhabdomancy",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "23",
+    "Link": "UA23"
+  },
+  {
+    "Rule": "Underground Climbing Gear",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "23",
+    "Link": "UA23"
+  },
+  {
+    "Rule": "Rope Fault-Checking",
+    "Category": [
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "23",
+    "Link": "UA23"
+  },
+  {
+    "Rule": "Explosives (Rock Breaking)",
+    "Category": [
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "23",
+    "Link": "UA23"
+  },
+  {
+    "Rule": "Underground Lighting Equipment",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "23",
+    "Link": "UA23"
+  },
+  {
+    "Rule": "Local Positioning System (LPS)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "24",
+    "Link": "UA24"
+  },
+  {
+    "Rule": "Surveyor's Kit (Underground Navigation Bonus)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "24",
+    "Link": "UA24"
+  },
+  {
+    "Rule": "Protective Clothing (Underground)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "24",
+    "Link": "UA24"
+  },
+  {
+    "Rule": "Seismic Instruments",
+    "Category": [
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "24",
+    "Link": "UA24"
+  },
+  {
+    "Rule": "Earthquake Detector (Didong Yi)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "24",
+    "Link": "UA24"
+  },
+  {
+    "Rule": "Geophone",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "24",
+    "Link": "UA24"
+  },
+  {
+    "Rule": "Seismograph",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "24",
+    "Link": "UA24"
+  },
+  {
+    "Rule": "Drills and Samples",
+    "Category": [
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "24",
+    "Link": "UA24"
+  },
+  {
+    "Rule": "Seismic Source",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "25",
+    "Link": "UA25"
+  },
+  {
+    "Rule": "Exterior Fields",
+    "Category": [
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "25",
+    "Link": "UA25"
+  },
+  {
+    "Rule": "Deep Imaging",
+    "Category": [
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "25",
+    "Link": "UA25"
+  },
+  {
+    "Rule": "Dowsing Rods",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "25",
+    "Link": "UA25"
+  },
+  {
+    "Rule": "Remote Substance Detector",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "25",
+    "Link": "UA25"
+  },
+  {
+    "Rule": "Unusual Training (Perk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "25",
+    "Link": "UA25"
+  },
+  {
+    "Rule": "Underground Tools",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "25",
+    "Link": "UA25"
+  },
+  {
+    "Rule": "Nuclear Subterrene",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "26",
+    "Link": "UA26"
+  },
+  {
+    "Rule": "Tunnel-Boring Machine (TBM)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "26",
+    "Link": "UA26"
+  },
+  {
+    "Rule": "Segmentary Burrowing Vehicle",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "26",
+    "Link": "UA26"
+  },
+  {
+    "Rule": "Underground Vehicle Statistics Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "26",
+    "Link": "UA26"
+  },
+  {
+    "Rule": "Speleid",
+    "Category": [
+      "Template",
+      "Spirit"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "27",
+    "Link": "UA27"
+  },
+  {
+    "Rule": "Griffin (Living Fossil)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "28",
+    "Link": "UA28"
+  },
+  {
+    "Rule": "Zwerg",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "28",
+    "Link": "UA28"
+  },
+  {
+    "Rule": "Cave Creatures (Trogloxenes/Troglophiles/Troglobites)",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "28",
+    "Link": "UA28"
+  },
+  {
+    "Rule": "Scuttler",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "29",
+    "Link": "UA29"
+  },
+  {
+    "Rule": "Scuttler Swarms",
+    "Category": [
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "29",
+    "Link": "UA29"
+  },
+  {
+    "Rule": "Nightfolk",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "29",
+    "Link": "UA29"
+  },
+  {
+    "Rule": "Crystalloid",
+    "Category": [
+      "Template",
+      "Creatures"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "30",
+    "Link": "UA30"
+  },
+  {
+    "Rule": "Crystalloid Surface Suit",
+    "Category": [
+      "Gear",
+      "Creatures"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "30",
+    "Link": "UA30"
+  },
+  {
+    "Rule": "Magnetic-Ripple Comm",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "30",
+    "Link": "UA30"
+  },
+  {
+    "Rule": "Temperature Comfort Zone Variant (Extreme Environments)",
+    "Category": [
+      "Creatures",
+      "Environment"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "30",
+    "Link": "UA30"
+  },
+  {
+    "Rule": "Types of Caves",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "31",
+    "Link": "UA31"
+  },
+  {
+    "Rule": "Aeolian Caves",
+    "Category": [
+      "Environment",
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "31",
+    "Link": "UA31"
+  },
+  {
+    "Rule": "Glacier Caves",
+    "Category": [
+      "Environment",
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "31",
+    "Link": "UA31"
+  },
+  {
+    "Rule": "Lava Tubes",
+    "Category": [
+      "Environment",
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "31",
+    "Link": "UA31"
+  },
+  {
+    "Rule": "Limestone Caves",
+    "Category": [
+      "Environment",
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "31",
+    "Link": "UA31"
+  },
+  {
+    "Rule": "Sea Caves",
+    "Category": [
+      "Environment",
+      "Hazard"
+    ],
+    "Book": "Underground Adventures",
+    "Page": "31",
+    "Link": "UA31"
   },
   {
     "Rule": "Survival Traits",
