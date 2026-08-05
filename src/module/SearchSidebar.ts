@@ -1,4 +1,5 @@
 import { DeepPartial } from 'fvtt-types/utils';
+import Fuse from 'fuse.js';
 
 interface RulesEntry {
     Rule: string;
@@ -29,6 +30,7 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
     #Books: string[] = [];
     #selectedBooks: string[] = [];
     #message: string = 'Too many results found. Please refine your search.';
+    #fuse: Fuse<RulesEntry> | null = null;
 
     async loadRules() {
         try {
@@ -52,6 +54,14 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
                         return { cat: cat };
                     });
                 this.#Books = Array.from(new Set(this.#rules.map((r) => r.Book))).sort();
+                this.#fuse = new Fuse(this.#rules, {
+                    keys: ['Rule', { name: 'Category', weight: 0.5 }],
+                    useTokenSearch: true,
+                    tokenMatch: 'all',
+                    threshold: 0.2,
+                    ignoreLocation: true,
+                    ignoreFieldNorm: true,
+                });
             }
         } catch (err: any) {
             ui?.notifications?.error('GURPS Rules Lookup: Could not load Rules Database' + err.message);
@@ -158,15 +168,17 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
     }
 
     private search() {
-        if (!this.#rules) return;
-        this.#results = this.#rules.filter((r: RulesEntry) => {
-            return (
-                r.Rule.toLowerCase().includes(this.#searchTerm.toLowerCase()) &&
-                (this.#selectedCategories.length === 0 ||
-                    r.Category.some((cat) => this.#selectedCategories.includes(cat))) &&
-                (this.#selectedBooks.length === 0 || this.#selectedBooks.includes(r.Book))
-            );
-        });
+        if (!this.#fuse) return;
+        const fuseResults = this.#fuse.search(this.#searchTerm);
+        this.#results = fuseResults
+            .map((result) => result.item)
+            .filter((r: RulesEntry) => {
+                return (
+                    (this.#selectedCategories.length === 0 ||
+                        r.Category.some((cat) => this.#selectedCategories.includes(cat))) &&
+                    (this.#selectedBooks.length === 0 || this.#selectedBooks.includes(r.Book))
+                );
+            });
         if (this.#results.length === 0) {
             this.#message = 'No results found.';
         }

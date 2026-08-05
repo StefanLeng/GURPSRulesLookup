@@ -15,57 +15,60 @@ const compat = new FlatCompat({
     allConfig: js.configs.all
 });
 
-export default [{
-    ignores: ["**/dist", "**/types"],
-}, ...compat.extends(
-    "plugin:@typescript-eslint/recommended",
-    "plugin:jest/recommended",
-    "plugin:prettier/recommended",
-).map(config => ({
-    ...config,
-    files: ["**/*.ts", "**/*.tsx, **/*.js, **/*.cjs, **/*.mjs"],
-})), {
-    files: ["**/*.ts", "**/*.tsx, **/*.js, **/*.cjs, **/*.mjs"],
+export default [
+  {
+    ignores: ['**/dist', '**/types'],
+  },
+  ...compat
+    .extends('plugin:@typescript-eslint/recommended', 'plugin:jest/recommended', 'plugin:prettier/recommended')
+    .map((config) => ({
+      ...config,
+      files: ['**/*.ts', '**/*.tsx, **/*.js, **/*.cjs, **/*.mjs'],
+    })),
+  {
+    files: ['**/*.ts', '**/*.tsx, **/*.js, **/*.cjs, **/*.mjs'],
 
     plugins: {
-        "@typescript-eslint": typescriptEslint,
-        jest,
+      '@typescript-eslint': typescriptEslint,
+      jest,
     },
 
     languageOptions: {
-        globals: {
-            ...globals.browser,
-        },
+      globals: {
+        ...globals.browser,
+      },
 
-        parser: tsParser,
-        ecmaVersion: 2020,
-        sourceType: "module",
+      parser: tsParser,
+      ecmaVersion: 2020,
+      sourceType: 'module',
 
-        parserOptions: {
-            extraFileExtensions: [".cjs", ".mjs"],
-            project: "./tsconfig.eslint.json",
-        },
+      parserOptions: {
+        extraFileExtensions: ['.cjs', '.mjs'],
+        project: './tsconfig.eslint.json',
+      },
     },
 
     rules: {
-        'prettier/prettier': [
-            'error',
-            {
-              endOfLine: 'auto',
-              tabWidth: 4,
-            },
-          ],
-          "@typescript-eslint/no-var-requires": "off",
-          "@typescript-eslint/no-explicit-any": "off",
-          "@typescript-eslint/no-unused-vars": "off",
-          "@typescript-eslint/no-unsafe-declaration-merging": "off",
+      'prettier/prettier': [
+        'error',
+        {
+          endOfLine: 'auto',
+          tabWidth: 4,
+        },
+      ],
+      '@typescript-eslint/no-var-requires': 'off',
+      '@typescript-eslint/no-explicit-any': 'off',
+      '@typescript-eslint/no-unused-vars': 'off',
+      '@typescript-eslint/no-unsafe-declaration-merging': 'off',
     },
-}, {
-    files: ["./*.cjs"],
+  },
+  {
+    files: ['./*.cjs'],
 
     rules: {
-        "@typescript-eslint/no-var-requires": "off",
-        "@typescript-eslint/no-explizite-any": "off",
-        "@typescript-eslint/no-unused-vars": "off",
+      '@typescript-eslint/no-var-requires': 'off',
+      '@typescript-eslint/no-explizite-any': 'off',
+      '@typescript-eslint/no-unused-vars': 'off',
     },
-}];
+  },
+];
