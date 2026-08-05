@@ -3191,7 +3191,16 @@
     "Link": "B32"
   },
   {
-    "Rule": "Schrodingers and Secret Advantages",
+    "Rule": "Heir Advantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "33",
+    "Link": "B33"
+  },
+  {
+    "Rule": "Schrödinger’s Advantage and Secret Advantages",
     "Category": [
       "Attributes"
     ],
@@ -3227,6 +3236,42 @@
     "Link": "B35"
   },
   {
+    "Rule": "Acute Senses",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "35",
+    "Link": "B35"
+  },
+  {
+    "Rule": "Allies",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "36",
+    "Link": "B36"
+  },
+  {
+    "Rule": "Frequency of Appearance",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "36",
+    "Link": "B36"
+  },
+  {
+    "Rule": "Altered Time Rate",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "38",
+    "Link": "B38"
+  },
+  {
     "Rule": "Dual-Wielding Ambidexterity",
     "Category": [
       "Combat",
@@ -3237,7 +3282,88 @@
     "Link": "B39"
   },
   {
+    "Rule": "Arm ST",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "40",
+    "Link": "B40"
+  },
+  {
+    "Rule": "Binding",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "40",
+    "Link": "B40"
+  },
+  {
+    "Rule": "Blessed",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "40",
+    "Link": "B40"
+  },
+  {
+    "Rule": "Channeling",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "41",
+    "Link": "B41"
+  },
+  {
+    "Rule": "Charisma",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "41",
+    "Link": "B41"
+  },
+  {
+    "Rule": "Claim to Hospitality",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "41",
+    "Link": "B41"
+  },
+  {
+    "Rule": "Claws (Blunt, Sharp, Hooves)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "42",
+    "Link": "B42"
+  },
+  {
+    "Rule": "Clerical Investment",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "43",
+    "Link": "B43"
+  },
+  {
     "Rule": "Combat Reflexes",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "43",
+    "Link": "B43"
+  },
+  {
+    "Rule": "Common Sense",
     "Category": [
       "Traits"
     ],
@@ -3254,6 +3380,96 @@
     "Book": "Basic",
     "Page": "43",
     "Link": "B43"
+  },
+  {
+    "Rule": "Contacts",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "44",
+    "Link": "B44"
+  },
+  {
+    "Rule": "Cultural Adaptability",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "46",
+    "Link": "B46"
+  },
+  {
+    "Rule": "Cybernetics",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "46",
+    "Link": "B46"
+  },
+  {
+    "Rule": "Danger Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "47",
+    "Link": "B47"
+  },
+  {
+    "Rule": "Daredevil",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "47",
+    "Link": "B47"
+  },
+  {
+    "Rule": "Dark Vision",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "47",
+    "Link": "B47"
+  },
+  {
+    "Rule": "Digital Mind",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "48",
+    "Link": "B48"
+  },
+  {
+    "Rule": "Doesn't Breathe (Gills, Oxygen Absorption, Oxygen Storage)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "49",
+    "Link": "B49"
+  },
+  {
+    "Rule": "Eidetic Memory",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "51",
+    "Link": "B51"
+  },
+  {
+    "Rule": "Empathy",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "51",
+    "Link": "B51"
   },
   {
     "Rule": "Enhanced Move",
@@ -4663,6 +4879,96 @@
     "Link": "B120"
   },
   {
+    "Rule": "Absent-Mindedness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "122",
+    "Link": "B122"
+  },
+  {
+    "Rule": "Addiction",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "122",
+    "Link": "B122"
+  },
+  {
+    "Rule": "Alcoholism",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "122",
+    "Link": "B122"
+  },
+  {
+    "Rule": "Amnesia",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "123",
+    "Link": "B123"
+  },
+  {
+    "Rule": "Bad Temper",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "124",
+    "Link": "B124"
+  },
+  {
+    "Rule": "Berserk",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "124",
+    "Link": "B124"
+  },
+  {
+    "Rule": "Bestial",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "124",
+    "Link": "B124"
+  },
+  {
+    "Rule": "Blindness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "124",
+    "Link": "B124"
+  },
+  {
+    "Rule": "Bloodlust",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "125",
+    "Link": "B125"
+  },
+  {
+    "Rule": "Callous",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "125",
+    "Link": "B125"
+  },
+  {
     "Rule": "Destiny Disadvantage",
     "Category": [
       "Traits"
@@ -5476,13 +5782,239 @@
     "Link": "B304"
   },
   {
-    "Rule": "Parrying an Unarmed Attack",
+    "Rule": "Alternative Abilities",
     "Category": [
-      "Combat"
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "324",
+    "Link": "B324"
+  },
+  {
+    "Rule": "Alternative Benefits for Talents",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "324",
+    "Link": "B324"
+  },
+  {
+    "Rule": "Injury Tolerance (Expanded Options)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "325",
+    "Link": "B325"
+  },
+  {
+    "Rule": "Ten Popular Talents from Power-Ups 3: Talents",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "325",
+    "Link": "B325"
+  },
+  {
+    "Rule": "Energy Reserve",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "326",
+    "Link": "B326"
+  },
+  {
+    "Rule": "Foresight",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "326",
+    "Link": "B326"
+  },
+  {
+    "Rule": "Heroic Archer",
+    "Category": [
+      "Traits"
     ],
     "Book": "Basic",
     "Page": "327",
     "Link": "B327"
+  },
+  {
+    "Rule": "Impulse Points (Buying Success)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "327",
+    "Link": "B327"
+  },
+  {
+    "Rule": "Jack of All Trades",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "327",
+    "Link": "B327"
+  },
+  {
+    "Rule": "Language-Related Advantages",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "327",
+    "Link": "B327"
+  },
+  {
+    "Rule": "New Perks (Alternative Feints, Dabbler, Equipment Bond, etc.)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "328",
+    "Link": "B328"
+  },
+  {
+    "Rule": "No Self-Control Roll (\"N/A\")",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "328",
+    "Link": "B328"
+  },
+  {
+    "Rule": "New Perks (Off-Hand Training, Strongbow, Weapon Bond)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "329",
+    "Link": "B329"
+  },
+  {
+    "Rule": "Limiting Limitations on Disadvantages",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "330",
+    "Link": "B330"
+  },
+  {
+    "Rule": "Changing Advantages Based on Real Time to Game Time",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "331",
+    "Link": "B331"
+  },
+  {
+    "Rule": "Hard to Use Limitation",
+    "Category": [
+      "Limitations"
+    ],
+    "Book": "Basic",
+    "Page": "331",
+    "Link": "B331"
+  },
+  {
+    "Rule": "Power Modifiers",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "331",
+    "Link": "B331"
+  },
+  {
+    "Rule": "Acrobatic Stand",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Basic",
+    "Page": "333",
+    "Link": "B333"
+  },
+  {
+    "Rule": "Armed Grapple",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Basic",
+    "Page": "333",
+    "Link": "B333"
+  },
+  {
+    "Rule": "Head Butt",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Basic",
+    "Page": "334",
+    "Link": "B334"
+  },
+  {
+    "Rule": "Stamp Kick",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Basic",
+    "Page": "334",
+    "Link": "B334"
+  },
+  {
+    "Rule": "Basic Assistance Rolls",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "338",
+    "Link": "B338"
+  },
+  {
+    "Rule": "Tech Level and Skill Availability",
+    "Category": [
+      "Reference",
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "341",
+    "Link": "B341"
+  },
+  {
+    "Rule": "Balanced Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "342",
+    "Link": "B342"
+  },
+  {
+    "Rule": "Cost Factirs for Equipment Modifiers",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "342",
+    "Link": "B342"
+  },
+  {
+    "Rule": "Fine Quality Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "342",
+    "Link": "B342"
   },
   {
     "Rule": "Success Rolls",
@@ -5558,6 +6090,15 @@
   },
   {
     "Rule": "Long Tasks",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "346",
+    "Link": "B346"
+  },
+  {
+    "Rule": "Penalties for Hurrying Tasks with Skills",
     "Category": [
       "Skills"
     ],
@@ -5674,6 +6215,16 @@
     "Link": "B349"
   },
   {
+    "Rule": "Climbing Table",
+    "Category": [
+      "Reference",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "349",
+    "Link": "B349"
+  },
+  {
     "Rule": "Physical Feats",
     "Category": [
       "Skills"
@@ -5758,6 +6309,16 @@
     "Link": "B351"
   },
   {
+    "Rule": "Hiking Calculations (Injury, Fatigue, Weather, Terrain)",
+    "Category": [
+      "Skills",
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "351",
+    "Link": "B351"
+  },
+  {
     "Rule": "Holding Your Breath",
     "Category": [
       "Physical Act"
@@ -5776,9 +6337,28 @@
     "Link": "B352"
   },
   {
-    "Rule": "Jumping During Combat",
+    "Rule": "Jumping During Combat, Combat Jumping",
     "Category": [
       "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "352",
+    "Link": "B352"
+  },
+  {
+    "Rule": "Make a DX Roll When Making a Vertical Jump or Long Distance Jump",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "352",
+    "Link": "B352"
+  },
+  {
+    "Rule": "Modifiers to the Time You Can Hold Your Breath",
+    "Category": [
       "Physical Act"
     ],
     "Book": "Basic",
@@ -6637,6 +7217,15 @@
   },
   {
     "Rule": "Parrying",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "376",
+    "Link": "B376"
+  },
+  {
+    "Rule": "Parrying an Unarmed Attack",
     "Category": [
       "Combat"
     ],
@@ -7642,6 +8231,15 @@
     "Link": "B398"
   },
   {
+    "Rule": "Aerial Movement",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "398",
+    "Link": "B398"
+  },
+  {
     "Rule": "Flying Combat",
     "Category": [
       "Combat"
@@ -7658,6 +8256,15 @@
     "Book": "Basic",
     "Page": "398",
     "Link": "B398"
+  },
+  {
+    "Rule": "Impaling Wounding Modifier reduced to x1 against Arm or Leg",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "399",
+    "Link": "B399"
   },
   {
     "Rule": "Tight Beam Burning Attack",
@@ -8626,6 +9233,15 @@
     "Link": "B421"
   },
   {
+    "Rule": "Dismemberment",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "421",
+    "Link": "B421"
+  },
+  {
     "Rule": "Effects of Crippling Injury",
     "Category": [
       "Injury"
@@ -9532,8 +10148,7 @@
   {
     "Rule": "Drinking and Intoxication",
     "Category": [
-      "Poison",
-      "Activities"
+      "Poison"
     ],
     "Book": "Basic",
     "Page": "439",
@@ -9549,7 +10164,17 @@
     "Link": "B439"
   },
   {
-    "Rule": "Treating Poison",
+    "Rule": "Poisoned Weapons",
+    "Category": [
+      "Poison",
+      "Activities"
+    ],
+    "Book": "Basic",
+    "Page": "439",
+    "Link": "B439"
+  },
+  {
+    "Rule": "Treating Poisons, Anti-toxins",
     "Category": [
       "Poison"
     ],
@@ -9867,6 +10492,15 @@
     "Book": "Basic",
     "Page": "460",
     "Link": "B460"
+  },
+  {
+    "Rule": "Animal Dodge is Basic Speed +3, dropping fractions",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "461",
+    "Link": "B461"
   },
   {
     "Rule": "Animals in Combat",
@@ -11142,6 +11776,312 @@
     "Book": "Basic",
     "Page": "562",
     "Link": "B562"
+  },
+  {
+    "Rule": "Special Hit Location Rules (Skull, Neck, Face, Vitals, etc.)",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "566",
+    "Link": "B566"
+  },
+  {
+    "Rule": "Special Hit Locations (Ear, Nose, Jaw, Spine, Pelvis, Joints, Arteries)",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "566",
+    "Link": "B566"
+  },
+  {
+    "Rule": "Tasks, Feats, and Success Rolls",
+    "Category": [
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "570",
+    "Link": "B570"
+  },
+  {
+    "Rule": "Expanded Influence Rolls",
+    "Category": [
+      "Attributes",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "571",
+    "Link": "B571"
+  },
+  {
+    "Rule": "Extra Effort with Powers",
+    "Category": [
+      "Powers"
+    ],
+    "Book": "Basic",
+    "Page": "571",
+    "Link": "B571"
+  },
+  {
+    "Rule": "Giant Step, Great Lunge, Rapid Recovery, and Heroic Charge",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "571",
+    "Link": "B571"
+  },
+  {
+    "Rule": "Combining ST",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "572",
+    "Link": "B572"
+  },
+  {
+    "Rule": "Marching Speed = (½ × Encumbered Move) Miles per Hour",
+    "Category": [
+      "Environment",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "572",
+    "Link": "B572"
+  },
+  {
+    "Rule": "Optional Rule: Trading Fatigue for Skill or Resistance",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "572",
+    "Link": "B572"
+  },
+  {
+    "Rule": "Stress and Derangement",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "572",
+    "Link": "B572"
+  },
+  {
+    "Rule": "Aquatic Terrain",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "573",
+    "Link": "B573"
+  },
+  {
+    "Rule": "Terrain Types: Foraging, Tracking, and Travel Speeds",
+    "Category": [
+      "Skills",
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "573",
+    "Link": "B573"
+  },
+  {
+    "Rule": "Frostbite",
+    "Category": [
+      "Environment",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "574",
+    "Link": "B574"
+  },
+  {
+    "Rule": "Illumination Levels Table",
+    "Category": [
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "574",
+    "Link": "B574"
+  },
+  {
+    "Rule": "Light Source Range and Illumination",
+    "Category": [
+      "Gear",
+      "Environment"
+    ],
+    "Book": "Basic",
+    "Page": "574",
+    "Link": "B574"
+  },
+  {
+    "Rule": "Vision Rolls in Combat",
+    "Category": [
+      "Attributes",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "574",
+    "Link": "B574"
+  },
+  {
+    "Rule": "All-Out Attack with Slams",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "575",
+    "Link": "B575"
+  },
+  {
+    "Rule": "All-Out Concentrate",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "575",
+    "Link": "B575"
+  },
+  {
+    "Rule": "All-Out Defense (Mental Defense)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "575",
+    "Link": "B575"
+  },
+  {
+    "Rule": "Committed Attack",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "575",
+    "Link": "B575"
+  },
+  {
+    "Rule": "Horizon Table",
+    "Category": [
+      "Reference",
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "575",
+    "Link": "B575"
+  },
+  {
+    "Rule": "Visual Signals",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "575",
+    "Link": "B575"
+  },
+  {
+    "Rule": "Close-Contact Shots, Pressing a Gun on an Opponent",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "576",
+    "Link": "B576"
+  },
+  {
+    "Rule": "Defensive Attack",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "576",
+    "Link": "B576"
+  },
+  {
+    "Rule": "Hitting Partially-Armored Locations",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "576",
+    "Link": "B576"
+  },
+  {
+    "Rule": "Optional Rule: Restricted Dodge vs. Firearms",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "577",
+    "Link": "B577"
+  },
+  {
+    "Rule": "Piercing and Impaling Damage vs. Large Targets",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "577",
+    "Link": "B577"
+  },
+  {
+    "Rule": "Prediction Shot",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "577",
+    "Link": "B577"
+  },
+  {
+    "Rule": "Range Bands, Simplifying Range Modifiers",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "577",
+    "Link": "B577"
+  },
+  {
+    "Rule": "Ranged Feint",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "577",
+    "Link": "B577"
+  },
+  {
+    "Rule": "Ranged Rapid Strike",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "577",
+    "Link": "B577"
+  },
+  {
+    "Rule": "Basic Abstract Difficulty (BAD)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "578",
+    "Link": "B578"
+  },
+  {
+    "Rule": "Batteries and Power Cells",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Basic",
+    "Page": "578",
+    "Link": "B578"
   },
   {
     "Rule": "DNA Testing Procedures",
@@ -13135,6 +14075,307 @@
     "Link": "CS11"
   },
   {
+    "Rule": "Greider (Grave Worm)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 1",
+    "Page": "3",
+    "Link": "CN1:3"
+  },
+  {
+    "Rule": "Guardian Owl (wizard turned owl who can't let go)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 1",
+    "Page": "5",
+    "Link": "CN1:5"
+  },
+  {
+    "Rule": "Harriad (six inch tall demon of light and flame)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 1",
+    "Page": "7",
+    "Link": "CN1:7"
+  },
+  {
+    "Rule": "Lytherions (people with tattoo-fetish)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 1",
+    "Page": "9",
+    "Link": "CN1:9"
+  },
+  {
+    "Rule": "Nerloch (thin, pale, underground zombies, not undead)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 1",
+    "Page": "12",
+    "Link": "CN1:12"
+  },
+  {
+    "Rule": "Pool Beast (blood-covered abomination with a lizard-head)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 1",
+    "Page": "14",
+    "Link": "CN1:14"
+  },
+  {
+    "Rule": "Ptallant Lizard (blue earthquake lizards)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 1",
+    "Page": "15",
+    "Link": "CN1:15"
+  },
+  {
+    "Rule": "Shoulder Giant (giant that hibernates under buildings)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 1",
+    "Page": "17",
+    "Link": "CN1:17"
+  },
+  {
+    "Rule": "Slake Hound (ugly green dogs with human hands and hooves)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 1",
+    "Page": "19",
+    "Link": "CN1:19"
+  },
+  {
+    "Rule": "Tellanode (ten foot tall diseased mushroom)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 1",
+    "Page": "21",
+    "Link": "CN1:21"
+  },
+  {
+    "Rule": "Uroth (giraffe with tentacles)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 1",
+    "Page": "24",
+    "Link": "CN1:24"
+  },
+  {
+    "Rule": "Miser Troll (six inch tall, oily-skinned troll)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 2",
+    "Page": "3",
+    "Link": "CN2:3"
+  },
+  {
+    "Rule": "Nazaraad (bird-man with human hands and taloned feet)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 2",
+    "Page": "6",
+    "Link": "CN2:6"
+  },
+  {
+    "Rule": "Pendulum Ghoul (legless undead that hangs from ceilings)",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Creatures of the Night 2",
+    "Page": "8",
+    "Link": "CN2:8"
+  },
+  {
+    "Rule": "Sea Giant (gray-green man with tentacles and glowing eyes)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 2",
+    "Page": "10",
+    "Link": "CN2:10"
+  },
+  {
+    "Rule": "Strikeworm (eagle's head on a dog-sized worm body)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 2",
+    "Page": "13",
+    "Link": "CN2:13"
+  },
+  {
+    "Rule": "Urimander (snake with bony arms and catfish whiskers)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 2",
+    "Page": "16",
+    "Link": "CN2:16"
+  },
+  {
+    "Rule": "Chronochaotic Spider (two-foot tall spider with a clock-face)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 3",
+    "Page": "3",
+    "Link": "CN3:3"
+  },
+  {
+    "Rule": "Cows from Space (um…it's a super-intelligent cow…in space)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 3",
+    "Page": "5",
+    "Link": "CN3:5"
+  },
+  {
+    "Rule": "Wollig (vandal dolphin with a canine face)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 3",
+    "Page": "7",
+    "Link": "CN3:7"
+  },
+  {
+    "Rule": "Woodland Oracle (plant elemental that tends a forest)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 3",
+    "Page": "9",
+    "Link": "CN3:9"
+  },
+  {
+    "Rule": "Acidriad (acid-spitting serpent with human face)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 4",
+    "Page": "3",
+    "Link": "CN4:3"
+  },
+  {
+    "Rule": "Clatternorn (animated rocks in the shape of a human)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 4",
+    "Page": "5",
+    "Link": "CN4:5"
+  },
+  {
+    "Rule": "Flutter Devil (mishapen butterfly/bad with human face)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 4",
+    "Page": "8",
+    "Link": "CN4:8"
+  },
+  {
+    "Rule": "Trantid (ghastly undead head with legs)",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Creatures of the Night 4",
+    "Page": "10",
+    "Link": "CN4:10"
+  },
+  {
+    "Rule": "The Voice of Darkness (green glass orb embedded in a corpse)",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Creatures of the Night 4",
+    "Page": "12",
+    "Link": "CN4:12"
+  },
+  {
+    "Rule": "Waste-Stalker (six-legged, hairless, demon dogs)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 4",
+    "Page": "14",
+    "Link": "CN4:14"
+  },
+  {
+    "Rule": "Crayfen (fishy, aquatic humanoids)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 5",
+    "Page": "3",
+    "Link": "CN5:3"
+  },
+  {
+    "Rule": "Dreadstalk (top-heavy ten foot tall, fanged plant)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 5",
+    "Page": "6",
+    "Link": "CN5:6"
+  },
+  {
+    "Rule": "Gully Dragon (bat-eared predator lizard)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 5",
+    "Page": "8",
+    "Link": "CN5:8"
+  },
+  {
+    "Rule": "Moon Guire (slippery, water-logged Undead)",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Creatures of the Night 5",
+    "Page": "10",
+    "Link": "CN5:10"
+  },
+  {
+    "Rule": "Stealth Golem (enchanted, clockwork, metal golem)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 5",
+    "Page": "12",
+    "Link": "CN5:12"
+  },
+  {
+    "Rule": "Watchtower (sentient, malicious, haunted building)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Creatures of the Night 5",
+    "Page": "15",
+    "Link": "CN5:15"
+  },
+  {
     "Rule": "Crusader Knight",
     "Category": [
       "Template"
@@ -14807,6 +16048,15 @@
     "Link": "DF1:26"
   },
   {
+    "Rule": "Dragonhide Armor",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 1",
+    "Page": "27",
+    "Link": "DF1:27"
+  },
+  {
     "Rule": "Special Armor Attributes",
     "Category": [
       "Armor"
@@ -15893,6 +17143,112 @@
     "Link": "DF16:30"
   },
   {
+    "Rule": "Natural Obstacles",
+    "Category": [
+      "Environment",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "31",
+    "Link": "DF16:31"
+  },
+  {
+    "Rule": "Natural Disasters",
+    "Category": [
+      "Environment",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "32",
+    "Link": "DF16:32"
+  },
+  {
+    "Rule": "Field Engineering",
+    "Category": [
+      "Environment",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "33",
+    "Link": "DF16:33"
+  },
+  {
+    "Rule": "Diseases",
+    "Category": [
+      "Environment",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "34",
+    "Link": "DF16:34"
+  },
+  {
+    "Rule": "Wilderness Traps",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "36",
+    "Link": "DF16:36"
+  },
+  {
+    "Rule": "Elven Clothesline",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "37",
+    "Link": "DF16:37"
+  },
+  {
+    "Rule": "Bad Footing, -2 DX skills, and -1 to Active Defenses",
+    "Category": [
+      "Combat",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "38",
+    "Link": "DF16:38"
+  },
+  {
+    "Rule": "Poor Visibility in Nature",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "39",
+    "Link": "DF16:39"
+  },
+  {
+    "Rule": "Tree Trunks have DR anywhere from 18 to 36",
+    "Category": [
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "40",
+    "Link": "DF16:40"
+  },
+  {
+    "Rule": "Aerial Combat",
+    "Category": [
+      "Combat",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "41",
+    "Link": "DF16:41"
+  },
+  {
+    "Rule": "Mounted Combat",
+    "Category": [
+      "Combat",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy 16",
+    "Page": "41",
+    "Link": "DF16:41"
+  },
+  {
     "Rule": "Defenses by Mounts",
     "Category": [
       "Mounts",
@@ -16010,6 +17366,61 @@
     "Book": "Dungeon Fantasy 17",
     "Page": "10",
     "Link": "DF17:10"
+  },
+  {
+    "Rule": "Craft Guilds",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy 17",
+    "Page": "12",
+    "Link": "DF17:12"
+  },
+  {
+    "Rule": "Merchant House",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy 17",
+    "Page": "18",
+    "Link": "DF17:18"
+  },
+  {
+    "Rule": "Military Company",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy 17",
+    "Page": "19",
+    "Link": "DF17:19"
+  },
+  {
+    "Rule": "Town Watch and Rangers",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy 17",
+    "Page": "24",
+    "Link": "DF17:24"
+  },
+  {
+    "Rule": "Universities",
+    "Category": [
+      "Skills",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy 17",
+    "Page": "27",
+    "Link": "DF17:27"
+  },
+  {
+    "Rule": "Guild Ranks",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy 17",
+    "Page": "28",
+    "Link": "DF17:28"
   },
   {
     "Rule": "Power Item Value",
@@ -17450,6 +18861,205 @@
     "Link": "DF2:18"
   },
   {
+    "Rule": "Door Table with DR and HP",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "18",
+    "Link": "DF2:18"
+  },
+  {
+    "Rule": "Lock Table with DR and HP",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "18",
+    "Link": "DF2:18"
+  },
+  {
+    "Rule": "Metalwork (bars, grilles) Table with DR, HP, Weight, and ST",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "18",
+    "Link": "DF2:18"
+  },
+  {
+    "Rule": "Acid Spider",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "21",
+    "Link": "DF2:21"
+  },
+  {
+    "Rule": "as-Sharak (Cursed, bipedal, elemental sorcerer cat-men)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "21",
+    "Link": "DF2:21"
+  },
+  {
+    "Rule": "Crushroom (Man-sized, ambulatory fungus)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "22",
+    "Link": "DF2:22"
+  },
+  {
+    "Rule": "Dire Wolf",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "22",
+    "Link": "DF2:22"
+  },
+  {
+    "Rule": "Doomchild (Pint-sized Demons)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "22",
+    "Link": "DF2:22"
+  },
+  {
+    "Rule": "Ape, Flesh-Eating",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "23",
+    "Link": "DF2:23"
+  },
+  {
+    "Rule": "Erupting Slime",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "23",
+    "Link": "DF2:23"
+  },
+  {
+    "Rule": "Flaming Skull (Semi-corporeal Undead)",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "23",
+    "Link": "DF2:23"
+  },
+  {
+    "Rule": "Foul Bat (A big bat, has nothing to do with baseball)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "23",
+    "Link": "DF2:23"
+  },
+  {
+    "Rule": "Frost Snake",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "24",
+    "Link": "DF2:24"
+  },
+  {
+    "Rule": "Giant Rat (Rat of Unusual Size)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "24",
+    "Link": "DF2:24"
+  },
+  {
+    "Rule": "Golem-Armor Swordsman",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "24",
+    "Link": "DF2:24"
+  },
+  {
+    "Rule": "Horde Zombie",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "24",
+    "Link": "DF2:24"
+  },
+  {
+    "Rule": "Mindwarper (Humanoid genius Psi starfish)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "25",
+    "Link": "DF2:25"
+  },
+  {
+    "Rule": "Peshkali (Demon serpent-men)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "25",
+    "Link": "DF2:25"
+  },
+  {
+    "Rule": "Siege Beast (SM 2 Ogre-like brutes)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "25",
+    "Link": "DF2:25"
+  },
+  {
+    "Rule": "Stone Golem",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "26",
+    "Link": "DF2:26"
+  },
+  {
+    "Rule": "Toxifier (Greenish-cloud demons)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "26",
+    "Link": "DF2:26"
+  },
+  {
+    "Rule": "Triger (Tiger with three heads)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 2",
+    "Page": "26",
+    "Link": "DF2:26"
+  },
+  {
     "Rule": "Demon-Slayer Advantages",
     "Category": [
       "Traits"
@@ -18376,6 +19986,16 @@
     "Book": "Dungeon Fantasy 5",
     "Page": "27",
     "Link": "DF5:27"
+  },
+  {
+    "Rule": "Sylph Familiar",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "28",
+    "Link": "DF5:28"
   },
   {
     "Rule": "Bracers of Force",
@@ -20298,6 +21918,15 @@
     "Link": "DFM1:13"
   },
   {
+    "Rule": "Flame Lord",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "13",
+    "Link": "DFM1:15"
+  },
+  {
     "Rule": "Giant Ape",
     "Category": [
       "Creatures"
@@ -20332,6 +21961,15 @@
     "Book": "Dungeon Fantasy Monsters 1",
     "Page": "23",
     "Link": "DFM1:23"
+  },
+  {
+    "Rule": "Rock Mites",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 1",
+    "Page": "25",
+    "Link": "DFM1:25"
   },
   {
     "Rule": "Sword Spirit",
@@ -20694,6 +22332,188 @@
     "Book": "Dungeon Fantasy Monsters 4: Dragons",
     "Page": "16",
     "Link": "DFM4:16"
+  },
+  {
+    "Rule": "Centipeduar",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "21",
+    "Link": "DFM5:21"
+  },
+  {
+    "Rule": "Demon Stallion",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "22",
+    "Link": "DFM5:22"
+  },
+  {
+    "Rule": "Expituum Demon",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "22",
+    "Link": "DFM5:22"
+  },
+  {
+    "Rule": "Hellfire Skull",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "22",
+    "Link": "DFM5:22"
+  },
+  {
+    "Rule": "Lilithid (Succubi)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "23",
+    "Link": "DFM5:23"
+  },
+  {
+    "Rule": "Zaffeer (former Warlock)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "23",
+    "Link": "DFM5:23"
+  },
+  {
+    "Rule": "Glow-Fungus",
+    "Category": [
+      "Setting, Environment"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "14",
+    "Link": "DFSCSM14"
+  },
+  {
+    "Rule": "Cave Witches (Giant Grasshoppers/Locusts)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "39",
+    "Link": "DFSCSM39"
+  },
+  {
+    "Rule": "Dead Giants and Fossilized Dead Giants",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "39",
+    "Link": "DFSCSM39"
+  },
+  {
+    "Rule": "Demon Hornets",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "39",
+    "Link": "DFSCSM39"
+  },
+  {
+    "Rule": "Hive Lizards",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "39",
+    "Link": "DFSCSM39"
+  },
+  {
+    "Rule": "Ice Scorpions",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "40",
+    "Link": "DFSCSM40"
+  },
+  {
+    "Rule": "Mountain Wolves",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "40",
+    "Link": "DFSCSM40"
+  },
+  {
+    "Rule": "Red Rot Demon",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "40",
+    "Link": "DFSCSM40"
+  },
+  {
+    "Rule": "Riverspear",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "41",
+    "Link": "DFSCSM41"
+  },
+  {
+    "Rule": "Stone Mold",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "41",
+    "Link": "DFSCSM41"
+  },
+  {
+    "Rule": "Bull Demon, Third Circle",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "42",
+    "Link": "DFSCSM42"
+  },
+  {
+    "Rule": "Walking Trees",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "42",
+    "Link": "DFSCSM42"
+  },
+  {
+    "Rule": "Wise Raptor and Wise Raptor Racial Template",
+    "Category": [
+      "Creatures",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "43",
+    "Link": "DFSCSM43"
+  },
+  {
+    "Rule": "Xuchlazek Spirit Demons and Spirit Demon Spells",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
+    "Page": "43",
+    "Link": "DFSCSM43"
   },
   {
     "Rule": "Coin Denomination Table",
@@ -51882,6 +53702,87 @@
     "Link": "PT39"
   },
   {
+    "Rule": "Chara (Demon)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/101",
+    "Page": "16",
+    "Link": "PY101:16"
+  },
+  {
+    "Rule": "Dragon Men",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/101",
+    "Page": "16",
+    "Link": "PY101:16"
+  },
+  {
+    "Rule": "Ogre Bouncer",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/101",
+    "Page": "17",
+    "Link": "PY101:17"
+  },
+  {
+    "Rule": "Skeleton Guards",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/101",
+    "Page": "17",
+    "Link": "PY101:17"
+  },
+  {
+    "Rule": "Zabrina the Lich",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/101",
+    "Page": "19",
+    "Link": "PY101:19"
+  },
+  {
+    "Rule": "Animate Racial Template (Cartoons)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Pyramid #3/101",
+    "Page": "20",
+    "Link": "PY101:20"
+  },
+  {
+    "Rule": "Compulsive Comedy",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Pyramid #3/101",
+    "Page": "22",
+    "Link": "PY101:22"
+  },
+  {
+    "Rule": "Animate Abilities",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Pyramid #3/101",
+    "Page": "23",
+    "Link": "PY101:23"
+  },
+  {
+    "Rule": "Perfect Comic Timing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Pyramid #3/101",
+    "Page": "24",
+    "Link": "PY101:24"
+  },
+  {
     "Rule": "Ambush Predator Style",
     "Category": [
       "Combat",
@@ -52063,6 +53964,125 @@
     "Book": "Pyramid #3/111",
     "Page": "29",
     "Link": "PY111:29"
+  },
+  {
+    "Rule": "Cockamander",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "16",
+    "Link": "PY113:16"
+  },
+  {
+    "Rule": "Cockamander Eggs",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "17",
+    "Link": "PY113:17"
+  },
+  {
+    "Rule": "Virtuous Maid (Unicorn Zombie)",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "17",
+    "Link": "PY113:17"
+  },
+  {
+    "Rule": "Paragriff and Paragriff Familiar",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "18",
+    "Link": "PY113:18"
+  },
+  {
+    "Rule": "Unicorn Zombie Horn",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "18",
+    "Link": "PY113:18"
+  },
+  {
+    "Rule": "Deep Chimera",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "19",
+    "Link": "PY113:19"
+  },
+  {
+    "Rule": "Imprinting a Paragriff",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "19",
+    "Link": "PY113:19"
+  },
+  {
+    "Rule": "Needleman Demon",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "20",
+    "Link": "PY113:20"
+  },
+  {
+    "Rule": "Helmet Thief",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "21",
+    "Link": "PY113:21"
+  },
+  {
+    "Rule": "Needleman Needles",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "21",
+    "Link": "PY113:21"
+  },
+  {
+    "Rule": "Grutel",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "22",
+    "Link": "PY113:22"
+  },
+  {
+    "Rule": "Helmet Thief's Sinew and Helm",
+    "Category": [
+      "Creatures",
+      "Gear"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "22",
+    "Link": "PY113:22"
+  },
+  {
+    "Rule": "Grute's Hair and Bones",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/113",
+    "Page": "23",
+    "Link": "PY113:23"
   },
   {
     "Rule": "Names Have Power",
@@ -53870,6 +55890,15 @@
     "Book": "Pyramid Dungeon Fantasy Collected",
     "Page": "119",
     "Link": "PDFC119"
+  },
+  {
+    "Rule": "Horde Ninja",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Pyramid Dungeon Fantasy Collected",
+    "Page": "120",
+    "Link": "PDFC120"
   },
   {
     "Rule": "Rank Status and Wealth",
