@@ -5502,7 +5502,7 @@
     "Link": "B270"
   },
   {
-    "Rule": "Two Hand Use indicated by \"†” in Tables",
+    "Rule": "Two Hand Use indicated by \"†\" in Tables",
     "Category": [
       "Reference",
       "Weapons"
@@ -16220,7 +16220,7 @@
     ],
     "Book": "Dungeon Fantasy 11",
     "Page": "15",
-    "Link": "DF11:13"
+    "Link": "DF11:15"
   },
   {
     "Rule": "Artificer Power-Ups",
@@ -21923,7 +21923,7 @@
       "Creatures"
     ],
     "Book": "Dungeon Fantasy Monsters 1",
-    "Page": "13",
+    "Page": "15",
     "Link": "DFM1:15"
   },
   {
@@ -22390,7 +22390,8 @@
   {
     "Rule": "Glow-Fungus",
     "Category": [
-      "Setting, Environment"
+      "Setting",
+      "Environment"
     ],
     "Book": "Dungeon Fantasy Setting: Cold Shard Mountain",
     "Page": "14",
@@ -30565,6 +30566,347 @@
     "Book": "Infinite Worlds",
     "Page": "222",
     "Link": "IW222"
+  },
+  {
+    "Rule": "Advanced Native Characters",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "5",
+    "Link": "LOT5"
+  },
+  {
+    "Rule": "Advantages for TL0 Lands Out of Time Campaigns",
+    "Category": [
+      "Traits",
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "5",
+    "Link": "LOT5"
+  },
+  {
+    "Rule": "Non-Human Characters",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "5",
+    "Link": "LOT5"
+  },
+  {
+    "Rule": "Timelost Characters",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "5",
+    "Link": "LOT5"
+  },
+  {
+    "Rule": "Tribal Cavemen",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "5",
+    "Link": "LOT5"
+  },
+  {
+    "Rule": "Disadvantages for TL0 Lands Out of Time Campaigns",
+    "Category": [
+      "Traits",
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "8",
+    "Link": "LOT8"
+  },
+  {
+    "Rule": "Skills for TL0 Lands out of Time Campaigns",
+    "Category": [
+      "Skills",
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "10",
+    "Link": "LOT10"
+  },
+  {
+    "Rule": "New Techniques for TL0 Lands out of Time Campaigns",
+    "Category": [
+      "Skills",
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "11",
+    "Link": "LOT11"
+  },
+  {
+    "Rule": "Cro-Magnon (Caveman)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "12",
+    "Link": "LOT12"
+  },
+  {
+    "Rule": "Neanderthal",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "13",
+    "Link": "LOT13"
+  },
+  {
+    "Rule": "Protohumans",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "13",
+    "Link": "LOT13"
+  },
+  {
+    "Rule": "Saurians (Sleestak)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "14",
+    "Link": "LOT14"
+  },
+  {
+    "Rule": "Sentient Dinosaurs",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "14",
+    "Link": "LOT14"
+  },
+  {
+    "Rule": "Tribal Chief",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "15",
+    "Link": "LOT15"
+  },
+  {
+    "Rule": "Tribal Warrior and Tribal Shaman",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "16",
+    "Link": "LOT16"
+  },
+  {
+    "Rule": "Tribal Wanderer and Timelost Explorer",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "17",
+    "Link": "LOT17"
+  },
+  {
+    "Rule": "Timelost Scientist and Timelost Kid",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "18",
+    "Link": "LOT18"
+  },
+  {
+    "Rule": "Timelost Soldier and Tarn Warrior",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "19",
+    "Link": "LOT19"
+  },
+  {
+    "Rule": "Equipment and Dinotech",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "20",
+    "Link": "LOT20"
+  },
+  {
+    "Rule": "Shield Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "20",
+    "Link": "LOT20"
+  },
+  {
+    "Rule": "Armor Table",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "21",
+    "Link": "LOT21"
+  },
+  {
+    "Rule": "Weapons Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "21",
+    "Link": "LOT21"
+  },
+  {
+    "Rule": "Decay and Damage of Equipment in Dino-Worlds",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "22",
+    "Link": "LOT22"
+  },
+  {
+    "Rule": "Sauropods (Dinosaurs)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "23",
+    "Link": "LOT23"
+  },
+  {
+    "Rule": "Ankylosaurs (Dinosaurs)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "25",
+    "Link": "LOT25"
+  },
+  {
+    "Rule": "Stegosaurs (Dinosaurs)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "25",
+    "Link": "LOT25"
+  },
+  {
+    "Rule": "Hadrosaurs, Duckbills (Dinosaurs)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "26",
+    "Link": "LOT26"
+  },
+  {
+    "Rule": "Theropods (Dinosaurs)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "26",
+    "Link": "LOT26"
+  },
+  {
+    "Rule": "Tyrannosaurus and Velociraptor",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "27",
+    "Link": "LOT27"
+  },
+  {
+    "Rule": "Pterosaurs (Dinosaurs)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "28",
+    "Link": "LOT28"
+  },
+  {
+    "Rule": "Aquatic Dinosaurs and Other Creatures",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "29",
+    "Link": "LOT29"
+  },
+  {
+    "Rule": "Fictional Creatures of the World of Banded Night",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "30",
+    "Link": "LOT30"
+  },
+  {
+    "Rule": "Magic and/or Psionics in a Dino-World",
+    "Category": [
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "33",
+    "Link": "LOT33"
+  },
+  {
+    "Rule": "Cultures and Technologies of TL0 (Early, Mid, High)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "34",
+    "Link": "LOT34"
+  },
+  {
+    "Rule": "Cultures and Technologies of Low TL1",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "36",
+    "Link": "LOT36"
+  },
+  {
+    "Rule": "Banded Night in Infinite Worlds, Burroughs-6",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "38",
+    "Link": "LOT38"
+  },
+  {
+    "Rule": "World of Banded Night Campaign Setting",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Lands Out of Time",
+    "Page": "38",
+    "Link": "LOT38"
   },
   {
     "Rule": "Armor Gap - Inside Thigh",
@@ -46202,7 +46544,7 @@
   {
     "Rule": "Animated Servitor Stat Block",
     "Category": [
-      "Creattures",
+      "Creatures",
       "Divinity"
     ],
     "Book": "Monster Hunters 6: Holy Hunters",
@@ -52738,7 +53080,7 @@
   {
     "Rule": "Probability Alteration",
     "Category": [
-      "Psionis"
+      "Psionics"
     ],
     "Book": "Psionic Powers",
     "Page": "43",
@@ -62597,7 +62939,7 @@
     "Link": "TT2:15"
   },
   {
-    "Rule": "Brightness on other Planets,",
+    "Rule": "Brightness on Other Planets",
     "Category": [
       "Environment"
     ],
@@ -69898,6 +70240,2200 @@
     "Book": "Underground Adventures",
     "Page": "31",
     "Link": "UA31"
+  },
+  {
+    "Rule": "Steampunk Conveyances Terminology and Concepts",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "3",
+    "Link": "VSC3"
+  },
+  {
+    "Rule": "Colonial Locomotive",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "4",
+    "Link": "VSC4"
+  },
+  {
+    "Rule": "Stephenson's Rocket",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "4",
+    "Link": "VSC4"
+  },
+  {
+    "Rule": "GURPS Dollar Price Conversion",
+    "Category": [
+      "Resources",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "5",
+    "Link": "VSC5"
+  },
+  {
+    "Rule": "Hansom Cab",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "5",
+    "Link": "VSC5"
+  },
+  {
+    "Rule": "L’Obéissante",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "5",
+    "Link": "VSC5"
+  },
+  {
+    "Rule": "The Mallard",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "5",
+    "Link": "VSC5"
+  },
+  {
+    "Rule": "Trevithick Steam Carriage",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "5",
+    "Link": "VSC5"
+  },
+  {
+    "Rule": "Stanley Steamer, Stanley Model 735 of 1918",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "6",
+    "Link": "VSC6"
+  },
+  {
+    "Rule": "Starting Steam, Fictional Quick-Starting for Boilers",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "6",
+    "Link": "VSC6"
+  },
+  {
+    "Rule": "Steam Tricycle",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "6",
+    "Link": "VSC6"
+  },
+  {
+    "Rule": "Steam Wagon, Steam Trucks",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "6",
+    "Link": "VSC6"
+  },
+  {
+    "Rule": "The Steam Man of the Prairies",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "6",
+    "Link": "VSC6"
+  },
+  {
+    "Rule": "Iron Horse",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "7",
+    "Link": "VSC7"
+  },
+  {
+    "Rule": "Land Ironclad",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "7",
+    "Link": "VSC7"
+  },
+  {
+    "Rule": "Pedrail Wheels",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "7",
+    "Link": "VSC7"
+  },
+  {
+    "Rule": "The Steam House",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "7",
+    "Link": "VSC7"
+  },
+  {
+    "Rule": "Land Vehicle Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "8",
+    "Link": "VSC8"
+  },
+  {
+    "Rule": "O-Daisuchiimu",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "8",
+    "Link": "VSC8"
+  },
+  {
+    "Rule": "Armed Launch",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "9",
+    "Link": "VSC9"
+  },
+  {
+    "Rule": "Small Steam Launch",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "9",
+    "Link": "VSC9"
+  },
+  {
+    "Rule": "Steam Yacht",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "9",
+    "Link": "VSC9"
+  },
+  {
+    "Rule": "Torpedo Ram",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "9",
+    "Link": "VSC9"
+  },
+  {
+    "Rule": "Fulton's Nautilus",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "10",
+    "Link": "VSC10"
+  },
+  {
+    "Rule": "Pre-Dreadnought Battleship",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "10",
+    "Link": "VSC10"
+  },
+  {
+    "Rule": "Rams",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "10",
+    "Link": "VSC10"
+  },
+  {
+    "Rule": "Verne's Nautilus",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "10",
+    "Link": "VSC10"
+  },
+  {
+    "Rule": "B-Class Submarine",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "11",
+    "Link": "VSC11"
+  },
+  {
+    "Rule": "Torpedo Rules",
+    "Category": [
+      "Combat",
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "11",
+    "Link": "VSC11"
+  },
+  {
+    "Rule": "Submersible Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "12",
+    "Link": "VSC12"
+  },
+  {
+    "Rule": "Surface Watercraft Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "12",
+    "Link": "VSC12"
+  },
+  {
+    "Rule": "Aerostat Damage and Combat Vulnerability",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "13",
+    "Link": "VSC13"
+  },
+  {
+    "Rule": "Le Géant",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "13",
+    "Link": "VSC13"
+  },
+  {
+    "Rule": "Observation Balloon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "13",
+    "Link": "VSC13"
+  },
+  {
+    "Rule": "Santos Dumont No. 9",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "13",
+    "Link": "VSC13"
+  },
+  {
+    "Rule": "Adventurers' Dirigible",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "14",
+    "Link": "VSC14"
+  },
+  {
+    "Rule": "Aerial Battleship",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "14",
+    "Link": "VSC14"
+  },
+  {
+    "Rule": "Bombing Rules",
+    "Category": [
+      "Combat",
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "14",
+    "Link": "VSC14"
+  },
+  {
+    "Rule": "P-Class Zeppelin",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "14",
+    "Link": "VSC14"
+  },
+  {
+    "Rule": "Antigravity and Reactionless Thrust",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "15",
+    "Link": "VSC15"
+  },
+  {
+    "Rule": "Blériot XI",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "15",
+    "Link": "VSC15"
+  },
+  {
+    "Rule": "Clockpunk Hang-Glider",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "15",
+    "Link": "VSC15"
+  },
+  {
+    "Rule": "Santos Dumont Demoiselle",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "15",
+    "Link": "VSC15"
+  },
+  {
+    "Rule": "Steampunk Ornithopter",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "15",
+    "Link": "VSC15"
+  },
+  {
+    "Rule": "Victorian Glider",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "15",
+    "Link": "VSC15"
+  },
+  {
+    "Rule": "Electric Aeronef",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "16",
+    "Link": "VSC16"
+  },
+  {
+    "Rule": "Electric Astronef",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "16",
+    "Link": "VSC16"
+  },
+  {
+    "Rule": "Solar Steamer",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "16",
+    "Link": "VSC16"
+  },
+  {
+    "Rule": "The Albatross",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "16",
+    "Link": "VSC16"
+  },
+  {
+    "Rule": "Aircraft and Spacecraft Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "17",
+    "Link": "VSC17"
+  },
+  {
+    "Rule": "12-Pounder Cannon",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "18",
+    "Link": "VSC18"
+  },
+  {
+    "Rule": "1-Pounder Cannon",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "18",
+    "Link": "VSC18"
+  },
+  {
+    "Rule": "3-Pounder Cannon",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "18",
+    "Link": "VSC18"
+  },
+  {
+    "Rule": "6-Pounder Cannon",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "18",
+    "Link": "VSC18"
+  },
+  {
+    "Rule": "Gatling Gun",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "18",
+    "Link": "VSC18"
+  },
+  {
+    "Rule": "Heavy Naval Cannons",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "18",
+    "Link": "VSC18"
+  },
+  {
+    "Rule": "Heavy Rifle (Steampunk)",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "18",
+    "Link": "VSC18"
+  },
+  {
+    "Rule": "Maxim Gun",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "18",
+    "Link": "VSC18"
+  },
+  {
+    "Rule": "Nordenfelt 1 inch Mk I",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "18",
+    "Link": "VSC18"
+  },
+  {
+    "Rule": "Steampunk Aerial Bombs",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "18",
+    "Link": "VSC18"
+  },
+  {
+    "Rule": "Steampunk Torpedo Models",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "18",
+    "Link": "VSC18"
+  },
+  {
+    "Rule": "Vehicular Weapon Table",
+    "Category": [
+      "Reference",
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Steampunk Conveyances",
+    "Page": "19",
+    "Link": "VSC19"
+  },
+  {
+    "Rule": "Heavy Wagon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "4",
+    "Link": "VTF4"
+  },
+  {
+    "Rule": "Cart/Wagon Panicky Gallop",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "5",
+    "Link": "VTF5"
+  },
+  {
+    "Rule": "Passenger Load in Wagons/Carts",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "5",
+    "Link": "VTF5"
+  },
+  {
+    "Rule": "Road-Bound Vehicles",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "5",
+    "Link": "VTF5"
+  },
+  {
+    "Rule": "Rough Travel (Vehicle Fatigue)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "5",
+    "Link": "VTF5"
+  },
+  {
+    "Rule": "Wagon Fording (River Crossing)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "5",
+    "Link": "VTF5"
+  },
+  {
+    "Rule": "Animal-Powered Vehicles in Collisions",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "6",
+    "Link": "VTF6"
+  },
+  {
+    "Rule": "Carriage",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "6",
+    "Link": "VTF6"
+  },
+  {
+    "Rule": "Chariot Branlant",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "6",
+    "Link": "VTF6"
+  },
+  {
+    "Rule": "Coach",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "6",
+    "Link": "VTF6"
+  },
+  {
+    "Rule": "Court Coach",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "6",
+    "Link": "VTF6"
+  },
+  {
+    "Rule": "Harnessing Up",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "6",
+    "Link": "VTF6"
+  },
+  {
+    "Rule": "Oxcart",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "6",
+    "Link": "VTF6"
+  },
+  {
+    "Rule": "Traditional Civilian Ground Vehicle Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "6",
+    "Link": "VTF6"
+  },
+  {
+    "Rule": "Wagon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "6",
+    "Link": "VTF6"
+  },
+  {
+    "Rule": "Battle Car",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "7",
+    "Link": "VTF7"
+  },
+  {
+    "Rule": "Heavy Chariot",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "7",
+    "Link": "VTF7"
+  },
+  {
+    "Rule": "Light Chariot",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "7",
+    "Link": "VTF7"
+  },
+  {
+    "Rule": "Scythed Chariots",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "7",
+    "Link": "VTF7"
+  },
+  {
+    "Rule": "Draft Animal Strength Equivalents",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "8",
+    "Link": "VTF8"
+  },
+  {
+    "Rule": "Historical Military Ground Vehicle Table",
+    "Category": [
+      "Reference",
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "8",
+    "Link": "VTF8"
+  },
+  {
+    "Rule": "Magic and Chariots",
+    "Category": [
+      "Magic",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "8",
+    "Link": "VTF8"
+  },
+  {
+    "Rule": "Monowheel Chariot",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "8",
+    "Link": "VTF8"
+  },
+  {
+    "Rule": "War Wagon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "8",
+    "Link": "VTF8"
+  },
+  {
+    "Rule": "Dwarven Battle-Ram",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "9",
+    "Link": "VTF9"
+  },
+  {
+    "Rule": "Faerie Coach",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "9",
+    "Link": "VTF9"
+  },
+  {
+    "Rule": "Gnome Cart",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "9",
+    "Link": "VTF9"
+  },
+  {
+    "Rule": "Rams (Transports of Fantasy)",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "9",
+    "Link": "VTF9"
+  },
+  {
+    "Rule": "Wildlands Wagon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "9",
+    "Link": "VTF9"
+  },
+  {
+    "Rule": "Fantastical Ground Vehicle Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "10",
+    "Link": "VTF10"
+  },
+  {
+    "Rule": "Orcish Foe-Reaper",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "10",
+    "Link": "VTF10"
+  },
+  {
+    "Rule": "Vehicle Size Adjustments",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "10",
+    "Link": "VTF10"
+  },
+  {
+    "Rule": "Brendan Ship",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "12",
+    "Link": "VTF12"
+  },
+  {
+    "Rule": "Holed Below the Waterline!",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "12",
+    "Link": "VTF12"
+  },
+  {
+    "Rule": "Rigging Types",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "12",
+    "Link": "VTF12"
+  },
+  {
+    "Rule": "Ninja Stealth Boat",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "13",
+    "Link": "VTF13"
+  },
+  {
+    "Rule": "Sloop",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "13",
+    "Link": "VTF13"
+  },
+  {
+    "Rule": "Small Dhow",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "13",
+    "Link": "VTF13"
+  },
+  {
+    "Rule": "Square-Rigged Sailboat",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "13",
+    "Link": "VTF13"
+  },
+  {
+    "Rule": "Tipnol",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "13",
+    "Link": "VTF13"
+  },
+  {
+    "Rule": "Walap",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "13",
+    "Link": "VTF13"
+  },
+  {
+    "Rule": "Wazifi Dhow",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "13",
+    "Link": "VTF13"
+  },
+  {
+    "Rule": "Light Watercraft Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "14",
+    "Link": "VTF14"
+  },
+  {
+    "Rule": "Orc Raider",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "14",
+    "Link": "VTF14"
+  },
+  {
+    "Rule": "Galiot",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "15",
+    "Link": "VTF15"
+  },
+  {
+    "Rule": "Homeric Galley",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "15",
+    "Link": "VTF15"
+  },
+  {
+    "Rule": "Penteconter",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "15",
+    "Link": "VTF15"
+  },
+  {
+    "Rule": "Viking Ship",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "15",
+    "Link": "VTF15"
+  },
+  {
+    "Rule": "Zombie Oarsmen",
+    "Category": [
+      "Undead",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "15",
+    "Link": "VTF15"
+  },
+  {
+    "Rule": "Area Spells and Vehicles",
+    "Category": [
+      "Magic",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "16",
+    "Link": "VTF16"
+  },
+  {
+    "Rule": "Atlantean Galley",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "16",
+    "Link": "VTF16"
+  },
+  {
+    "Rule": "Quinquereme (Transports of Fantasy)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "16",
+    "Link": "VTF16"
+  },
+  {
+    "Rule": "Trireme",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "16",
+    "Link": "VTF16"
+  },
+  {
+    "Rule": "Renaissance Trade Galley",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "17",
+    "Link": "VTF17"
+  },
+  {
+    "Rule": "Renaissance War Galley",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "17",
+    "Link": "VTF17"
+  },
+  {
+    "Rule": "Cog",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "18",
+    "Link": "VTF18"
+  },
+  {
+    "Rule": "Goblin Trade Yacht",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "18",
+    "Link": "VTF18"
+  },
+  {
+    "Rule": "Longship and Galley Table",
+    "Category": [
+      "Reference",
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "18",
+    "Link": "VTF18"
+  },
+  {
+    "Rule": "Caravel",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "19",
+    "Link": "VTF19"
+  },
+  {
+    "Rule": "Mage Cutter",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "19",
+    "Link": "VTF19"
+  },
+  {
+    "Rule": "Aralaise Fleet Galleon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "20",
+    "Link": "VTF20"
+  },
+  {
+    "Rule": "Aralaise Frigate",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "20",
+    "Link": "VTF20"
+  },
+  {
+    "Rule": "Baghlah",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "20",
+    "Link": "VTF20"
+  },
+  {
+    "Rule": "Boum",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "20",
+    "Link": "VTF20"
+  },
+  {
+    "Rule": "Cardien Baghlah",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "20",
+    "Link": "VTF20"
+  },
+  {
+    "Rule": "Carrack",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "20",
+    "Link": "VTF20"
+  },
+  {
+    "Rule": "Elven Palace-Ship",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "20",
+    "Link": "VTF20"
+  },
+  {
+    "Rule": "Giant Treasure Ship",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "21",
+    "Link": "VTF21"
+  },
+  {
+    "Rule": "Renaissance Galleon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "21",
+    "Link": "VTF21"
+  },
+  {
+    "Rule": "Sahudese Court-Boat",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "21",
+    "Link": "VTF21"
+  },
+  {
+    "Rule": "Trade Junk",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "21",
+    "Link": "VTF21"
+  },
+  {
+    "Rule": "Alchemical Galleon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "22",
+    "Link": "VTF22"
+  },
+  {
+    "Rule": "Regulan Flame-Cannon",
+    "Category": [
+      "Weapons",
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "22",
+    "Link": "VTF22"
+  },
+  {
+    "Rule": "Sailing Ship Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "22",
+    "Link": "VTF22"
+  },
+  {
+    "Rule": "Exotic Watercraft Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "23",
+    "Link": "VTF23"
+  },
+  {
+    "Rule": "Gnomish Clock-Galley",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "23",
+    "Link": "VTF23"
+  },
+  {
+    "Rule": "Sea-Elf Submersible",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "23",
+    "Link": "VTF23"
+  },
+  {
+    "Rule": "Alchemist's Balloon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "25",
+    "Link": "VTF25"
+  },
+  {
+    "Rule": "Bilit Island Hot Air Balloons",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "25",
+    "Link": "VTF25"
+  },
+  {
+    "Rule": "Dwarven Steam Airship",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "25",
+    "Link": "VTF25"
+  },
+  {
+    "Rule": "Gnomish Aircar",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "25",
+    "Link": "VTF25"
+  },
+  {
+    "Rule": "Bird-Drawn Raft",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "26",
+    "Link": "VTF26"
+  },
+  {
+    "Rule": "Levitational Salts",
+    "Category": [
+      "Alchemy",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "26",
+    "Link": "VTF26"
+  },
+  {
+    "Rule": "Lighter-Than-Air Vehicle Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "26",
+    "Link": "VTF26"
+  },
+  {
+    "Rule": "Night-Sky Boat",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "26",
+    "Link": "VTF26"
+  },
+  {
+    "Rule": "Mountain-Folk Glider",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "27",
+    "Link": "VTF27"
+  },
+  {
+    "Rule": "Pixie Throne-Kite",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "27",
+    "Link": "VTF27"
+  },
+  {
+    "Rule": "Sahudese Manned Kites",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "27",
+    "Link": "VTF27"
+  },
+  {
+    "Rule": "Glider Table (Transports of Fantasy)",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "28",
+    "Link": "VTF28"
+  },
+  {
+    "Rule": "Sky-Cutter",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "28",
+    "Link": "VTF28"
+  },
+  {
+    "Rule": "Spherical Chariot",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "28",
+    "Link": "VTF28"
+  },
+  {
+    "Rule": "Flying Sailor",
+    "Category": [
+      "Skills",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "29",
+    "Link": "VTF29"
+  },
+  {
+    "Rule": "High Elf Skyship",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "29",
+    "Link": "VTF29"
+  },
+  {
+    "Rule": "Shiphandling (Flying Ship)",
+    "Category": [
+      "Skills",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "29",
+    "Link": "VTF29"
+  },
+  {
+    "Rule": "Star Galleon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "29",
+    "Link": "VTF29"
+  },
+  {
+    "Rule": "Alchemical Flyer Table",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: Transports of Fantasy",
+    "Page": "30",
+    "Link": "VTF30"
+  },
+  {
+    "Rule": "Ancient Galley Costs and Crew Pay",
+    "Category": [
+      "Resources",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "6",
+    "Link": "VWG6"
+  },
+  {
+    "Rule": "Trireme Crew Complement and Officers",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "7",
+    "Link": "VWG7"
+  },
+  {
+    "Rule": "Ancient Naval Battle Tactics",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "8",
+    "Link": "VWG8"
+  },
+  {
+    "Rule": "Leather Screens and Missile Fire Protection",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "8",
+    "Link": "VWG8"
+  },
+  {
+    "Rule": "Passenger Overload Capacity",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "8",
+    "Link": "VWG8"
+  },
+  {
+    "Rule": "Effective Shiphandling Skill",
+    "Category": [
+      "Skills",
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "9",
+    "Link": "VWG9"
+  },
+  {
+    "Rule": "Galley Hit Location Table",
+    "Category": [
+      "Reference",
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "9",
+    "Link": "VWG9"
+  },
+  {
+    "Rule": "Ramming Attacks",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "9",
+    "Link": "VWG9"
+  },
+  {
+    "Rule": "Ramming Damage",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "9",
+    "Link": "VWG9"
+  },
+  {
+    "Rule": "Boarding (War Galleys)",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "10",
+    "Link": "VWG10"
+  },
+  {
+    "Rule": "Casualties and the Effects of Damage",
+    "Category": [
+      "Combat",
+      "Vehicles",
+      "Injury"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "10",
+    "Link": "VWG10"
+  },
+  {
+    "Rule": "Disengaging After Ramming",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "10",
+    "Link": "VWG10"
+  },
+  {
+    "Rule": "Oar Shearing",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "10",
+    "Link": "VWG10"
+  },
+  {
+    "Rule": "Boarding Modifiers",
+    "Category": [
+      "Reference",
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "11",
+    "Link": "VWG11"
+  },
+  {
+    "Rule": "Corvus and Boarding Bridges",
+    "Category": [
+      "Combat",
+      "Vehicles",
+      "Gear"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "11",
+    "Link": "VWG11"
+  },
+  {
+    "Rule": "Kraken, Tentacle Monsters (War Galleys)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "11",
+    "Link": "VWG11"
+  },
+  {
+    "Rule": "Athenian Trireme (Example Ship)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "12",
+    "Link": "VWG12"
+  },
+  {
+    "Rule": "Galley Rowing Speed",
+    "Category": [
+      "Vehicles",
+      "Combat"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "12",
+    "Link": "VWG12"
+  },
+  {
+    "Rule": "Reinforced Ram",
+    "Category": [
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "12",
+    "Link": "VWG12"
+  },
+  {
+    "Rule": "Trumpet Signaling",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "12",
+    "Link": "VWG12"
+  },
+  {
+    "Rule": "Naval Training (War Galleys)",
+    "Category": [
+      "Traits",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "13",
+    "Link": "VWG13"
+  },
+  {
+    "Rule": "Oarsman",
+    "Category": [
+      "Skills",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "13",
+    "Link": "VWG13"
+  },
+  {
+    "Rule": "Typical Deckhand",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "16",
+    "Link": "VWG16"
+  },
+  {
+    "Rule": "Typical Marine (Ancient)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "17",
+    "Link": "VWG17"
+  },
+  {
+    "Rule": "Typical Rower (Ancient)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "17",
+    "Link": "VWG17"
+  },
+  {
+    "Rule": "Typical Stroke Oarsman",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "17",
+    "Link": "VWG17"
+  },
+  {
+    "Rule": "Ship's Doctor",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles",
+      "Medical"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "18",
+    "Link": "VWG18"
+  },
+  {
+    "Rule": "Typical Archer",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "18",
+    "Link": "VWG18"
+  },
+  {
+    "Rule": "Typical Catapult Gunner",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "18",
+    "Link": "VWG18"
+  },
+  {
+    "Rule": "Master at Arms",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "19",
+    "Link": "VWG19"
+  },
+  {
+    "Rule": "Phoenician Bireme",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "19",
+    "Link": "VWG19"
+  },
+  {
+    "Rule": "Quadrireme",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "19",
+    "Link": "VWG19"
+  },
+  {
+    "Rule": "Samaina",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "19",
+    "Link": "VWG19"
+  },
+  {
+    "Rule": "Hexeres",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "20",
+    "Link": "VWG20"
+  },
+  {
+    "Rule": "Luxury Goods and Trade Taxes",
+    "Category": [
+      "Resources",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "20",
+    "Link": "VWG20"
+  },
+  {
+    "Rule": "Quinquereme",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "20",
+    "Link": "VWG20"
+  },
+  {
+    "Rule": "Deceres",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "21",
+    "Link": "VWG21"
+  },
+  {
+    "Rule": "Nemi Ships",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "21",
+    "Link": "VWG21"
+  },
+  {
+    "Rule": "Ptolemy's Forty",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "21",
+    "Link": "VWG21"
+  },
+  {
+    "Rule": "Hemiolia",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "22",
+    "Link": "VWG22"
+  },
+  {
+    "Rule": "Roman Liburnian",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "22",
+    "Link": "VWG22"
+  },
+  {
+    "Rule": "Trihemiolia",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "22",
+    "Link": "VWG22"
+  },
+  {
+    "Rule": "Trireme Glossary",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "22",
+    "Link": "VWG22"
+  },
+  {
+    "Rule": "Ancient Galleys Table",
+    "Category": [
+      "Reference",
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "23",
+    "Link": "VWG23"
+  },
+  {
+    "Rule": "Athenian Trireme Deck Plan",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "24",
+    "Link": "VWG24"
+  },
+  {
+    "Rule": "Galley-Mounted Cannon",
+    "Category": [
+      "Combat",
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "27",
+    "Link": "VWG27"
+  },
+  {
+    "Rule": "Rowing Systems: Alla Sensile and A Scaloccio",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "27",
+    "Link": "VWG27"
+  },
+  {
+    "Rule": "Convict and Slave Rowers",
+    "Category": [
+      "Vehicles",
+      "NPC"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "28",
+    "Link": "VWG28"
+  },
+  {
+    "Rule": "Great Galley Crew Complement and Officers",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "28",
+    "Link": "VWG28"
+  },
+  {
+    "Rule": "Greek Fire and Siphons",
+    "Category": [
+      "Combat",
+      "Vehicles",
+      "Weapons"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "29",
+    "Link": "VWG29"
+  },
+  {
+    "Rule": "Venetian Great Galley (Example Ship)",
+    "Category": [
+      "Vehicles",
+      "Resources"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "30",
+    "Link": "VWG30"
+  },
+  {
+    "Rule": "Typical Sailor",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "34",
+    "Link": "VWG34"
+  },
+  {
+    "Rule": "Typical Gunner",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "35",
+    "Link": "VWG35"
+  },
+  {
+    "Rule": "Typical Marine (Medieval)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "35",
+    "Link": "VWG35"
+  },
+  {
+    "Rule": "Typical Rower (Medieval)",
+    "Category": [
+      "Template",
+      "NPC",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "35",
+    "Link": "VWG35"
+  },
+  {
+    "Rule": "Arab Shalandi",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "36",
+    "Link": "VWG36"
+  },
+  {
+    "Rule": "Byzantine Dromon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "36",
+    "Link": "VWG36"
+  },
+  {
+    "Rule": "Long Serpent",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "36",
+    "Link": "VWG36"
+  },
+  {
+    "Rule": "15th-Century European War Galley",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "37",
+    "Link": "VWG37"
+  },
+  {
+    "Rule": "Song Dynasty Castle Ship (Louchuan)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "37",
+    "Link": "VWG37"
+  },
+  {
+    "Rule": "The Red Galley of Provence",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "37",
+    "Link": "VWG37"
+  },
+  {
+    "Rule": "16th-Century Spanish Lantern Galley",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "38",
+    "Link": "VWG38"
+  },
+  {
+    "Rule": "Japanese Atakebune",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "38",
+    "Link": "VWG38"
+  },
+  {
+    "Rule": "Japanese Sekibune",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "38",
+    "Link": "VWG38"
+  },
+  {
+    "Rule": "Korean Turtle Ship (Geobukseon)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "38",
+    "Link": "VWG38"
+  },
+  {
+    "Rule": "Great Galley Glossary",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "39",
+    "Link": "VWG39"
+  },
+  {
+    "Rule": "Panokseon",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "39",
+    "Link": "VWG39"
+  },
+  {
+    "Rule": "Medieval Galleys Table",
+    "Category": [
+      "Reference",
+      "Combat",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "40",
+    "Link": "VWG40"
+  },
+  {
+    "Rule": "Deck Plan of a Great Galley",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "41",
+    "Link": "VWG41"
+  },
+  {
+    "Rule": "War Galleys Appendix Glossary",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "42",
+    "Link": "VWG42"
+  },
+  {
+    "Rule": "War Galleys Timeline",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Vehicles: War Galleys",
+    "Page": "42",
+    "Link": "VWG42"
   },
   {
     "Rule": "Survival Traits",
