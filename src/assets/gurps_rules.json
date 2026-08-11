@@ -5005,6 +5005,15 @@
     "Link": "B132"
   },
   {
+    "Rule": "Duty Disadvantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "133",
+    "Link": "B133"
+  },
+  {
     "Rule": "Easy to Read Disadvantage",
     "Category": [
       "Traits"
@@ -5039,6 +5048,213 @@
     "Book": "Basic",
     "Page": "137",
     "Link": "B137"
+  },
+  {
+    "Rule": "Hard of Hearing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "138",
+    "Link": "B138"
+  },
+  {
+    "Rule": "Heteronomy",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "138",
+    "Link": "B138"
+  },
+  {
+    "Rule": "Hidebound",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "138",
+    "Link": "B138"
+  },
+  {
+    "Rule": "Honesty",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "138",
+    "Link": "B138"
+  },
+  {
+    "Rule": "Impulsiveness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "139",
+    "Link": "B139"
+  },
+  {
+    "Rule": "Incurious",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "140",
+    "Link": "B140"
+  },
+  {
+    "Rule": "Indecisive",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "140",
+    "Link": "B140"
+  },
+  {
+    "Rule": "Infectious Attack",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "140",
+    "Link": "B140"
+  },
+  {
+    "Rule": "Jealousy",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "140",
+    "Link": "B140"
+  },
+  {
+    "Rule": "Kleptomania",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "141",
+    "Link": "B141"
+  },
+  {
+    "Rule": "Klutz",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "141",
+    "Link": "B141"
+  },
+  {
+    "Rule": "Lame",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "141",
+    "Link": "B141"
+  },
+  {
+    "Rule": "Laziness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "142",
+    "Link": "B142"
+  },
+  {
+    "Rule": "Lecherousness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "142",
+    "Link": "B142"
+  },
+  {
+    "Rule": "Light Sleeper",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "142",
+    "Link": "B142"
+  },
+  {
+    "Rule": "Loner",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "142",
+    "Link": "B142"
+  },
+  {
+    "Rule": "Low Empathy",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "142",
+    "Link": "B142"
+  },
+  {
+    "Rule": "Low Pain Threshold",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "142",
+    "Link": "B142"
+  },
+  {
+    "Rule": "Low Self-Image",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "143",
+    "Link": "B143"
+  },
+  {
+    "Rule": "Lunacy",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "143",
+    "Link": "B143"
+  },
+  {
+    "Rule": "Magic Susceptibility",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "143",
+    "Link": "B143"
+  },
+  {
+    "Rule": "Maintenance",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "143",
+    "Link": "B143"
+  },
+  {
+    "Rule": "Miserliness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "144",
+    "Link": "B144"
   },
   {
     "Rule": "One-Eye Disadvantage",
@@ -13983,6 +14199,685 @@
     "Link": "BT224"
   },
   {
+    "Rule": "The Chicago Outfit",
+    "Category": [
+      "NPCs",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "5",
+    "Link": "BC5"
+  },
+  {
+    "Rule": "Wealth (Organizations)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "5",
+    "Link": "BC5"
+  },
+  {
+    "Rule": "Alternate Identity (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "6",
+    "Link": "BC6"
+  },
+  {
+    "Rule": "Contacts (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "6",
+    "Link": "BC6"
+  },
+  {
+    "Rule": "Member Traits (Organizations)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "6",
+    "Link": "BC6"
+  },
+  {
+    "Rule": "Blessed (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "7",
+    "Link": "BC7"
+  },
+  {
+    "Rule": "Claim to Hospitality (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "7",
+    "Link": "BC7"
+  },
+  {
+    "Rule": "Clerical Investment (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "7",
+    "Link": "BC7"
+  },
+  {
+    "Rule": "Divine Curse (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "7",
+    "Link": "BC7"
+  },
+  {
+    "Rule": "Duty (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "7",
+    "Link": "BC7"
+  },
+  {
+    "Rule": "Enemies (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "7",
+    "Link": "BC7"
+  },
+  {
+    "Rule": "Gadgeteer (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "7",
+    "Link": "BC7"
+  },
+  {
+    "Rule": "Hidebound (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "7",
+    "Link": "BC7"
+  },
+  {
+    "Rule": "High TL (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "7",
+    "Link": "BC7"
+  },
+  {
+    "Rule": "Talents and Powers (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "7",
+    "Link": "BC7"
+  },
+  {
+    "Rule": "Higher Purpose (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "8",
+    "Link": "BC8"
+  },
+  {
+    "Rule": "Intolerance (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "8",
+    "Link": "BC8"
+  },
+  {
+    "Rule": "Legal Enforcement Powers (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "8",
+    "Link": "BC8"
+  },
+  {
+    "Rule": "Legal Immunity (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "8",
+    "Link": "BC8"
+  },
+  {
+    "Rule": "License and Permit (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "8",
+    "Link": "BC8"
+  },
+  {
+    "Rule": "Mana Enhancer (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "8",
+    "Link": "BC8"
+  },
+  {
+    "Rule": "Methodical (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "8",
+    "Link": "BC8"
+  },
+  {
+    "Rule": "Miserliness (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "8",
+    "Link": "BC8"
+  },
+  {
+    "Rule": "Secret (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "8",
+    "Link": "BC8"
+  },
+  {
+    "Rule": "Secret Facilities",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "9",
+    "Link": "BC9"
+  },
+  {
+    "Rule": "Signature Gear (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "9",
+    "Link": "BC9"
+  },
+  {
+    "Rule": "Social Stigma (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "9",
+    "Link": "BC9"
+  },
+  {
+    "Rule": "Unusual Background (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "9",
+    "Link": "BC9"
+  },
+  {
+    "Rule": "Zeroed (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "9",
+    "Link": "BC9"
+  },
+  {
+    "Rule": "Patron Value",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "10",
+    "Link": "BC10"
+  },
+  {
+    "Rule": "Reaction-Time Modifier Table",
+    "Category": [
+      "Reference",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "10",
+    "Link": "BC10"
+  },
+  {
+    "Rule": "Resource Value",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "10",
+    "Link": "BC10"
+  },
+  {
+    "Rule": "Startup Cost",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "10",
+    "Link": "BC10"
+  },
+  {
+    "Rule": "Ally and Dependent Value",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "11",
+    "Link": "BC11"
+  },
+  {
+    "Rule": "Criminal (Organization Type)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "11",
+    "Link": "BC11"
+  },
+  {
+    "Rule": "Enemy Value",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "11",
+    "Link": "BC11"
+  },
+  {
+    "Rule": "Organization Types",
+    "Category": [
+      "Reference",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "11",
+    "Link": "BC11"
+  },
+  {
+    "Rule": "Secret (Organization Type)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "12",
+    "Link": "BC12"
+  },
+  {
+    "Rule": "CR (Control Rating) for Organizations",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "13",
+    "Link": "BC13"
+  },
+  {
+    "Rule": "Loyalty (Organizations)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "13",
+    "Link": "BC13"
+  },
+  {
+    "Rule": "Voluntary (Organization Type)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "13",
+    "Link": "BC13"
+  },
+  {
+    "Rule": "Rank (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "14",
+    "Link": "BC14"
+  },
+  {
+    "Rule": "Reputation (Organizations)",
+    "Category": [
+      "Traits",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "14",
+    "Link": "BC14"
+  },
+  {
+    "Rule": "Contact Skills (Facing an Organization)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "15",
+    "Link": "BC15"
+  },
+  {
+    "Rule": "Control Rating and Loyalty (Loyalty Check)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "15",
+    "Link": "BC15"
+  },
+  {
+    "Rule": "Wealth and Resource Value (Facing an Organization)",
+    "Category": [
+      "Reference",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "15",
+    "Link": "BC15"
+  },
+  {
+    "Rule": "Pulling Rank (Assistance by Type)",
+    "Category": [
+      "Reference",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "16",
+    "Link": "BC16"
+  },
+  {
+    "Rule": "Reaction Time",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "16",
+    "Link": "BC16"
+  },
+  {
+    "Rule": "Situational Modifiers Table",
+    "Category": [
+      "Reference",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "16",
+    "Link": "BC16"
+  },
+  {
+    "Rule": "Designating Traits",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "17",
+    "Link": "BC17"
+  },
+  {
+    "Rule": "Skill Rolls (Starting an Organization)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "17",
+    "Link": "BC17"
+  },
+  {
+    "Rule": "Advertising (Recruiting)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "18",
+    "Link": "BC18"
+  },
+  {
+    "Rule": "Mass Combat (Organizations)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "18",
+    "Link": "BC18"
+  },
+  {
+    "Rule": "Base Time to Create an Organization",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "19",
+    "Link": "BC19"
+  },
+  {
+    "Rule": "Loyalty Roll (Starting an Organization)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "19",
+    "Link": "BC19"
+  },
+  {
+    "Rule": "Permission (Starting an Organization)",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "19",
+    "Link": "BC19"
+  },
+  {
+    "Rule": "Change Reputation",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "20",
+    "Link": "BC20"
+  },
+  {
+    "Rule": "Change Traits",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "20",
+    "Link": "BC20"
+  },
+  {
+    "Rule": "Embezzlement",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "20",
+    "Link": "BC20"
+  },
+  {
+    "Rule": "Improve Morale",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "20",
+    "Link": "BC20"
+  },
+  {
+    "Rule": "Increase Resources",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "20",
+    "Link": "BC20"
+  },
+  {
+    "Rule": "Recruit Members",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "20",
+    "Link": "BC20"
+  },
+  {
+    "Rule": "The Limits of Power",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "20",
+    "Link": "BC20"
+  },
+  {
+    "Rule": "Income Gap",
+    "Category": [
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "21",
+    "Link": "BC21"
+  },
+  {
+    "Rule": "Medici Bank",
+    "Category": [
+      "NPCs",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "22",
+    "Link": "BC22"
+  },
+  {
+    "Rule": "The Organization of Dr. Zynfami",
+    "Category": [
+      "NPCs",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "23",
+    "Link": "BC23"
+  },
+  {
+    "Rule": "Provisional IRA",
+    "Category": [
+      "NPCs",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "24",
+    "Link": "BC24"
+  },
+  {
+    "Rule": "Mid-City Defenders",
+    "Category": [
+      "NPCs",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "25",
+    "Link": "BC25"
+  },
+  {
+    "Rule": "Médecins Sans Frontières, Doctors Without Borders",
+    "Category": [
+      "NPCs",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "27",
+    "Link": "BC27"
+  },
+  {
+    "Rule": "Biotech Euphrates",
+    "Category": [
+      "NPCs",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "28",
+    "Link": "BC28"
+  },
+  {
+    "Rule": "Raiders of the Black Void",
+    "Category": [
+      "NPCs",
+      "Organizations"
+    ],
+    "Book": "Boardroom and Curia",
+    "Page": "29",
+    "Link": "BC29"
+  },
+  {
     "Rule": "Search Modifier by City Population",
     "Category": [
       "Setting"
@@ -22386,6 +23281,3928 @@
     "Book": "Dungeon Fantasy Monsters 5: Demons",
     "Page": "23",
     "Link": "DFM5:23"
+  },
+  {
+    "Rule": "Rounding in DFRPG",
+    "Category": [
+      "DFRPG",
+      "Calculations"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "6",
+    "Link": "DFA6"
+  },
+  {
+    "Rule": "Basic Attributes: ST, DX, IQ",
+    "Category": [
+      "DFRPG",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "8",
+    "Link": "DFA8"
+  },
+  {
+    "Rule": "Basic Attributes: HT",
+    "Category": [
+      "DFRPG",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "9",
+    "Link": "DFA9"
+  },
+  {
+    "Rule": "Illiteracy worth -3 pts as a Disadvantage",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "9",
+    "Link": "DFA9"
+  },
+  {
+    "Rule": "Secondary Characteristics: Damage and Basic Lift",
+    "Category": [
+      "DFRPG",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "9",
+    "Link": "DFA9"
+  },
+  {
+    "Rule": "Damage Table",
+    "Category": [
+      "DFRPG",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "10",
+    "Link": "DFA10"
+  },
+  {
+    "Rule": "Secondary Characteristics: Hit Points, Fatigue Points, Will, and Perception",
+    "Category": [
+      "DFRPG",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "10",
+    "Link": "DFA10"
+  },
+  {
+    "Rule": "Basic Lift and Encumbrance Table",
+    "Category": [
+      "DFRPG",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "11",
+    "Link": "DFA11"
+  },
+  {
+    "Rule": "Secondary Characteristics: Basic Speed, Dodge, and Basic Move",
+    "Category": [
+      "DFRPG",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "11",
+    "Link": "DFA11"
+  },
+  {
+    "Rule": "Encumbrance and Move",
+    "Category": [
+      "DFRPG",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "12",
+    "Link": "DFA12"
+  },
+  {
+    "Rule": "Move in Water, and Move in Air",
+    "Category": [
+      "DFRPG",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "12",
+    "Link": "DFA12"
+  },
+  {
+    "Rule": "Size Modifier (SM) Table",
+    "Category": [
+      "DFRPG",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "12",
+    "Link": "DFA12"
+  },
+  {
+    "Rule": "Character Professions, Classes",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "13",
+    "Link": "DFA13"
+  },
+  {
+    "Rule": "Barbarian",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "15",
+    "Link": "DFA15"
+  },
+  {
+    "Rule": "Bard",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "16",
+    "Link": "DFA16"
+  },
+  {
+    "Rule": "Special Barbarian Traits",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "16",
+    "Link": "DFA16"
+  },
+  {
+    "Rule": "Bard-Song",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "17",
+    "Link": "DFA17"
+  },
+  {
+    "Rule": "Cleric",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "19",
+    "Link": "DFA19"
+  },
+  {
+    "Rule": "Holy Might and Power Investiture",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "20",
+    "Link": "DFA20"
+  },
+  {
+    "Rule": "Faith Healing and Turning the Undead",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "21",
+    "Link": "DFA21"
+  },
+  {
+    "Rule": "Druid",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "22",
+    "Link": "DFA22"
+  },
+  {
+    "Rule": "Special Cleric Traits",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "22",
+    "Link": "DFA22"
+  },
+  {
+    "Rule": "Druidic Arts",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "23",
+    "Link": "DFA23"
+  },
+  {
+    "Rule": "Special Druid Traits",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "24",
+    "Link": "DFA24"
+  },
+  {
+    "Rule": "Holy Warrior",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "25",
+    "Link": "DFA25"
+  },
+  {
+    "Rule": "Holy Abilities",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "26",
+    "Link": "DFA26"
+  },
+  {
+    "Rule": "Knight",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "27",
+    "Link": "DFA27"
+  },
+  {
+    "Rule": "Special Holy Warriror Traits",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "27",
+    "Link": "DFA27"
+  },
+  {
+    "Rule": "Special Knight Traits",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "28",
+    "Link": "DFA28"
+  },
+  {
+    "Rule": "Martial Artist",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "29",
+    "Link": "DFA29"
+  },
+  {
+    "Rule": "Chi Mastery",
+    "Category": [
+      "DFRPG",
+      "Powers"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "30",
+    "Link": "DFA30"
+  },
+  {
+    "Rule": "Special Martial Artist Traits",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "31",
+    "Link": "DFA31"
+  },
+  {
+    "Rule": "Scout",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "34",
+    "Link": "DFA34"
+  },
+  {
+    "Rule": "Special Scout Traits",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "35",
+    "Link": "DFA35"
+  },
+  {
+    "Rule": "Swashbuckler",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "36",
+    "Link": "DFA36"
+  },
+  {
+    "Rule": "Special Swashbuckler Traits",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "37",
+    "Link": "DFA37"
+  },
+  {
+    "Rule": "Thief",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "38",
+    "Link": "DFA38"
+  },
+  {
+    "Rule": "Special Thief Traits",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "39",
+    "Link": "DFA39"
+  },
+  {
+    "Rule": "Wizard",
+    "Category": [
+      "DFRPG",
+      "Professions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "40",
+    "Link": "DFA40"
+  },
+  {
+    "Rule": "Magery",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "41",
+    "Link": "DFA41"
+  },
+  {
+    "Rule": "Special Wizard Traits",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "41",
+    "Link": "DFA41"
+  },
+  {
+    "Rule": "Buying a Racial Template",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "42",
+    "Link": "DFA42"
+  },
+  {
+    "Rule": "Disadvantages from a Racial Template can Exceed Disads Limit",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "42",
+    "Link": "DFA42"
+  },
+  {
+    "Rule": "Cat-Folk, and Dwarf",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "43",
+    "Link": "DFA43"
+  },
+  {
+    "Rule": "Elf, Half-Elf, Gnome, and Half-Ogre",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "44",
+    "Link": "DFA44"
+  },
+  {
+    "Rule": "Half-Orc, Halfling",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "45",
+    "Link": "DFA45"
+  },
+  {
+    "Rule": "Advantages and Maximum Advantage Level",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "46",
+    "Link": "DFA46"
+  },
+  {
+    "Rule": "Energy Reserve",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "48",
+    "Link": "DFA48"
+  },
+  {
+    "Rule": "Peripheral Vision with Example Hex Map",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "52",
+    "Link": "DFA52"
+  },
+  {
+    "Rule": "Disadvantages and Self-Control Rolls",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "55",
+    "Link": "DFA55"
+  },
+  {
+    "Rule": "Disadvantage Limit",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "56",
+    "Link": "DFA56"
+  },
+  {
+    "Rule": "Quirks",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "68",
+    "Link": "DFA68"
+  },
+  {
+    "Rule": "Skills: Defaults, Prerequisities, and Buying",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "69",
+    "Link": "DFA69"
+  },
+  {
+    "Rule": "Skill Cost Table and Skill Probablility of Success Table",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "70",
+    "Link": "DFA70"
+  },
+  {
+    "Rule": "Using Skills with Other Attributes",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "71",
+    "Link": "DFA71"
+  },
+  {
+    "Rule": "Skill Specialities",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "72",
+    "Link": "DFA72"
+  },
+  {
+    "Rule": "Innate Attack Skill",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "79",
+    "Link": "DFA79"
+  },
+  {
+    "Rule": "One Minute to Pick a Lock",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "80",
+    "Link": "DFA80"
+  },
+  {
+    "Rule": "Reading Spellbook Takes 4 Hours, Speed-Reading to Skim 90 Minutes",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "89",
+    "Link": "DFA89"
+  },
+  {
+    "Rule": "Coinage and the $",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "95",
+    "Link": "DFA95"
+  },
+  {
+    "Rule": "Extra Money, 1 CP for $500",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "95",
+    "Link": "DFA95"
+  },
+  {
+    "Rule": "Starting Money",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "95",
+    "Link": "DFA95"
+  },
+  {
+    "Rule": "Cost of Living and Wealth Table",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "96",
+    "Link": "DFA96"
+  },
+  {
+    "Rule": "Melee Weapons Table",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "98",
+    "Link": "DFA98"
+  },
+  {
+    "Rule": "Ranged Weapons Table",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "103",
+    "Link": "DFA103"
+  },
+  {
+    "Rule": "Ammunition Table",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "104",
+    "Link": "DFA104"
+  },
+  {
+    "Rule": "Different Arrow Heads",
+    "Category": [
+      "DFRPG",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "105",
+    "Link": "DFA105"
+  },
+  {
+    "Rule": "Weapon Modifiers (Dwarven, Elven, Fine, Orichalcum, Silver, etc.)",
+    "Category": [
+      "DFRPG",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "106",
+    "Link": "DFA106"
+  },
+  {
+    "Rule": "Shields and Shield Table",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "107",
+    "Link": "DFA107"
+  },
+  {
+    "Rule": "Armor and Armor Table",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "108",
+    "Link": "DFA108"
+  },
+  {
+    "Rule": "Customizing a Suit of Armor",
+    "Category": [
+      "DFRPG",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "109",
+    "Link": "DFA109"
+  },
+  {
+    "Rule": "Adventuring Gear",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "110",
+    "Link": "DFA110"
+  },
+  {
+    "Rule": "Armor Modifiers (Dragonhide, Dwarven, Fine, Ornate, Spiked, Thieves', etc.)",
+    "Category": [
+      "DFRPG",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "110",
+    "Link": "DFA110"
+  },
+  {
+    "Rule": "Concoctions",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "114",
+    "Link": "DFA114"
+  },
+  {
+    "Rule": "Poisons",
+    "Category": [
+      "DFRPG",
+      "Poisons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "115",
+    "Link": "DFA115"
+  },
+  {
+    "Rule": "Power Items and Power Items Table",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "115",
+    "Link": "DFA115"
+  },
+  {
+    "Rule": "Magic Items, Potions",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "116",
+    "Link": "DFA116"
+  },
+  {
+    "Rule": "Magic Items, Scrolls and Scroll Table",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "117",
+    "Link": "DFA117"
+  },
+  {
+    "Rule": "Magic Weapons and Armor",
+    "Category": [
+      "DFRPG",
+      "Weapons",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "117",
+    "Link": "DFA117"
+  },
+  {
+    "Rule": "Other Magic Items",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "118",
+    "Link": "DFA118"
+  },
+  {
+    "Rule": "Determining Who Rolls",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "5",
+    "Link": "DFX5"
+  },
+  {
+    "Rule": "Success Rolls",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "5",
+    "Link": "DFX5"
+  },
+  {
+    "Rule": "Task Difficulty",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "6",
+    "Link": "DFX6"
+  },
+  {
+    "Rule": "Base Skill vs. Effective Skill",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "7",
+    "Link": "DFX7"
+  },
+  {
+    "Rule": "Degree of Success or Failure",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "7",
+    "Link": "DFX7"
+  },
+  {
+    "Rule": "Repeated Attempts",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "7",
+    "Link": "DFX7"
+  },
+  {
+    "Rule": "Quick Contests, Margins of Victory and Loss",
+    "Category": [
+      "DFRPG",
+      "Calculations"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "8",
+    "Link": "DFX8"
+  },
+  {
+    "Rule": "Regular Contests",
+    "Category": [
+      "DFRPG",
+      "Calculations"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "8",
+    "Link": "DFX8"
+  },
+  {
+    "Rule": "Resistance Rolls, The Rule of 16",
+    "Category": [
+      "DFRPG",
+      "Calculations"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "8",
+    "Link": "DFX8"
+  },
+  {
+    "Rule": "Sense Rolls",
+    "Category": [
+      "DFRPG",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "9",
+    "Link": "DFX9"
+  },
+  {
+    "Rule": "Fright Checks",
+    "Category": [
+      "DFRPG",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "10",
+    "Link": "DFX10"
+  },
+  {
+    "Rule": "Influence Rolls and Interrogation",
+    "Category": [
+      "DFRPG",
+      "Attributes",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "10",
+    "Link": "DFX10"
+  },
+  {
+    "Rule": "Reaction Rolls and Modifiers",
+    "Category": [
+      "DFRPG",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "11",
+    "Link": "DFX11"
+  },
+  {
+    "Rule": "Influence Skills and Reaction Table",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "12",
+    "Link": "DFX12"
+  },
+  {
+    "Rule": "Preparing to Delve, In Town",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "13",
+    "Link": "DFX13"
+  },
+  {
+    "Rule": "Making an Armory (Body Armor) Roll to make Looted Armor Fit",
+    "Category": [
+      "DFRPG",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "15",
+    "Link": "DFX15"
+  },
+  {
+    "Rule": "Sale Price of Loot Depends on Wealth",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "16",
+    "Link": "DFX16"
+  },
+  {
+    "Rule": "Traveling to Delve",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "17",
+    "Link": "DFX17"
+  },
+  {
+    "Rule": "Foraging, Camping, Posting Watches, and Tracking",
+    "Category": [
+      "DFRPG",
+      "Skills",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "18",
+    "Link": "DFX18"
+  },
+  {
+    "Rule": "Finding Secret Doors",
+    "Category": [
+      "DFRPG",
+      "Skills",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "19",
+    "Link": "DFX19"
+  },
+  {
+    "Rule": "Light Sources (Candle, Torch, Lantern, Continual Light)",
+    "Category": [
+      "DFRPG",
+      "Gear",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "19",
+    "Link": "DFX19"
+  },
+  {
+    "Rule": "Scouting Ahead with Stealth",
+    "Category": [
+      "DFRPG",
+      "Skills",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "19",
+    "Link": "DFX19"
+  },
+  {
+    "Rule": "Balancing, Diving, Climbing, Jumping",
+    "Category": [
+      "DFRPG",
+      "Physical Acts"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "20",
+    "Link": "DFX20"
+  },
+  {
+    "Rule": "Extra Effort",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "20",
+    "Link": "DFX20"
+  },
+  {
+    "Rule": "Signaling with Gestures or Mimicry",
+    "Category": [
+      "DFRPG",
+      "Skills",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "20",
+    "Link": "DFX20"
+  },
+  {
+    "Rule": "Helping Someone Up",
+    "Category": [
+      "DFRPG",
+      "Physical Acts"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "21",
+    "Link": "DFX21"
+  },
+  {
+    "Rule": "Running Climb, Skidding, Squeezing, Swimming, Swinging",
+    "Category": [
+      "DFRPG",
+      "Physical Acts"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "21",
+    "Link": "DFX21"
+  },
+  {
+    "Rule": "Feats of Strength, Lifting, Shifting, Dragging, Shove, and Knock Over",
+    "Category": [
+      "DFRPG",
+      "Physical Acts"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "22",
+    "Link": "DFX22"
+  },
+  {
+    "Rule": "Lifting in Combat",
+    "Category": [
+      "DFRPG",
+      "Physical Acts"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "22",
+    "Link": "DFX22"
+  },
+  {
+    "Rule": "Throwing, Bashing, Forcing",
+    "Category": [
+      "DFRPG",
+      "Physical Acts"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "22",
+    "Link": "DFX22"
+  },
+  {
+    "Rule": "Dealing with Traps and Picking Locks",
+    "Category": [
+      "DFRPG",
+      "Physical Acts"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "23",
+    "Link": "DFX23"
+  },
+  {
+    "Rule": "Milking Poisons from Dead Creatures",
+    "Category": [
+      "DFRPG",
+      "Poisons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "24",
+    "Link": "DFX24"
+  },
+  {
+    "Rule": "Picking a Trapped Lock",
+    "Category": [
+      "DFRPG",
+      "Physical Acts",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "24",
+    "Link": "DFX24"
+  },
+  {
+    "Rule": "Scrounging Mundane and Magical Parts from Dead Creatures",
+    "Category": [
+      "DFRPG",
+      "Physical Acts",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "24",
+    "Link": "DFX24"
+  },
+  {
+    "Rule": "Identifying Potions",
+    "Category": [
+      "DFRPG",
+      "Physical Acts",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "25",
+    "Link": "DFX25"
+  },
+  {
+    "Rule": "Surprise Attacks",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "26",
+    "Link": "DFX26"
+  },
+  {
+    "Rule": "Mental Stun",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "27",
+    "Link": "DFX27"
+  },
+  {
+    "Rule": "Deciding Combat Sequence",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "28",
+    "Link": "DFX28"
+  },
+  {
+    "Rule": "Facing",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "28",
+    "Link": "DFX28"
+  },
+  {
+    "Rule": "Aim",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "29",
+    "Link": "DFX29"
+  },
+  {
+    "Rule": "Change Posture",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "29",
+    "Link": "DFX29"
+  },
+  {
+    "Rule": "Do Nothing",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "29",
+    "Link": "DFX29"
+  },
+  {
+    "Rule": "Free Actions",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "29",
+    "Link": "DFX29"
+  },
+  {
+    "Rule": "Move",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "29",
+    "Link": "DFX29"
+  },
+  {
+    "Rule": "All-Out Attack",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "30",
+    "Link": "DFX30"
+  },
+  {
+    "Rule": "Attack",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "30",
+    "Link": "DFX30"
+  },
+  {
+    "Rule": "Feint",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "30",
+    "Link": "DFX30"
+  },
+  {
+    "Rule": "Move and Attack",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "30",
+    "Link": "DFX30"
+  },
+  {
+    "Rule": "All-Out Defense",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "31",
+    "Link": "DFX31"
+  },
+  {
+    "Rule": "Concentrate",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "31",
+    "Link": "DFX31"
+  },
+  {
+    "Rule": "It Takes 2 Seconds to Light a Torch",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "32",
+    "Link": "DFX32"
+  },
+  {
+    "Rule": "It Takes 2d Seconds to Find Something in Your Pack",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "32",
+    "Link": "DFX32"
+  },
+  {
+    "Rule": "Long Action",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "32",
+    "Link": "DFX32"
+  },
+  {
+    "Rule": "Ready",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "32",
+    "Link": "DFX32"
+  },
+  {
+    "Rule": "Wait",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "32",
+    "Link": "DFX32"
+  },
+  {
+    "Rule": "Movement Points vs. Movement Speed",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "33",
+    "Link": "DFX33"
+  },
+  {
+    "Rule": "Sprinting",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "33",
+    "Link": "DFX33"
+  },
+  {
+    "Rule": "Step",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "33",
+    "Link": "DFX33"
+  },
+  {
+    "Rule": "Backward and Sideways Movement",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "34",
+    "Link": "DFX34"
+  },
+  {
+    "Rule": "Evading",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "34",
+    "Link": "DFX34"
+  },
+  {
+    "Rule": "Facing Changes",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "34",
+    "Link": "DFX34"
+  },
+  {
+    "Rule": "Forward Movement",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "34",
+    "Link": "DFX34"
+  },
+  {
+    "Rule": "Attacking",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "35",
+    "Link": "DFX35"
+  },
+  {
+    "Rule": "Movement Point Costs like Obstructions or Shallow/Deep Water",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "35",
+    "Link": "DFX35"
+  },
+  {
+    "Rule": "Dual-Weapon Attacks",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "36",
+    "Link": "DFX36"
+  },
+  {
+    "Rule": "Hit Location",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "36",
+    "Link": "DFX36"
+  },
+  {
+    "Rule": "Ready Weapons",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "36",
+    "Link": "DFX36"
+  },
+  {
+    "Rule": "Size and Visibility Modifiers for Attack Rolls",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "36",
+    "Link": "DFX36"
+  },
+  {
+    "Rule": "Using the Off-Hand",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "36",
+    "Link": "DFX36"
+  },
+  {
+    "Rule": "Attacking a Weapon, Breaking a Weapon and Disarming",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "37",
+    "Link": "DFX37"
+  },
+  {
+    "Rule": "Attacking Chinks in Armor",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "37",
+    "Link": "DFX37"
+  },
+  {
+    "Rule": "Improvised Weapons",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "37",
+    "Link": "DFX37"
+  },
+  {
+    "Rule": "Random Hit Location",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "37",
+    "Link": "DFX37"
+  },
+  {
+    "Rule": "Reach of a Weapon",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "37",
+    "Link": "DFX37"
+  },
+  {
+    "Rule": "Attacking from Above",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "38",
+    "Link": "DFX38"
+  },
+  {
+    "Rule": "Deceptive Strike",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "38",
+    "Link": "DFX38"
+  },
+  {
+    "Rule": "Melee Attack Facing",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "38",
+    "Link": "DFX38"
+  },
+  {
+    "Rule": "Melee Attacks Through an Occupied Hex",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "38",
+    "Link": "DFX38"
+  },
+  {
+    "Rule": "Rapid Strike",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "38",
+    "Link": "DFX38"
+  },
+  {
+    "Rule": "Unarmed Combat Striking",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "38",
+    "Link": "DFX38"
+  },
+  {
+    "Rule": "Wild Swings",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "38",
+    "Link": "DFX38"
+  },
+  {
+    "Rule": "Garottes, Kusaris, Picks, and Whips",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "39",
+    "Link": "DFX39"
+  },
+  {
+    "Rule": "Grappling",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "40",
+    "Link": "DFX40"
+  },
+  {
+    "Rule": "Hurting Yourself, Striking Armor, Getting Parried, Parrying of a Weapon",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "40",
+    "Link": "DFX40"
+  },
+  {
+    "Rule": "Slams, Tramples, Overruns, Pounces, and Shield Rushes",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "40",
+    "Link": "DFX40"
+  },
+  {
+    "Rule": "Actions After Being Grappled: Break Free, Attack, All-Out Attack, Ready",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "41",
+    "Link": "DFX41"
+  },
+  {
+    "Rule": "Options After You Grapple: Takedown, Pin, Strangle",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "41",
+    "Link": "DFX41"
+  },
+  {
+    "Rule": "Arc of Vision",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "42",
+    "Link": "DFX42"
+  },
+  {
+    "Rule": "Ranged Line of Fire",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "42",
+    "Link": "DFX42"
+  },
+  {
+    "Rule": "Ranged Pop-Up Attacks",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "42",
+    "Link": "DFX42"
+  },
+  {
+    "Rule": "Shooting Blind",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "42",
+    "Link": "DFX42"
+  },
+  {
+    "Rule": "Shooting from Cover",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "42",
+    "Link": "DFX42"
+  },
+  {
+    "Rule": "Aiming Ranged Attacks",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "43",
+    "Link": "DFX43"
+  },
+  {
+    "Rule": "Ranged Attacks: Elevation",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "43",
+    "Link": "DFX43"
+  },
+  {
+    "Rule": "Ranged Attacks: Hitting the Wrong Target",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "43",
+    "Link": "DFX43"
+  },
+  {
+    "Rule": "Ranged Attacks: Opportunity Fire",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "43",
+    "Link": "DFX43"
+  },
+  {
+    "Rule": "Ranged Attacks: Range",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "43",
+    "Link": "DFX43"
+  },
+  {
+    "Rule": "Ranged Attacks: Speed",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "43",
+    "Link": "DFX43"
+  },
+  {
+    "Rule": "Special Rules for Thrown Weapons",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "43",
+    "Link": "DFX43"
+  },
+  {
+    "Rule": "Bolas, Grenades, Harpoons, Lariats",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "44",
+    "Link": "DFX44"
+  },
+  {
+    "Rule": "Area and Spreading Attacks, Scatter",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "45",
+    "Link": "DFX45"
+  },
+  {
+    "Rule": "Nets, Crossbows",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "45",
+    "Link": "DFX45"
+  },
+  {
+    "Rule": "Only Defense for Area Attacks is Dodge (Dive) or Dodge (Retreat)",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "45",
+    "Link": "DFX45"
+  },
+  {
+    "Rule": "Special Rules for Missile Weapons",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "45",
+    "Link": "DFX45"
+  },
+  {
+    "Rule": "Area Effects, Explosions, Cones",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "46",
+    "Link": "DFX46"
+  },
+  {
+    "Rule": "Defense Rolls",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "46",
+    "Link": "DFX46"
+  },
+  {
+    "Rule": "Combat at Different Height Levels",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "47",
+    "Link": "DFX47"
+  },
+  {
+    "Rule": "Defending Your Weapon",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "47",
+    "Link": "DFX47"
+  },
+  {
+    "Rule": "Defense Bonus",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "47",
+    "Link": "DFX47"
+  },
+  {
+    "Rule": "Defense from Side and Back",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "47",
+    "Link": "DFX47"
+  },
+  {
+    "Rule": "Dodge",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "47",
+    "Link": "DFX47"
+  },
+  {
+    "Rule": "Retreating and Dropping Prone",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "47",
+    "Link": "DFX47"
+  },
+  {
+    "Rule": "Runaround Attacks",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "47",
+    "Link": "DFX47"
+  },
+  {
+    "Rule": "Visibility and Defense",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "47",
+    "Link": "DFX47"
+  },
+  {
+    "Rule": "Acrobatic Dodge",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "48",
+    "Link": "DFX48"
+  },
+  {
+    "Rule": "Blocking with Shield and Cloak",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "48",
+    "Link": "DFX48"
+  },
+  {
+    "Rule": "Cloak Grapple, Shield Bash, Shield Rush",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "48",
+    "Link": "DFX48"
+  },
+  {
+    "Rule": "Failed Blocks with a Cloak",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "48",
+    "Link": "DFX48"
+  },
+  {
+    "Rule": "Parrying Off-Hand is -2 to Skill, No penalty with a Main-Gauche",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "48",
+    "Link": "DFX48"
+  },
+  {
+    "Rule": "Parrying, Number of Parries, Parry",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "48",
+    "Link": "DFX48"
+  },
+  {
+    "Rule": "Parrying Bows and Missile Weapons",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "49",
+    "Link": "DFX49"
+  },
+  {
+    "Rule": "Parrying Flails and Kusaris",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "49",
+    "Link": "DFX49"
+  },
+  {
+    "Rule": "Parrying Heavy Weapons",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "49",
+    "Link": "DFX49"
+  },
+  {
+    "Rule": "Parrying Unarmed",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "49",
+    "Link": "DFX49"
+  },
+  {
+    "Rule": "Parrying Unarmed Attacks",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "49",
+    "Link": "DFX49"
+  },
+  {
+    "Rule": "Parrying with Unbalanced Weapons",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "49",
+    "Link": "DFX49"
+  },
+  {
+    "Rule": "Active Defense Option: Dodge and Drop",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "50",
+    "Link": "DFX50"
+  },
+  {
+    "Rule": "Active Defense Option: Retreat",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "50",
+    "Link": "DFX50"
+  },
+  {
+    "Rule": "Active Defense Option: Taking Cover",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "50",
+    "Link": "DFX50"
+  },
+  {
+    "Rule": "Critical Hits and Misses",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "50",
+    "Link": "DFX50"
+  },
+  {
+    "Rule": "Taking Cover from Area Attacks",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "50",
+    "Link": "DFX50"
+  },
+  {
+    "Rule": "Close Combat: Entering a Foe's Hex",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "51",
+    "Link": "DFX51"
+  },
+  {
+    "Rule": "Close Combat: Leaving a Foe's Hex",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "51",
+    "Link": "DFX51"
+  },
+  {
+    "Rule": "Defense in Close Combat",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "51",
+    "Link": "DFX51"
+  },
+  {
+    "Rule": "Ditching Your Shield in Close Combat",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "51",
+    "Link": "DFX51"
+  },
+  {
+    "Rule": "Multiple People in Close Combat",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "51",
+    "Link": "DFX51"
+  },
+  {
+    "Rule": "Readying in Close Combat",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "51",
+    "Link": "DFX51"
+  },
+  {
+    "Rule": "Shields in Close Combat",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "51",
+    "Link": "DFX51"
+  },
+  {
+    "Rule": "Striking into Close Combat",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "51",
+    "Link": "DFX51"
+  },
+  {
+    "Rule": "Weapons in Close Combat",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "51",
+    "Link": "DFX51"
+  },
+  {
+    "Rule": "Armor Divisors",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Armor",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "52",
+    "Link": "DFX52"
+  },
+  {
+    "Rule": "Damage Resistance and Penetration",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Armor",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "52",
+    "Link": "DFX52"
+  },
+  {
+    "Rule": "Half-Damage for Ranged Attacks",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "52",
+    "Link": "DFX52"
+  },
+  {
+    "Rule": "The Damage Roll",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "52",
+    "Link": "DFX52"
+  },
+  {
+    "Rule": "Corrosion",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "53",
+    "Link": "DFX53"
+  },
+  {
+    "Rule": "Damage Type, Wounding Modifier, and Injury",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "53",
+    "Link": "DFX53"
+  },
+  {
+    "Rule": "Effects of Injury",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "53",
+    "Link": "DFX53"
+  },
+  {
+    "Rule": "Hit Location and Injury",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "53",
+    "Link": "DFX53"
+  },
+  {
+    "Rule": "Hit Locations",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "53",
+    "Link": "DFX53"
+  },
+  {
+    "Rule": "Knockback",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "53",
+    "Link": "DFX53"
+  },
+  {
+    "Rule": "Large-Area Injury",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "53",
+    "Link": "DFX53"
+  },
+  {
+    "Rule": "Damage to Objects",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "55",
+    "Link": "DFX55"
+  },
+  {
+    "Rule": "Damage to Unliving, Homogeneous, and Diffuse Creatures",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "55",
+    "Link": "DFX55"
+  },
+  {
+    "Rule": "Shock, Crippling, Major Wound, Stunning",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "55",
+    "Link": "DFX55"
+  },
+  {
+    "Rule": "Broken Weapons",
+    "Category": [
+      "DFRPG",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "56",
+    "Link": "DFX56"
+  },
+  {
+    "Rule": "Follow-Up Damage (Monster Venom, Poisoned and Flaming Weapons)",
+    "Category": [
+      "DFRPG",
+      "Weapons",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "56",
+    "Link": "DFX56"
+  },
+  {
+    "Rule": "Special Delivery Damage (Poisons)",
+    "Category": [
+      "DFRPG",
+      "Poisons",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "56",
+    "Link": "DFX56"
+  },
+  {
+    "Rule": "Attacks without Damage (Afflictions and Bindings)",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "57",
+    "Link": "DFX57"
+  },
+  {
+    "Rule": "Playing Dead in Combat",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "57",
+    "Link": "DFX57"
+  },
+  {
+    "Rule": "Recognizing Magic",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "57",
+    "Link": "DFX57"
+  },
+  {
+    "Rule": "Rogue Skill: Backstabbing, Starting Combat Behind an Enemy",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "57",
+    "Link": "DFX57"
+  },
+  {
+    "Rule": "Tactics, Leadership, and Strategy in Combat",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "57",
+    "Link": "DFX57"
+  },
+  {
+    "Rule": "Acrobatic Evade, Acrobatic Guard, Acrobatic Stand",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "58",
+    "Link": "DFX58"
+  },
+  {
+    "Rule": "Athletics in Combat",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "58",
+    "Link": "DFX58"
+  },
+  {
+    "Rule": "Hidden Weapons, Practical Poisoning, and Traps",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Skills",
+      "Poisons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "58",
+    "Link": "DFX58"
+  },
+  {
+    "Rule": "Taunt and Bluster",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "58",
+    "Link": "DFX58"
+  },
+  {
+    "Rule": "Tumbling",
+    "Category": [
+      "DFRPG",
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "58",
+    "Link": "DFX58"
+  },
+  {
+    "Rule": "Accumulated Injury Effects",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "59",
+    "Link": "DFX59"
+  },
+  {
+    "Rule": "Temporary Attribute Penalties",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "59",
+    "Link": "DFX59"
+  },
+  {
+    "Rule": "Death, and Dying Actions",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "60",
+    "Link": "DFX60"
+  },
+  {
+    "Rule": "High HP and Shock",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "60",
+    "Link": "DFX60"
+  },
+  {
+    "Rule": "Killing a Helpless Person/Creature",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "60",
+    "Link": "DFX60"
+  },
+  {
+    "Rule": "Knockdown",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "60",
+    "Link": "DFX60"
+  },
+  {
+    "Rule": "Major Wounds",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "60",
+    "Link": "DFX60"
+  },
+  {
+    "Rule": "Mortal Wounds",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "60",
+    "Link": "DFX60"
+  },
+  {
+    "Rule": "Shock (Penalties Effect Next Turn Only, Not Immediate)",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "60",
+    "Link": "DFX60"
+  },
+  {
+    "Rule": "Shock Penalties Do Not Effect Defenses, Resistance Rolls, or Fright Checks)",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "60",
+    "Link": "DFX60"
+  },
+  {
+    "Rule": "Stun",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "60",
+    "Link": "DFX60"
+  },
+  {
+    "Rule": "Crippling, Crippling Table, Effects of Crippling, Duration of Crippling",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "61",
+    "Link": "DFX61"
+  },
+  {
+    "Rule": "Effects of Healing, High HP and Healing",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "62",
+    "Link": "DFX62"
+  },
+  {
+    "Rule": "Natural Recover, Healing Magic",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "62",
+    "Link": "DFX62"
+  },
+  {
+    "Rule": "Recovery from Unconsciousness",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "62",
+    "Link": "DFX62"
+  },
+  {
+    "Rule": "Effects of Accumulated Fatigue",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "63",
+    "Link": "DFX63"
+  },
+  {
+    "Rule": "Fatigue Costs: Exertion, Fighting a Battle, Travel, Missed Sleep",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "63",
+    "Link": "DFX63"
+  },
+  {
+    "Rule": "Unrealistic Healing During Combat (Medic!)",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "63",
+    "Link": "DFX63"
+  },
+  {
+    "Rule": "Recovering from Fatigue",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "64",
+    "Link": "DFX64"
+  },
+  {
+    "Rule": "Acid",
+    "Category": [
+      "DFRPG",
+      "Hazards"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "65",
+    "Link": "DFX65"
+  },
+  {
+    "Rule": "Afflictions",
+    "Category": [
+      "DFRPG",
+      "Afflictions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "65",
+    "Link": "DFX65"
+  },
+  {
+    "Rule": "Irritants: Coughing, Sneezing, Euphoria, Intoxication, Itching, Nausea, Pain",
+    "Category": [
+      "DFRPG",
+      "Afflictions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "65",
+    "Link": "DFX65"
+  },
+  {
+    "Rule": "Irritants: Pain, Slow, Crippling, Disadvantage, Knockdown",
+    "Category": [
+      "DFRPG",
+      "Afflictions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "65",
+    "Link": "DFX65"
+  },
+  {
+    "Rule": "Recovering from Sleep and Starvation Fatigue",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "65",
+    "Link": "DFX65"
+  },
+  {
+    "Rule": "Starvation Costs 1 FP per Missed Meal",
+    "Category": [
+      "DFRPG",
+      "Injury"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "65",
+    "Link": "DFX65"
+  },
+  {
+    "Rule": "Disease",
+    "Category": [
+      "DFRPG",
+      "Afflictions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "66",
+    "Link": "DFX66"
+  },
+  {
+    "Rule": "Incapacitating Conditions: Agony, Choking, Daze, Ecstasy",
+    "Category": [
+      "DFRPG",
+      "Afflictions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "66",
+    "Link": "DFX66"
+  },
+  {
+    "Rule": "Incapacitating Conditions: Hallucinaitons, Paralysis, Retching",
+    "Category": [
+      "DFRPG",
+      "Afflictions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "66",
+    "Link": "DFX66"
+  },
+  {
+    "Rule": "Incapacitating Conditions: Seizure, Sleep, Stasis, Stun",
+    "Category": [
+      "DFRPG",
+      "Afflictions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "66",
+    "Link": "DFX66"
+  },
+  {
+    "Rule": "Irritant: Slow Move",
+    "Category": [
+      "DFRPG",
+      "Afflictions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "66",
+    "Link": "DFX66"
+  },
+  {
+    "Rule": "Mortal Conditions: Coma, Heart Attack, Mortal Wound, Petrification",
+    "Category": [
+      "DFRPG",
+      "Afflictions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "66",
+    "Link": "DFX66"
+  },
+  {
+    "Rule": "Falling, Falling Damage Table, Falling Objects",
+    "Category": [
+      "DFRPG",
+      "Hazards"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "67",
+    "Link": "DFX67"
+  },
+  {
+    "Rule": "Recovery from Disease",
+    "Category": [
+      "DFRPG",
+      "Afflictions"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "67",
+    "Link": "DFX67"
+  },
+  {
+    "Rule": "Catching on Fire (Clothes, Shield, Gear)",
+    "Category": [
+      "DFRPG",
+      "Hazards"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "68",
+    "Link": "DFX68"
+  },
+  {
+    "Rule": "Flame (Ordinary Fire, Fire Hazards, Incendiary Weapons, Fire Attacks)",
+    "Category": [
+      "DFRPG",
+      "Hazards"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "68",
+    "Link": "DFX68"
+  },
+  {
+    "Rule": "Poison (Detecting, Resistance, Schedule, Effects, Recovery, Treatment)",
+    "Category": [
+      "DFRPG: Poisons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "69",
+    "Link": "DFX69"
+  },
+  {
+    "Rule": "Extreme Temperatures",
+    "Category": [
+      "DFRPG",
+      "Hazards"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "70",
+    "Link": "DFX70"
+  },
+  {
+    "Rule": "Suffocation",
+    "Category": [
+      "DFRPG",
+      "Hazards"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "70",
+    "Link": "DFX70"
+  },
+  {
+    "Rule": "Traps (Detecting, Disarming, Avoiding, Saving)",
+    "Category": [
+      "DFRPG",
+      "Hazards"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "70",
+    "Link": "DFX70"
+  },
+  {
+    "Rule": "Traps (Effects, Re-arming, Stealing)",
+    "Category": [
+      "DFRPG",
+      "Hazards"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "71",
+    "Link": "DFX71"
+  },
+  {
+    "Rule": "Precious Metals: Billon, Tumbaga, Electrum",
+    "Category": [
+      "DFRPG",
+      "Treasure"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "73",
+    "Link": "DFX73"
+  },
+  {
+    "Rule": "Precious Metals: Copper, Silver, Gold, Platinum",
+    "Category": [
+      "DFRPG",
+      "Treasure"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "73",
+    "Link": "DFX73"
+  },
+  {
+    "Rule": "Gems and Jewelry",
+    "Category": [
+      "DFRPG",
+      "Treasure"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "74",
+    "Link": "DFX74"
+  },
+  {
+    "Rule": "Luxury Items, Antiques, and Art Objects",
+    "Category": [
+      "DFRPG",
+      "Treasure"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "74",
+    "Link": "DFX74"
+  },
+  {
+    "Rule": "Liquidating Loot",
+    "Category": [
+      "DFRPG",
+      "Treasure"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "75",
+    "Link": "DFX75"
+  },
+  {
+    "Rule": "Maps and Spellbooks",
+    "Category": [
+      "DFRPG",
+      "Treasure"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "76",
+    "Link": "DFX76"
+  },
+  {
+    "Rule": "Potions and Scrolls",
+    "Category": [
+      "DFRPG",
+      "Treasure"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "76",
+    "Link": "DFX76"
+  },
+  {
+    "Rule": "Enchanted Items",
+    "Category": [
+      "DFRPG",
+      "Treasure"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "77",
+    "Link": "DFX77"
+  },
+  {
+    "Rule": "Scrolls as Treasure",
+    "Category": [
+      "DFRPG",
+      "Treasure"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "77",
+    "Link": "DFX77"
+  },
+  {
+    "Rule": "Supernatural Origins",
+    "Category": [
+      "DFRPG",
+      "Powers"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "77",
+    "Link": "DFX77"
+  },
+  {
+    "Rule": "Types of Scrolls",
+    "Category": [
+      "DFRPG",
+      "Treasure"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "77",
+    "Link": "DFX77"
+  },
+  {
+    "Rule": "Always-On Magic Items",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "78",
+    "Link": "DFX78"
+  },
+  {
+    "Rule": "Casting Items",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "78",
+    "Link": "DFX78"
+  },
+  {
+    "Rule": "Common Enchantments",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "78",
+    "Link": "DFX78"
+  },
+  {
+    "Rule": "Limited-Use Magic Items",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "78",
+    "Link": "DFX78"
+  },
+  {
+    "Rule": "Enchanted Treasures",
+    "Category": [
+      "DFRPG",
+      "Treasure",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "79",
+    "Link": "DFX79"
+  },
+  {
+    "Rule": "Unique Magic Items",
+    "Category": [
+      "DFRPG",
+      "Treasure",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "79",
+    "Link": "DFX79"
+  },
+  {
+    "Rule": "Doors (Material, DR, and HP Table)",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "82",
+    "Link": "DFX82"
+  },
+  {
+    "Rule": "Walls (Thickness, DR, and HP Table)",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "82",
+    "Link": "DFX82"
+  },
+  {
+    "Rule": "Metalwork (Material, DR, HP, Weight, and ST Table)",
+    "Category": [
+      "DFRPG",
+      "Reference",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "83",
+    "Link": "DFX83"
+  },
+  {
+    "Rule": "Mana and Sanctity in Areas",
+    "Category": [
+      "DFRPG",
+      "Magic",
+      "Divinity",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "84",
+    "Link": "DFX84"
+  },
+  {
+    "Rule": "Caps on Attribute Increases",
+    "Category": [
+      "DFRPG",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "93",
+    "Link": "DFX93"
+  },
+  {
+    "Rule": "Optional Rule: Training Expenses",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "93",
+    "Link": "DFX93"
+  },
+  {
+    "Rule": "Melee Attack Modifiers",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "95",
+    "Link": "DFX95"
+  },
+  {
+    "Rule": "Active Defense Modifiers",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "96",
+    "Link": "DFX96"
+  },
+  {
+    "Rule": "Ranged Attack Modifiers",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "96",
+    "Link": "DFX96"
+  },
+  {
+    "Rule": "Maneuvers Table",
+    "Category": [
+      "DFRPG",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "98",
+    "Link": "DFX98"
+  },
+  {
+    "Rule": "Size and Speed/Range Table",
+    "Category": [
+      "DFRPG",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "98",
+    "Link": "DFX98"
+  },
+  {
+    "Rule": "Hit Location Table",
+    "Category": [
+      "DFRPG",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "99",
+    "Link": "DFX99"
+  },
+  {
+    "Rule": "Postures Table",
+    "Category": [
+      "DFRPG",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "99",
+    "Link": "DFX99"
+  },
+  {
+    "Rule": "Critical Hits Table, Critical Hit Head Blow Table",
+    "Category": [
+      "DFRPG",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "100",
+    "Link": "DFX100"
+  },
+  {
+    "Rule": "Critical Misses Table, Unarmed Critical Misses Table",
+    "Category": [
+      "DFRPG",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "101",
+    "Link": "DFX101"
+  },
+  {
+    "Rule": "Object Hit Points Table",
+    "Category": [
+      "DFRPG",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Exploits",
+    "Page": "102",
+    "Link": "DFX102"
+  },
+  {
+    "Rule": "Clerical Spells: Power Investiture",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "5",
+    "Link": "DFS5"
+  },
+  {
+    "Rule": "Clerical Spells: Sanctity",
+    "Category": [
+      "DFRPG",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "5",
+    "Link": "DFS5"
+  },
+  {
+    "Rule": "Learning New Spells",
+    "Category": [
+      "DFRPG",
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "5",
+    "Link": "DFS5"
+  },
+  {
+    "Rule": "Clerical Spell List",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "6",
+    "Link": "DFS6"
+  },
+  {
+    "Rule": "Druidic Spells: Power Investiture (Druidic)",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "6",
+    "Link": "DFS6"
+  },
+  {
+    "Rule": "Nature's Strength",
+    "Category": [
+      "DFRPG",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "6",
+    "Link": "DFS6"
+  },
+  {
+    "Rule": "Bardic Spells, Bardic Talent Replaces Magery for Bards",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "7",
+    "Link": "DFS7"
+  },
+  {
+    "Rule": "Druidic Spell List",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "7",
+    "Link": "DFS7"
+  },
+  {
+    "Rule": "Magery and Mana",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "7",
+    "Link": "DFS7"
+  },
+  {
+    "Rule": "Very High and High Mana Level",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "7",
+    "Link": "DFS7"
+  },
+  {
+    "Rule": "Wizard Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "7",
+    "Link": "DFS7"
+  },
+  {
+    "Rule": "Casting Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "8",
+    "Link": "DFS8"
+  },
+  {
+    "Rule": "Critical Spell Failure Table",
+    "Category": [
+      "DFRPG",
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "8",
+    "Link": "DFS8"
+  },
+  {
+    "Rule": "Distraction and Injury",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "8",
+    "Link": "DFS8"
+  },
+  {
+    "Rule": "Normal, Low, and No Mana Level",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "8",
+    "Link": "DFS8"
+  },
+  {
+    "Rule": "Wizardly Prerequisities",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "8",
+    "Link": "DFS8"
+  },
+  {
+    "Rule": "Caster and Subject",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "9",
+    "Link": "DFS9"
+  },
+  {
+    "Rule": "Energy Cost and Energy Cost Reduction of Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "9",
+    "Link": "DFS9"
+  },
+  {
+    "Rule": "Energy Reserves",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "9",
+    "Link": "DFS9"
+  },
+  {
+    "Rule": "Magic Staffs",
+    "Category": [
+      "DFRPG",
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "9",
+    "Link": "DFS9"
+  },
+  {
+    "Rule": "Power Items",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "9",
+    "Link": "DFS9"
+  },
+  {
+    "Rule": "Time to Cast a Spell",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "9",
+    "Link": "DFS9"
+  },
+  {
+    "Rule": "Burning Hit Points",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "10",
+    "Link": "DFS10"
+  },
+  {
+    "Rule": "Limits on Effect",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "10",
+    "Link": "DFS10"
+  },
+  {
+    "Rule": "Magic Ritual by Skill Level",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "10",
+    "Link": "DFS10"
+  },
+  {
+    "Rule": "Recovering Energy",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "10",
+    "Link": "DFS10"
+  },
+  {
+    "Rule": "Canceling Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "11",
+    "Link": "DFS11"
+  },
+  {
+    "Rule": "Casting Spells while Maintaining Other Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "11",
+    "Link": "DFS11"
+  },
+  {
+    "Rule": "Changing Maintained Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "11",
+    "Link": "DFS11"
+  },
+  {
+    "Rule": "Concentration and Maintenance",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "11",
+    "Link": "DFS11"
+  },
+  {
+    "Rule": "Duration of Spells and Maintaining Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "11",
+    "Link": "DFS11"
+  },
+  {
+    "Rule": "High Skill and Cost to Maintain",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "11",
+    "Link": "DFS11"
+  },
+  {
+    "Rule": "Talent on Effect (Higher of Listed Spell Cap or Casting Talent)",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "11",
+    "Link": "DFS11"
+  },
+  {
+    "Rule": "Area Spells, Area Spells on a Battlemap",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "12",
+    "Link": "DFS12"
+  },
+  {
+    "Rule": "Jet Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "12",
+    "Link": "DFS12"
+  },
+  {
+    "Rule": "Permanent Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "12",
+    "Link": "DFS12"
+  },
+  {
+    "Rule": "Regular Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "12",
+    "Link": "DFS12"
+  },
+  {
+    "Rule": "Dissipating Held Melee and Missile Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "13",
+    "Link": "DFS13"
+  },
+  {
+    "Rule": "Melee Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "13",
+    "Link": "DFS13"
+  },
+  {
+    "Rule": "Missile Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "13",
+    "Link": "DFS13"
+  },
+  {
+    "Rule": "Blocking Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "14",
+    "Link": "DFS14"
+  },
+  {
+    "Rule": "Information Spells and Long Distance Modifiers",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "14",
+    "Link": "DFS14"
+  },
+  {
+    "Rule": "Resisted Spells",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "14",
+    "Link": "DFS14"
+  },
+  {
+    "Rule": "Air Spell College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "15",
+    "Link": "DFS15"
+  },
+  {
+    "Rule": "Animal Spell College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "17",
+    "Link": "DFS17"
+  },
+  {
+    "Rule": "Body Control Spell College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "20",
+    "Link": "DFS20"
+  },
+  {
+    "Rule": "Communication and Empathy Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "23",
+    "Link": "DFS23"
+  },
+  {
+    "Rule": "Earth Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "27",
+    "Link": "DFS27"
+  },
+  {
+    "Rule": "Fire Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "29",
+    "Link": "DFS29"
+  },
+  {
+    "Rule": "Food Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "32",
+    "Link": "DFS32"
+  },
+  {
+    "Rule": "Gate Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "34",
+    "Link": "DFS34"
+  },
+  {
+    "Rule": "Healing Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "35",
+    "Link": "DFS35"
+  },
+  {
+    "Rule": "Illusion Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "40",
+    "Link": "DFS40"
+  },
+  {
+    "Rule": "Knowledge Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "42",
+    "Link": "DFS42"
+  },
+  {
+    "Rule": "Light and Darkness Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "45",
+    "Link": "DFS45"
+  },
+  {
+    "Rule": "Making and Breaking Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "48",
+    "Link": "DFS48"
+  },
+  {
+    "Rule": "Meta-Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "50",
+    "Link": "DFS50"
+  },
+  {
+    "Rule": "Mind Control Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "53",
+    "Link": "DFS53"
+  },
+  {
+    "Rule": "Movement Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "56",
+    "Link": "DFS56"
+  },
+  {
+    "Rule": "Necromantic Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "59",
+    "Link": "DFS59"
+  },
+  {
+    "Rule": "Plant Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "61",
+    "Link": "DFS61"
+  },
+  {
+    "Rule": "Protection and Warning Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "63",
+    "Link": "DFS63"
+  },
+  {
+    "Rule": "Sound Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "66",
+    "Link": "DFS66"
+  },
+  {
+    "Rule": "Water Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "68",
+    "Link": "DFS68"
+  },
+  {
+    "Rule": "Weather Spells College",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "71",
+    "Link": "DFS71"
+  },
+  {
+    "Rule": "Spell Table",
+    "Category": [
+      "DFRPG",
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "73",
+    "Link": "DFS73"
+  },
+  {
+    "Rule": "Magic Rituals Table",
+    "Category": [
+      "DFRPG",
+      "Magic",
+      "Reference"
+    ],
+    "Book": "Dungeon Fantasy RPG: Spells",
+    "Page": "75",
+    "Link": "DFS75"
   },
   {
     "Rule": "Glow-Fungus",
