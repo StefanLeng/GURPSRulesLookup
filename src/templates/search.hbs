@@ -13,4 +13,12 @@
                 <option value='{{book}}' {{select-if selected true}} ><span>{{book}}</span></option>
             {{/each}}
     </multi-select> 
+    {{#if (eq globalIncludeDFRPG 'both')}}
+        <p class='GurpsRulesLookupLabel'>Include DFRPG:</p>
+        <select class='GurpsRulesLookupDFRPG' data-action="DFRPG">
+            {{#each DFRPGchoices}}
+                <option value='{{key}}' {{select-if selected true}}>{{name}}</option>
+            {{/each}}
+        </select>
+    {{/if}}
 </div>

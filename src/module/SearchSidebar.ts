@@ -31,6 +31,7 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
     #selectedBooks: string[] = [];
     #message: string = 'Too many results found. Please refine your search.';
     #fuse: Fuse<RulesEntry> | null = null;
+    #includeDFRPG: 'no' | 'only' | 'both' = game.settings?.get('GURPSRulesLookup', 'IncludeDFRPG') ?? 'no';
 
     async loadRules() {
         try {
@@ -104,6 +105,12 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
                 return { book: book, selected: this.#selectedBooks.includes(book) };
             }),
             message: this.#message,
+            globalIncludeDFRPG: game.settings?.get('GURPSRulesLookup', 'IncludeDFRPG') as 'no' | 'only' | 'both',
+            DFRPGchoices: [
+                { key: 'no', name: 'Only GURPS rules', selected: this.#includeDFRPG === 'no' },
+                { key: 'only', name: 'Only DFRPG rules', selected: this.#includeDFRPG === 'only' },
+                { key: 'both', name: 'Both GURPS AND DFRPG rules', selected: this.#includeDFRPG === 'both' },
+            ],
         };
         return context;
     }
@@ -165,6 +172,18 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
                 this.search();
             });
         }
+
+        const DFRPGSelect = this.element.querySelector<HTMLSelectElement>('select[data-action="DFRPG"]');
+        if (DFRPGSelect) {
+            DFRPGSelect.addEventListener('change', (event) => {
+                event.preventDefault();
+                const target = event.currentTarget as HTMLSelectElement;
+                const value = target.value;
+                if (value === this.#includeDFRPG) return;
+                this.#includeDFRPG = value as 'no' | 'only' | 'both';
+                this.search();
+            });
+        }
     }
 
     private search() {
@@ -176,7 +195,10 @@ export class SearchSidebar extends HandlebarsApplicationMixin(AbstractSidebarTab
                 return (
                     (this.#selectedCategories.length === 0 ||
                         r.Category.some((cat) => this.#selectedCategories.includes(cat))) &&
-                    (this.#selectedBooks.length === 0 || this.#selectedBooks.includes(r.Book))
+                    (this.#selectedBooks.length === 0 || this.#selectedBooks.includes(r.Book)) &&
+                    (this.#includeDFRPG === 'both' ||
+                        (this.#includeDFRPG === 'only' && r.Category.includes('DFRPG')) ||
+                        (this.#includeDFRPG === 'no' && !r.Category.includes('DFRPG')))
                 );
             });
         if (this.#results.length === 0) {
