@@ -3200,7 +3200,7 @@
     "Link": "B33"
   },
   {
-    "Rule": "Schrödinger’s Advantage and Secret Advantages",
+    "Rule": "Schrödingers Advantage and Secret Advantages",
     "Category": [
       "Attributes"
     ],
@@ -4969,6 +4969,15 @@
     "Link": "B125"
   },
   {
+    "Rule": "An NPC can be both an Ally and a Dependent",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "131",
+    "Link": "B131"
+  },
+  {
     "Rule": "Destiny Disadvantage",
     "Category": [
       "Traits"
@@ -5708,7 +5717,7 @@
     "Link": "B270"
   },
   {
-    "Rule": "Two Hand Use and Unready indicated by \"‡\" in Tables",
+    "Rule": "Two Hand Use and Unready indicated by \"\" in Tables",
     "Category": [
       "Reference",
       "Weapons"
@@ -5718,7 +5727,7 @@
     "Link": "B270"
   },
   {
-    "Rule": "Two Hand Use indicated by \"†\" in Tables",
+    "Rule": "Two Hand Use indicated by \"\" in Tables",
     "Category": [
       "Reference",
       "Weapons"
@@ -15133,7 +15142,7 @@
     "Link": "CN3:3"
   },
   {
-    "Rule": "Cows from Space (um…it's a super-intelligent cow…in space)",
+    "Rule": "Cows from Space (umit's a super-intelligent cowin space)",
     "Category": [
       "Creatures"
     ],
@@ -16517,7 +16526,7 @@
     "Link": "DR145"
   },
   {
-    "Rule": "Professor Friedl’s Mechanical Dragon",
+    "Rule": "Professor Friedls Mechanical Dragon",
     "Category": [
       "Template",
       "Creatures"
@@ -16688,7 +16697,7 @@
     "Link": "DR155"
   },
   {
-    "Rule": "Slayer’s Advisor",
+    "Rule": "Slayers Advisor",
     "Category": [
       "Template"
     ],
@@ -22171,6 +22180,2198 @@
     "Link": "DF9:37"
   },
   {
+    "Rule": "Alla Breve",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "5",
+    "Link": "DFRC2:5"
+  },
+  {
+    "Rule": "Bone Standard",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "6",
+    "Link": "DFRC2:6"
+  },
+  {
+    "Rule": "Buccaneer's Band",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "7",
+    "Link": "DFRC2:7"
+  },
+  {
+    "Rule": "Countless Caltrops",
+    "Category": [
+      "Magic",
+      "Weapons",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "8",
+    "Link": "DFRC2:8"
+  },
+  {
+    "Rule": "Crier's Scroll",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "9",
+    "Link": "DFRC2:9"
+  },
+  {
+    "Rule": "Dawn Thunder",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "10",
+    "Link": "DFRC2:10"
+  },
+  {
+    "Rule": "Envy",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "11",
+    "Link": "DFRC2:11"
+  },
+  {
+    "Rule": "Flying Fetters",
+    "Category": [
+      "Magic",
+      "Weapons",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "12",
+    "Link": "DFRC2:12"
+  },
+  {
+    "Rule": "Granny's Lace-Ups",
+    "Category": [
+      "Magic",
+      "Armor",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "13",
+    "Link": "DFRC2:13"
+  },
+  {
+    "Rule": "Pointy (New Armor Modifier)",
+    "Category": [
+      "Armor",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "13",
+    "Link": "DFRC2:13"
+  },
+  {
+    "Rule": "Thick Soles (New Combat Accessory)",
+    "Category": [
+      "Gear",
+      "Armor",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "13",
+    "Link": "DFRC2:13"
+  },
+  {
+    "Rule": "Hunter's Juju",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "14",
+    "Link": "DFRC2:14"
+  },
+  {
+    "Rule": "Illabel's Splendor",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "15",
+    "Link": "DFRC2:15"
+  },
+  {
+    "Rule": "The Juvenator",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "16",
+    "Link": "DFRC2:16"
+  },
+  {
+    "Rule": "Heavy Lifting! (cart/litter/wheelbarrow/wagon carrying rules)",
+    "Category": [
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "17",
+    "Link": "DFRC2:17"
+  },
+  {
+    "Rule": "Ol' Smiley's Inn",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "17",
+    "Link": "DFRC2:17"
+  },
+  {
+    "Rule": "Oudou",
+    "Category": [
+      "Magic",
+      "Armor",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "18",
+    "Link": "DFRC2:18"
+  },
+  {
+    "Rule": "Wood (New Armor Material)",
+    "Category": [
+      "Armor",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "18",
+    "Link": "DFRC2:18"
+  },
+  {
+    "Rule": "Portable Purveyor",
+    "Category": [
+      "Magic",
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "19",
+    "Link": "DFRC2:19"
+  },
+  {
+    "Rule": "Gnomish (New Armor Modifier)",
+    "Category": [
+      "Armor",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "20",
+    "Link": "DFRC2:20"
+  },
+  {
+    "Rule": "The Stompers",
+    "Category": [
+      "Magic",
+      "Armor",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "20",
+    "Link": "DFRC2:20"
+  },
+  {
+    "Rule": "Astucum",
+    "Category": [
+      "Creatures",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "22",
+    "Link": "DFRC2:22"
+  },
+  {
+    "Rule": "Centaur",
+    "Category": [
+      "Creatures",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "24",
+    "Link": "DFRC2:24"
+  },
+  {
+    "Rule": "Centaur Racial Template (Centaur Delvers)",
+    "Category": [
+      "Template",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "25",
+    "Link": "DFRC2:25"
+  },
+  {
+    "Rule": "Elastoid",
+    "Category": [
+      "Creatures",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "26",
+    "Link": "DFRC2:26"
+  },
+  {
+    "Rule": "Harpy (DFRPG)",
+    "Category": [
+      "Creatures",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "28",
+    "Link": "DFRC2:28"
+  },
+  {
+    "Rule": "Harpy Deviations (Storm-Singers & Fair Harpies)",
+    "Category": [
+      "Creatures",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "29",
+    "Link": "DFRC2:29"
+  },
+  {
+    "Rule": "Osisizo",
+    "Category": [
+      "Creatures",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "30",
+    "Link": "DFRC2:30"
+  },
+  {
+    "Rule": "Warhog",
+    "Category": [
+      "Creatures",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "32",
+    "Link": "DFRC2:32"
+  },
+  {
+    "Rule": "Dúbelthor",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "36",
+    "Link": "DFRC2:36"
+  },
+  {
+    "Rule": "Trap Magical Essence (New Spell)",
+    "Category": [
+      "Magic",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "37",
+    "Link": "DFRC2:37"
+  },
+  {
+    "Rule": "Fair Kilari",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "38",
+    "Link": "DFRC2:38"
+  },
+  {
+    "Rule": "Animal Companion (New Advantage)",
+    "Category": [
+      "Traits",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "39",
+    "Link": "DFRC2:39"
+  },
+  {
+    "Rule": "Geoff Ironshield",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "40",
+    "Link": "DFRC2:40"
+  },
+  {
+    "Rule": "Minotaur Racial Template",
+    "Category": [
+      "Template",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "41",
+    "Link": "DFRC2:41"
+  },
+  {
+    "Rule": "Guitore the Relentless",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "42",
+    "Link": "DFRC2:42"
+  },
+  {
+    "Rule": "Nondetection (New Special Thief Trait)",
+    "Category": [
+      "Traits",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "43",
+    "Link": "DFRC2:43"
+  },
+  {
+    "Rule": "Ithylyssya Athì",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "44",
+    "Link": "DFRC2:44"
+  },
+  {
+    "Rule": "Dark Elf (DFRPG)",
+    "Category": [
+      "Template",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "45",
+    "Link": "DFRC2:45"
+  },
+  {
+    "Rule": "Jana Sey",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "46",
+    "Link": "DFRC2:46"
+  },
+  {
+    "Rule": "Shapeshifting (New Druidic Ability)",
+    "Category": [
+      "Traits",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "47",
+    "Link": "DFRC2:47"
+  },
+  {
+    "Rule": "King Scrogo the Munificent",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "48",
+    "Link": "DFRC2:48"
+  },
+  {
+    "Rule": "More Wealth! (Higher Wealth Levels)",
+    "Category": [
+      "Traits",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "49",
+    "Link": "DFRC2:49"
+  },
+  {
+    "Rule": "Lady Aimara",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "50",
+    "Link": "DFRC2:50"
+  },
+  {
+    "Rule": "The Path (Chi Talent Advancement Track)",
+    "Category": [
+      "Traits",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "51",
+    "Link": "DFRC2:51"
+  },
+  {
+    "Rule": "Mictecoix",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "52",
+    "Link": "DFRC2:52"
+  },
+  {
+    "Rule": "Lizard Man Racial Template",
+    "Category": [
+      "Template",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "53",
+    "Link": "DFRC2:53"
+  },
+  {
+    "Rule": "Nagasha",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "54",
+    "Link": "DFRC2:54"
+  },
+  {
+    "Rule": "Manslayer (Magic Bow)",
+    "Category": [
+      "Magic",
+      "Weapons",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "55",
+    "Link": "DFRC2:55"
+  },
+  {
+    "Rule": "Ochtal of the Cross",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "56",
+    "Link": "DFRC2:56"
+  },
+  {
+    "Rule": "Unholy Warriors (Evil Holy Warrior Template)",
+    "Category": [
+      "Professions",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "57",
+    "Link": "DFRC2:57"
+  },
+  {
+    "Rule": "Torr Darkdeep",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "58",
+    "Link": "DFRC2:58"
+  },
+  {
+    "Rule": "Evil Clerics (Evil Cleric Profession)",
+    "Category": [
+      "Professions",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "59",
+    "Link": "DFRC2:59"
+  },
+  {
+    "Rule": "Trihéxa",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "60",
+    "Link": "DFRC2:60"
+  },
+  {
+    "Rule": "Infernal Racial Template",
+    "Category": [
+      "Template",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "61",
+    "Link": "DFRC2:61"
+  },
+  {
+    "Rule": "Zell Koshka",
+    "Category": [
+      "NPC",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "62",
+    "Link": "DFRC2:62"
+  },
+  {
+    "Rule": "Swashbuckler Traits (Heartseeker, I Studied On Killin' You, Prepared Ground, Secret Strike)",
+    "Category": [
+      "Traits",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 2",
+    "Page": "63",
+    "Link": "DFRC2:63"
+  },
+  {
+    "Rule": "Ammunition Loads",
+    "Category": [
+      "Gear",
+      "DFRPG"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "12",
+    "Link": "DFRC3:12"
+  },
+  {
+    "Rule": "Basic Delver Package, Gear",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "14",
+    "Link": "DFRC3:14"
+  },
+  {
+    "Rule": "Basic Door Breaker Package, Gear",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "14",
+    "Link": "DFRC3:14"
+  },
+  {
+    "Rule": "Bulk Food Table",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "14",
+    "Link": "DFRC3:14"
+  },
+  {
+    "Rule": "Cartographer's Package, Gear",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "14",
+    "Link": "DFRC3:14"
+  },
+  {
+    "Rule": "Haversack and Small Belt Knife",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "14",
+    "Link": "DFRC3:14"
+  },
+  {
+    "Rule": "Complete Door Breaker Package, Gear",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "15",
+    "Link": "DFRC3:15"
+  },
+  {
+    "Rule": "Large Medical Package, Gear",
+    "Category": [
+      "DFRPG",
+      "Gear",
+      "Medical"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "15",
+    "Link": "DFRC3:15"
+  },
+  {
+    "Rule": "Small Medical Package, Gear",
+    "Category": [
+      "DFRPG",
+      "Gear",
+      "Medical"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "15",
+    "Link": "DFRC3:15"
+  },
+  {
+    "Rule": "Thief Skills Package",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "15",
+    "Link": "DFRC3:15"
+  },
+  {
+    "Rule": "Simple Spell Components",
+    "Category": [
+      "DFRPG",
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "16",
+    "Link": "DFRC3:16"
+  },
+  {
+    "Rule": "Types of Spell Components",
+    "Category": [
+      "DFRPG",
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "16",
+    "Link": "DFRC3:16"
+  },
+  {
+    "Rule": "Using Spell Components",
+    "Category": [
+      "DFRPG",
+      "Magic",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "16",
+    "Link": "DFRC3:16"
+  },
+  {
+    "Rule": "Master of Components and Fast-Draw (Components)",
+    "Category": [
+      "DFRPG",
+      "Traits",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "17",
+    "Link": "DFRC3:17"
+  },
+  {
+    "Rule": "Background Generator, Step 1 Birthplace",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "18",
+    "Link": "DFRC3:18"
+  },
+  {
+    "Rule": "Background Generator, Step 2 Region",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "18",
+    "Link": "DFRC3:18"
+  },
+  {
+    "Rule": "Heroic Background Generator",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "18",
+    "Link": "DFRC3:18"
+  },
+  {
+    "Rule": "Background Generator, Step 3 Parentage",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "19",
+    "Link": "DFRC3:19"
+  },
+  {
+    "Rule": "Background Generator, Step 4 Your Mentor",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "19",
+    "Link": "DFRC3:19"
+  },
+  {
+    "Rule": "Background Generator, Step 5 Familial Relationships",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "19",
+    "Link": "DFRC3:19"
+  },
+  {
+    "Rule": "Background Generator, Step 6 Siblings",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "19",
+    "Link": "DFRC3:19"
+  },
+  {
+    "Rule": "Background Generator, Step 7 Omens",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "19",
+    "Link": "DFRC3:19"
+  },
+  {
+    "Rule": "Background Generator, Step 8 Darkness",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "19",
+    "Link": "DFRC3:19"
+  },
+  {
+    "Rule": "Background Generator, Step 10 Mundane Inheritcance",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "20",
+    "Link": "DFRC3:20"
+  },
+  {
+    "Rule": "Background Generator, Step 11 Hero's Burden",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "20",
+    "Link": "DFRC3:20"
+  },
+  {
+    "Rule": "Background Generator, Step 12 Distinguishing Features",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "20",
+    "Link": "DFRC3:20"
+  },
+  {
+    "Rule": "Background Generator, Step 9 Special Legacy",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "20",
+    "Link": "DFRC3:20"
+  },
+  {
+    "Rule": "Background Generator, Humble Folk Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "21",
+    "Link": "DFRC3:21"
+  },
+  {
+    "Rule": "Background Generator, Step 13 Prior Experience",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "21",
+    "Link": "DFRC3:21"
+  },
+  {
+    "Rule": "Background Generator, Step Beyond the World Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "21",
+    "Link": "DFRC3:21"
+  },
+  {
+    "Rule": "Background Generator, Step Orphan Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "21",
+    "Link": "DFRC3:21"
+  },
+  {
+    "Rule": "Background Generator, Who They Are Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "21",
+    "Link": "DFRC3:21"
+  },
+  {
+    "Rule": "Background Generator, Civilized NonHuman Race Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "22",
+    "Link": "DFRC3:22"
+  },
+  {
+    "Rule": "Background Generator, Construct Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "22",
+    "Link": "DFRC3:22"
+  },
+  {
+    "Rule": "Background Generator, Demon Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "22",
+    "Link": "DFRC3:22"
+  },
+  {
+    "Rule": "Background Generator, Elder Thing Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "22",
+    "Link": "DFRC3:22"
+  },
+  {
+    "Rule": "Background Generator, Goblin-kin Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "22",
+    "Link": "DFRC3:22"
+  },
+  {
+    "Rule": "Background Generator, Nonhuman Race Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "22",
+    "Link": "DFRC3:22"
+  },
+  {
+    "Rule": "Background Generator, Savage Humanoids Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "22",
+    "Link": "DFRC3:22"
+  },
+  {
+    "Rule": "Background Generator, Special Feature Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "22",
+    "Link": "DFRC3:22"
+  },
+  {
+    "Rule": "Background Generator, Supernatural Entity Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "22",
+    "Link": "DFRC3:22"
+  },
+  {
+    "Rule": "Background Generator, Undead Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "22",
+    "Link": "DFRC3:22"
+  },
+  {
+    "Rule": "Background Generator, Adventurer Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "23",
+    "Link": "DFRC3:23"
+  },
+  {
+    "Rule": "Background Generator, Animal and Giant Animal Tables",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "23",
+    "Link": "DFRC3:23"
+  },
+  {
+    "Rule": "Background Generator, Ghost Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "23",
+    "Link": "DFRC3:23"
+  },
+  {
+    "Rule": "Background Generator, Holy Folk Profession Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "23",
+    "Link": "DFRC3:23"
+  },
+  {
+    "Rule": "Background Generator, Traveler and Rogue Profession Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "23",
+    "Link": "DFRC3:23"
+  },
+  {
+    "Rule": "Background Generator, Warrior Profession Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "23",
+    "Link": "DFRC3:23"
+  },
+  {
+    "Rule": "Background Generator, Wizard Profession Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "23",
+    "Link": "DFRC3:23"
+  },
+  {
+    "Rule": "Background Generator, Dark Deeds Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "24",
+    "Link": "DFRC3:24"
+  },
+  {
+    "Rule": "Background Generator, Evildoer Motive Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "24",
+    "Link": "DFRC3:24"
+  },
+  {
+    "Rule": "Background Generator, Evildoer Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "24",
+    "Link": "DFRC3:24"
+  },
+  {
+    "Rule": "Background Generator, Grim Fate Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "24",
+    "Link": "DFRC3:24"
+  },
+  {
+    "Rule": "Background Generator, Injury Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "24",
+    "Link": "DFRC3:24"
+  },
+  {
+    "Rule": "Background Generator, Monster Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "24",
+    "Link": "DFRC3:24"
+  },
+  {
+    "Rule": "Background Generator, Relative or Loved One Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "24",
+    "Link": "DFRC3:24"
+  },
+  {
+    "Rule": "Background Generator, Broken Magic Item Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "25",
+    "Link": "DFRC3:25"
+  },
+  {
+    "Rule": "Background Generator, Dark Prophecy Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "25",
+    "Link": "DFRC3:25"
+  },
+  {
+    "Rule": "Background Generator, Disaster Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "25",
+    "Link": "DFRC3:25"
+  },
+  {
+    "Rule": "Background Generator, Evil People Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "25",
+    "Link": "DFRC3:25"
+  },
+  {
+    "Rule": "Background Generator, Faithful Companion Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "25",
+    "Link": "DFRC3:25"
+  },
+  {
+    "Rule": "Background Generator, Lover and Engagement Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "25",
+    "Link": "DFRC3:25"
+  },
+  {
+    "Rule": "Background Generator, Obstacles to Marriage Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "25",
+    "Link": "DFRC3:25"
+  },
+  {
+    "Rule": "Background Generator, Outlaw Table",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "26",
+    "Link": "DFRC3:26"
+  },
+  {
+    "Rule": "Constructing Characters in 50 pt Chunks",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "28",
+    "Link": "DFRC3:28"
+  },
+  {
+    "Rule": "Brute Warrior, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "29",
+    "Link": "DFRC3:29"
+  },
+  {
+    "Rule": "Cerebral, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "29",
+    "Link": "DFRC3:29"
+  },
+  {
+    "Rule": "Crusader, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "29",
+    "Link": "DFRC3:29"
+  },
+  {
+    "Rule": "Finesse Warrior, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "30",
+    "Link": "DFRC3:30"
+  },
+  {
+    "Rule": "Leader, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "30",
+    "Link": "DFRC3:30"
+  },
+  {
+    "Rule": "Lore-Master, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "30",
+    "Link": "DFRC3:30"
+  },
+  {
+    "Rule": "Mage, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "31",
+    "Link": "DFRC3:31"
+  },
+  {
+    "Rule": "Master Archer, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "31",
+    "Link": "DFRC3:31"
+  },
+  {
+    "Rule": "Medic, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "31",
+    "Link": "DFRC3:31"
+  },
+  {
+    "Rule": "Monk, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "31",
+    "Link": "DFRC3:31"
+  },
+  {
+    "Rule": "Nature Priest, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "31",
+    "Link": "DFRC3:31"
+  },
+  {
+    "Rule": "Differences Between DFRPG and GURPS",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "32",
+    "Link": "DFRC3:32"
+  },
+  {
+    "Rule": "Outdoorsy, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "32",
+    "Link": "DFRC3:32"
+  },
+  {
+    "Rule": "Physical, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "33",
+    "Link": "DFRC3:33"
+  },
+  {
+    "Rule": "Priest, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "33",
+    "Link": "DFRC3:33"
+  },
+  {
+    "Rule": "Rogue, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "33",
+    "Link": "DFRC3:33"
+  },
+  {
+    "Rule": "Social, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "33",
+    "Link": "DFRC3:33"
+  },
+  {
+    "Rule": "Spellsinger, 50 pt Template",
+    "Category": [
+      "DFRPG",
+      "Character Creation"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "34",
+    "Link": "DFRC3:34"
+  },
+  {
+    "Rule": "Wrestler Template for DFRPG",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "38",
+    "Link": "DFRC3:38"
+  },
+  {
+    "Rule": "Dragging a Grappled Foe",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "40",
+    "Link": "DFRC3:40"
+  },
+  {
+    "Rule": "Wrestling Master",
+    "Category": [
+      "DFRPG",
+      "Traits",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "40",
+    "Link": "DFRC3:40"
+  },
+  {
+    "Rule": "Wrestlers in GURPS, Adapting DFRPG Template",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "41",
+    "Link": "DFRC3:41"
+  },
+  {
+    "Rule": "Shield-Bearer Template",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "42",
+    "Link": "DFRC3:42"
+  },
+  {
+    "Rule": "Special Shield-Bearer Traits",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "43",
+    "Link": "DFRC3:43"
+  },
+  {
+    "Rule": "Shield-Bearer Skills",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "44",
+    "Link": "DFRC3:44"
+  },
+  {
+    "Rule": "Two Shield Fighting",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "44",
+    "Link": "DFRC3:44"
+  },
+  {
+    "Rule": "Choosing the Perfect Shield",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "45",
+    "Link": "DFRC3:45"
+  },
+  {
+    "Rule": "Shield-Bearers in GURPS",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "45",
+    "Link": "DFRC3:45"
+  },
+  {
+    "Rule": "Melee Attacks with Shields",
+    "Category": [
+      "DFRPG",
+      "Gear",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "46",
+    "Link": "DFRC3:46"
+  },
+  {
+    "Rule": "Undead-Hunter Template",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "48",
+    "Link": "DFRC3:48"
+  },
+  {
+    "Rule": "Undead-Hunters in GURPS",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "50",
+    "Link": "DFRC3:50"
+  },
+  {
+    "Rule": "Mage-Hunter Template",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "52",
+    "Link": "DFRC3:52"
+  },
+  {
+    "Rule": "Mage-Hunters in GURPS",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "53",
+    "Link": "DFRC3:53"
+  },
+  {
+    "Rule": "Dead Stop Perk, Allows Mage-Hunters to End Spells",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "54",
+    "Link": "DFRC3:54"
+  },
+  {
+    "Rule": "Mage-Hunter Skills",
+    "Category": [
+      "DFRPG",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "55",
+    "Link": "DFRC3:55"
+  },
+  {
+    "Rule": "Dwarf Dungeons",
+    "Category": [
+      "DFRPG",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "60",
+    "Link": "DFRC3:60"
+  },
+  {
+    "Rule": "Halfling Dungeons",
+    "Category": [
+      "DFRPG",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "62",
+    "Link": "DFRC3:62"
+  },
+  {
+    "Rule": "Quarterlings",
+    "Category": [
+      "DFRPG",
+      "Template"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "63",
+    "Link": "DFRC3:63"
+  },
+  {
+    "Rule": "Elf Dungeons",
+    "Category": [
+      "DFRPG",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "64",
+    "Link": "DFRC3:64"
+  },
+  {
+    "Rule": "Gnome Dungeons",
+    "Category": [
+      "DFRPG",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "65",
+    "Link": "DFRC3:65"
+  },
+  {
+    "Rule": "Random Encounter Generator",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "67",
+    "Link": "DFRC3:67"
+  },
+  {
+    "Rule": "Motivation for Random Encounters",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "68",
+    "Link": "DFRC3:68"
+  },
+  {
+    "Rule": "Random Weather Conditions",
+    "Category": [
+      "DFRPG",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "70",
+    "Link": "DFRC3:70"
+  },
+  {
+    "Rule": "Random Monster Encounter and Swam Encounter Tables",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "71",
+    "Link": "DFRC3:71"
+  },
+  {
+    "Rule": "Extradimensional Random Encounter Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "72",
+    "Link": "DFRC3:72"
+  },
+  {
+    "Rule": "Humanoid Random Encounter Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "72",
+    "Link": "DFRC3:72"
+  },
+  {
+    "Rule": "Island/Beach or Water Random Encounter Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "72",
+    "Link": "DFRC3:72"
+  },
+  {
+    "Rule": "Jungle Random Encounter Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "72",
+    "Link": "DFRC3:72"
+  },
+  {
+    "Rule": "Mountains Random Encounter Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "73",
+    "Link": "DFRC3:73"
+  },
+  {
+    "Rule": "Plains Random Encounter Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "73",
+    "Link": "DFRC3:73"
+  },
+  {
+    "Rule": "Swampland Random Encounter Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "73",
+    "Link": "DFRC3:73"
+  },
+  {
+    "Rule": "Underground Random Encounter Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "74",
+    "Link": "DFRC3:74"
+  },
+  {
+    "Rule": "Pregenerated Random Encounters Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "75",
+    "Link": "DFRC3:75"
+  },
+  {
+    "Rule": "Woodlands Random Encounter Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "75",
+    "Link": "DFRC3:75"
+  },
+  {
+    "Rule": "Random Quest Generator",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "81",
+    "Link": "DFRC3:81"
+  },
+  {
+    "Rule": "Random Quest Generator: Person and Place Tables",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "82",
+    "Link": "DFRC3:82"
+  },
+  {
+    "Rule": "Random Quest Generator: Thing Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "83",
+    "Link": "DFRC3:83"
+  },
+  {
+    "Rule": "Random Quest Generator: Good, Bad, and Mundane Events Tables",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "84",
+    "Link": "DFRC3:84"
+  },
+  {
+    "Rule": "Random Quest Generator: Quest Complications Table",
+    "Category": [
+      "DFRPG",
+      "Encounters"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "85",
+    "Link": "DFRC3:85"
+  },
+  {
+    "Rule": "False-Door Crossbow Trap",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "88",
+    "Link": "DFRC3:88"
+  },
+  {
+    "Rule": "Magical Magnetic Murder Machine",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "88",
+    "Link": "DFRC3:88"
+  },
+  {
+    "Rule": "On an Oil-Slicked Precipice",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "88",
+    "Link": "DFRC3:88"
+  },
+  {
+    "Rule": "Reanimating Runes",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "89",
+    "Link": "DFRC3:89"
+  },
+  {
+    "Rule": "Slide and Spike",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "89",
+    "Link": "DFRC3:89"
+  },
+  {
+    "Rule": "Puzzle: Getting Handsy",
+    "Category": [
+      "DFRPG",
+      "Puzzles"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "90",
+    "Link": "DFRC3:90"
+  },
+  {
+    "Rule": "Puzzle: The Ballroom of In-fae-nite Notoriety",
+    "Category": [
+      "DFRPG",
+      "Puzzles"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "90",
+    "Link": "DFRC3:90"
+  },
+  {
+    "Rule": "Mystical Runes Spell, Very Hard, New Spell",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "91",
+    "Link": "DFRC3:91"
+  },
+  {
+    "Rule": "Puzzle: The Lily Among the Roses",
+    "Category": [
+      "DFRPG",
+      "Puzzles"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "91",
+    "Link": "DFRC3:91"
+  },
+  {
+    "Rule": "Annihilating Doorknob",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "92",
+    "Link": "DFRC3:92"
+  },
+  {
+    "Rule": "Trap: Heaven and Earth",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "92",
+    "Link": "DFRC3:92"
+  },
+  {
+    "Rule": "Trap: Hopping Mad",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "92",
+    "Link": "DFRC3:92"
+  },
+  {
+    "Rule": "Killer Kawaii, Murderous Bunny, Monty Python Bunny",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "93",
+    "Link": "DFRC3:93"
+  },
+  {
+    "Rule": "Trap: Penrose Staircase",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "93",
+    "Link": "DFRC3:93"
+  },
+  {
+    "Rule": "Trap: The Upside-Down Swimmer",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "93",
+    "Link": "DFRC3:93"
+  },
+  {
+    "Rule": "Divine Elder Spell List by Power Investiture",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "99",
+    "Link": "DFRC3:99"
+  },
+  {
+    "Rule": "Cerberus: Three-Headed Dog with a Mane of Cobras",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "102",
+    "Link": "DFRC3:102"
+  },
+  {
+    "Rule": "Colchis Bull: Immense, Fire-Breathing Bronze Bulls",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "102",
+    "Link": "DFRC3:102"
+  },
+  {
+    "Rule": "Ghoul",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "103",
+    "Link": "DFRC3:103"
+  },
+  {
+    "Rule": "Giant Beetle",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "103",
+    "Link": "DFRC3:103"
+  },
+  {
+    "Rule": "Giant Centipede",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "104",
+    "Link": "DFRC3:104"
+  },
+  {
+    "Rule": "Giant Frog",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "105",
+    "Link": "DFRC3:105"
+  },
+  {
+    "Rule": "Hydra",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "106",
+    "Link": "DFRC3:106"
+  },
+  {
+    "Rule": "Shamblethorn",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "107",
+    "Link": "DFRC3:107"
+  },
+  {
+    "Rule": "Wyvern",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "107",
+    "Link": "DFRC3:107"
+  },
+  {
+    "Rule": "Drowned and Frozen Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "109",
+    "Link": "DFRC3:109"
+  },
+  {
+    "Rule": "Herd Horror and Mummy",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "110",
+    "Link": "DFRC3:110"
+  },
+  {
+    "Rule": "Swamp Wisp and Tomb Tree",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "112",
+    "Link": "DFRC3:112"
+  },
+  {
+    "Rule": "Trapped in the Living Tomb, Choose Your Own Adventure",
+    "Category": [
+      "DFRPG",
+      "Setting",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "114",
+    "Link": "DFRC3:114"
+  },
+  {
+    "Rule": "Secrets of the Living Tomb",
+    "Category": [
+      "DFRPG",
+      "Setting",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "128",
+    "Link": "DFRC3:128"
+  },
+  {
+    "Rule": "Hydra Island Adventure",
+    "Category": [
+      "DFRPG",
+      "Setting",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "134",
+    "Link": "DFRC3:134"
+  },
+  {
+    "Rule": "Istvan's Hole Adventure",
+    "Category": [
+      "DFRPG",
+      "Setting",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "144",
+    "Link": "DFRC3:144"
+  },
+  {
+    "Rule": "You All Meet at an Inn Adventure",
+    "Category": [
+      "DFRPG",
+      "Setting",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "154",
+    "Link": "DFRC3:154"
+  },
+  {
+    "Rule": "The Hand of the Demon, Mini-Adventures",
+    "Category": [
+      "DFRPG",
+      "Setting",
+      "Environment"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "161",
+    "Link": "DFRC3:161"
+  },
+  {
+    "Rule": "Glurch Demons",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Companion 3",
+    "Page": "163",
+    "Link": "DFRC3:163"
+  },
+  {
     "Rule": "Barbarian (PC Class Denizens)",
     "Category": [
       "Template"
@@ -26146,7 +28347,8 @@
   {
     "Rule": "Poison (Detecting, Resistance, Schedule, Effects, Recovery, Treatment)",
     "Category": [
-      "DFRPG: Poisons"
+      "DFRPG",
+      "Poisons"
     ],
     "Book": "Dungeon Fantasy RPG: Exploits",
     "Page": "69",
@@ -36165,7 +38367,7 @@
     "Link": "LOMH9"
   },
   {
-    "Rule": "Crescent Faultless (12G 2.75”)",
+    "Rule": "Crescent Faultless (12G 2.75)",
     "Category": [
       "Weapons"
     ],
@@ -37713,6 +39915,16 @@
   },
   {
     "Rule": "Damage Done to Weapons",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Low Tech Companion 2",
+    "Page": "23",
+    "Link": "LTC2:23"
+  },
+  {
+    "Rule": "HP and DR of Weapons",
     "Category": [
       "Combat",
       "Weapons"
@@ -41568,6 +43780,16 @@
     "Link": "MA116"
   },
   {
+    "Rule": "Attacking a Foe with a Weapon while Grappled",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "117",
+    "Link": "MA117"
+  },
+  {
     "Rule": "Bear Hug while Grappling",
     "Category": [
       "Combat"
@@ -41577,7 +43799,7 @@
     "Link": "MA117"
   },
   {
-    "Rule": "Long Weapons in Close Combat",
+    "Rule": "Long Weapons in Close Combat (Penalties for non-C Reach Weapons)",
     "Category": [
       "Combat",
       "Weapons"
@@ -42614,7 +44836,7 @@
     "Link": "MA199"
   },
   {
-    "Rule": "T’ai Chi Chuan (T’ai Chi-meditative version)",
+    "Rule": "Tai Chi Chuan (Tai Chi-meditative version)",
     "Category": [
       "Styles"
     ],
@@ -59725,7 +61947,7 @@
     "Link": "PY36:18"
   },
   {
-    "Rule": "Code of Honor (Musketeer’s)",
+    "Rule": "Code of Honor (Musketeers)",
     "Category": [
       "Traits"
     ],
@@ -59789,7 +62011,7 @@
     "Link": "PY50:4"
   },
   {
-    "Rule": "Code of Honor (Dwarf’s)",
+    "Rule": "Code of Honor (Dwarfs)",
     "Category": [
       "Traits"
     ],
@@ -63199,7 +65421,7 @@
     "Link": "S235"
   },
   {
-    "Rule": "Spacecraft’s Performance Statistics",
+    "Rule": "Spacecrafts Performance Statistics",
     "Category": [
       "Vehicles",
       "Attributes"
@@ -70034,7 +72256,7 @@
     "Link": "T258"
   },
   {
-    "Rule": "Reality Warping Critial Spell Failure Table",
+    "Rule": "Reality Warping Critical Spell Failure Table",
     "Category": [
       "Reference",
       "Magic"
@@ -73065,6 +75287,24 @@
     "Link": "UT35"
   },
   {
+    "Rule": "Android Template",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "41",
+    "Link": "UT41"
+  },
+  {
+    "Rule": "PetBot Template (Robotic Dog, Cat, or other Small Animal)",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "41",
+    "Link": "UT41"
+  },
+  {
     "Rule": "Communicators Table (Ultra-Tech)",
     "Category": [
       "Reference",
@@ -75106,7 +77346,7 @@
     "Link": "VSC5"
   },
   {
-    "Rule": "L’Obéissante",
+    "Rule": "LObéissante",
     "Category": [
       "Vehicles"
     ],
@@ -78246,5 +80486,1783 @@
     "Book": "Zombies: Day One",
     "Page": "49",
     "Link": "ZDO49"
+  },
+  {
+    "Rule": "Acid Spider",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "16",
+    "Link": "DFM16"
+  },
+  {
+    "Rule": "as-Sharak",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "16",
+    "Link": "DFM16"
+  },
+  {
+    "Rule": "Bear",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "16",
+    "Link": "DFM16"
+  },
+  {
+    "Rule": "Bronze Spider",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "17",
+    "Link": "DFM17"
+  },
+  {
+    "Rule": "Bugbear",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "17",
+    "Link": "DFM17"
+  },
+  {
+    "Rule": "Ciuaclá",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "18",
+    "Link": "DFM18"
+  },
+  {
+    "Rule": "Corpse Golem (DFRPG)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "18",
+    "Link": "DFM18"
+  },
+  {
+    "Rule": "Crushroom",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "19",
+    "Link": "DFM19"
+  },
+  {
+    "Rule": "Demon from Between the Stars",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "19",
+    "Link": "DFM19"
+  },
+  {
+    "Rule": "Demon of Old",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "20",
+    "Link": "DFM20"
+  },
+  {
+    "Rule": "Dinoman",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "20",
+    "Link": "DFM20"
+  },
+  {
+    "Rule": "Dire Wolf",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "21",
+    "Link": "DFM21"
+  },
+  {
+    "Rule": "Doomchild",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "21",
+    "Link": "DFM21"
+  },
+  {
+    "Rule": "Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "21",
+    "Link": "DFM21"
+  },
+  {
+    "Rule": "Draug",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "23",
+    "Link": "DFM23"
+  },
+  {
+    "Rule": "Electric Jelly",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "24",
+    "Link": "DFM24"
+  },
+  {
+    "Rule": "Elemental",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "24",
+    "Link": "DFM24"
+  },
+  {
+    "Rule": "Erupting Slime",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "26",
+    "Link": "DFM26"
+  },
+  {
+    "Rule": "Eye of Death",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "26",
+    "Link": "DFM26"
+  },
+  {
+    "Rule": "Flaming Skull",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "27",
+    "Link": "DFM27"
+  },
+  {
+    "Rule": "Flesh-Eating Apes",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "27",
+    "Link": "DFM27"
+  },
+  {
+    "Rule": "Air Superiority, Fliers can Retreat and use Acrobatic Dodge",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "27",
+    "Link": "DFM27"
+  },
+  {
+    "Rule": "Foul Bat",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "28",
+    "Link": "DFM28"
+  },
+  {
+    "Rule": "Frost Snake",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "28",
+    "Link": "DFM28"
+  },
+  {
+    "Rule": "Fungus",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "28",
+    "Link": "DFM28"
+  },
+  {
+    "Rule": "Gargoyle",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "29",
+    "Link": "DFM29"
+  },
+  {
+    "Rule": "Giant Ape",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "30",
+    "Link": "DFM30"
+  },
+  {
+    "Rule": "Giant Rat",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "30",
+    "Link": "DFM30"
+  },
+  {
+    "Rule": "Giant Snake",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "31",
+    "Link": "DFM31"
+  },
+  {
+    "Rule": "Giant Spider",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "31",
+    "Link": "DFM31"
+  },
+  {
+    "Rule": "Gladiator Ape",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "32",
+    "Link": "DFM32"
+  },
+  {
+    "Rule": "Metal Weapons, Armor added to Monsters",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "33",
+    "Link": "DFM33"
+  },
+  {
+    "Rule": "Goblin-Kin",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "33",
+    "Link": "DFM33"
+  },
+  {
+    "Rule": "Golem-Armor Swordsman",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "35",
+    "Link": "DFM35"
+  },
+  {
+    "Rule": "Gryphon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "35",
+    "Link": "DFM35"
+  },
+  {
+    "Rule": "Hellhound",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "35",
+    "Link": "DFM35"
+  },
+  {
+    "Rule": "Horde Pygmy",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "36",
+    "Link": "DFM36"
+  },
+  {
+    "Rule": "Horde Zombie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "36",
+    "Link": "DFM36"
+  },
+  {
+    "Rule": "Horrid Skull",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "37",
+    "Link": "DFM37"
+  },
+  {
+    "Rule": "Ice Weasel",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "37",
+    "Link": "DFM37"
+  },
+  {
+    "Rule": "Ice Wyrm",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "38",
+    "Link": "DFM38"
+  },
+  {
+    "Rule": "Jelly",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "38",
+    "Link": "DFM38"
+  },
+  {
+    "Rule": "Karkadann",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "39",
+    "Link": "DFM39"
+  },
+  {
+    "Rule": "Body Parts as Weapons",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "39",
+    "Link": "DFM39"
+  },
+  {
+    "Rule": "Leaping Leech",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "40",
+    "Link": "DFM40"
+  },
+  {
+    "Rule": "Lich",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "40",
+    "Link": "DFM40"
+  },
+  {
+    "Rule": "Lion",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "40",
+    "Link": "DFM40"
+  },
+  {
+    "Rule": "Lizard Man",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "41",
+    "Link": "DFM41"
+  },
+  {
+    "Rule": "Mindwarper",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "41",
+    "Link": "DFM41"
+  },
+  {
+    "Rule": "Minotaur",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "42",
+    "Link": "DFM42"
+  },
+  {
+    "Rule": "Mold",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "42",
+    "Link": "DFM42"
+  },
+  {
+    "Rule": "Moldy Monsters",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "43",
+    "Link": "DFM43"
+  },
+  {
+    "Rule": "Obsidian Jaguar",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "43",
+    "Link": "DFM43"
+  },
+  {
+    "Rule": "Pudding",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "46",
+    "Link": "DFM46"
+  },
+  {
+    "Rule": "Ogre",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "44",
+    "Link": "DFM44"
+  },
+  {
+    "Rule": "Ooze",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "44",
+    "Link": "DFM44"
+  },
+  {
+    "Rule": "Peshkali",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "45",
+    "Link": "DFM45"
+  },
+  {
+    "Rule": "Rock Mite",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "47",
+    "Link": "DFM47"
+  },
+  {
+    "Rule": "Siege Beast",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "47",
+    "Link": "DFM47"
+  },
+  {
+    "Rule": "Skeleton",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "47",
+    "Link": "DFM47"
+  },
+  {
+    "Rule": "Slime",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "48",
+    "Link": "DFM48"
+  },
+  {
+    "Rule": "Slorn",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "49",
+    "Link": "DFM49"
+  },
+  {
+    "Rule": "Slugbeast",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "50",
+    "Link": "DFM50"
+  },
+  {
+    "Rule": "Specter",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "50",
+    "Link": "DFM50"
+  },
+  {
+    "Rule": "Sphere of Madness",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "51",
+    "Link": "DFM51"
+  },
+  {
+    "Rule": "Spirit Guardian",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "52",
+    "Link": "DFM52"
+  },
+  {
+    "Rule": "Spore Cloud",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "52",
+    "Link": "DFM52"
+  },
+  {
+    "Rule": "Passive Touching Attacks",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "53",
+    "Link": "DFM53"
+  },
+  {
+    "Rule": "Stone Golems",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "54",
+    "Link": "DFM54"
+  },
+  {
+    "Rule": "Swarms",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "54",
+    "Link": "DFM54"
+  },
+  {
+    "Rule": "Sword Spirit",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "55",
+    "Link": "DFM55"
+  },
+  {
+    "Rule": "Throttler",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "55",
+    "Link": "DFM55"
+  },
+  {
+    "Rule": "Tiger",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "56",
+    "Link": "DFM56"
+  },
+  {
+    "Rule": "Toxifier",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "56",
+    "Link": "DFM56"
+  },
+  {
+    "Rule": "Triger",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "57",
+    "Link": "DFM57"
+  },
+  {
+    "Rule": "Troll",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "57",
+    "Link": "DFM57"
+  },
+  {
+    "Rule": "Undead Slime",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "58",
+    "Link": "DFM58"
+  },
+  {
+    "Rule": "Vampire (DFRPG)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "58",
+    "Link": "DFM58"
+  },
+  {
+    "Rule": "Void Brute",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "59",
+    "Link": "DFM59"
+  },
+  {
+    "Rule": "Watcher at the Edge of Time",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "59",
+    "Link": "DFM59"
+  },
+  {
+    "Rule": "Werewolf",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "60",
+    "Link": "DFM60"
+  },
+  {
+    "Rule": "Wildman",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "60",
+    "Link": "DFM60"
+  },
+  {
+    "Rule": "Zombie (DFRPG)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "62",
+    "Link": "DFM62"
+  },
+  {
+    "Rule": "Angel",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "4",
+    "Link": "DFRM2:4"
+  },
+  {
+    "Rule": "Bayanganaga : Dragon-shaped Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "6",
+    "Link": "DFRM2:6"
+  },
+  {
+    "Rule": "Bleeder",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "8",
+    "Link": "DFRM2:8"
+  },
+  {
+    "Rule": "Bone Golem",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "10",
+    "Link": "DFRM2:10"
+  },
+  {
+    "Rule": "Chimera",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "12",
+    "Link": "DFRM2:12"
+  },
+  {
+    "Rule": "Deep Beyonder : Giant, Slimy, Smart Fish with Tentacles on Their Faces",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "14",
+    "Link": "DFRM2:14"
+  },
+  {
+    "Rule": "Fly-Dragon and Dark Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "16",
+    "Link": "DFRM2:16"
+  },
+  {
+    "Rule": "Forgeling",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "18",
+    "Link": "DFRM2:18"
+  },
+  {
+    "Rule": "Forgeling Racial Package for PCs",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "19",
+    "Link": "DFRM2:19"
+  },
+  {
+    "Rule": "Galdurnaut and domesticated Galdurnaut",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "20",
+    "Link": "DFRM2:20"
+  },
+  {
+    "Rule": "Rock Giant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "22",
+    "Link": "DFRM2:22"
+  },
+  {
+    "Rule": "Hill Giant, Sky Giant, Mountain Giant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "23",
+    "Link": "DFRM2:23"
+  },
+  {
+    "Rule": "Kroa-Kroa, Cavern Croakers",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "24",
+    "Link": "DFRM2:24"
+  },
+  {
+    "Rule": "Manaplasm : An Ooze that Eats Magic",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "26",
+    "Link": "DFRM2:26"
+  },
+  {
+    "Rule": "Mindhound : An Intelligent Dire Wolf that Eats Intellect and Spirit",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "28",
+    "Link": "DFRM2:28"
+  },
+  {
+    "Rule": "Effects of Lowered IQ",
+    "Category": [
+      "DFRPG",
+      "Characters",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "28",
+    "Link": "DFRM2:28"
+  },
+  {
+    "Rule": "Naga, N?ga or Nagini or N?gini : 15 foot Long Snake with a Hunanoid Head",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "30",
+    "Link": "DFRM2:30"
+  },
+  {
+    "Rule": "Naga Magic and Personality",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "31",
+    "Link": "DFRM2:31"
+  },
+  {
+    "Rule": "Petrignis : Two Elemental Spirits in One Body",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "32",
+    "Link": "DFRM2:32"
+  },
+  {
+    "Rule": "Ramex : Mortals Twisted and Mutated by Elder Things",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "34",
+    "Link": "DFRM2:34"
+  },
+  {
+    "Rule": "Redthorn : Dire Plants",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "36",
+    "Link": "DFRM2:36"
+  },
+  {
+    "Rule": "Reskinned : Sculpted Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "38",
+    "Link": "DFRM2:38"
+  },
+  {
+    "Rule": "Greater Reskinned",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "39",
+    "Link": "DFRM2:39"
+  },
+  {
+    "Rule": "Sn?w Wiht, Snaw With : Snow Spirit",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "40",
+    "Link": "DFRM2:40"
+  },
+  {
+    "Rule": "Frozen Dead",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "40",
+    "Link": "DFRM2:40"
+  },
+  {
+    "Rule": "Strix or Striges",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "42",
+    "Link": "DFRM2:42"
+  },
+  {
+    "Rule": "Succubus and Incubus, and Their Demon Magic",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "44",
+    "Link": "DFRM2:44"
+  },
+  {
+    "Rule": "Terror Bird : Jurassic Park Extra",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "46",
+    "Link": "DFRM2:46"
+  },
+  {
+    "Rule": "Terror Bug and Terror Bug Hatchlings",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "48",
+    "Link": "DFRM2:48"
+  },
+  {
+    "Rule": "Trétrold : Fourteen foot Tall Humanoid Plant People",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "50",
+    "Link": "DFRM2:50"
+  },
+  {
+    "Rule": "Variant Trétrold",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "51",
+    "Link": "DFRM2:51"
+  },
+  {
+    "Rule": "Alkahest Siphon",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "4",
+    "Link": "DFT4"
+  },
+  {
+    "Rule": "Black Wind",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "4",
+    "Link": "DFT4"
+  },
+  {
+    "Rule": "Magebane Dust",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "5",
+    "Link": "DFT5"
+  },
+  {
+    "Rule": "Rain of Liquid Ice",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "5",
+    "Link": "DFT5"
+  },
+  {
+    "Rule": "Deadfall",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "5",
+    "Link": "DFT5"
+  },
+  {
+    "Rule": "Elven Clothesline",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "5",
+    "Link": "DFT5"
+  },
+  {
+    "Rule": "Portcullis",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "6",
+    "Link": "DFT6"
+  },
+  {
+    "Rule": "Scattershot",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "6",
+    "Link": "DFT6"
+  },
+  {
+    "Rule": "Snap, Crackle, Pop (Giant Bear Trap)",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "6",
+    "Link": "DFT6"
+  },
+  {
+    "Rule": "Spked Branch",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "6",
+    "Link": "DFT6"
+  },
+  {
+    "Rule": "Spring Snare",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "6",
+    "Link": "DFT6"
+  },
+  {
+    "Rule": "Dehydrating Basin",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "7",
+    "Link": "DFT7"
+  },
+  {
+    "Rule": "Flame Net",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "7",
+    "Link": "DFT7"
+  },
+  {
+    "Rule": "Hieroglyphs of Insanity",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "7",
+    "Link": "DFT7"
+  },
+  {
+    "Rule": "Imprisment",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "7",
+    "Link": "DFT7"
+  },
+  {
+    "Rule": "Bowling for Boulders",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "8",
+    "Link": "DFT8"
+  },
+  {
+    "Rule": "Crushroom",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "8",
+    "Link": "DFT8"
+  },
+  {
+    "Rule": "Dragon's Maw Hallway",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "9",
+    "Link": "DFT9"
+  },
+  {
+    "Rule": "Evil Runes",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "9",
+    "Link": "DFT9"
+  },
+  {
+    "Rule": "Malicious Martble Madness",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "10",
+    "Link": "DFT10"
+  },
+  {
+    "Rule": "Sand Trap",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "10",
+    "Link": "DFT10"
+  },
+  {
+    "Rule": "Smashing Walls",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "11",
+    "Link": "DFT11"
+  },
+  {
+    "Rule": "Burrowing Mechanical Spider",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "11",
+    "Link": "DFT11"
+  },
+  {
+    "Rule": "Monster Urn",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "12",
+    "Link": "DFT12"
+  },
+  {
+    "Rule": "Slip and Slime",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "12",
+    "Link": "DFT12"
+  },
+  {
+    "Rule": "Spider's Snare",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "12",
+    "Link": "DFT12"
+  },
+  {
+    "Rule": "Acid Pit",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "12",
+    "Link": "DFT12"
+  },
+  {
+    "Rule": "Avoiding Pits",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "12",
+    "Link": "DFT12"
+  },
+  {
+    "Rule": "Bladed Pit",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "13",
+    "Link": "DFT13"
+  },
+  {
+    "Rule": "Entombment",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "13",
+    "Link": "DFT13"
+  },
+  {
+    "Rule": "Gladiator Pit",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "13",
+    "Link": "DFT13"
+  },
+  {
+    "Rule": "Lava Pit",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "13",
+    "Link": "DFT13"
+  },
+  {
+    "Rule": "Wire Slide",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "13",
+    "Link": "DFT13"
+  },
+  {
+    "Rule": "Miasmic Mist",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "14",
+    "Link": "DFT14"
+  },
+  {
+    "Rule": "Needle Floor",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "14",
+    "Link": "DFT14"
+  },
+  {
+    "Rule": "Poisoned Needle",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "14",
+    "Link": "DFT14"
+  },
+  {
+    "Rule": "Ankle-Breaking Spears",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "15",
+    "Link": "DFT15"
+  },
+  {
+    "Rule": "Chainshot",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "15",
+    "Link": "DFT15"
+  },
+  {
+    "Rule": "Drop Net",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "15",
+    "Link": "DFT15"
+  },
+  {
+    "Rule": "Fiendish Flung Axe",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "15",
+    "Link": "DFT15"
+  },
+  {
+    "Rule": "Projectile Capturing Field",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "15",
+    "Link": "DFT15"
+  },
+  {
+    "Rule": "Rain of Daggers",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "16",
+    "Link": "DFT16"
+  },
+  {
+    "Rule": "Sticky Caltrops",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "16",
+    "Link": "DFT16"
+  },
+  {
+    "Rule": "Wall-Scyther",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "16",
+    "Link": "DFT16"
+  },
+  {
+    "Rule": "A Crooked Mile",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "17",
+    "Link": "DFT17"
+  },
+  {
+    "Rule": "Delvers Under Glass",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "17",
+    "Link": "DFT17"
+  },
+  {
+    "Rule": "Hall of Mirrors",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "18",
+    "Link": "DFT18"
+  },
+  {
+    "Rule": "Reverse Gravity",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "18",
+    "Link": "DFT18"
+  },
+  {
+    "Rule": "Rotating Room",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "18",
+    "Link": "DFT18"
+  },
+  {
+    "Rule": "Slip and Slide",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "19",
+    "Link": "DFT19"
+  },
+  {
+    "Rule": "Alchemy Basin",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "19",
+    "Link": "DFT19"
+  },
+  {
+    "Rule": "Door of Stars",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "20",
+    "Link": "DFT20"
+  },
+  {
+    "Rule": "Dungeon Djinn Dupes",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "20",
+    "Link": "DFT20"
+  },
+  {
+    "Rule": "Eye on the Prize",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "21",
+    "Link": "DFT21"
+  },
+  {
+    "Rule": "Javelin Lock",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "22",
+    "Link": "DFT22"
+  },
+  {
+    "Rule": "Riddle of Stone",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "22",
+    "Link": "DFT22"
+  },
+  {
+    "Rule": "Witch Duck is Which?",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "22",
+    "Link": "DFT22"
+  },
+  {
+    "Rule": "Blind Man's Bamf",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "23",
+    "Link": "DFT23"
+  },
+  {
+    "Rule": "Clingy Tightrope",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "23",
+    "Link": "DFT23"
+  },
+  {
+    "Rule": "Faux Foe",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "24",
+    "Link": "DFT24"
+  },
+  {
+    "Rule": "Helpful Climbing Wall",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "24",
+    "Link": "DFT24"
+  },
+  {
+    "Rule": "Obvious Swinging Blade",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "24",
+    "Link": "DFT24"
+  },
+  {
+    "Rule": "Meteoric Ore Resists Magic at Skill 15 or 20",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "24",
+    "Link": "DFT24"
   }
 ]
