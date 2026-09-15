@@ -3,6 +3,7 @@
 // SPDX-License-Identifier: MIT
 
 import { SearchSidebar } from './SearchSidebar.ts';
+import { registerSettings } from './settings.ts';
 
 /**
  * This is your TypeScript entry file for Foundry VTT.
@@ -22,10 +23,15 @@ import { SearchSidebar } from './SearchSidebar.ts';
 Hooks.once('init', async () => {
     console.log('GURPSRulesLookup | Initializing GURPSRulesLookup');
 
+    // Register custom module settings
+    registerSettings();
+
     CONFIG.ui.sidebar.TABS.rulesSearch = {
+        //@ts-expect-error wait for fix in types
         icon: `fa-solid fa-search`,
         tooltip: `GURPS Rules Lookup`,
     };
+    //@ts-expect-error custom property
     CONFIG.ui.rulesSearch = SearchSidebar;
 
     // Inject the custom tab right before settings
