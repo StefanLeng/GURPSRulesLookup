@@ -3200,7 +3200,7 @@
     "Link": "B33"
   },
   {
-    "Rule": "Schrödingers Advantage and Secret Advantages",
+    "Rule": "Schrödinger’s Advantage and Secret Advantages",
     "Category": [
       "Attributes"
     ],
@@ -5717,7 +5717,7 @@
     "Link": "B270"
   },
   {
-    "Rule": "Two Hand Use and Unready indicated by \"\" in Tables",
+    "Rule": "Two Hand Use and Unready indicated by \"‡\" in Tables",
     "Category": [
       "Reference",
       "Weapons"
@@ -5727,7 +5727,7 @@
     "Link": "B270"
   },
   {
-    "Rule": "Two Hand Use indicated by \"\" in Tables",
+    "Rule": "Two Hand Use indicated by \"†\" in Tables",
     "Category": [
       "Reference",
       "Weapons"
@@ -15142,7 +15142,7 @@
     "Link": "CN3:3"
   },
   {
-    "Rule": "Cows from Space (umit's a super-intelligent cowin space)",
+    "Rule": "Cows from Space (um…it's a super-intelligent cow…in space)",
     "Category": [
       "Creatures"
     ],
@@ -15323,6 +15323,867 @@
     "Book": "Crusades",
     "Page": "40",
     "Link": "C40"
+  },
+  {
+    "Rule": "Delver Templates: Strong, Fast, Smart",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "2",
+    "Link": "DTG2"
+  },
+  {
+    "Rule": "Delver Power Level: Novice, Journeyman, Master,",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "3",
+    "Link": "DTG3"
+  },
+  {
+    "Rule": "Using Modules to Build Characters",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "3",
+    "Link": "DTG3"
+  },
+  {
+    "Rule": "Using Nordlondr Folk Racial Templates with Delver Templates",
+    "Category": [
+      "DFRPG",
+      "Characters",
+      "Templates"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "4",
+    "Link": "DTG4"
+  },
+  {
+    "Rule": "Strong Delvers: Novice and Journeyman",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "5",
+    "Link": "DTG5"
+  },
+  {
+    "Rule": "Basic Modules for Strong Delvers: Barbarian and Holy Warrior",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "6",
+    "Link": "DTG6"
+  },
+  {
+    "Rule": "Strong Delvers: Master",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "6",
+    "Link": "DTG6"
+  },
+  {
+    "Rule": "Advanced Modules for Strong Delvers: Barbarian II and Holy Warrior II",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "7",
+    "Link": "DTG7"
+  },
+  {
+    "Rule": "Basic Modules for Strong Delvers: Knight and Wrestler",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "7",
+    "Link": "DTG7"
+  },
+  {
+    "Rule": "Advanced Modules for Strong Delvers: Knight II and Wrestler II",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "8",
+    "Link": "DTG8"
+  },
+  {
+    "Rule": "Upgrade Modules for Strong Delvers: All-Season Soldier, and Armsmaster I and II",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "9",
+    "Link": "DTG9"
+  },
+  {
+    "Rule": "Upgrade Modules for Strong Delvers: Björn Warleader and Blessed Warrior",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "9",
+    "Link": "DTG9"
+  },
+  {
+    "Rule": "Upgrade Modules for Strong Delvers: Demon Slayer and Fifth Level Fighter",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "10",
+    "Link": "DTG10"
+  },
+  {
+    "Rule": "Upgrade Modules for Strong Delvers: Fortunate Son, Hulk, Juggernaut, Side of Beef",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "10",
+    "Link": "DTG10"
+  },
+  {
+    "Rule": "Upgrade Modules for Strong Delvers: Speedy, Stalwart, Stronger",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "11",
+    "Link": "DTG11"
+  },
+  {
+    "Rule": "Upgrade Modules for Strong Delvers: Undead Slayer, Unstoppable, Veteran",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "11",
+    "Link": "DTG11"
+  },
+  {
+    "Rule": "Upgrade Modules for Strong Delvers: Weapon Specialist, Wilderness Guide",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "11",
+    "Link": "DTG11"
+  },
+  {
+    "Rule": "Fast Delvers: Novice and Journeyman",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "12",
+    "Link": "DTG12"
+  },
+  {
+    "Rule": "Fast Delvers: Master",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "13",
+    "Link": "DTG13"
+  },
+  {
+    "Rule": "Basic Modules for Fast Delvers: Martial Artist and Scout",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "14",
+    "Link": "DTG14"
+  },
+  {
+    "Rule": "Advanced Modules for Fast Delvers: Martial Artist II",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "15",
+    "Link": "DTG15"
+  },
+  {
+    "Rule": "Basic Modules for Fast Delvers: Swashbuckler and Thief",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "15",
+    "Link": "DTG15"
+  },
+  {
+    "Rule": "Advanced Modules for Fast Delvers: Scout II, Swashbuckler II, Thief II",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "16",
+    "Link": "DTG16"
+  },
+  {
+    "Rule": "Upgrade Modules for Fast Delvers: Acrobat, Archery Specialist, Backstab Artist",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "17",
+    "Link": "DTG17"
+  },
+  {
+    "Rule": "Upgrade Modules for Fast Delvers: Brutt-ish, Cat Burglar, Chi Mastery",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "17",
+    "Link": "DTG17"
+  },
+  {
+    "Rule": "Upgrade Modules for Fast Delvers: Faster Delver, Favored by Fate",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "17",
+    "Link": "DTG17"
+  },
+  {
+    "Rule": "Upgrade Modules for Fast Delvers: Fight Faster, Finesse Fighter, Fixer I and II",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "18",
+    "Link": "DTG18"
+  },
+  {
+    "Rule": "Upgrade Modules for Fast Delvers: Fortified, Ghost, Not Left Handed",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "18",
+    "Link": "DTG18"
+  },
+  {
+    "Rule": "Upgrade Modules for Fast Delvers: Punter, Quick, Street Rat",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "19",
+    "Link": "DTG19"
+  },
+  {
+    "Rule": "Upgrade Modules for Fast Delvers: Throwing Artist, Unarmed Focus",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "19",
+    "Link": "DTG19"
+  },
+  {
+    "Rule": "Upgrade Modules for Fast Delvers: Wilderness Guide, Witty Duelist",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "19",
+    "Link": "DTG19"
+  },
+  {
+    "Rule": "Smart Delvers: Novice and Journeyman",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "20",
+    "Link": "DTG20"
+  },
+  {
+    "Rule": "Basic Modules for Smart Delvers: Bard and Cleric",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "21",
+    "Link": "DTG21"
+  },
+  {
+    "Rule": "Smart Delvers: Master",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "21",
+    "Link": "DTG21"
+  },
+  {
+    "Rule": "Advanced Modules for Smart Delvers: Bard II and Cleric II",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "22",
+    "Link": "DTG22"
+  },
+  {
+    "Rule": "Basic Modules for Smart Delvers: Druid and Wizard",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "22",
+    "Link": "DTG22"
+  },
+  {
+    "Rule": "Advanced Modules for Smart Delvers: Druid II and Wizard II",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "23",
+    "Link": "DTG23"
+  },
+  {
+    "Rule": "Upgrade Modules for Smart Delvers: Agent and Beast Tamer",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "23",
+    "Link": "DTG23"
+  },
+  {
+    "Rule": "Upgrade Modules for Smart Delvers: Broad Tradition, Deft, Empowered Bard",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "24",
+    "Link": "DTG24"
+  },
+  {
+    "Rule": "Upgrade Modules for Smart Delvers: Empowered Cleric, Empowered Druid",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "24",
+    "Link": "DTG24"
+  },
+  {
+    "Rule": "Upgrade Modules for Smart Delvers: Healer, Linguist",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "24",
+    "Link": "DTG24"
+  },
+  {
+    "Rule": "Upgrade Modules for Smart Delvers: Mathlete, Missile Spell Master",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "25",
+    "Link": "DTG25"
+  },
+  {
+    "Rule": "Upgrade Modules for Smart Delvers: Naturopath, Razzle Dazzle",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "25",
+    "Link": "DTG25"
+  },
+  {
+    "Rule": "Upgrade Modules for Smart Delvers: Smarter Delver, Spellslinger",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "25",
+    "Link": "DTG25"
+  },
+  {
+    "Rule": "Upgrade Modules for Smart Delvers: Star-Touched, Talented Caster",
+    "Category": [
+      "DFRPG",
+      "Modules"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "25",
+    "Link": "DTG25"
+  },
+  {
+    "Rule": "Spell Lists for Bards: Auriophile, Knowledge-Seeker, Mentalist",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "26",
+    "Link": "DTG26"
+  },
+  {
+    "Rule": "Spell List for Druids: Botanist",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "27",
+    "Link": "DTG27"
+  },
+  {
+    "Rule": "Spell Lists for Clerics: Field Medic, Protector, Truth-Seeker",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "27",
+    "Link": "DTG27"
+  },
+  {
+    "Rule": "Spell Lists for Druids: Elementalist, Zoologist",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "28",
+    "Link": "DTG28"
+  },
+  {
+    "Rule": "Spell Lists for Wizards: Delver and Illusionists",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "28",
+    "Link": "DTG28"
+  },
+  {
+    "Rule": "Spell List for Wizards: Invoker",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "29",
+    "Link": "DTG29"
+  },
+  {
+    "Rule": "Disadvantage Modules: Accursed, Arrogant Noble, Crooked, Dark Knight",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "30",
+    "Link": "DTG30"
+  },
+  {
+    "Rule": "Disadvantage Modules: Disinherited, Fortune's Fool, Friendly, Goon, Hero",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "31",
+    "Link": "DTG31"
+  },
+  {
+    "Rule": "Disadvantage Modules: Misanthrope, Money-Grubber",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "31",
+    "Link": "DTG31"
+  },
+  {
+    "Rule": "Disadvantage Modules: Nature's Ally, Nerd, Old Soldier, Paladin",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "32",
+    "Link": "DTG32"
+  },
+  {
+    "Rule": "Disadvantage Modules: Rube, Swindler, Unwelcome, Villain",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "32",
+    "Link": "DTG32"
+  },
+  {
+    "Rule": "Expanded Bardic Talent",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "33",
+    "Link": "DTG33"
+  },
+  {
+    "Rule": "Fevered Defense Perk",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "33",
+    "Link": "DTG33"
+  },
+  {
+    "Rule": "Herbaceous Mastery",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "33",
+    "Link": "DTG33"
+  },
+  {
+    "Rule": "Heroic Spellslinger",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "33",
+    "Link": "DTG33"
+  },
+  {
+    "Rule": "Master of Arms",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "34",
+    "Link": "DTG34"
+  },
+  {
+    "Rule": "Mighty Blow Perk",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "34",
+    "Link": "DTG34"
+  },
+  {
+    "Rule": "Rapid Switch",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "34",
+    "Link": "DTG34"
+  },
+  {
+    "Rule": "Scroll Scribbling",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "34",
+    "Link": "DTG34"
+  },
+  {
+    "Rule": "Soul-Warding",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "34",
+    "Link": "DTG34"
+  },
+  {
+    "Rule": "Two-Weapon Training",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "34",
+    "Link": "DTG34"
+  },
+  {
+    "Rule": "Vanishing Act",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "34",
+    "Link": "DTG34"
+  },
+  {
+    "Rule": "Walking Armory Perk",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "35",
+    "Link": "DTG35"
+  },
+  {
+    "Rule": "Weapon Master (Missile Spells)",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "35",
+    "Link": "DTG35"
+  },
+  {
+    "Rule": "Wrestling Master",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "35",
+    "Link": "DTG35"
+  },
+  {
+    "Rule": "Archer's Sheaf ($315, 17 lbs)",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "37",
+    "Link": "DTG37"
+  },
+  {
+    "Rule": "Basic Kit ($233, 36.45 lbs)",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "37",
+    "Link": "DTG37"
+  },
+  {
+    "Rule": "Using Cheap Equipment",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "37",
+    "Link": "DTG37"
+  },
+  {
+    "Rule": "Belt of Healing Potions ($1480, 5 lbs)",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "38",
+    "Link": "DTG38"
+  },
+  {
+    "Rule": "Clerical Basics ($300, 3 lbs)",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "38",
+    "Link": "DTG38"
+  },
+  {
+    "Rule": "Cold-Weather Kit ($421, 38.7 lbs)",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "38",
+    "Link": "DTG38"
+  },
+  {
+    "Rule": "Guard’s Armor ($929, 32.8 lbs)",
+    "Category": [
+      "DFRPG",
+      "Armor"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "38",
+    "Link": "DTG38"
+  },
+  {
+    "Rule": "Huskarl’s Armor ($1905, 47.4 lbs)",
+    "Category": [
+      "DFRPG",
+      "Armor"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "38",
+    "Link": "DTG38"
+  },
+  {
+    "Rule": "Nordlond Battle Shield ($600, 8 lbs)",
+    "Category": [
+      "DFRPG",
+      "Armor"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "38",
+    "Link": "DTG38"
+  },
+  {
+    "Rule": "Knight’s Armor ($5763, 69.5 lbs)",
+    "Category": [
+      "DFRPG",
+      "Armor"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "39",
+    "Link": "DTG39"
+  },
+  {
+    "Rule": "Light Armor ($248, 19.8 lbs)",
+    "Category": [
+      "DFRPG",
+      "Armor"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "39",
+    "Link": "DTG39"
+  },
+  {
+    "Rule": "Medic’s Kit ($900, 11.2 lbs)",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "39",
+    "Link": "DTG39"
+  },
+  {
+    "Rule": "Psychopomp’s Gear ($1200, 11 lbs)",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "39",
+    "Link": "DTG39"
+  },
+  {
+    "Rule": "Spellcaster’s Belt ($770, 5 lbs)",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "39",
+    "Link": "DTG39"
+  },
+  {
+    "Rule": "Spelunker’s Kit ($595, 12.5 lbs)",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "39",
+    "Link": "DTG39"
+  },
+  {
+    "Rule": "Thieves’ Kit ($730, 8.7 lbs)",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Delvers to Grow",
+    "Page": "39",
+    "Link": "DTG39"
   },
   {
     "Rule": "Saffir-Simpson Hurricane Wind Scale",
@@ -16526,7 +17387,7 @@
     "Link": "DR145"
   },
   {
-    "Rule": "Professor Friedls Mechanical Dragon",
+    "Rule": "Professor Friedl’s Mechanical Dragon",
     "Category": [
       "Template",
       "Creatures"
@@ -16697,7 +17558,7 @@
     "Link": "DR155"
   },
   {
-    "Rule": "Slayers Advisor",
+    "Rule": "Slayer’s Advisor",
     "Category": [
       "Template"
     ],
@@ -28732,6 +29593,1154 @@
     "Link": "DFX102"
   },
   {
+    "Rule": "Acid Spider",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "16",
+    "Link": "DFM16"
+  },
+  {
+    "Rule": "as-Sharak",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "16",
+    "Link": "DFM16"
+  },
+  {
+    "Rule": "Bear",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "16",
+    "Link": "DFM16"
+  },
+  {
+    "Rule": "Bronze Spider",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "17",
+    "Link": "DFM17"
+  },
+  {
+    "Rule": "Bugbear",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "17",
+    "Link": "DFM17"
+  },
+  {
+    "Rule": "Ciuaclá",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "18",
+    "Link": "DFM18"
+  },
+  {
+    "Rule": "Corpse Golem (DFRPG)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "18",
+    "Link": "DFM18"
+  },
+  {
+    "Rule": "Crushroom",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "19",
+    "Link": "DFM19"
+  },
+  {
+    "Rule": "Demon from Between the Stars",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "19",
+    "Link": "DFM19"
+  },
+  {
+    "Rule": "Demon of Old",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "20",
+    "Link": "DFM20"
+  },
+  {
+    "Rule": "Dinoman",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "20",
+    "Link": "DFM20"
+  },
+  {
+    "Rule": "Dire Wolf",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "21",
+    "Link": "DFM21"
+  },
+  {
+    "Rule": "Doomchild",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "21",
+    "Link": "DFM21"
+  },
+  {
+    "Rule": "Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "21",
+    "Link": "DFM21"
+  },
+  {
+    "Rule": "Draug",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "23",
+    "Link": "DFM23"
+  },
+  {
+    "Rule": "Electric Jelly",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "24",
+    "Link": "DFM24"
+  },
+  {
+    "Rule": "Elemental",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "24",
+    "Link": "DFM24"
+  },
+  {
+    "Rule": "Erupting Slime",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "26",
+    "Link": "DFM26"
+  },
+  {
+    "Rule": "Eye of Death",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "26",
+    "Link": "DFM26"
+  },
+  {
+    "Rule": "Air Superiority, Fliers can Retreat and use Acrobatic Dodge",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "27",
+    "Link": "DFM27"
+  },
+  {
+    "Rule": "Flaming Skull",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "27",
+    "Link": "DFM27"
+  },
+  {
+    "Rule": "Flesh-Eating Apes",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "27",
+    "Link": "DFM27"
+  },
+  {
+    "Rule": "Foul Bat",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "28",
+    "Link": "DFM28"
+  },
+  {
+    "Rule": "Frost Snake",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "28",
+    "Link": "DFM28"
+  },
+  {
+    "Rule": "Fungus",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "28",
+    "Link": "DFM28"
+  },
+  {
+    "Rule": "Gargoyle",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "29",
+    "Link": "DFM29"
+  },
+  {
+    "Rule": "Giant Ape",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "30",
+    "Link": "DFM30"
+  },
+  {
+    "Rule": "Giant Rat",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "30",
+    "Link": "DFM30"
+  },
+  {
+    "Rule": "Giant Snake",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "31",
+    "Link": "DFM31"
+  },
+  {
+    "Rule": "Giant Spider",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "31",
+    "Link": "DFM31"
+  },
+  {
+    "Rule": "Gladiator Ape",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "32",
+    "Link": "DFM32"
+  },
+  {
+    "Rule": "Goblin-Kin",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "33",
+    "Link": "DFM33"
+  },
+  {
+    "Rule": "Metal Weapons, Armor added to Monsters",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "33",
+    "Link": "DFM33"
+  },
+  {
+    "Rule": "Golem-Armor Swordsman",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "35",
+    "Link": "DFM35"
+  },
+  {
+    "Rule": "Gryphon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "35",
+    "Link": "DFM35"
+  },
+  {
+    "Rule": "Hellhound",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "35",
+    "Link": "DFM35"
+  },
+  {
+    "Rule": "Horde Pygmy",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "36",
+    "Link": "DFM36"
+  },
+  {
+    "Rule": "Horde Zombie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "36",
+    "Link": "DFM36"
+  },
+  {
+    "Rule": "Horrid Skull",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "37",
+    "Link": "DFM37"
+  },
+  {
+    "Rule": "Ice Weasel",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "37",
+    "Link": "DFM37"
+  },
+  {
+    "Rule": "Ice Wyrm",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "38",
+    "Link": "DFM38"
+  },
+  {
+    "Rule": "Jelly",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "38",
+    "Link": "DFM38"
+  },
+  {
+    "Rule": "Body Parts as Weapons",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "39",
+    "Link": "DFM39"
+  },
+  {
+    "Rule": "Karkadann",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "39",
+    "Link": "DFM39"
+  },
+  {
+    "Rule": "Leaping Leech",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "40",
+    "Link": "DFM40"
+  },
+  {
+    "Rule": "Lich",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "40",
+    "Link": "DFM40"
+  },
+  {
+    "Rule": "Lion",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "40",
+    "Link": "DFM40"
+  },
+  {
+    "Rule": "Lizard Man",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "41",
+    "Link": "DFM41"
+  },
+  {
+    "Rule": "Mindwarper",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "41",
+    "Link": "DFM41"
+  },
+  {
+    "Rule": "Minotaur",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "42",
+    "Link": "DFM42"
+  },
+  {
+    "Rule": "Mold",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "42",
+    "Link": "DFM42"
+  },
+  {
+    "Rule": "Moldy Monsters",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "43",
+    "Link": "DFM43"
+  },
+  {
+    "Rule": "Obsidian Jaguar",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "43",
+    "Link": "DFM43"
+  },
+  {
+    "Rule": "Ogre",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "44",
+    "Link": "DFM44"
+  },
+  {
+    "Rule": "Ooze",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "44",
+    "Link": "DFM44"
+  },
+  {
+    "Rule": "Peshkali",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "45",
+    "Link": "DFM45"
+  },
+  {
+    "Rule": "Pudding",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "46",
+    "Link": "DFM46"
+  },
+  {
+    "Rule": "Rock Mite",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "47",
+    "Link": "DFM47"
+  },
+  {
+    "Rule": "Siege Beast",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "47",
+    "Link": "DFM47"
+  },
+  {
+    "Rule": "Skeleton",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "47",
+    "Link": "DFM47"
+  },
+  {
+    "Rule": "Slime",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "48",
+    "Link": "DFM48"
+  },
+  {
+    "Rule": "Slorn",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "49",
+    "Link": "DFM49"
+  },
+  {
+    "Rule": "Slugbeast",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "50",
+    "Link": "DFM50"
+  },
+  {
+    "Rule": "Specter",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "50",
+    "Link": "DFM50"
+  },
+  {
+    "Rule": "Sphere of Madness",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "51",
+    "Link": "DFM51"
+  },
+  {
+    "Rule": "Spirit Guardian",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "52",
+    "Link": "DFM52"
+  },
+  {
+    "Rule": "Spore Cloud",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "52",
+    "Link": "DFM52"
+  },
+  {
+    "Rule": "Passive Touching Attacks",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "53",
+    "Link": "DFM53"
+  },
+  {
+    "Rule": "Stone Golems",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "54",
+    "Link": "DFM54"
+  },
+  {
+    "Rule": "Swarms",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "54",
+    "Link": "DFM54"
+  },
+  {
+    "Rule": "Sword Spirit",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "55",
+    "Link": "DFM55"
+  },
+  {
+    "Rule": "Throttler",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "55",
+    "Link": "DFM55"
+  },
+  {
+    "Rule": "Tiger",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "56",
+    "Link": "DFM56"
+  },
+  {
+    "Rule": "Toxifier",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "56",
+    "Link": "DFM56"
+  },
+  {
+    "Rule": "Triger",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "57",
+    "Link": "DFM57"
+  },
+  {
+    "Rule": "Troll",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "57",
+    "Link": "DFM57"
+  },
+  {
+    "Rule": "Undead Slime",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "58",
+    "Link": "DFM58"
+  },
+  {
+    "Rule": "Vampire (DFRPG)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "58",
+    "Link": "DFM58"
+  },
+  {
+    "Rule": "Void Brute",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "59",
+    "Link": "DFM59"
+  },
+  {
+    "Rule": "Watcher at the Edge of Time",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "59",
+    "Link": "DFM59"
+  },
+  {
+    "Rule": "Werewolf",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "60",
+    "Link": "DFM60"
+  },
+  {
+    "Rule": "Wildman",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "60",
+    "Link": "DFM60"
+  },
+  {
+    "Rule": "Zombie (DFRPG)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters",
+    "Page": "62",
+    "Link": "DFM62"
+  },
+  {
+    "Rule": "Angel",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "4",
+    "Link": "DFRM2:4"
+  },
+  {
+    "Rule": "Bayanganaga : Dragon-shaped Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "6",
+    "Link": "DFRM2:6"
+  },
+  {
+    "Rule": "Bleeder",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "8",
+    "Link": "DFRM2:8"
+  },
+  {
+    "Rule": "Bone Golem",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "10",
+    "Link": "DFRM2:10"
+  },
+  {
+    "Rule": "Chimera",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "12",
+    "Link": "DFRM2:12"
+  },
+  {
+    "Rule": "Deep Beyonder : Giant, Slimy, Smart Fish with Tentacles on Their Faces",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "14",
+    "Link": "DFRM2:14"
+  },
+  {
+    "Rule": "Fly-Dragon and Dark Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "16",
+    "Link": "DFRM2:16"
+  },
+  {
+    "Rule": "Forgeling",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "18",
+    "Link": "DFRM2:18"
+  },
+  {
+    "Rule": "Forgeling Racial Package for PCs",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "19",
+    "Link": "DFRM2:19"
+  },
+  {
+    "Rule": "Galdurnaut and domesticated Galdurnaut",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "20",
+    "Link": "DFRM2:20"
+  },
+  {
+    "Rule": "Rock Giant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "22",
+    "Link": "DFRM2:22"
+  },
+  {
+    "Rule": "Hill Giant, Sky Giant, Mountain Giant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "23",
+    "Link": "DFRM2:23"
+  },
+  {
+    "Rule": "Kroa-Kroa, Cavern Croakers",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "24",
+    "Link": "DFRM2:24"
+  },
+  {
+    "Rule": "Manaplasm : An Ooze that Eats Magic",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "26",
+    "Link": "DFRM2:26"
+  },
+  {
+    "Rule": "Effects of Lowered IQ",
+    "Category": [
+      "DFRPG",
+      "Characters",
+      "Attributes"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "28",
+    "Link": "DFRM2:28"
+  },
+  {
+    "Rule": "Mindhound : An Intelligent Dire Wolf that Eats Intellect and Spirit",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "28",
+    "Link": "DFRM2:28"
+  },
+  {
+    "Rule": "Naga, N?ga or Nagini or N?gini : 15 foot Long Snake with a Hunanoid Head",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "30",
+    "Link": "DFRM2:30"
+  },
+  {
+    "Rule": "Naga Magic and Personality",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "31",
+    "Link": "DFRM2:31"
+  },
+  {
+    "Rule": "Petrignis : Two Elemental Spirits in One Body",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "32",
+    "Link": "DFRM2:32"
+  },
+  {
+    "Rule": "Ramex : Mortals Twisted and Mutated by Elder Things",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "34",
+    "Link": "DFRM2:34"
+  },
+  {
+    "Rule": "Redthorn : Dire Plants",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "36",
+    "Link": "DFRM2:36"
+  },
+  {
+    "Rule": "Reskinned : Sculpted Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "38",
+    "Link": "DFRM2:38"
+  },
+  {
+    "Rule": "Greater Reskinned",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "39",
+    "Link": "DFRM2:39"
+  },
+  {
+    "Rule": "Frozen Dead",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "40",
+    "Link": "DFRM2:40"
+  },
+  {
+    "Rule": "Sn?w Wiht, Snaw With : Snow Spirit",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "40",
+    "Link": "DFRM2:40"
+  },
+  {
+    "Rule": "Strix or Striges",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "42",
+    "Link": "DFRM2:42"
+  },
+  {
+    "Rule": "Succubus and Incubus, and Their Demon Magic",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "44",
+    "Link": "DFRM2:44"
+  },
+  {
+    "Rule": "Terror Bird : Jurassic Park Extra",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "46",
+    "Link": "DFRM2:46"
+  },
+  {
+    "Rule": "Terror Bug and Terror Bug Hatchlings",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "48",
+    "Link": "DFRM2:48"
+  },
+  {
+    "Rule": "Trétrold : Fourteen foot Tall Humanoid Plant People",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "50",
+    "Link": "DFRM2:50"
+  },
+  {
+    "Rule": "Variant Trétrold",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy RPG: Monsters 2",
+    "Page": "51",
+    "Link": "DFRM2:51"
+  },
+  {
     "Rule": "Clerical Spells: Power Investiture",
     "Category": [
       "DFRPG",
@@ -29405,6 +31414,636 @@
     "Book": "Dungeon Fantasy RPG: Spells",
     "Page": "75",
     "Link": "DFS75"
+  },
+  {
+    "Rule": "Alkahest Siphon",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "4",
+    "Link": "DFT4"
+  },
+  {
+    "Rule": "Black Wind",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "4",
+    "Link": "DFT4"
+  },
+  {
+    "Rule": "Deadfall",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "5",
+    "Link": "DFT5"
+  },
+  {
+    "Rule": "Elven Clothesline",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "5",
+    "Link": "DFT5"
+  },
+  {
+    "Rule": "Magebane Dust",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "5",
+    "Link": "DFT5"
+  },
+  {
+    "Rule": "Rain of Liquid Ice",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "5",
+    "Link": "DFT5"
+  },
+  {
+    "Rule": "Portcullis",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "6",
+    "Link": "DFT6"
+  },
+  {
+    "Rule": "Scattershot",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "6",
+    "Link": "DFT6"
+  },
+  {
+    "Rule": "Snap, Crackle, Pop (Giant Bear Trap)",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "6",
+    "Link": "DFT6"
+  },
+  {
+    "Rule": "Spked Branch",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "6",
+    "Link": "DFT6"
+  },
+  {
+    "Rule": "Spring Snare",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "6",
+    "Link": "DFT6"
+  },
+  {
+    "Rule": "Dehydrating Basin",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "7",
+    "Link": "DFT7"
+  },
+  {
+    "Rule": "Flame Net",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "7",
+    "Link": "DFT7"
+  },
+  {
+    "Rule": "Hieroglyphs of Insanity",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "7",
+    "Link": "DFT7"
+  },
+  {
+    "Rule": "Imprisment",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "7",
+    "Link": "DFT7"
+  },
+  {
+    "Rule": "Bowling for Boulders",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "8",
+    "Link": "DFT8"
+  },
+  {
+    "Rule": "Crushroom",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "8",
+    "Link": "DFT8"
+  },
+  {
+    "Rule": "Dragon's Maw Hallway",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "9",
+    "Link": "DFT9"
+  },
+  {
+    "Rule": "Evil Runes",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "9",
+    "Link": "DFT9"
+  },
+  {
+    "Rule": "Malicious Martble Madness",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "10",
+    "Link": "DFT10"
+  },
+  {
+    "Rule": "Sand Trap",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "10",
+    "Link": "DFT10"
+  },
+  {
+    "Rule": "Burrowing Mechanical Spider",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "11",
+    "Link": "DFT11"
+  },
+  {
+    "Rule": "Smashing Walls",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "11",
+    "Link": "DFT11"
+  },
+  {
+    "Rule": "Acid Pit",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "12",
+    "Link": "DFT12"
+  },
+  {
+    "Rule": "Avoiding Pits",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "12",
+    "Link": "DFT12"
+  },
+  {
+    "Rule": "Monster Urn",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "12",
+    "Link": "DFT12"
+  },
+  {
+    "Rule": "Slip and Slime",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "12",
+    "Link": "DFT12"
+  },
+  {
+    "Rule": "Spider's Snare",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "12",
+    "Link": "DFT12"
+  },
+  {
+    "Rule": "Bladed Pit",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "13",
+    "Link": "DFT13"
+  },
+  {
+    "Rule": "Entombment",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "13",
+    "Link": "DFT13"
+  },
+  {
+    "Rule": "Gladiator Pit",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "13",
+    "Link": "DFT13"
+  },
+  {
+    "Rule": "Lava Pit",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "13",
+    "Link": "DFT13"
+  },
+  {
+    "Rule": "Wire Slide",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "13",
+    "Link": "DFT13"
+  },
+  {
+    "Rule": "Miasmic Mist",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "14",
+    "Link": "DFT14"
+  },
+  {
+    "Rule": "Needle Floor",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "14",
+    "Link": "DFT14"
+  },
+  {
+    "Rule": "Poisoned Needle",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "14",
+    "Link": "DFT14"
+  },
+  {
+    "Rule": "Ankle-Breaking Spears",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "15",
+    "Link": "DFT15"
+  },
+  {
+    "Rule": "Chainshot",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "15",
+    "Link": "DFT15"
+  },
+  {
+    "Rule": "Drop Net",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "15",
+    "Link": "DFT15"
+  },
+  {
+    "Rule": "Fiendish Flung Axe",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "15",
+    "Link": "DFT15"
+  },
+  {
+    "Rule": "Projectile Capturing Field",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "15",
+    "Link": "DFT15"
+  },
+  {
+    "Rule": "Rain of Daggers",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "16",
+    "Link": "DFT16"
+  },
+  {
+    "Rule": "Sticky Caltrops",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "16",
+    "Link": "DFT16"
+  },
+  {
+    "Rule": "Wall-Scyther",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "16",
+    "Link": "DFT16"
+  },
+  {
+    "Rule": "A Crooked Mile",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "17",
+    "Link": "DFT17"
+  },
+  {
+    "Rule": "Delvers Under Glass",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "17",
+    "Link": "DFT17"
+  },
+  {
+    "Rule": "Hall of Mirrors",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "18",
+    "Link": "DFT18"
+  },
+  {
+    "Rule": "Reverse Gravity",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "18",
+    "Link": "DFT18"
+  },
+  {
+    "Rule": "Rotating Room",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "18",
+    "Link": "DFT18"
+  },
+  {
+    "Rule": "Alchemy Basin",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "19",
+    "Link": "DFT19"
+  },
+  {
+    "Rule": "Slip and Slide",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "19",
+    "Link": "DFT19"
+  },
+  {
+    "Rule": "Door of Stars",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "20",
+    "Link": "DFT20"
+  },
+  {
+    "Rule": "Dungeon Djinn Dupes",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "20",
+    "Link": "DFT20"
+  },
+  {
+    "Rule": "Eye on the Prize",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "21",
+    "Link": "DFT21"
+  },
+  {
+    "Rule": "Javelin Lock",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "22",
+    "Link": "DFT22"
+  },
+  {
+    "Rule": "Riddle of Stone",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "22",
+    "Link": "DFT22"
+  },
+  {
+    "Rule": "Witch Duck is Which?",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "22",
+    "Link": "DFT22"
+  },
+  {
+    "Rule": "Blind Man's Bamf",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "23",
+    "Link": "DFT23"
+  },
+  {
+    "Rule": "Clingy Tightrope",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "23",
+    "Link": "DFT23"
+  },
+  {
+    "Rule": "Faux Foe",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "24",
+    "Link": "DFT24"
+  },
+  {
+    "Rule": "Helpful Climbing Wall",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "24",
+    "Link": "DFT24"
+  },
+  {
+    "Rule": "Meteoric Ore Resists Magic at Skill 15 or 20",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "24",
+    "Link": "DFT24"
+  },
+  {
+    "Rule": "Obvious Swinging Blade",
+    "Category": [
+      "DFRPG",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy RPG: Traps",
+    "Page": "24",
+    "Link": "DFT24"
   },
   {
     "Rule": "Glow-Fungus",
@@ -34051,6 +36690,366 @@
     "Link": "GF41"
   },
   {
+    "Rule": "Allfather's Guidance [22 or 32 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "3",
+    "Link": "HOA3"
+  },
+  {
+    "Rule": "All-Seeing Eye [29 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "3",
+    "Link": "HOA3"
+  },
+  {
+    "Rule": "The Allfather",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "3",
+    "Link": "HOA3"
+  },
+  {
+    "Rule": "Enhanced Turning [48 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "4",
+    "Link": "HOA4"
+  },
+  {
+    "Rule": "Soul Rend [40 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "4",
+    "Link": "HOA4"
+  },
+  {
+    "Rule": "The Goddess of Death",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "4",
+    "Link": "HOA4"
+  },
+  {
+    "Rule": "Blessed Spellcasting [14 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "5",
+    "Link": "HOA5"
+  },
+  {
+    "Rule": "The Fates",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "5",
+    "Link": "HOA5"
+  },
+  {
+    "Rule": "Twist of Fate [14 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "5",
+    "Link": "HOA5"
+  },
+  {
+    "Rule": "Higher Purpose (Lawbringer) [5 points/level]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "6",
+    "Link": "HOA6"
+  },
+  {
+    "Rule": "Righteous Challenge [23 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "6",
+    "Link": "HOA6"
+  },
+  {
+    "Rule": "The Lawgiver",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "6",
+    "Link": "HOA6"
+  },
+  {
+    "Rule": "Blessing of the Lady [1 point/level]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "7",
+    "Link": "HOA7"
+  },
+  {
+    "Rule": "Enhanced Faith Healing [60 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "7",
+    "Link": "HOA7"
+  },
+  {
+    "Rule": "Gift of Epli [20 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "7",
+    "Link": "HOA7"
+  },
+  {
+    "Rule": "The Lady of Life",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "7",
+    "Link": "HOA7"
+  },
+  {
+    "Rule": "Low-Key Misdirection [30 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "8",
+    "Link": "HOA8"
+  },
+  {
+    "Rule": "Mischievous Hand [20 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "8",
+    "Link": "HOA8"
+  },
+  {
+    "Rule": "The God of Mischief",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "8",
+    "Link": "HOA8"
+  },
+  {
+    "Rule": "Queen of the World",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "9",
+    "Link": "HOA9"
+  },
+  {
+    "Rule": "Slippery Arcana [8 points/level]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "9",
+    "Link": "HOA9"
+  },
+  {
+    "Rule": "Summon Valkyrie [38 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "9",
+    "Link": "HOA9"
+  },
+  {
+    "Rule": "Icy Veins [30 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "10",
+    "Link": "HOA10"
+  },
+  {
+    "Rule": "Snow Queen's Curse [24 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "10",
+    "Link": "HOA10"
+  },
+  {
+    "Rule": "Marvelous Throw [9, 18, or 25 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "11",
+    "Link": "HOA11"
+  },
+  {
+    "Rule": "The God of Thunder",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "11",
+    "Link": "HOA11"
+  },
+  {
+    "Rule": "Thunderwave [15 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "11",
+    "Link": "HOA11"
+  },
+  {
+    "Rule": "Lord of Warding",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "12",
+    "Link": "HOA12"
+  },
+  {
+    "Rule": "Protector's Rune [5 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "12",
+    "Link": "HOA12"
+  },
+  {
+    "Rule": "Warding Dismissal [10 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "12",
+    "Link": "HOA12"
+  },
+  {
+    "Rule": "Blessed Caravan [11 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "13",
+    "Link": "HOA13"
+  },
+  {
+    "Rule": "Sailor's Moon [14 points]",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "13",
+    "Link": "HOA13"
+  },
+  {
+    "Rule": "The God of Wind and Sea",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "13",
+    "Link": "HOA13"
+  },
+  {
+    "Rule": "Holy Warriors of Asgard",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "14",
+    "Link": "HOA14"
+  },
+  {
+    "Rule": "Major Festivals and Holidays in Asgard",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "15",
+    "Link": "HOA15"
+  },
+  {
+    "Rule": "Valkyrie",
+    "Category": [
+      "DFRPG",
+      "Divinity"
+    ],
+    "Book": "Hand of Asgard",
+    "Page": "16",
+    "Link": "HOA16"
+  },
+  {
     "Rule": "Power (High Tech)",
     "Category": [
       "Mechanism"
@@ -38367,7 +41366,7 @@
     "Link": "LOMH9"
   },
   {
-    "Rule": "Crescent Faultless (12G 2.75)",
+    "Rule": "Crescent Faultless (12G 2.75”)",
     "Category": [
       "Weapons"
     ],
@@ -44836,7 +47835,7 @@
     "Link": "MA199"
   },
   {
-    "Rule": "Tai Chi Chuan (Tai Chi-meditative version)",
+    "Rule": "T’ai Chi Chuan (T’ai Chi-meditative version)",
     "Category": [
       "Styles"
     ],
@@ -54584,6 +57583,2369 @@
     "Link": "MYST117"
   },
   {
+    "Rule": "The Nine Realms of Yggdrasil",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "5",
+    "Link": "NBE5"
+  },
+  {
+    "Rule": "Monster Advantages",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "6",
+    "Link": "NBE6"
+  },
+  {
+    "Rule": "Monster Disadvantages",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "7",
+    "Link": "NBE7"
+  },
+  {
+    "Rule": "Monster Classes (Like Álfar)",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "8",
+    "Link": "NBE8"
+  },
+  {
+    "Rule": "True Dragons (Dreki)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "10",
+    "Link": "NBE10"
+  },
+  {
+    "Rule": "Dragon Breath Table and Random Dragon Generator",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "12",
+    "Link": "NBE12"
+  },
+  {
+    "Rule": "Álfar Pocket Dimensions, and Faerie Portals",
+    "Category": [
+      "DFRPG",
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "13",
+    "Link": "NBE13"
+  },
+  {
+    "Rule": "Faerie and Álfar",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "13",
+    "Link": "NBE13"
+  },
+  {
+    "Rule": "Álfar Dread of Running Water",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "14",
+    "Link": "NBE14"
+  },
+  {
+    "Rule": "Álfar Vulnerabilities",
+    "Category": [
+      "DFRPG",
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "14",
+    "Link": "NBE14"
+  },
+  {
+    "Rule": "Code of Honor (Faerie)",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "14",
+    "Link": "NBE14"
+  },
+  {
+    "Rule": "Álfar Elf-Shot",
+    "Category": [
+      "DFRPG",
+      "Setting",
+      "Magic"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "15",
+    "Link": "NBE15"
+  },
+  {
+    "Rule": "Monster Combat Traits",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "18",
+    "Link": "NBE18"
+  },
+  {
+    "Rule": "Toxins, Poison, and Venom",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Affliction"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "21",
+    "Link": "NBE21"
+  },
+  {
+    "Rule": "Disease Malaise",
+    "Category": [
+      "DFRPG",
+      "Affliction"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "22",
+    "Link": "NBE22"
+  },
+  {
+    "Rule": "Monstrous Diseases",
+    "Category": [
+      "DFRPG",
+      "Affliction"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "23",
+    "Link": "NBE23"
+  },
+  {
+    "Rule": "Rabies and Septic Bite",
+    "Category": [
+      "DFRPG",
+      "Affliction"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "24",
+    "Link": "NBE24"
+  },
+  {
+    "Rule": "Special Character ALT codes",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "25",
+    "Link": "NBE25"
+  },
+  {
+    "Rule": "Acolyte, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "26",
+    "Link": "NBE26"
+  },
+  {
+    "Rule": "Converting an Acolyte into a Druid",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "26",
+    "Link": "NBE26"
+  },
+  {
+    "Rule": "Álfar Faerie Warrior",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "27",
+    "Link": "NBE27"
+  },
+  {
+    "Rule": "Álfar Faerie Wizard",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "28",
+    "Link": "NBE28"
+  },
+  {
+    "Rule": "Animated Armor, Construct",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "29",
+    "Link": "NBE29"
+  },
+  {
+    "Rule": "Augnarath (Gaze Lizard, Basilisk), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "30",
+    "Link": "NBE30"
+  },
+  {
+    "Rule": "Badger, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "31",
+    "Link": "NBE31"
+  },
+  {
+    "Rule": "Baenadýrið (Prayer Beast), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "32",
+    "Link": "NBE32"
+  },
+  {
+    "Rule": "Bandit or Pirate, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "33",
+    "Link": "NBE33"
+  },
+  {
+    "Rule": "Bandit or Pirate Captain, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "34",
+    "Link": "NBE34"
+  },
+  {
+    "Rule": "Bats, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "35",
+    "Link": "NBE35"
+  },
+  {
+    "Rule": "Bears, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "36",
+    "Link": "NBE36"
+  },
+  {
+    "Rule": "Berserker, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "37",
+    "Link": "NBE37"
+  },
+  {
+    "Rule": "Blaðakona (Queen of Blades), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "38",
+    "Link": "NBE38"
+  },
+  {
+    "Rule": "Blister Worm, Mundane, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "39",
+    "Link": "NBE39"
+  },
+  {
+    "Rule": "Blóðþrysta (Bloodthirsty, Vampire), Spirit, Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "40",
+    "Link": "NBE40"
+  },
+  {
+    "Rule": "Blóðþrysta Spawn (Bloodthirsty Spawn, Vampire Spawn), Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "42",
+    "Link": "NBE42"
+  },
+  {
+    "Rule": "Blóðughúfa (Redcap), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "43",
+    "Link": "NBE43"
+  },
+  {
+    "Rule": "Boar, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "44",
+    "Link": "NBE44"
+  },
+  {
+    "Rule": "Bolvaðr (Acc ursed), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "45",
+    "Link": "NBE45"
+  },
+  {
+    "Rule": "Boráll (Bore Eel), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "46",
+    "Link": "NBE46"
+  },
+  {
+    "Rule": "Bráðnuðu (The Melted), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "47",
+    "Link": "NBE47"
+  },
+  {
+    "Rule": "Brenglaðr Ormur (Fallen Worm, Spirit Naga), Spirit",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "48",
+    "Link": "NBE48"
+  },
+  {
+    "Rule": "Breyttdýr (Change-beast), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "49",
+    "Link": "NBE49"
+  },
+  {
+    "Rule": "Cat, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "50",
+    "Link": "NBE50"
+  },
+  {
+    "Rule": "Centipede, Animal (Giant, Mundane, or Swarm)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "51",
+    "Link": "NBE51"
+  },
+  {
+    "Rule": "Cultist, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "52",
+    "Link": "NBE52"
+  },
+  {
+    "Rule": "Fanatic Cultist, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "53",
+    "Link": "NBE53"
+  },
+  {
+    "Rule": "Possessed Warlock Cultist, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "54",
+    "Link": "NBE54"
+  },
+  {
+    "Rule": "Dark Pack, Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "55",
+    "Link": "NBE55"
+  },
+  {
+    "Rule": "Dauðagrip (Death Grip, Roper), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "56",
+    "Link": "NBE56"
+  },
+  {
+    "Rule": "Fallow Deer, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "57",
+    "Link": "NBE57"
+  },
+  {
+    "Rule": "Red Elk Deer, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "58",
+    "Link": "NBE58"
+  },
+  {
+    "Rule": "Dog (Feral and Big Dogs), Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "59",
+    "Link": "NBE59"
+  },
+  {
+    "Rule": "Dökkkápa (Dark Cape, Darkmantle), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "60",
+    "Link": "NBE60"
+  },
+  {
+    "Rule": "Dökktomte (Dark Gnome, Deep Gnome), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "61",
+    "Link": "NBE61"
+  },
+  {
+    "Rule": "True Dragon, Mundane, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "62",
+    "Link": "NBE62"
+  },
+  {
+    "Rule": "Draug, Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "64",
+    "Link": "NBE64"
+  },
+  {
+    "Rule": "Drekitröll (Dragon-troll), Mundane, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "65",
+    "Link": "NBE65"
+  },
+  {
+    "Rule": "Eagle, Animal or Giant Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "66",
+    "Link": "NBE66"
+  },
+  {
+    "Rule": "Edderkop (Spiderman), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "67",
+    "Link": "NBE67"
+  },
+  {
+    "Rule": "Eðlufólk Bearded One (Lizard-folk), Mundane, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "68",
+    "Link": "NBE68"
+  },
+  {
+    "Rule": "Eðlufólk Dragon Warr ior, Mundane, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "69",
+    "Link": "NBE69"
+  },
+  {
+    "Rule": "Eðlufólk Monitor, Mundane, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "70",
+    "Link": "NBE70"
+  },
+  {
+    "Rule": "Eðlufólk Mysterious, Mundane, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "71",
+    "Link": "NBE71"
+  },
+  {
+    "Rule": "Eirðarlaus (Restless, Mummy), Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "72",
+    "Link": "NBE72"
+  },
+  {
+    "Rule": "Eldingarlaun (Lightning Drake), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "74",
+    "Link": "NBE74"
+  },
+  {
+    "Rule": "Air Elemental, Elemental",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "75",
+    "Link": "NBE75"
+  },
+  {
+    "Rule": "Fire Tornado Elemental, Elemental",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "76",
+    "Link": "NBE76"
+  },
+  {
+    "Rule": "Lava Elemental, Elemental",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "77",
+    "Link": "NBE77"
+  },
+  {
+    "Rule": "Water (Undine) Elemental, Elemental",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "78",
+    "Link": "NBE78"
+  },
+  {
+    "Rule": "Ettin, Mundane, Giant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "79",
+    "Link": "NBE79"
+  },
+  {
+    "Rule": "Falleglygi (Corrupter, Succubus), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "80",
+    "Link": "NBE80"
+  },
+  {
+    "Rule": "Fiendling, Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "82",
+    "Link": "NBE82"
+  },
+  {
+    "Rule": "Fjallatröll (Mountain Troll), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "83",
+    "Link": "NBE83"
+  },
+  {
+    "Rule": "Giant Frog or Giant Toad, Giant Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "84",
+    "Link": "NBE84"
+  },
+  {
+    "Rule": "Frostalf (Jack Frost), Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "85",
+    "Link": "NBE85"
+  },
+  {
+    "Rule": "Game Birds, Mundane (quite fowl)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "86",
+    "Link": "NBE86"
+  },
+  {
+    "Rule": "Gangaeðla (Tunnel Lizard, Kobold), Mundane, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "87",
+    "Link": "NBE87"
+  },
+  {
+    "Rule": "Gel-o-Mold (Mimic), Slime",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "88",
+    "Link": "NBE88"
+  },
+  {
+    "Rule": "Ghost, Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "89",
+    "Link": "NBE89"
+  },
+  {
+    "Rule": "Ghoul, Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "90",
+    "Link": "NBE90"
+  },
+  {
+    "Rule": "Mountain Goat, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "91",
+    "Link": "NBE91"
+  },
+  {
+    "Rule": "Giant Golden Gopher, Giant Animal, Marmot",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "92",
+    "Link": "NBE92"
+  },
+  {
+    "Rule": "Grafa Ormur (Burrow Worm, Purple Worm), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "93",
+    "Link": "NBE93"
+  },
+  {
+    "Rule": "Gremlin, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "94",
+    "Link": "NBE94"
+  },
+  {
+    "Rule": "Grendelkin, Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "95",
+    "Link": "NBE95"
+  },
+  {
+    "Rule": "Griffon, Hybrid",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "96",
+    "Link": "NBE96"
+  },
+  {
+    "Rule": "Grim, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "97",
+    "Link": "NBE97"
+  },
+  {
+    "Rule": "Grimmdar (Blood Tyrant, Pit Fiend), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "98",
+    "Link": "NBE98"
+  },
+  {
+    "Rule": "Haf Ormur (Sea Serpent), Mundane, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "100",
+    "Link": "NBE100"
+  },
+  {
+    "Rule": "Hafiðfólk (Merfolk), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "101",
+    "Link": "NBE101"
+  },
+  {
+    "Rule": "Hákarlmaðr (Sharkmen), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "102",
+    "Link": "NBE102"
+  },
+  {
+    "Rule": "Halaþyrna (Thorn Tail), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "103",
+    "Link": "NBE103"
+  },
+  {
+    "Rule": "Half-Dragon Warrior, Mundane, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "104",
+    "Link": "NBE104"
+  },
+  {
+    "Rule": "Haturljós (Fury Wisp, Will-O-Wisp), Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "105",
+    "Link": "NBE105"
+  },
+  {
+    "Rule": "Hawk (Buzzard, Falcon, Goshawk, Harrier, Kite), Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "106",
+    "Link": "NBE106"
+  },
+  {
+    "Rule": "Hob (Bugbear), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "107",
+    "Link": "NBE107"
+  },
+  {
+    "Rule": "Hofvarpnir (Flying Horse, Pegasus), Aesir",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "108",
+    "Link": "NBE108"
+  },
+  {
+    "Rule": "Horned Tyrann (Horned Tyrant), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "109",
+    "Link": "NBE109"
+  },
+  {
+    "Rule": "Horse, Pony, Mule, Riding Horse, War Horse",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "110",
+    "Link": "NBE110"
+  },
+  {
+    "Rule": "Neveri Horse Archer, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "112",
+    "Link": "NBE112"
+  },
+  {
+    "Rule": "Hrogn (Demon Spawn, Imp, Quasit), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "113",
+    "Link": "NBE113"
+  },
+  {
+    "Rule": "Hulder (Huldrekall or Huldra), Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "114",
+    "Link": "NBE114"
+  },
+  {
+    "Rule": "Ice Alf (Ice Goblin), Elemental",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "115",
+    "Link": "NBE115"
+  },
+  {
+    "Rule": "Snowball Fight (Ice Balls)",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "115",
+    "Link": "NBE115"
+  },
+  {
+    "Rule": "Illt Hundr (Fire Hound, Hellhound), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "116",
+    "Link": "NBE116"
+  },
+  {
+    "Rule": "Ísmargfætlur (Ice Centipede, Remorhaz), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "117",
+    "Link": "NBE117"
+  },
+  {
+    "Rule": "Ístyrann (Ice Tyrant), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "118",
+    "Link": "NBE118"
+  },
+  {
+    "Rule": "Íviðia (Witch of th e Woods), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "119",
+    "Link": "NBE119"
+  },
+  {
+    "Rule": "Járnuxa (Iron Ox, Gorgon), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "120",
+    "Link": "NBE120"
+  },
+  {
+    "Rule": "Fire Jötun, Mundane, Giant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "121",
+    "Link": "NBE121"
+  },
+  {
+    "Rule": "Frost Jötun, Mundane, Giant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "122",
+    "Link": "NBE122"
+  },
+  {
+    "Rule": "Hill Jötun, Mundane, Giant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "123",
+    "Link": "NBE123"
+  },
+  {
+    "Rule": "Keðja (Binder Demon), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "124",
+    "Link": "NBE124"
+  },
+  {
+    "Rule": "Kónglax (King Salmon), Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "125",
+    "Link": "NBE125"
+  },
+  {
+    "Rule": "Krabbári (Pincer Demon), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "126",
+    "Link": "NBE126"
+  },
+  {
+    "Rule": "Shapeshifting Krabbári",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "127",
+    "Link": "NBE127"
+  },
+  {
+    "Rule": "Kraken (Release the…), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "128",
+    "Link": "NBE128"
+  },
+  {
+    "Rule": "Lich, Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "130",
+    "Link": "NBE130"
+  },
+  {
+    "Rule": "Lich Secret Spells: Corpse Hands and Soul Rend",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "131",
+    "Link": "NBE131"
+  },
+  {
+    "Rule": "Liefar (Remnant, Specter), Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "132",
+    "Link": "NBE132"
+  },
+  {
+    "Rule": "Cave Lion, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "133",
+    "Link": "NBE133"
+  },
+  {
+    "Rule": "Logaskuggi (Flameshadow), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "134",
+    "Link": "NBE134"
+  },
+  {
+    "Rule": "Lothinmenn (Predecessors), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "136",
+    "Link": "NBE136"
+  },
+  {
+    "Rule": "Lygasöngur (Siren / Sea Hag), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "137",
+    "Link": "NBE137"
+  },
+  {
+    "Rule": "Mage, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "138",
+    "Link": "NBE138"
+  },
+  {
+    "Rule": "Mammoth, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "139",
+    "Link": "NBE139"
+  },
+  {
+    "Rule": "Martröð (Nightmare, Night Hag), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "140",
+    "Link": "NBE140"
+  },
+  {
+    "Rule": "Mountain Cat, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "141",
+    "Link": "NBE141"
+  },
+  {
+    "Rule": "Mylja Ormur (Crushing Worm), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "142",
+    "Link": "NBE142"
+  },
+  {
+    "Rule": "Mýrartröll (Swamp Troll), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "143",
+    "Link": "NBE143"
+  },
+  {
+    "Rule": "Narwhal, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "144",
+    "Link": "NBE144"
+  },
+  {
+    "Rule": "Nautamaðr (Bull-man, Minotaur), Mundane (what a bunch of bull)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "145",
+    "Link": "NBE145"
+  },
+  {
+    "Rule": "Nisse, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "146",
+    "Link": "NBE146"
+  },
+  {
+    "Rule": "Nix, Freshwater Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "147",
+    "Link": "NBE147"
+  },
+  {
+    "Rule": "Norðalf (Gobling), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "148",
+    "Link": "NBE148"
+  },
+  {
+    "Rule": "Ochre Jelly, Slime",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "149",
+    "Link": "NBE149"
+  },
+  {
+    "Rule": "Octopus, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "150",
+    "Link": "NBE150"
+  },
+  {
+    "Rule": "Óséðmorðingr (Unseen Murderer), Elemental",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "151",
+    "Link": "NBE151"
+  },
+  {
+    "Rule": "Owl, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "152",
+    "Link": "NBE152"
+  },
+  {
+    "Rule": "Phase Spider, Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "153",
+    "Link": "NBE153"
+  },
+  {
+    "Rule": "Physeter (Whale), Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "154",
+    "Link": "NBE154"
+  },
+  {
+    "Rule": "Giant Black Pudding (Jell-O?), Slime",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "155",
+    "Link": "NBE155"
+  },
+  {
+    "Rule": "Raiður (Wraith ), Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "156",
+    "Link": "NBE156"
+  },
+  {
+    "Rule": "Raven, Animal, Nevermore",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "157",
+    "Link": "NBE157"
+  },
+  {
+    "Rule": "Rokk Eðla (Rock Lizard), Dire Animal, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "158",
+    "Link": "NBE158"
+  },
+  {
+    "Rule": "Rokktyggja (Rockbiter, Cockatrice), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "159",
+    "Link": "NBE159"
+  },
+  {
+    "Rule": "Scout, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "160",
+    "Link": "NBE160"
+  },
+  {
+    "Rule": "Shark, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "161",
+    "Link": "NBE161"
+  },
+  {
+    "Rule": "Sið Shark (Sith Shark) (Use the Force, Shark)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "162",
+    "Link": "NBE162"
+  },
+  {
+    "Rule": "Skekktfiskur (Mer-demon), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "163",
+    "Link": "NBE163"
+  },
+  {
+    "Rule": "Skeleton, Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "164",
+    "Link": "NBE164"
+  },
+  {
+    "Rule": "Skuggi (Shadow), Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "165",
+    "Link": "NBE165"
+  },
+  {
+    "Rule": "Sleipnisfolald (Sleipnir’s Children), Aesir",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "166",
+    "Link": "NBE166"
+  },
+  {
+    "Rule": "Sokkvár i (Demon-raptor), Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "167",
+    "Link": "NBE167"
+  },
+  {
+    "Rule": "Spjóthestr (Spear-horse/Unicorn), Aesir, Divine Servitor",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "168",
+    "Link": "NBE168"
+  },
+  {
+    "Rule": "Sprite, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "169",
+    "Link": "NBE169"
+  },
+  {
+    "Rule": "Spy, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "170",
+    "Link": "NBE170"
+  },
+  {
+    "Rule": "Steel Serpent, Construct",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "171",
+    "Link": "NBE171"
+  },
+  {
+    "Rule": "Stóralf (Hobgobling), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "172",
+    "Link": "NBE172"
+  },
+  {
+    "Rule": "Elder Stóralf (Elder Hobgobling), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "173",
+    "Link": "NBE173"
+  },
+  {
+    "Rule": "Sverðtönn Kónglax (Sabretooth Salmon), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "174",
+    "Link": "NBE174"
+  },
+  {
+    "Rule": "Swamp Eðla (Swamp Lizard), Dire Animal, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "175",
+    "Link": "NBE175"
+  },
+  {
+    "Rule": "Thurs (Brute Troll, Ogre), Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "176",
+    "Link": "NBE176"
+  },
+  {
+    "Rule": "Uglu-björn (Owlbear), Hybrid",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "177",
+    "Link": "NBE177"
+  },
+  {
+    "Rule": "Undead Swarms, Undead Curse, Rot Curse",
+    "Category": [
+      "DFRPG",
+      "Undead",
+      "Affliction"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "178",
+    "Link": "NBE178"
+  },
+  {
+    "Rule": "Vaeng Ormur (Winged Worm), Dire Animal, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "179",
+    "Link": "NBE179"
+  },
+  {
+    "Rule": "Vaettr (Wight), Undead, The Wight Stuff",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "180",
+    "Link": "NBE180"
+  },
+  {
+    "Rule": "Vaettrhrogn (Wight -spawn, Zombie), Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "181",
+    "Link": "NBE181"
+  },
+  {
+    "Rule": "Valkyrie, Aesir, Divine Servitor",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "182",
+    "Link": "NBE182"
+  },
+  {
+    "Rule": "Verndanda (Guardian Spirit), Spirit, Divine Servitor",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Supernatural",
+      "Divinity"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "183",
+    "Link": "NBE183"
+  },
+  {
+    "Rule": "Veteran, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "184",
+    "Link": "NBE184"
+  },
+  {
+    "Rule": "Viper, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "185",
+    "Link": "NBE185"
+  },
+  {
+    "Rule": "Wolf, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "186",
+    "Link": "NBE186"
+  },
+  {
+    "Rule": "Winter Wolf, Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "187",
+    "Link": "NBE187"
+  },
+  {
+    "Rule": "Worg, Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "188",
+    "Link": "NBE188"
+  },
+  {
+    "Rule": "Wyvern, Dire Animal, Dragon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "189",
+    "Link": "NBE189"
+  },
+  {
+    "Rule": "Ýlirkottur (Yule Cat), Dire Animal, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary and Enemies",
+    "Page": "190",
+    "Link": "NBE190"
+  },
+  {
+    "Rule": "Faerie Class Creatures can be Contained by a Pentagram",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "2",
+    "Link": "NBB2"
+  },
+  {
+    "Rule": "Chitin Weapons and Armor (+19 CF)",
+    "Category": [
+      "DFRPG",
+      "Gear"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "3",
+    "Link": "NBB3"
+  },
+  {
+    "Rule": "Climbing onto a Large Creature to Ride or Attack or Both",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "4",
+    "Link": "NBB4"
+  },
+  {
+    "Rule": "Gold-Digging Ant, Giant Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "4",
+    "Link": "NBB4"
+  },
+  {
+    "Rule": "Giant Ant-Lion, Giant Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "5",
+    "Link": "NBB5"
+  },
+  {
+    "Rule": "Astral Spider, Elder Thing",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "6",
+    "Link": "NBB6"
+  },
+  {
+    "Rule": "Bímær, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "7",
+    "Link": "NBB7"
+  },
+  {
+    "Rule": "Bjöllufólk Sunrider, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "8",
+    "Link": "NBB8"
+  },
+  {
+    "Rule": "Bjöllufólk Swordsman, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "9",
+    "Link": "NBB9"
+  },
+  {
+    "Rule": "Dauðaprestr, Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "10",
+    "Link": "NBB10"
+  },
+  {
+    "Rule": "Elder Spider, Elder Thing",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "12",
+    "Link": "NBB12"
+  },
+  {
+    "Rule": "ExoSkeleton, Undead",
+    "Category": [
+      "DFRPG",
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "14",
+    "Link": "NBB14"
+  },
+  {
+    "Rule": "God-Blooded Fly, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "15",
+    "Link": "NBB15"
+  },
+  {
+    "Rule": "Goblin Spider, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "16",
+    "Link": "NBB16"
+  },
+  {
+    "Rule": "Giant Hermit Crab, Giant Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "17",
+    "Link": "NBB17"
+  },
+  {
+    "Rule": "Hertogi Fluganna, Demon",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "18",
+    "Link": "NBB18"
+  },
+  {
+    "Rule": "Giant Horned Beetle, Giant Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "20",
+    "Link": "NBB20"
+  },
+  {
+    "Rule": "Krabbadýr (Cancroid Beast), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "21",
+    "Link": "NBB21"
+  },
+  {
+    "Rule": "Krabbajarl (Cancroid Chief), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "22",
+    "Link": "NBB22"
+  },
+  {
+    "Rule": "Krabbakló (Cancroid Warrior), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "24",
+    "Link": "NBB24"
+  },
+  {
+    "Rule": "Giant Locust, Giant Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "25",
+    "Link": "NBB25"
+  },
+  {
+    "Rule": "Maddening Crickets, Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "26",
+    "Link": "NBB26"
+  },
+  {
+    "Rule": "Maurakappi (Ant-folk)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "27",
+    "Link": "NBB27"
+  },
+  {
+    "Rule": "Mauradrottning (Antfolk Q ueen)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "30",
+    "Link": "NBB30"
+  },
+  {
+    "Rule": "Mauraprins/Mauraprincessa, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "31",
+    "Link": "NBB31"
+  },
+  {
+    "Rule": "Galdramaur (Antfolk Spellcaster), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "32",
+    "Link": "NBB32"
+  },
+  {
+    "Rule": "Maurakappi (Antfolk Warrior), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "33",
+    "Link": "NBB33"
+  },
+  {
+    "Rule": "Mauraþræll, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "34",
+    "Link": "NBB34"
+  },
+  {
+    "Rule": "Mimic Beetle (Spegilvilla), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "35",
+    "Link": "NBB35"
+  },
+  {
+    "Rule": "Móðir, Álfar, Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "36",
+    "Link": "NBB36"
+  },
+  {
+    "Rule": "Giant Scorpion (also Huge and Humongous), Giant Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "38",
+    "Link": "NBB38"
+  },
+  {
+    "Rule": "Siege Beetle, Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "40",
+    "Link": "NBB40"
+  },
+  {
+    "Rule": "Steinsporðdreki (Elf-Scorpion Centaur), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "41",
+    "Link": "NBB41"
+  },
+  {
+    "Rule": "Stórþarmaorm ur (Burrowing Toxic Grubs), Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "42",
+    "Link": "NBB42"
+  },
+  {
+    "Rule": "Giant Sun-Spider, Giant Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "43",
+    "Link": "NBB43"
+  },
+  {
+    "Rule": "Swarms of Various Insects and Giant Insects",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "44",
+    "Link": "NBB44"
+  },
+  {
+    "Rule": "Void Wasp, Elder Thing",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "45",
+    "Link": "NBB45"
+  },
+  {
+    "Rule": "Giant Wasp, Giant Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "46",
+    "Link": "NBB46"
+  },
+  {
+    "Rule": "Huge Wasp, Giant Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "47",
+    "Link": "NBB47"
+  },
+  {
+    "Rule": "Coleopterans, Bjöllufólk (40 point Racial Package, Playable PC Race)",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Nordlondr Bestiary: Bugstiary",
+    "Page": "48",
+    "Link": "NBB48"
+  },
+  {
+    "Rule": "Cat-Folk",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "2",
+    "Link": "NF2"
+  },
+  {
+    "Rule": "Dwarves",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "3",
+    "Link": "NF3"
+  },
+  {
+    "Rule": "Elves",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "4",
+    "Link": "NF4"
+  },
+  {
+    "Rule": "Gnomes",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "5",
+    "Link": "NF5"
+  },
+  {
+    "Rule": "Half-Elves",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "6",
+    "Link": "NF6"
+  },
+  {
+    "Rule": "Half-Ogres and Half-Orcs",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "6",
+    "Link": "NF6"
+  },
+  {
+    "Rule": "Halflings",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "7",
+    "Link": "NF7"
+  },
+  {
+    "Rule": "Björnhjarta (Bear-Folk)",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "8",
+    "Link": "NF8"
+  },
+  {
+    "Rule": "Gullinálmur (Boar-Folk)",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "9",
+    "Link": "NF9"
+  },
+  {
+    "Rule": "Úlfblóðugur (Wolf-Blooded)",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "10",
+    "Link": "NF10"
+  },
+  {
+    "Rule": "Hrafnar (Raven-folk)",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "11",
+    "Link": "NF11"
+  },
+  {
+    "Rule": "Triger-Folk",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "12",
+    "Link": "NF12"
+  },
+  {
+    "Rule": "Dragon-Blooded",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "13",
+    "Link": "NF13"
+  },
+  {
+    "Rule": "Eldhuð (Demon-Blooded)",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "14",
+    "Link": "NF14"
+  },
+  {
+    "Rule": "Himneskur (God-Blooded)",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "15",
+    "Link": "NF15"
+  },
+  {
+    "Rule": "Vandræðagemsi (Fae Gnomes)",
+    "Category": [
+      "DFRPG",
+      "Racial Template"
+    ],
+    "Book": "Nordlondr Folk",
+    "Page": "16",
+    "Link": "NF16"
+  },
+  {
     "Rule": "A Power's Abilities",
     "Category": [
       "Powers"
@@ -61947,7 +67309,7 @@
     "Link": "PY36:18"
   },
   {
-    "Rule": "Code of Honor (Musketeers)",
+    "Rule": "Code of Honor (Musketeer’s)",
     "Category": [
       "Traits"
     ],
@@ -62011,7 +67373,7 @@
     "Link": "PY50:4"
   },
   {
-    "Rule": "Code of Honor (Dwarfs)",
+    "Rule": "Code of Honor (Dwarf’s)",
     "Category": [
       "Traits"
     ],
@@ -65421,7 +70783,7 @@
     "Link": "S235"
   },
   {
-    "Rule": "Spacecrafts Performance Statistics",
+    "Rule": "Spacecraft’s Performance Statistics",
     "Category": [
       "Vehicles",
       "Attributes"
@@ -77346,7 +82708,7 @@
     "Link": "VSC5"
   },
   {
-    "Rule": "LObéissante",
+    "Rule": "L’Obéissante",
     "Category": [
       "Vehicles"
     ],
@@ -80486,1783 +85848,5 @@
     "Book": "Zombies: Day One",
     "Page": "49",
     "Link": "ZDO49"
-  },
-  {
-    "Rule": "Acid Spider",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "16",
-    "Link": "DFM16"
-  },
-  {
-    "Rule": "as-Sharak",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "16",
-    "Link": "DFM16"
-  },
-  {
-    "Rule": "Bear",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "16",
-    "Link": "DFM16"
-  },
-  {
-    "Rule": "Bronze Spider",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "17",
-    "Link": "DFM17"
-  },
-  {
-    "Rule": "Bugbear",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "17",
-    "Link": "DFM17"
-  },
-  {
-    "Rule": "Ciuaclá",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "18",
-    "Link": "DFM18"
-  },
-  {
-    "Rule": "Corpse Golem (DFRPG)",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "18",
-    "Link": "DFM18"
-  },
-  {
-    "Rule": "Crushroom",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "19",
-    "Link": "DFM19"
-  },
-  {
-    "Rule": "Demon from Between the Stars",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "19",
-    "Link": "DFM19"
-  },
-  {
-    "Rule": "Demon of Old",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "20",
-    "Link": "DFM20"
-  },
-  {
-    "Rule": "Dinoman",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "20",
-    "Link": "DFM20"
-  },
-  {
-    "Rule": "Dire Wolf",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "21",
-    "Link": "DFM21"
-  },
-  {
-    "Rule": "Doomchild",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "21",
-    "Link": "DFM21"
-  },
-  {
-    "Rule": "Dragon",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "21",
-    "Link": "DFM21"
-  },
-  {
-    "Rule": "Draug",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "23",
-    "Link": "DFM23"
-  },
-  {
-    "Rule": "Electric Jelly",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "24",
-    "Link": "DFM24"
-  },
-  {
-    "Rule": "Elemental",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "24",
-    "Link": "DFM24"
-  },
-  {
-    "Rule": "Erupting Slime",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "26",
-    "Link": "DFM26"
-  },
-  {
-    "Rule": "Eye of Death",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "26",
-    "Link": "DFM26"
-  },
-  {
-    "Rule": "Flaming Skull",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "27",
-    "Link": "DFM27"
-  },
-  {
-    "Rule": "Flesh-Eating Apes",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "27",
-    "Link": "DFM27"
-  },
-  {
-    "Rule": "Air Superiority, Fliers can Retreat and use Acrobatic Dodge",
-    "Category": [
-      "DFRPG",
-      "Creatures",
-      "Combat"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "27",
-    "Link": "DFM27"
-  },
-  {
-    "Rule": "Foul Bat",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "28",
-    "Link": "DFM28"
-  },
-  {
-    "Rule": "Frost Snake",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "28",
-    "Link": "DFM28"
-  },
-  {
-    "Rule": "Fungus",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "28",
-    "Link": "DFM28"
-  },
-  {
-    "Rule": "Gargoyle",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "29",
-    "Link": "DFM29"
-  },
-  {
-    "Rule": "Giant Ape",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "30",
-    "Link": "DFM30"
-  },
-  {
-    "Rule": "Giant Rat",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "30",
-    "Link": "DFM30"
-  },
-  {
-    "Rule": "Giant Snake",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "31",
-    "Link": "DFM31"
-  },
-  {
-    "Rule": "Giant Spider",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "31",
-    "Link": "DFM31"
-  },
-  {
-    "Rule": "Gladiator Ape",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "32",
-    "Link": "DFM32"
-  },
-  {
-    "Rule": "Metal Weapons, Armor added to Monsters",
-    "Category": [
-      "DFRPG",
-      "Creatures",
-      "Gear"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "33",
-    "Link": "DFM33"
-  },
-  {
-    "Rule": "Goblin-Kin",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "33",
-    "Link": "DFM33"
-  },
-  {
-    "Rule": "Golem-Armor Swordsman",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "35",
-    "Link": "DFM35"
-  },
-  {
-    "Rule": "Gryphon",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "35",
-    "Link": "DFM35"
-  },
-  {
-    "Rule": "Hellhound",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "35",
-    "Link": "DFM35"
-  },
-  {
-    "Rule": "Horde Pygmy",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "36",
-    "Link": "DFM36"
-  },
-  {
-    "Rule": "Horde Zombie",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "36",
-    "Link": "DFM36"
-  },
-  {
-    "Rule": "Horrid Skull",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "37",
-    "Link": "DFM37"
-  },
-  {
-    "Rule": "Ice Weasel",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "37",
-    "Link": "DFM37"
-  },
-  {
-    "Rule": "Ice Wyrm",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "38",
-    "Link": "DFM38"
-  },
-  {
-    "Rule": "Jelly",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "38",
-    "Link": "DFM38"
-  },
-  {
-    "Rule": "Karkadann",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "39",
-    "Link": "DFM39"
-  },
-  {
-    "Rule": "Body Parts as Weapons",
-    "Category": [
-      "DFRPG",
-      "Creatures",
-      "Combat"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "39",
-    "Link": "DFM39"
-  },
-  {
-    "Rule": "Leaping Leech",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "40",
-    "Link": "DFM40"
-  },
-  {
-    "Rule": "Lich",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "40",
-    "Link": "DFM40"
-  },
-  {
-    "Rule": "Lion",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "40",
-    "Link": "DFM40"
-  },
-  {
-    "Rule": "Lizard Man",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "41",
-    "Link": "DFM41"
-  },
-  {
-    "Rule": "Mindwarper",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "41",
-    "Link": "DFM41"
-  },
-  {
-    "Rule": "Minotaur",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "42",
-    "Link": "DFM42"
-  },
-  {
-    "Rule": "Mold",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "42",
-    "Link": "DFM42"
-  },
-  {
-    "Rule": "Moldy Monsters",
-    "Category": [
-      "DFRPG",
-      "Creatures",
-      "Traits"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "43",
-    "Link": "DFM43"
-  },
-  {
-    "Rule": "Obsidian Jaguar",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "43",
-    "Link": "DFM43"
-  },
-  {
-    "Rule": "Pudding",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "46",
-    "Link": "DFM46"
-  },
-  {
-    "Rule": "Ogre",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "44",
-    "Link": "DFM44"
-  },
-  {
-    "Rule": "Ooze",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "44",
-    "Link": "DFM44"
-  },
-  {
-    "Rule": "Peshkali",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "45",
-    "Link": "DFM45"
-  },
-  {
-    "Rule": "Rock Mite",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "47",
-    "Link": "DFM47"
-  },
-  {
-    "Rule": "Siege Beast",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "47",
-    "Link": "DFM47"
-  },
-  {
-    "Rule": "Skeleton",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "47",
-    "Link": "DFM47"
-  },
-  {
-    "Rule": "Slime",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "48",
-    "Link": "DFM48"
-  },
-  {
-    "Rule": "Slorn",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "49",
-    "Link": "DFM49"
-  },
-  {
-    "Rule": "Slugbeast",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "50",
-    "Link": "DFM50"
-  },
-  {
-    "Rule": "Specter",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "50",
-    "Link": "DFM50"
-  },
-  {
-    "Rule": "Sphere of Madness",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "51",
-    "Link": "DFM51"
-  },
-  {
-    "Rule": "Spirit Guardian",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "52",
-    "Link": "DFM52"
-  },
-  {
-    "Rule": "Spore Cloud",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "52",
-    "Link": "DFM52"
-  },
-  {
-    "Rule": "Passive Touching Attacks",
-    "Category": [
-      "DFRPG",
-      "Creatures",
-      "Traits"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "53",
-    "Link": "DFM53"
-  },
-  {
-    "Rule": "Stone Golems",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "54",
-    "Link": "DFM54"
-  },
-  {
-    "Rule": "Swarms",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "54",
-    "Link": "DFM54"
-  },
-  {
-    "Rule": "Sword Spirit",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "55",
-    "Link": "DFM55"
-  },
-  {
-    "Rule": "Throttler",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "55",
-    "Link": "DFM55"
-  },
-  {
-    "Rule": "Tiger",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "56",
-    "Link": "DFM56"
-  },
-  {
-    "Rule": "Toxifier",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "56",
-    "Link": "DFM56"
-  },
-  {
-    "Rule": "Triger",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "57",
-    "Link": "DFM57"
-  },
-  {
-    "Rule": "Troll",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "57",
-    "Link": "DFM57"
-  },
-  {
-    "Rule": "Undead Slime",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "58",
-    "Link": "DFM58"
-  },
-  {
-    "Rule": "Vampire (DFRPG)",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "58",
-    "Link": "DFM58"
-  },
-  {
-    "Rule": "Void Brute",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "59",
-    "Link": "DFM59"
-  },
-  {
-    "Rule": "Watcher at the Edge of Time",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "59",
-    "Link": "DFM59"
-  },
-  {
-    "Rule": "Werewolf",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "60",
-    "Link": "DFM60"
-  },
-  {
-    "Rule": "Wildman",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "60",
-    "Link": "DFM60"
-  },
-  {
-    "Rule": "Zombie (DFRPG)",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters",
-    "Page": "62",
-    "Link": "DFM62"
-  },
-  {
-    "Rule": "Angel",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "4",
-    "Link": "DFRM2:4"
-  },
-  {
-    "Rule": "Bayanganaga : Dragon-shaped Demon",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "6",
-    "Link": "DFRM2:6"
-  },
-  {
-    "Rule": "Bleeder",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "8",
-    "Link": "DFRM2:8"
-  },
-  {
-    "Rule": "Bone Golem",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "10",
-    "Link": "DFRM2:10"
-  },
-  {
-    "Rule": "Chimera",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "12",
-    "Link": "DFRM2:12"
-  },
-  {
-    "Rule": "Deep Beyonder : Giant, Slimy, Smart Fish with Tentacles on Their Faces",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "14",
-    "Link": "DFRM2:14"
-  },
-  {
-    "Rule": "Fly-Dragon and Dark Faerie",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "16",
-    "Link": "DFRM2:16"
-  },
-  {
-    "Rule": "Forgeling",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "18",
-    "Link": "DFRM2:18"
-  },
-  {
-    "Rule": "Forgeling Racial Package for PCs",
-    "Category": [
-      "DFRPG",
-      "Characters"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "19",
-    "Link": "DFRM2:19"
-  },
-  {
-    "Rule": "Galdurnaut and domesticated Galdurnaut",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "20",
-    "Link": "DFRM2:20"
-  },
-  {
-    "Rule": "Rock Giant",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "22",
-    "Link": "DFRM2:22"
-  },
-  {
-    "Rule": "Hill Giant, Sky Giant, Mountain Giant",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "23",
-    "Link": "DFRM2:23"
-  },
-  {
-    "Rule": "Kroa-Kroa, Cavern Croakers",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "24",
-    "Link": "DFRM2:24"
-  },
-  {
-    "Rule": "Manaplasm : An Ooze that Eats Magic",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "26",
-    "Link": "DFRM2:26"
-  },
-  {
-    "Rule": "Mindhound : An Intelligent Dire Wolf that Eats Intellect and Spirit",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "28",
-    "Link": "DFRM2:28"
-  },
-  {
-    "Rule": "Effects of Lowered IQ",
-    "Category": [
-      "DFRPG",
-      "Characters",
-      "Attributes"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "28",
-    "Link": "DFRM2:28"
-  },
-  {
-    "Rule": "Naga, N?ga or Nagini or N?gini : 15 foot Long Snake with a Hunanoid Head",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "30",
-    "Link": "DFRM2:30"
-  },
-  {
-    "Rule": "Naga Magic and Personality",
-    "Category": [
-      "DFRPG",
-      "Creatures",
-      "Magic"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "31",
-    "Link": "DFRM2:31"
-  },
-  {
-    "Rule": "Petrignis : Two Elemental Spirits in One Body",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "32",
-    "Link": "DFRM2:32"
-  },
-  {
-    "Rule": "Ramex : Mortals Twisted and Mutated by Elder Things",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "34",
-    "Link": "DFRM2:34"
-  },
-  {
-    "Rule": "Redthorn : Dire Plants",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "36",
-    "Link": "DFRM2:36"
-  },
-  {
-    "Rule": "Reskinned : Sculpted Undead",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "38",
-    "Link": "DFRM2:38"
-  },
-  {
-    "Rule": "Greater Reskinned",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "39",
-    "Link": "DFRM2:39"
-  },
-  {
-    "Rule": "Sn?w Wiht, Snaw With : Snow Spirit",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "40",
-    "Link": "DFRM2:40"
-  },
-  {
-    "Rule": "Frozen Dead",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "40",
-    "Link": "DFRM2:40"
-  },
-  {
-    "Rule": "Strix or Striges",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "42",
-    "Link": "DFRM2:42"
-  },
-  {
-    "Rule": "Succubus and Incubus, and Their Demon Magic",
-    "Category": [
-      "DFRPG",
-      "Creatures",
-      "Magic"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "44",
-    "Link": "DFRM2:44"
-  },
-  {
-    "Rule": "Terror Bird : Jurassic Park Extra",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "46",
-    "Link": "DFRM2:46"
-  },
-  {
-    "Rule": "Terror Bug and Terror Bug Hatchlings",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "48",
-    "Link": "DFRM2:48"
-  },
-  {
-    "Rule": "Trétrold : Fourteen foot Tall Humanoid Plant People",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "50",
-    "Link": "DFRM2:50"
-  },
-  {
-    "Rule": "Variant Trétrold",
-    "Category": [
-      "DFRPG",
-      "Creatures"
-    ],
-    "Book": "Dungeon Fantasy RPG: Monsters 2",
-    "Page": "51",
-    "Link": "DFRM2:51"
-  },
-  {
-    "Rule": "Alkahest Siphon",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "4",
-    "Link": "DFT4"
-  },
-  {
-    "Rule": "Black Wind",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "4",
-    "Link": "DFT4"
-  },
-  {
-    "Rule": "Magebane Dust",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "5",
-    "Link": "DFT5"
-  },
-  {
-    "Rule": "Rain of Liquid Ice",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "5",
-    "Link": "DFT5"
-  },
-  {
-    "Rule": "Deadfall",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "5",
-    "Link": "DFT5"
-  },
-  {
-    "Rule": "Elven Clothesline",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "5",
-    "Link": "DFT5"
-  },
-  {
-    "Rule": "Portcullis",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "6",
-    "Link": "DFT6"
-  },
-  {
-    "Rule": "Scattershot",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "6",
-    "Link": "DFT6"
-  },
-  {
-    "Rule": "Snap, Crackle, Pop (Giant Bear Trap)",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "6",
-    "Link": "DFT6"
-  },
-  {
-    "Rule": "Spked Branch",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "6",
-    "Link": "DFT6"
-  },
-  {
-    "Rule": "Spring Snare",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "6",
-    "Link": "DFT6"
-  },
-  {
-    "Rule": "Dehydrating Basin",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "7",
-    "Link": "DFT7"
-  },
-  {
-    "Rule": "Flame Net",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "7",
-    "Link": "DFT7"
-  },
-  {
-    "Rule": "Hieroglyphs of Insanity",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "7",
-    "Link": "DFT7"
-  },
-  {
-    "Rule": "Imprisment",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "7",
-    "Link": "DFT7"
-  },
-  {
-    "Rule": "Bowling for Boulders",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "8",
-    "Link": "DFT8"
-  },
-  {
-    "Rule": "Crushroom",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "8",
-    "Link": "DFT8"
-  },
-  {
-    "Rule": "Dragon's Maw Hallway",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "9",
-    "Link": "DFT9"
-  },
-  {
-    "Rule": "Evil Runes",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "9",
-    "Link": "DFT9"
-  },
-  {
-    "Rule": "Malicious Martble Madness",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "10",
-    "Link": "DFT10"
-  },
-  {
-    "Rule": "Sand Trap",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "10",
-    "Link": "DFT10"
-  },
-  {
-    "Rule": "Smashing Walls",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "11",
-    "Link": "DFT11"
-  },
-  {
-    "Rule": "Burrowing Mechanical Spider",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "11",
-    "Link": "DFT11"
-  },
-  {
-    "Rule": "Monster Urn",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "12",
-    "Link": "DFT12"
-  },
-  {
-    "Rule": "Slip and Slime",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "12",
-    "Link": "DFT12"
-  },
-  {
-    "Rule": "Spider's Snare",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "12",
-    "Link": "DFT12"
-  },
-  {
-    "Rule": "Acid Pit",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "12",
-    "Link": "DFT12"
-  },
-  {
-    "Rule": "Avoiding Pits",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "12",
-    "Link": "DFT12"
-  },
-  {
-    "Rule": "Bladed Pit",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "13",
-    "Link": "DFT13"
-  },
-  {
-    "Rule": "Entombment",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "13",
-    "Link": "DFT13"
-  },
-  {
-    "Rule": "Gladiator Pit",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "13",
-    "Link": "DFT13"
-  },
-  {
-    "Rule": "Lava Pit",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "13",
-    "Link": "DFT13"
-  },
-  {
-    "Rule": "Wire Slide",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "13",
-    "Link": "DFT13"
-  },
-  {
-    "Rule": "Miasmic Mist",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "14",
-    "Link": "DFT14"
-  },
-  {
-    "Rule": "Needle Floor",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "14",
-    "Link": "DFT14"
-  },
-  {
-    "Rule": "Poisoned Needle",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "14",
-    "Link": "DFT14"
-  },
-  {
-    "Rule": "Ankle-Breaking Spears",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "15",
-    "Link": "DFT15"
-  },
-  {
-    "Rule": "Chainshot",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "15",
-    "Link": "DFT15"
-  },
-  {
-    "Rule": "Drop Net",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "15",
-    "Link": "DFT15"
-  },
-  {
-    "Rule": "Fiendish Flung Axe",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "15",
-    "Link": "DFT15"
-  },
-  {
-    "Rule": "Projectile Capturing Field",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "15",
-    "Link": "DFT15"
-  },
-  {
-    "Rule": "Rain of Daggers",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "16",
-    "Link": "DFT16"
-  },
-  {
-    "Rule": "Sticky Caltrops",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "16",
-    "Link": "DFT16"
-  },
-  {
-    "Rule": "Wall-Scyther",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "16",
-    "Link": "DFT16"
-  },
-  {
-    "Rule": "A Crooked Mile",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "17",
-    "Link": "DFT17"
-  },
-  {
-    "Rule": "Delvers Under Glass",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "17",
-    "Link": "DFT17"
-  },
-  {
-    "Rule": "Hall of Mirrors",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "18",
-    "Link": "DFT18"
-  },
-  {
-    "Rule": "Reverse Gravity",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "18",
-    "Link": "DFT18"
-  },
-  {
-    "Rule": "Rotating Room",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "18",
-    "Link": "DFT18"
-  },
-  {
-    "Rule": "Slip and Slide",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "19",
-    "Link": "DFT19"
-  },
-  {
-    "Rule": "Alchemy Basin",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "19",
-    "Link": "DFT19"
-  },
-  {
-    "Rule": "Door of Stars",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "20",
-    "Link": "DFT20"
-  },
-  {
-    "Rule": "Dungeon Djinn Dupes",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "20",
-    "Link": "DFT20"
-  },
-  {
-    "Rule": "Eye on the Prize",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "21",
-    "Link": "DFT21"
-  },
-  {
-    "Rule": "Javelin Lock",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "22",
-    "Link": "DFT22"
-  },
-  {
-    "Rule": "Riddle of Stone",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "22",
-    "Link": "DFT22"
-  },
-  {
-    "Rule": "Witch Duck is Which?",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "22",
-    "Link": "DFT22"
-  },
-  {
-    "Rule": "Blind Man's Bamf",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "23",
-    "Link": "DFT23"
-  },
-  {
-    "Rule": "Clingy Tightrope",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "23",
-    "Link": "DFT23"
-  },
-  {
-    "Rule": "Faux Foe",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "24",
-    "Link": "DFT24"
-  },
-  {
-    "Rule": "Helpful Climbing Wall",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "24",
-    "Link": "DFT24"
-  },
-  {
-    "Rule": "Obvious Swinging Blade",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "24",
-    "Link": "DFT24"
-  },
-  {
-    "Rule": "Meteoric Ore Resists Magic at Skill 15 or 20",
-    "Category": [
-      "DFRPG",
-      "Traps"
-    ],
-    "Book": "Dungeon Fantasy RPG: Traps",
-    "Page": "24",
-    "Link": "DFT24"
   }
 ]
