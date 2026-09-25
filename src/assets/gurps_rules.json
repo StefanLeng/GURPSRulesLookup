@@ -5370,6 +5370,15 @@
     "Link": "B183"
   },
   {
+    "Rule": "Flying Leap",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "196",
+    "Link": "B196"
+  },
+  {
     "Rule": "Performing Actions in Zero-G Uses the Skill Free Fall",
     "Category": [
       "Skills"
@@ -5452,7 +5461,7 @@
     "Link": "B206"
   },
   {
-    "Rule": "Mechanic (TL7+ Robottics, TL9+ Micromachines, TL10+ Nanomachines)",
+    "Rule": "Mechanic (TL7+ Robotics, TL9+ Micromachines, TL10+ Nanomachines)",
     "Category": [
       "Skills"
     ],
@@ -5645,6 +5654,15 @@
     "Link": "B262"
   },
   {
+    "Rule": "AI Meta Trait and Automaton Meta Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "263",
+    "Link": "B263"
+  },
+  {
     "Rule": "Domestic Animal and Wild Animal Meta-Traits -30 CP each",
     "Category": [
       "Traits"
@@ -5688,6 +5706,15 @@
     "Book": "Basic",
     "Page": "268",
     "Link": "B268"
+  },
+  {
+    "Rule": "An Asterisk (*) Next to Reach Means Weapon Requires Ready to Change Reach Distance",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "269",
+    "Link": "B269"
   },
   {
     "Rule": "Modifying Dice Plus Adds",
@@ -5754,6 +5781,15 @@
     "Book": "Basic",
     "Page": "271",
     "Link": "B271"
+  },
+  {
+    "Rule": "Weapon Quality (Cheap, Good, Fine, Very Fine)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
   },
   {
     "Rule": "Blade Composition",
@@ -6224,7 +6260,7 @@
     "Link": "B342"
   },
   {
-    "Rule": "Cost Factirs for Equipment Modifiers",
+    "Rule": "Cost Factors for Equipment Modifiers",
     "Category": [
       "Gear"
     ],
@@ -7559,7 +7595,7 @@
     "Link": "B377"
   },
   {
-    "Rule": "Armor Divisors and Pentration Modifiers",
+    "Rule": "Armor Divisors and Penetration Modifiers",
     "Category": [
       "Combat"
     ],
@@ -7824,10 +7860,31 @@
     "Link": "B383"
   },
   {
-    "Rule": "One Second to Return a Pistol to a Holster",
+    "Rule": "Grabbing Something off the Ground",
+    "Category": [
+      "Combat",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "383",
+    "Link": "B383"
+  },
+  {
+    "Rule": "Holstering: One Second to Return a Pistol to a Holster",
     "Category": [
       "Combat",
       "Weapons",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "383",
+    "Link": "B383"
+  },
+  {
+    "Rule": "One Ready Maneuver to Drop a Shield or Cloak",
+    "Category": [
+      "Combat",
+      "Armor",
       "Physical Act"
     ],
     "Book": "Basic",
@@ -7893,7 +7950,7 @@
     "Link": "B385"
   },
   {
-    "Rule": "Wait Maneouvre Strategy",
+    "Rule": "Wait Maneuver Strategy",
     "Category": [
       "Combat"
     ],
@@ -8019,7 +8076,7 @@
     "Link": "B389"
   },
   {
-    "Rule": "Firing Through an Occupioed Hex",
+    "Rule": "Firing Through an Occupied Hex",
     "Category": [
       "Combat"
     ],
@@ -8190,7 +8247,7 @@
     "Link": "B391"
   },
   {
-    "Rule": "Runaround Attcks, Defense at -2",
+    "Rule": "Runaround Attacks, Defense at -2",
     "Category": [
       "Combat"
     ],
@@ -9025,7 +9082,7 @@
     "Link": "B411"
   },
   {
-    "Rule": "Molotov Coctails and Oil Flasks",
+    "Rule": "Molotov Cocktails and Oil Flasks",
     "Category": [
       "Combat"
     ],
@@ -11963,7 +12020,7 @@
     "Link": "B561"
   },
   {
-    "Rule": "Potental Combat Situations (and Morale Checks)",
+    "Rule": "Potential Combat Situations (and Morale Checks)",
     "Category": [
       "Reference",
       "NPC"
@@ -14896,7 +14953,7 @@
     "Link": "CS5"
   },
   {
-    "Rule": "Hygience in Cities",
+    "Rule": "Hygiene in Cities",
     "Category": [
       "Setting"
     ],
@@ -15187,7 +15244,7 @@
     "Link": "CN4:5"
   },
   {
-    "Rule": "Flutter Devil (mishapen butterfly/bad with human face)",
+    "Rule": "Flutter Devil (misshapen butterfly/bat with human face)",
     "Category": [
       "Creatures"
     ],
@@ -15335,7 +15392,7 @@
     "Link": "DTG2"
   },
   {
-    "Rule": "Delver Power Level: Novice, Journeyman, Master,",
+    "Rule": "Delver Power Level: Novice, Journeyman, Master",
     "Category": [
       "DFRPG",
       "Characters"
@@ -15776,7 +15833,7 @@
     "Link": "DTG25"
   },
   {
-    "Rule": "Spell Lists for Bards: Auriophile, Knowledge-Seeker, Mentalist",
+    "Rule": "Spell Lists for Bards: Audiophile, Knowledge-Seeker, Mentalist",
     "Category": [
       "DFRPG",
       "Magic"
@@ -18619,7 +18676,7 @@
     "Link": "DF15:34"
   },
   {
-    "Rule": "Burlgar 125 pt Lens",
+    "Rule": "Burglar 125 pt Lens",
     "Category": [
       "Template",
       "Lens"
@@ -18699,7 +18756,7 @@
     "Link": "DF15:40"
   },
   {
-    "Rule": "Troubador 125 pt Lens",
+    "Rule": "Troubadour 125 pt Lens",
     "Category": [
       "Template",
       "Lens"
@@ -21125,7 +21182,7 @@
     "Link": "DF24:18"
   },
   {
-    "Rule": "Using CP to Buy Ressurection",
+    "Rule": "Using CP to Buy Resurrection",
     "Category": [
       "Character Points"
     ],
@@ -21170,7 +21227,7 @@
     "Link": "DF24:28"
   },
   {
-    "Rule": "Making Wierdness Magnet Matter",
+    "Rule": "Making Weirdness Magnet Matter",
     "Category": [
       "Traits"
     ],
@@ -21651,6 +21708,15 @@
     "Category": [
       "Creatures",
       "Magic"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "20",
+    "Link": "DF5:20"
+  },
+  {
+    "Rule": "Familiar's Special Rapport [5]",
+    "Category": [
+      "Traits"
     ],
     "Book": "Dungeon Fantasy 5",
     "Page": "20",
@@ -23865,7 +23931,7 @@
     "Link": "DFRC3:19"
   },
   {
-    "Rule": "Background Generator, Step 10 Mundane Inheritcance",
+    "Rule": "Background Generator, Step 10 Mundane Inheritance",
     "Category": [
       "DFRPG",
       "Setting"
@@ -25961,7 +26027,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 2",
+    "Book": "Dungeon Fantasy Monsters 2: Icky Goo",
     "Page": "11",
     "Link": "DFM2:11"
   },
@@ -25970,7 +26036,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 2",
+    "Book": "Dungeon Fantasy Monsters 2: Icky Goo",
     "Page": "15",
     "Link": "DFM2:15"
   },
@@ -25979,7 +26045,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 2",
+    "Book": "Dungeon Fantasy Monsters 2: Icky Goo",
     "Page": "17",
     "Link": "DFM2:17"
   },
@@ -25989,7 +26055,7 @@
       "Skills",
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 2",
+    "Book": "Dungeon Fantasy Monsters 2: Icky Goo",
     "Page": "19",
     "Link": "DFM2:19"
   },
@@ -25998,7 +26064,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 3",
+    "Book": "Dungeon Fantasy Monsters 3: Born of Myth and Magic",
     "Page": "5",
     "Link": "DFM3:5"
   },
@@ -26007,7 +26073,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 3",
+    "Book": "Dungeon Fantasy Monsters 3: Born of Myth and Magic",
     "Page": "6",
     "Link": "DFM3:6"
   },
@@ -26016,7 +26082,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 3",
+    "Book": "Dungeon Fantasy Monsters 3: Born of Myth and Magic",
     "Page": "7",
     "Link": "DFM3:7"
   },
@@ -26025,7 +26091,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 3",
+    "Book": "Dungeon Fantasy Monsters 3: Born of Myth and Magic",
     "Page": "9",
     "Link": "DFM3:9"
   },
@@ -26034,7 +26100,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 3",
+    "Book": "Dungeon Fantasy Monsters 3: Born of Myth and Magic",
     "Page": "10",
     "Link": "DFM3:10"
   },
@@ -26043,7 +26109,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 3",
+    "Book": "Dungeon Fantasy Monsters 3: Born of Myth and Magic",
     "Page": "11",
     "Link": "DFM3:11"
   },
@@ -26052,7 +26118,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 3",
+    "Book": "Dungeon Fantasy Monsters 3: Born of Myth and Magic",
     "Page": "14",
     "Link": "DFM3:14"
   },
@@ -26061,7 +26127,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 3",
+    "Book": "Dungeon Fantasy Monsters 3: Born of Myth and Magic",
     "Page": "15",
     "Link": "DFM3:15"
   },
@@ -26070,7 +26136,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 3",
+    "Book": "Dungeon Fantasy Monsters 3: Born of Myth and Magic",
     "Page": "17",
     "Link": "DFM3:17"
   },
@@ -26079,7 +26145,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 3",
+    "Book": "Dungeon Fantasy Monsters 3: Born of Myth and Magic",
     "Page": "18",
     "Link": "DFM3:18"
   },
@@ -26088,7 +26154,7 @@
     "Category": [
       "Creatures"
     ],
-    "Book": "Dungeon Fantasy Monsters 3",
+    "Book": "Dungeon Fantasy Monsters 3: Born of Myth and Magic",
     "Page": "20",
     "Link": "DFM3:20"
   },
@@ -26156,7 +26222,7 @@
     "Link": "DFM4:8"
   },
   {
-    "Rule": "Dragon's Breath Cone Cold or Disintegreation",
+    "Rule": "Dragon's Breath Cone Cold or Disintegration",
     "Category": [
       "Traits"
     ],
@@ -26291,7 +26357,550 @@
     "Link": "DFM4:16"
   },
   {
-    "Rule": "Centipeduar",
+    "Rule": "Demon Class Defining Features (What Makes a Monster a Demon)",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "4",
+    "Link": "DFM5:4"
+  },
+  {
+    "Rule": "Designing a Demon: Power Level, Role, and Theme",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "4",
+    "Link": "DFM5:4"
+  },
+  {
+    "Rule": "Demonic Minds Are Alien (Necromantic Spells, Psionics, and Influence vs. Demons)",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "5",
+    "Link": "DFM5:5"
+  },
+  {
+    "Rule": "Demonic Talismans (Holding a Talisman, Killing a Demon for Good)",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "5",
+    "Link": "DFM5:5"
+  },
+  {
+    "Rule": "Demons Are Extradimensional (Banish, Exorcism, Possession)",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "5",
+    "Link": "DFM5:5"
+  },
+  {
+    "Rule": "Demons Are Magical (Detection, Pentagram, Utter Dome vs. Demons)",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "5",
+    "Link": "DFM5:5"
+  },
+  {
+    "Rule": "Demons Are Truly Evil (Evil-Affecting Spells, Traits, and Items vs. Demons)",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "5",
+    "Link": "DFM5:5"
+  },
+  {
+    "Rule": "Basic Demon Types (Demon Subclasses)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "6",
+    "Link": "DFM5:6"
+  },
+  {
+    "Rule": "Demons Are Not Alive (Living-Only Spells vs. Demons)",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "6",
+    "Link": "DFM5:6"
+  },
+  {
+    "Rule": "Demon-Specific Traits and Items Affect All Demons",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "6",
+    "Link": "DFM5:6"
+  },
+  {
+    "Rule": "Diabolical Creatures (Demon Subclass)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "6",
+    "Link": "DFM5:6"
+  },
+  {
+    "Rule": "Corporeal Demon ST by Size Modifier Table",
+    "Category": [
+      "Reference",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "7",
+    "Link": "DFM5:7"
+  },
+  {
+    "Rule": "Corporeal Demons (Demon Subclass)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "7",
+    "Link": "DFM5:7"
+  },
+  {
+    "Rule": "Semi-Tangible Demons (Demon Subclass)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "8",
+    "Link": "DFM5:8"
+  },
+  {
+    "Rule": "Intangible Demons (Demonic Presences as Traps or Hazards)",
+    "Category": [
+      "Creatures",
+      "Hazard"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "9",
+    "Link": "DFM5:9"
+  },
+  {
+    "Rule": "Demon Natural Weapons (Claws, Teeth, Horns, Spines, Barbs, Stinging Tails, Hooves)",
+    "Category": [
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "10",
+    "Link": "DFM5:10"
+  },
+  {
+    "Rule": "Demonic Attacks Table (Random Demon Attack Type)",
+    "Category": [
+      "Reference",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "10",
+    "Link": "DFM5:10"
+  },
+  {
+    "Rule": "Specializing Demon-Affecting Traits by Demon Subclass",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "10",
+    "Link": "DFM5:10"
+  },
+  {
+    "Rule": "Demon Venom (Damage and Affliction Tables)",
+    "Category": [
+      "Creatures",
+      "Poison"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "11",
+    "Link": "DFM5:11"
+  },
+  {
+    "Rule": "Demon Elemental Attacks (Acid, Fire, Cold) and Elemental Aura",
+    "Category": [
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "12",
+    "Link": "DFM5:12"
+  },
+  {
+    "Rule": "Demon Poison Clouds",
+    "Category": [
+      "Creatures",
+      "Poison"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "12",
+    "Link": "DFM5:12"
+  },
+  {
+    "Rule": "Demon Touch Attacks (Life Drain, Energy Drain)",
+    "Category": [
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "12",
+    "Link": "DFM5:12"
+  },
+  {
+    "Rule": "Demon Breath Weapons",
+    "Category": [
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "13",
+    "Link": "DFM5:13"
+  },
+  {
+    "Rule": "Demon Horrific Powers: Bleed, Brute, Death Blast",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "13",
+    "Link": "DFM5:13"
+  },
+  {
+    "Rule": "Demon Imbued Weapons (Poison, Unholy, Fire, Cold, Acid)",
+    "Category": [
+      "Creatures",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "13",
+    "Link": "DFM5:13"
+  },
+  {
+    "Rule": "Demon Innate Missiles Table",
+    "Category": [
+      "Reference",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "13",
+    "Link": "DFM5:13"
+  },
+  {
+    "Rule": "Elemental Demons",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "13",
+    "Link": "DFM5:13"
+  },
+  {
+    "Rule": "Demon Horrific Powers: Death Gaze, Death Wail, Disease, Foulness, Succubus Kiss, Vermin Breath",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "14",
+    "Link": "DFM5:14"
+  },
+  {
+    "Rule": "Demon Mental Attacks: Madness, Mindlessness, Possession, Terror, Terror Gaze",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "14",
+    "Link": "DFM5:14"
+  },
+  {
+    "Rule": "Demons with Adventurer Powers (Bardic Songs, Hellfire, Psionics, Shouts)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "14",
+    "Link": "DFM5:14"
+  },
+  {
+    "Rule": "Demon Damage Resistance (Force Fields, Armor, General DR, Limited DR)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "15",
+    "Link": "DFM5:15"
+  },
+  {
+    "Rule": "Demonic Defenses (Common Defensive Traits for Demons)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "15",
+    "Link": "DFM5:15"
+  },
+  {
+    "Rule": "Demonic Sustenance Meta-Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "15",
+    "Link": "DFM5:15"
+  },
+  {
+    "Rule": "Invulnerability for Demons",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "15",
+    "Link": "DFM5:15"
+  },
+  {
+    "Rule": "Other Physical Protection for Demons (Damage Reduction, Injury Tolerance, Slippery)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "15",
+    "Link": "DFM5:15"
+  },
+  {
+    "Rule": "Demonic Flaws (Categories and Discovering Them with Hidden Lore)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "16",
+    "Link": "DFM5:16"
+  },
+  {
+    "Rule": "Supernatural Defenses for Demons (Magic Resistance, Resistant to Psionics, Immunity)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "16",
+    "Link": "DFM5:16"
+  },
+  {
+    "Rule": "Dependency (Demon Flaw: Mana or Unholy Sanctity)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "17",
+    "Link": "DFM5:17"
+  },
+  {
+    "Rule": "Divine Curse (Demon Flaw: Holy Water, Reversed Healing)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "17",
+    "Link": "DFM5:17"
+  },
+  {
+    "Rule": "Draining (Demon Flaw)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "17",
+    "Link": "DFM5:17"
+  },
+  {
+    "Rule": "Dread (Demon Flaw: Holy Ground, Holy Objects)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "17",
+    "Link": "DFM5:17"
+  },
+  {
+    "Rule": "Fragile (Demon Flaw: Unnatural, Returns to Hell)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "17",
+    "Link": "DFM5:17"
+  },
+  {
+    "Rule": "Revulsion (Demon Flaw)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "17",
+    "Link": "DFM5:17"
+  },
+  {
+    "Rule": "Susceptible (Demon Flaw: Spirit-Affecting Magic)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "17",
+    "Link": "DFM5:17"
+  },
+  {
+    "Rule": "Demon Strange Body Plans (Extra Arms, Extra Legs, Snake, Wings, Appearance)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "18",
+    "Link": "DFM5:18"
+  },
+  {
+    "Rule": "Limitations as Demon Flaws (Achilles Heel, Supernatural Durability Death Triggers)",
+    "Category": [
+      "Creatures",
+      "Traits",
+      "Limitations"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "18",
+    "Link": "DFM5:18"
+  },
+  {
+    "Rule": "Vulnerability (Demon Flaw: Holy, Magic, Opposing Element, Wind)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "18",
+    "Link": "DFM5:18"
+  },
+  {
+    "Rule": "Weakness (Demon Flaw: Holy Ground, Sunlight, Area Spells)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "18",
+    "Link": "DFM5:18"
+  },
+  {
+    "Rule": "Demon Senses",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "19",
+    "Link": "DFM5:19"
+  },
+  {
+    "Rule": "Demon Special Powers (Summonable Allies, Higher Purpose, Jumper, Transformations, Unholy Gifts)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "19",
+    "Link": "DFM5:19"
+  },
+  {
+    "Rule": "Supernatural Tells for Demons (Bad Smell, Disturbing Voice, Lifebane, Weirdness Magnet)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "19",
+    "Link": "DFM5:19"
+  },
+  {
+    "Rule": "Demon Magic (Magery, Power Investiture, Demonic Energy Reserve)",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "20",
+    "Link": "DFM5:20"
+  },
+  {
+    "Rule": "Demon Mental Disadvantages and Self-Control Roll Table",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "20",
+    "Link": "DFM5:20"
+  },
+  {
+    "Rule": "Demon Skills (Assigning Skill Levels)",
+    "Category": [
+      "Creatures",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "20",
+    "Link": "DFM5:20"
+  },
+  {
+    "Rule": "Centipedaur",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "21",
+    "Link": "DFM5:21"
+  },
+  {
+    "Rule": "Reading Demon Stats",
     "Category": [
       "Creatures"
     ],
@@ -26343,6 +26952,378 @@
     "Book": "Dungeon Fantasy Monsters 5: Demons",
     "Page": "23",
     "Link": "DFM5:23"
+  },
+  {
+    "Rule": "Censu Daemoniorum (List of All Dungeon Fantasy Demons by Subclass)",
+    "Category": [
+      "Reference",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 5: Demons",
+    "Page": "24",
+    "Link": "DFM5:24"
+  },
+  {
+    "Rule": "Monster Classes for Tiny Terrors (Construct, Demon, Dire Animal, Divine Servitor)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "4",
+    "Link": "DFM6:4"
+  },
+  {
+    "Rule": "Monster Classes for Tiny Terrors (Elder Thing, Elemental, Faerie, Mundane, Spirit, Undead)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "4",
+    "Link": "DFM6:4"
+  },
+  {
+    "Rule": "Reading Monster Stats (Tiny Terrors)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "4",
+    "Link": "DFM6:4"
+  },
+  {
+    "Rule": "Recognition, Detection, and Exploiting Weaknesses vs. Size Modifier",
+    "Category": [
+      "Creatures",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "4",
+    "Link": "DFM6:4"
+  },
+  {
+    "Rule": "Bat-Vampire, Vampire Bat",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "5",
+    "Link": "DFM6:5"
+  },
+  {
+    "Rule": "Crimson Leprechaun Magic (Druidic and Wizardly Spells)",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "6",
+    "Link": "DFM6:6"
+  },
+  {
+    "Rule": "Crimson Leprechaun, Evil Leprechaun",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "6",
+    "Link": "DFM6:6"
+  },
+  {
+    "Rule": "Dark Fairy Magic (Magery 12 Spell List)",
+    "Category": [
+      "Creatures",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "7",
+    "Link": "DFM6:7"
+  },
+  {
+    "Rule": "Dark Fairy, Evil Pixie",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "7",
+    "Link": "DFM6:7"
+  },
+  {
+    "Rule": "Shroud (Dark Fairy Ability)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "7",
+    "Link": "DFM6:7"
+  },
+  {
+    "Rule": "Dire Roach, Cockroach",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "8",
+    "Link": "DFM6:8"
+  },
+  {
+    "Rule": "Hellcat, Demon Cat",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "9",
+    "Link": "DFM6:9"
+  },
+  {
+    "Rule": "Killer Rabbit, Bunny",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "10",
+    "Link": "DFM6:10"
+  },
+  {
+    "Rule": "Parrot Hierophant Magic (Evil Clerical Spells)",
+    "Category": [
+      "Creatures",
+      "Magic",
+      "Divinity"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "11",
+    "Link": "DFM6:11"
+  },
+  {
+    "Rule": "Parrot Hierophant, Evil Parrot",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "11",
+    "Link": "DFM6:11"
+  },
+  {
+    "Rule": "Plush Golem, Teddy Bear",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "12",
+    "Link": "DFM6:12"
+  },
+  {
+    "Rule": "Red Right Hand, Crawling Undead Hand",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "13",
+    "Link": "DFM6:13"
+  },
+  {
+    "Rule": "Sciuridolich, Squirrel Lich",
+    "Category": [
+      "Creatures",
+      "Undead"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "14",
+    "Link": "DFM6:14"
+  },
+  {
+    "Rule": "Squirrel Time (Sciuridolich Speed, Altered Time Rate, Scurrying Feint)",
+    "Category": [
+      "Creatures",
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "14",
+    "Link": "DFM6:14"
+  },
+  {
+    "Rule": "Scorpio Serpent, Sniper Snake",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "15",
+    "Link": "DFM6:15"
+  },
+  {
+    "Rule": "Snake Eating (Removing a Lodged Scorpio Serpent, Surgery)",
+    "Category": [
+      "Creatures",
+      "Medical"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "15",
+    "Link": "DFM6:15"
+  },
+  {
+    "Rule": "Singleton Fuzzy, Fuzzies",
+    "Category": [
+      "Creatures",
+      "Psionics"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "16",
+    "Link": "DFM6:16"
+  },
+  {
+    "Rule": "Statue Aura and Stone-Stalking (Stone Gnome Abilities)",
+    "Category": [
+      "Creatures",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "17",
+    "Link": "DFM6:17"
+  },
+  {
+    "Rule": "Stone Gnome, Garden Gnome Elemental",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "17",
+    "Link": "DFM6:17"
+  },
+  {
+    "Rule": "Banish Living, Turn Living, Repel Living Spells (Forgotten Gods)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "18",
+    "Link": "DFM6:18"
+  },
+  {
+    "Rule": "Forgotten Gods, Creations Past, Power Investiture (Forgotten Gods)",
+    "Category": [
+      "Magic",
+      "Divinity",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "18",
+    "Link": "DFM6:18"
+  },
+  {
+    "Rule": "Hidden Lore (Forgotten Gods)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "18",
+    "Link": "DFM6:18"
+  },
+  {
+    "Rule": "Torment Fetish, Cursed Doll",
+    "Category": [
+      "Creatures",
+      "Spirit"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "18",
+    "Link": "DFM6:18"
+  },
+  {
+    "Rule": "Tiny Monster Adventure Styles (Cute, Horrific, Silly, Straight)",
+    "Category": [
+      "Creatures",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "19",
+    "Link": "DFM6:19"
+  },
+  {
+    "Rule": "Effects of Negative Size Modifier (Intimidation, Grappling, Hitting)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "20",
+    "Link": "DFM6:20"
+  },
+  {
+    "Rule": "Spotting Small Creatures (Size Modifier to Hearing, Smell, Touch, Per Rolls)",
+    "Category": [
+      "Combat",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "20",
+    "Link": "DFM6:20"
+  },
+  {
+    "Rule": "Going for a Ride (Climbing Onto Larger Foes)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "21",
+    "Link": "DFM6:21"
+  },
+  {
+    "Rule": "Hard to See Coming (Defending vs. Tiny Attackers)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "21",
+    "Link": "DFM6:21"
+  },
+  {
+    "Rule": "Hiding Places for Small Creatures (Size Modifier and Stealth)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "21",
+    "Link": "DFM6:21"
+  },
+  {
+    "Rule": "Needle-Thin (Small Creatures Targeting Chinks in Armor)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "21",
+    "Link": "DFM6:21"
+  },
+  {
+    "Rule": "Sand Through Fingers (Evading Between a Larger Foe's Legs)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "21",
+    "Link": "DFM6:21"
+  },
+  {
+    "Rule": "Size Guide (Tiny Terrors Monsters by Size Modifier)",
+    "Category": [
+      "Reference",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "21",
+    "Link": "DFM6:21"
+  },
+  {
+    "Rule": "Totally Tiny (Index of SM -3 or Smaller Dungeon Fantasy Creatures)",
+    "Category": [
+      "Reference",
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy Monsters 6: Tiny Terrors",
+    "Page": "23",
+    "Link": "DFM6:23"
   },
   {
     "Rule": "Rounding in DFRPG",
@@ -26615,7 +27596,7 @@
     "Link": "DFA27"
   },
   {
-    "Rule": "Special Holy Warriror Traits",
+    "Rule": "Special Holy Warrior Traits",
     "Category": [
       "DFRPG",
       "Traits"
@@ -26865,7 +27846,7 @@
     "Link": "DFA68"
   },
   {
-    "Rule": "Skills: Defaults, Prerequisities, and Buying",
+    "Rule": "Skills: Defaults, Prerequisites, and Buying",
     "Category": [
       "DFRPG",
       "Skills"
@@ -26875,7 +27856,7 @@
     "Link": "DFA69"
   },
   {
-    "Rule": "Skill Cost Table and Skill Probablility of Success Table",
+    "Rule": "Skill Cost Table and Skill Probability of Success Table",
     "Category": [
       "DFRPG",
       "Skills"
@@ -26895,7 +27876,7 @@
     "Link": "DFA71"
   },
   {
-    "Rule": "Skill Specialities",
+    "Rule": "Skill Specialties",
     "Category": [
       "DFRPG",
       "Skills"
@@ -28945,7 +29926,7 @@
     "Link": "DFX60"
   },
   {
-    "Rule": "Shock Penalties Do Not Effect Defenses, Resistance Rolls, or Fright Checks)",
+    "Rule": "Shock Penalties Do Not Affect Defenses, Resistance Rolls, or Fright Checks",
     "Category": [
       "DFRPG",
       "Injury"
@@ -29126,7 +30107,7 @@
     "Link": "DFX66"
   },
   {
-    "Rule": "Incapacitating Conditions: Hallucinaitons, Paralysis, Retching",
+    "Rule": "Incapacitating Conditions: Hallucinations, Paralysis, Retching",
     "Category": [
       "DFRPG",
       "Afflictions"
@@ -30589,7 +31570,7 @@
     "Link": "DFRM2:28"
   },
   {
-    "Rule": "Naga, N?ga or Nagini or N?gini : 15 foot Long Snake with a Hunanoid Head",
+    "Rule": "Naga, Naga or Nagini or Nagini: 15 foot Long Snake with a Humanoid Head",
     "Category": [
       "DFRPG",
       "Creatures"
@@ -30670,7 +31651,7 @@
     "Link": "DFRM2:40"
   },
   {
-    "Rule": "Sn?w Wiht, Snaw With : Snow Spirit",
+    "Rule": "Snaw Wiht, Frozen Spirit",
     "Category": [
       "DFRPG",
       "Creatures"
@@ -30893,7 +31874,7 @@
     "Link": "DFS8"
   },
   {
-    "Rule": "Wizardly Prerequisities",
+    "Rule": "Wizardly Prerequisites",
     "Category": [
       "DFRPG",
       "Magic"
@@ -31506,7 +32487,7 @@
     "Link": "DFT6"
   },
   {
-    "Rule": "Spked Branch",
+    "Rule": "Spiked Branch",
     "Category": [
       "DFRPG",
       "Traps"
@@ -31556,7 +32537,7 @@
     "Link": "DFT7"
   },
   {
-    "Rule": "Imprisment",
+    "Rule": "Imprisonment",
     "Category": [
       "DFRPG",
       "Traps"
@@ -31606,7 +32587,7 @@
     "Link": "DFT9"
   },
   {
-    "Rule": "Malicious Martble Madness",
+    "Rule": "Malicious Marble Madness",
     "Category": [
       "DFRPG",
       "Traps"
@@ -32578,7 +33559,7 @@
     "Link": "F134"
   },
   {
-    "Rule": "Spirit Materializaiton",
+    "Rule": "Spirit Materialization",
     "Category": [
       "Traits"
     ],
@@ -33394,7 +34375,7 @@
     "Link": "FFRR20"
   },
   {
-    "Rule": "Injurying Reptilian Tails",
+    "Rule": "Injuring Reptilian Tails",
     "Category": [
       "Injury"
     ],
@@ -37610,7 +38591,7 @@
     "Link": "HT108"
   },
   {
-    "Rule": "MiniÃ© Balls",
+    "Rule": "Minié Balls",
     "Category": [
       "Weapons"
     ],
@@ -44010,7 +44991,7 @@
     "Link": "M9"
   },
   {
-    "Rule": "Optional Rule: Casting a Spell withSoft Speech is at -2 penalty to Skill",
+    "Rule": "Optional Rule: Casting a Spell with Soft Speech is at -2 penalty to Skill",
     "Category": [
       "Magic"
     ],
@@ -46943,6 +47924,15 @@
     "Link": "MA121"
   },
   {
+    "Rule": "Supported Parry, Using a Free Hand to Help Parry with a One-Handed Weapon",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "121",
+    "Link": "MA121"
+  },
+  {
     "Rule": "Fencing Parry (Martial Arts)",
     "Category": [
       "Combat"
@@ -46980,6 +47970,15 @@
   },
   {
     "Rule": "Parries with Legs or Feet",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "123",
+    "Link": "MA123"
+  },
+  {
+    "Rule": "Parrying a Dual-Weapon Attack, One Parry Roll is Made for Both Attacks at -1",
     "Category": [
       "Combat"
     ],
@@ -47076,6 +48075,24 @@
     "Book": "Martial Arts",
     "Page": "127",
     "Link": "MA127"
+  },
+  {
+    "Rule": "Chambara Defenses, Can Use Acrobatics to Increase Defenses",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "129",
+    "Link": "MA129"
+  },
+  {
+    "Rule": "Flying Leap",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "129",
+    "Link": "MA129"
   },
   {
     "Rule": "Extra Effort (Martial Arts)",
@@ -47565,7 +48582,7 @@
     "Link": "MA178"
   },
   {
-    "Rule": "Kusarijutsu (Jaoanese use of the Kusari)",
+    "Rule": "Kusarijutsu (Japanese use of the Kusari)",
     "Category": [
       "Styles"
     ],
@@ -56700,7 +57717,7 @@
     "Link": "MH6:19"
   },
   {
-    "Rule": "Jor?gumo (Shinto)",
+    "Rule": "Jorogumo (Shinto)",
     "Category": [
       "Creatures",
       "Divinity"
@@ -57964,7 +58981,7 @@
     "Link": "NBE44"
   },
   {
-    "Rule": "Bolvaðr (Acc ursed), Demon",
+    "Rule": "Bolvaðr (Accursed), Demon",
     "Category": [
       "DFRPG",
       "Creatures"
@@ -58197,7 +59214,7 @@
     "Link": "NBE68"
   },
   {
-    "Rule": "Eðlufólk Dragon Warr ior, Mundane, Dragon",
+    "Rule": "Eðlufólk Dragon Warrior, Mundane, Dragon",
     "Category": [
       "DFRPG",
       "Creatures"
@@ -58671,7 +59688,7 @@
     "Link": "NBE118"
   },
   {
-    "Rule": "Íviðia (Witch of th e Woods), Álfar, Faerie",
+    "Rule": "Íviðia (Witch of the Woods), Álfar, Faerie",
     "Category": [
       "DFRPG",
       "Creatures"
@@ -59023,7 +60040,7 @@
     "Link": "NBE155"
   },
   {
-    "Rule": "Raiður (Wraith ), Undead",
+    "Rule": "Raiður (Wraith), Undead",
     "Category": [
       "DFRPG",
       "Creatures",
@@ -59616,7 +60633,7 @@
     "Link": "NBB27"
   },
   {
-    "Rule": "Mauradrottning (Antfolk Q ueen)",
+    "Rule": "Mauradrottning (Antfolk Queen)",
     "Category": [
       "DFRPG",
       "Creatures"
@@ -59716,7 +60733,7 @@
     "Link": "NBB41"
   },
   {
-    "Rule": "Stórþarmaorm ur (Burrowing Toxic Grubs), Dire Animal",
+    "Rule": "Stórþarmaormur (Burrowing Toxic Grubs), Dire Animal",
     "Category": [
       "DFRPG",
       "Creatures"
@@ -59784,6 +60801,1040 @@
     "Book": "Nordlondr Bestiary: Bugstiary",
     "Page": "48",
     "Link": "NBB48"
+  },
+  {
+    "Rule": "Plant Traits: Bark Armor, Flora, No Eyes",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "2",
+    "Link": "NBG2"
+  },
+  {
+    "Rule": "Climbing on a Plant Monster",
+    "Category": [
+      "DFRPG",
+      "Physical Acts",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "3",
+    "Link": "NBG3"
+  },
+  {
+    "Rule": "Plant Monsters Shaking off Adventurers",
+    "Category": [
+      "DFRPG",
+      "Physical Acts",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "3",
+    "Link": "NBG3"
+  },
+  {
+    "Rule": "Plant Traits: Regrowth",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "3",
+    "Link": "NBG3"
+  },
+  {
+    "Rule": "Vegetable Senses: Blindness, Detect (Light), Vibration Sense",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "3",
+    "Link": "NBG3"
+  },
+  {
+    "Rule": "Awakened Shrubbery, Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "4",
+    "Link": "NBG4"
+  },
+  {
+    "Rule": "Create Animated Plant Spell",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "4",
+    "Link": "NBG4"
+  },
+  {
+    "Rule": "Awakened Tree, Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "5",
+    "Link": "NBG5"
+  },
+  {
+    "Rule": "Devil-Blossom (Yothga the Devil-Flower), Demon-Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "6",
+    "Link": "NBG6"
+  },
+  {
+    "Rule": "Galdra Vitlaus (Devil-Blossom Victim), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "7",
+    "Link": "NBG7"
+  },
+  {
+    "Rule": "Giant Angry Hog-Weed, Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "8",
+    "Link": "NBG8"
+  },
+  {
+    "Rule": "Giant Venus Flytrap, Audreynlíka, Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "9",
+    "Link": "NBG9"
+  },
+  {
+    "Rule": "Herecine, Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "10",
+    "Link": "NBG10"
+  },
+  {
+    "Rule": "Primeval Bloom (Blossoms of Primordial Life), Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "11",
+    "Link": "NBG11"
+  },
+  {
+    "Rule": "Primeval Bloom Victim, Dire Animal",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "12",
+    "Link": "NBG12"
+  },
+  {
+    "Rule": "Sapper Tree (Goo Tree), Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "13",
+    "Link": "NBG13"
+  },
+  {
+    "Rule": "Shocking Sallow (Voltree), Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "14",
+    "Link": "NBG14"
+  },
+  {
+    "Rule": "Sleeping Willow (Old Man Willow, Black Willow), Demon-Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "15",
+    "Link": "NBG15"
+  },
+  {
+    "Rule": "Strangleweed (Clinging Vines), Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "16",
+    "Link": "NBG16"
+  },
+  {
+    "Rule": "Thorn Thicket (Archer Bush), Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "17",
+    "Link": "NBG17"
+  },
+  {
+    "Rule": "Treeherd (Ent or Treant), Faerie",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "18",
+    "Link": "NBG18"
+  },
+  {
+    "Rule": "Trifrond (Day of the Triffids), Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "19",
+    "Link": "NBG19"
+  },
+  {
+    "Rule": "Vampire Blossom (Slith), Plant",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Garden of Evil",
+    "Page": "20",
+    "Link": "NBG20"
+  },
+  {
+    "Rule": "Elder Tongue Sibilant Speech, Hidden Lore (World Worm)",
+    "Category": [
+      "DFRPG",
+      "Setting",
+      "Traits",
+      "Skills"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "3",
+    "Link": "NBS3"
+  },
+  {
+    "Rule": "Jörmungandr, The World Worm",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "3",
+    "Link": "NBS3"
+  },
+  {
+    "Rule": "Brood Host",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "4",
+    "Link": "NBS4"
+  },
+  {
+    "Rule": "Constrictor / Viper Arms",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "4",
+    "Link": "NBS4"
+  },
+  {
+    "Rule": "Detect (Nightmare Corruption)",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "4",
+    "Link": "NBS4"
+  },
+  {
+    "Rule": "Flight and Flying Combat",
+    "Category": [
+      "DFRPG",
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "4",
+    "Link": "NBS4"
+  },
+  {
+    "Rule": "Hooded",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "4",
+    "Link": "NBS4"
+  },
+  {
+    "Rule": "Serpent's Maw",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "5",
+    "Link": "NBS5"
+  },
+  {
+    "Rule": "Slithering Humanoid",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "5",
+    "Link": "NBS5"
+  },
+  {
+    "Rule": "Swallow Whole",
+    "Category": [
+      "DFRPG",
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "5",
+    "Link": "NBS5"
+  },
+  {
+    "Rule": "Venemous Bite and Venemous Death Throes",
+    "Category": [
+      "DFRPG",
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "5",
+    "Link": "NBS5"
+  },
+  {
+    "Rule": "Venom Spitter",
+    "Category": [
+      "DFRPG",
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "5",
+    "Link": "NBS5"
+  },
+  {
+    "Rule": "Vermiform",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "5",
+    "Link": "NBS5"
+  },
+  {
+    "Rule": "World Walker",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "5",
+    "Link": "NBS5"
+  },
+  {
+    "Rule": "Chronic, Fear, Immobilizing, Pain, and Slowing Toxins",
+    "Category": [
+      "DFRPG",
+      "Affliction"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "7",
+    "Link": "NBS7"
+  },
+  {
+    "Rule": "Armor for Slithering Humanoids",
+    "Category": [
+      "DFRPG",
+      "Armor"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "8",
+    "Link": "NBS8"
+  },
+  {
+    "Rule": "Avoiding Gaze Attacks",
+    "Category": [
+      "DFRPG",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "8",
+    "Link": "NBS8"
+  },
+  {
+    "Rule": "Coiling Snakes, Turret Mode Combat Positioning for Snakes",
+    "Category": [
+      "DFRPG",
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "8",
+    "Link": "NBS8"
+  },
+  {
+    "Rule": "Size of Snake Creatures, How They Move, Width of Giant Snake Creatures",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "8",
+    "Link": "NBS8"
+  },
+  {
+    "Rule": "Springing Attack (Vermiform)",
+    "Category": [
+      "DFRPG",
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "8",
+    "Link": "NBS8"
+  },
+  {
+    "Rule": "Vermiform Posture",
+    "Category": [
+      "DFRPG",
+      "Physical Acts"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "8",
+    "Link": "NBS8"
+  },
+  {
+    "Rule": "Climbing Onto Larger Creatures",
+    "Category": [
+      "DFRPG",
+      "Physical Acts",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "9",
+    "Link": "NBS9"
+  },
+  {
+    "Rule": "Shedding Creatures that are Climbing on You",
+    "Category": [
+      "DFRPG",
+      "Physical Acts",
+      "Combat"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "9",
+    "Link": "NBS9"
+  },
+  {
+    "Rule": "Amphisbaenae, Venemous Constrictors",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "10",
+    "Link": "NBS10"
+  },
+  {
+    "Rule": "Amphisbaena, Animal, Dire (Vermiform)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "11",
+    "Link": "NBS11"
+  },
+  {
+    "Rule": "Feathered Amphisbaena, Animal, Dire (Winged Serpent)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "12",
+    "Link": "NBS12"
+  },
+  {
+    "Rule": "Battering Ramsnake, Animal, Dire (Vermiform)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "13",
+    "Link": "NBS13"
+  },
+  {
+    "Rule": "Couatl (Himinshöggormur), Mundane, Winged Serpent",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "14",
+    "Link": "NBS14"
+  },
+  {
+    "Rule": "Couatl Blessed",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "16",
+    "Link": "NBS16"
+  },
+  {
+    "Rule": "Couatl Minions: The Hand, Flying Viper, Feathered Giant Viper",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "16",
+    "Link": "NBS16"
+  },
+  {
+    "Rule": "The Hand, Mundane, Winged Humanoid",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "17",
+    "Link": "NBS17"
+  },
+  {
+    "Rule": "Feathered Giant Viper, Animal, Dire (Vermiform)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "18",
+    "Link": "NBS18"
+  },
+  {
+    "Rule": "Flying Viper, Animal, Dire (Vermiform)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "19",
+    "Link": "NBS19"
+  },
+  {
+    "Rule": "Gorgon (Höggormur Martröð), Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "21",
+    "Link": "NBS21"
+  },
+  {
+    "Rule": "Greater Gorgon, Mundane (Vermitaur)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "22",
+    "Link": "NBS22"
+  },
+  {
+    "Rule": "Fórnsnake Animal, Dire (Vermiform)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "24",
+    "Link": "NBS24"
+  },
+  {
+    "Rule": "Gorgonoid, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "25",
+    "Link": "NBS25"
+  },
+  {
+    "Rule": "Snakebear, Hybrid (Quadruped)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "26",
+    "Link": "NBS26"
+  },
+  {
+    "Rule": "Hydra, Animal, Dire (Quadruped)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "27",
+    "Link": "NBS27"
+  },
+  {
+    "Rule": "Chthonic Hydra, Elemental (Quadruped)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "30",
+    "Link": "NBS30"
+  },
+  {
+    "Rule": "Skeletal Hydra, Undead (Quadruped)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "31",
+    "Link": "NBS31"
+  },
+  {
+    "Rule": "Jarðormur, Mundane (Vermiform)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "32",
+    "Link": "NBS32"
+  },
+  {
+    "Rule": "Myrkra Ormur",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "34",
+    "Link": "NBS34"
+  },
+  {
+    "Rule": "Juvenile Shadow Serpents",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "35",
+    "Link": "NBS35"
+  },
+  {
+    "Rule": "Myrkra Python, Animal, Dire (Vermiform)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "37",
+    "Link": "NBS37"
+  },
+  {
+    "Rule": "Myrkra Viper, Animal, Dire (Vermiform)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "38",
+    "Link": "NBS38"
+  },
+  {
+    "Rule": "Snákamaðr Hunter, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "40",
+    "Link": "NBS40"
+  },
+  {
+    "Rule": "Snákamaðr Warrior, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "41",
+    "Link": "NBS41"
+  },
+  {
+    "Rule": "Martröðtýndr Warriors",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "42",
+    "Link": "NBS42"
+  },
+  {
+    "Rule": "Martröðtýndr",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "42",
+    "Link": "NBS42"
+  },
+  {
+    "Rule": "Nightmare Snake-Priests",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "42",
+    "Link": "NBS42"
+  },
+  {
+    "Rule": "Snekrobolt",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "42",
+    "Link": "NBS42"
+  },
+  {
+    "Rule": "Martröðtýndr Assassin, Mundane",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "43",
+    "Link": "NBS43"
+  },
+  {
+    "Rule": "Martröðtýndr High Priest, Mundane (Vermitaur)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "44",
+    "Link": "NBS44"
+  },
+  {
+    "Rule": "Snákamaðr as Player Characters [25 points]",
+    "Category": [
+      "DFRPG",
+      "Characters",
+      "Templates"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "46",
+    "Link": "NBS46"
+  },
+  {
+    "Rule": "Whompsnake, Animal, Dire (Vermiform)",
+    "Category": [
+      "DFRPG",
+      "Creatures"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "47",
+    "Link": "NBS47"
+  },
+  {
+    "Rule": "Serpent Cultist Personality Types",
+    "Category": [
+      "DFRPG",
+      "Setting",
+      "NPCs"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "48",
+    "Link": "NBS48"
+  },
+  {
+    "Rule": "Tortured Souls: Abuser",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "49",
+    "Link": "NBS49"
+  },
+  {
+    "Rule": "Tortured Souls: Bereft of Inhibitions",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "49",
+    "Link": "NBS49"
+  },
+  {
+    "Rule": "Tortured Souls: Bird-Brained",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "49",
+    "Link": "NBS49"
+  },
+  {
+    "Rule": "Tortured Souls: Destroyer",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "49",
+    "Link": "NBS49"
+  },
+  {
+    "Rule": "Tortured Souls: Endbringer",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "50",
+    "Link": "NBS50"
+  },
+  {
+    "Rule": "Tortured Souls: Ignorant of Value",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "50",
+    "Link": "NBS50"
+  },
+  {
+    "Rule": "Tortured Souls: Insatiable",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "50",
+    "Link": "NBS50"
+  },
+  {
+    "Rule": "Tortured Souls: Lack of Discernment",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "50",
+    "Link": "NBS50"
+  },
+  {
+    "Rule": "Tortured Souls: Possessed Slayer",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "50",
+    "Link": "NBS50"
+  },
+  {
+    "Rule": "Tortured Souls: Starved for Attention",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "50",
+    "Link": "NBS50"
+  },
+  {
+    "Rule": "Tortured Souls: Superiority Complex",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "50",
+    "Link": "NBS50"
+  },
+  {
+    "Rule": "Tortured Souls: Wild Abandon",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "50",
+    "Link": "NBS50"
+  },
+  {
+    "Rule": "Building a Cult, Layers, Front Organizations, Power Structure",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "51",
+    "Link": "NBS51"
+  },
+  {
+    "Rule": "The Cult of Thoom, Children of Earth",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "52",
+    "Link": "NBS52"
+  },
+  {
+    "Rule": "Seeker Snake, Regular Spell",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "54",
+    "Link": "NBS54"
+  },
+  {
+    "Rule": "Viper Arrow, Regular Spell",
+    "Category": [
+      "DFRPG",
+      "Magic"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "55",
+    "Link": "NBS55"
+  },
+  {
+    "Rule": "Dulsa Thoom, Mundane",
+    "Category": [
+      "DFRPG",
+      "NPCs"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "56",
+    "Link": "NBS56"
+  },
+  {
+    "Rule": "Dulsa Thoom, Snake Monster, Mundane (Tailed Humanoid)",
+    "Category": [
+      "DFRPG",
+      "NPCs"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "57",
+    "Link": "NBS57"
+  },
+  {
+    "Rule": "The Silver Torc Trade Guild",
+    "Category": [
+      "DFRPG",
+      "Setting"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "58",
+    "Link": "NBS58"
+  },
+  {
+    "Rule": "Nightmare Corruption, Delving into Corruption",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "59",
+    "Link": "NBS59"
+  },
+  {
+    "Rule": "Alien Visions [-5 points]",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "60",
+    "Link": "NBS60"
+  },
+  {
+    "Rule": "Harrowing Nightmares [-5 points]",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Nordlondr Bestiary: Serpents of Legend",
+    "Page": "60",
+    "Link": "NBS60"
   },
   {
     "Rule": "Cat-Folk",
@@ -60964,7 +63015,7 @@
     "Link": "PDF15"
   },
   {
-    "Rule": "Ressurection",
+    "Rule": "Resurrection",
     "Category": [
       "Divinity"
     ],
@@ -62293,7 +64344,7 @@
     "Link": "PW12"
   },
   {
-    "Rule": "Psycical Research Weird Science Style",
+    "Rule": "Psychical Research Weird Science Style",
     "Category": [
       "Styles"
     ],
@@ -63419,7 +65470,7 @@
     "Link": "PU3:7"
   },
   {
-    "Rule": "Business Acument Talent",
+    "Rule": "Business Acumen Talent",
     "Category": [
       "Traits"
     ],
@@ -65335,7 +67386,7 @@
     "Link": "PSI8"
   },
   {
-    "Rule": "Psychic Gestaults",
+    "Rule": "Psychic Gestalts",
     "Category": [
       "Psionics",
       "Combat"
@@ -66253,7 +68304,7 @@
     "Link": "PT13"
   },
   {
-    "Rule": "Psi Augmenttion Devices",
+    "Rule": "Psi Augmentation Devices",
     "Category": [
       "Supernatural",
       "Electronics",
@@ -66524,6 +68575,35 @@
     "Book": "Pyramid #3/101",
     "Page": "24",
     "Link": "PY101:24"
+  },
+  {
+    "Rule": "The Wrestler PC Profession Template",
+    "Category": [
+      "DFRPG",
+      "Characters"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "12",
+    "Link": "PY111:12"
+  },
+  {
+    "Rule": "Wrestling Master [10 points]",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "13",
+    "Link": "PY111:13"
+  },
+  {
+    "Rule": "Wrestlers in GURPS",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Pyramid #3/111",
+    "Page": "14",
+    "Link": "PY111:14"
   },
   {
     "Rule": "Ambush Predator Style",
@@ -66819,7 +68899,7 @@
     "Link": "PY113:22"
   },
   {
-    "Rule": "Grute's Hair and Bones",
+    "Rule": "Grutel's Hair and Bones",
     "Category": [
       "Creatures"
     ],
@@ -66885,7 +68965,7 @@
     "Link": "PY120:24"
   },
   {
-    "Rule": "Aerial Jujustu (Flying)",
+    "Rule": "Aerial Jujutsu (Flying)",
     "Category": [
       "Combat",
       "Environment",
@@ -67575,7 +69655,7 @@
     "Link": "PY68:7"
   },
   {
-    "Rule": "Magical Desert: Grasping Sand; Oases of Healing, Indolence, Strenght",
+    "Rule": "Magical Desert: Grasping Sand; Oases of Healing, Indolence, Strength",
     "Category": [
       "Environment"
     ],
@@ -67661,7 +69741,7 @@
     "Link": "PY68:13"
   },
   {
-    "Rule": "Silver (Argentum: Fertility, Illumination, Luncacy)",
+    "Rule": "Silver (Argentum: Fertility, Illumination, Lunacy)",
     "Category": [
       "Elements"
     ],
@@ -69182,7 +71262,7 @@
     "Link": "SEBS30"
   },
   {
-    "Rule": "Apprentiship and Tutoring",
+    "Rule": "Apprenticeship and Tutoring",
     "Category": [
       "Skills"
     ],
@@ -71024,7 +73104,7 @@
     "Link": "SS1:20"
   },
   {
-    "Rule": "Spaecraft Passenger Seating",
+    "Rule": "Spacecraft Passenger Seating",
     "Category": [
       "Vehicles"
     ],
@@ -71073,7 +73153,7 @@
     "Link": "SS1:22"
   },
   {
-    "Rule": "Spacecraft Fission Reaciton Engine",
+    "Rule": "Spacecraft Fission Reaction Engine",
     "Category": [
       "Vehicles",
       "Mechanism"
@@ -71262,7 +73342,7 @@
     "Link": "SS1:28"
   },
   {
-    "Rule": "Soacecraft Artificial Gravity and Gravitic Compensators",
+    "Rule": "Spacecraft Artificial Gravity and Gravitic Compensators",
     "Category": [
       "Vehicles",
       "Mechanism"
@@ -74811,7 +76891,7 @@
     "Link": "TS45"
   },
   {
-    "Rule": "Retain Weapn Technique (Hard)",
+    "Rule": "Retain Weapon Technique (Hard)",
     "Category": [
       "Combat",
       "Techniques"
@@ -76835,7 +78915,7 @@
     "Link": "T56"
   },
   {
-    "Rule": "Non-Letheal Sacrifices",
+    "Rule": "Non-Lethal Sacrifices",
     "Category": [
       "Magic",
       "Setting"
@@ -77071,7 +79151,7 @@
     "Link": "T103"
   },
   {
-    "Rule": "Alechemical Inventions, Prototypes and Gadgeteer",
+    "Rule": "Alchemical Inventions, Prototypes and Gadgeteer",
     "Category": [
       "Professions"
     ],
@@ -80431,6 +82511,42 @@
     "Link": "UT18"
   },
   {
+    "Rule": "A Power Cell ($2, 0.005 lbs)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "19",
+    "Link": "UT19"
+  },
+  {
+    "Rule": "AA Power Cell ($1, 0.0005 lbs)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "19",
+    "Link": "UT19"
+  },
+  {
+    "Rule": "B Power Cell ($3, 0.05 lbs)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "19",
+    "Link": "UT19"
+  },
+  {
+    "Rule": "C Power Cell ($10, 0.5 lbs)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "19",
+    "Link": "UT19"
+  },
+  {
     "Rule": "Cosmic Power Cells",
     "Category": [
       "Gear"
@@ -80440,7 +82556,34 @@
     "Link": "UT19"
   },
   {
+    "Rule": "D Power Cell ($100, 5 lbs, LC4, Powers Military Beam Weapons)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "19",
+    "Link": "UT19"
+  },
+  {
+    "Rule": "E Power Cell ($2,000, 20 lbs, LC4, Powers Small Vehicles, Powersuits)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "19",
+    "Link": "UT19"
+  },
+  {
     "Rule": "Exploding Power Cells",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "19",
+    "Link": "UT19"
+  },
+  {
+    "Rule": "F Power Cell ($20,000, 200 lbs, LC4, Powers Medium and Large Vehicles, Canons)",
     "Category": [
       "Gear"
     ],
@@ -80477,6 +82620,16 @@
     "Link": "UT19"
   },
   {
+    "Rule": "Time to Replace Power Cells",
+    "Category": [
+      "Gear",
+      "Combat"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "19",
+    "Link": "UT19"
+  },
+  {
     "Rule": "Generators Table (Fission, Fusion, Antimatter)",
     "Category": [
       "Reference",
@@ -80487,10 +82640,78 @@
     "Link": "UT20"
   },
   {
+    "Rule": "Portable Antimatter Generator (TL12, $10,000, 10 lbs. LC2)",
+    "Category": [
+      "Mechanism",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "20",
+    "Link": "UT20"
+  },
+  {
+    "Rule": "Portable Fusion Reactor (TL11, $100,000, 50 lbs, LC2)",
+    "Category": [
+      "Mechanism",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "20",
+    "Link": "UT20"
+  },
+  {
+    "Rule": "Semi-Portable Antimatter Generator (TL11, $200,000, 100 lbs, LC2)",
+    "Category": [
+      "Mechanism",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "20",
+    "Link": "UT20"
+  },
+  {
+    "Rule": "Semi-Portable Fusion Reactor (TL10, $200,000, 100 lbs. LC3)",
+    "Category": [
+      "Mechanism",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "20",
+    "Link": "UT20"
+  },
+  {
+    "Rule": "Semi-Portable Solar Power Array (TL9, $10,000, 500 lbs, LC4)",
+    "Category": [
+      "Mechanism",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "20",
+    "Link": "UT20"
+  },
+  {
+    "Rule": "A Computer's Complexity Determines What Programs it Can Run",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "21",
+    "Link": "UT21"
+  },
+  {
     "Rule": "Beamed and Broadcast Power",
     "Category": [
       "Setting",
       "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "21",
+    "Link": "UT21"
+  },
+  {
+    "Rule": "Civilization (by TL) and Power Generation (TL9 to TL12)",
+    "Category": [
+      "Setting"
     ],
     "Book": "Ultra-Tech",
     "Page": "21",
@@ -80526,9 +82747,72 @@
     "Link": "UT21"
   },
   {
+    "Rule": "Contemporary Desktop Computer (late TL8) is Complexity 3 to 4",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "21",
+    "Link": "UT21"
+  },
+  {
+    "Rule": "Solar Power Satellites (TL9)",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "21",
+    "Link": "UT21"
+  },
+  {
     "Rule": "Customizing Computer Hardware Options",
     "Category": [
       "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "22",
+    "Link": "UT22"
+  },
+  {
+    "Rule": "Macroframe (TL9, Cmplx 8, 100,000 TB, $1 mil, 4,000 lbs., external power. LC3)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "22",
+    "Link": "UT22"
+  },
+  {
+    "Rule": "Mainframe (TL9, Cmplx 7, 10,000 TB, $100,000, 400 lbs., external power. LC3)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "22",
+    "Link": "UT22"
+  },
+  {
+    "Rule": "Megacomputer (TL9, Cmplx 9, 1 mil TB, $10 mil, 40,000 lbs., external power, LC2)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "22",
+    "Link": "UT22"
+  },
+  {
+    "Rule": "Microframe (TL9, Cmplx 6, 1,000 TB, $10,000, 40 lbs., external power. LC3)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "22",
+    "Link": "UT22"
+  },
+  {
+    "Rule": "Personal Computer (TL9, Cmplx 5, stores 100 TB, $1,000, 5 lbs., 2C/20 hr, LC4)",
+    "Category": [
+      "Electronics"
     ],
     "Book": "Ultra-Tech",
     "Page": "22",
@@ -80545,9 +82829,138 @@
     "Link": "UT22"
   },
   {
+    "Rule": "Scaling Computer Statistics up for TL10, TL11, and TL12",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "22",
+    "Link": "UT22"
+  },
+  {
+    "Rule": "Small Computer (TL9, Cmplx 4, stores 10 TB, $100, 0.5 lbs., 2B/20 hr. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "22",
+    "Link": "UT22"
+  },
+  {
+    "Rule": "Tiny Computer (TL9, Cmplx 3, stores 1 TB, $50, 0.05 lbs., 2A/20 hr. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "22",
+    "Link": "UT22"
+  },
+  {
+    "Rule": "Additional Data Storage for Computers",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "23",
+    "Link": "UT23"
+  },
+  {
+    "Rule": "Computer Varieties: Compact, Fast, Genius, Hardened, High-Capacity",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "23",
+    "Link": "UT23"
+  },
+  {
+    "Rule": "Computer Varieties: Printed, Quantum, Slow, FTL (TL11^)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "23",
+    "Link": "UT23"
+  },
+  {
+    "Rule": "Datapad, datachip removable drive (TL9, $10, 0.05 lbs. 2A/20 hr. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "23",
+    "Link": "UT23"
+  },
+  {
     "Rule": "Computer Software Table",
     "Category": [
       "Reference",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "24",
+    "Link": "UT24"
+  },
+  {
+    "Rule": "Computerized Crew Station (TL9, $2,000, 50 lbs, uses external power. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "24",
+    "Link": "UT24"
+  },
+  {
+    "Rule": "Head-Up Display (HUD) (TL9, $50, neg.,uses external power. LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "24",
+    "Link": "UT24"
+  },
+  {
+    "Rule": "Holographic Crew Station (TL9, $10,000, 50 lbs., uses external power. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "24",
+    "Link": "UT24"
+  },
+  {
+    "Rule": "Holoprojection Terminals (TL10^)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "24",
+    "Link": "UT24"
+  },
+  {
+    "Rule": "Multisensory Holographic Crew Station (TL10, $50,000, 100 lbs. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "24",
+    "Link": "UT24"
+  },
+  {
+    "Rule": "Portable Terminal (TL9, $50, 0.5 lbs., 2B/20 hr. LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "24",
+    "Link": "UT24"
+  },
+  {
+    "Rule": "Sleeve Display (TL9, $50, neg. weight, A/10 hr. (uses flexible cells). LC4)",
+    "Category": [
+      "Electronics",
       "Gear"
     ],
     "Book": "Ultra-Tech",
@@ -80575,6 +82988,34 @@
     "Link": "UT24"
   },
   {
+    "Rule": "Workstation Terminal (TL9, $500, 5 lbs., C/10 hr. or external power. LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "24",
+    "Link": "UT24"
+  },
+  {
+    "Rule": "Software Quality: Basic, Good, and Fine",
+    "Category": [
+      "Software"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "25",
+    "Link": "UT25"
+  },
+  {
+    "Rule": "Software Tools",
+    "Category": [
+      "Software"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "25",
+    "Link": "UT25"
+  },
+  {
     "Rule": "Volitional AI and Digital Intelligences",
     "Category": [
       "Setting"
@@ -80584,10 +83025,82 @@
     "Link": "UT25"
   },
   {
+    "Rule": "Drones",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "26",
+    "Link": "UT26"
+  },
+  {
+    "Rule": "Renting Robots",
+    "Category": [
+      "NPCs"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "26",
+    "Link": "UT26"
+  },
+  {
+    "Rule": "A Drone's Computer is Complexity 3",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "27",
+    "Link": "UT27"
+  },
+  {
+    "Rule": "Cyborg Brain [0 points]",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "27",
+    "Link": "UT27"
+  },
+  {
+    "Rule": "Drone [-255 points]",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "27",
+    "Link": "UT27"
+  },
+  {
     "Rule": "Machine Intelligence Lenses",
     "Category": [
       "Traits",
       "Lens"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "27",
+    "Link": "UT27"
+  },
+  {
+    "Rule": "Mind Emulation [+5 points]",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "27",
+    "Link": "UT27"
+  },
+  {
+    "Rule": "Non-Volitional AI [-38 points]",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "27",
+    "Link": "UT27"
+  },
+  {
+    "Rule": "Partial and Total Cyborgs",
+    "Category": [
+      "Traits"
     ],
     "Book": "Ultra-Tech",
     "Page": "27",
@@ -80603,6 +83116,54 @@
     "Link": "UT28"
   },
   {
+    "Rule": "Optional Intelligence Lenses",
+    "Category": [
+      "Software",
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "28",
+    "Link": "UT28"
+  },
+  {
+    "Rule": "Volitional AI [+32 points]",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "28",
+    "Link": "UT28"
+  },
+  {
+    "Rule": "Weak Dedicated AI [-83 points]",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "28",
+    "Link": "UT28"
+  },
+  {
+    "Rule": "Chameleon New Special Enhancements: Controllable, Dynamic",
+    "Category": [
+      "Traits",
+      "Environment"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "29",
+    "Link": "UT29"
+  },
+  {
+    "Rule": "Discriminatory Senses New Special Enhancements: Profiling",
+    "Category": [
+      "Traits",
+      "Environment"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "29",
+    "Link": "UT29"
+  },
+  {
     "Rule": "Machines as Characters Meta-Traits",
     "Category": [
       "Traits"
@@ -80612,9 +83173,112 @@
     "Link": "UT29"
   },
   {
+    "Rule": "Extra Life, Robots Making Digital Backups of Themselves",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "30",
+    "Link": "UT30"
+  },
+  {
+    "Rule": "Flight, New Special Limitation: Planetary",
+    "Category": [
+      "Traits",
+      "Limitations"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "30",
+    "Link": "UT30"
+  },
+  {
+    "Rule": "Scanning Sense, New Special Enhancements: Bio Scan, Scanner",
+    "Category": [
+      "Traits",
+      "Enhancements"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "31",
+    "Link": "UT31"
+  },
+  {
+    "Rule": "Telecommunication: Cable Jack, Directional Sound, Gravity-Ripple Comm",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "31",
+    "Link": "UT31"
+  },
+  {
+    "Rule": "Telecommunication: Neutrino Comm, Sonar Comm",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "31",
+    "Link": "UT31"
+  },
+  {
+    "Rule": "Telecommunications, Enhancements: Burst, FTL, Secure, Sensie, Sensie Only",
+    "Category": [
+      "Traits",
+      "Enhancements"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "31",
+    "Link": "UT31"
+  },
+  {
+    "Rule": "Pacifism: Species Specific",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "32",
+    "Link": "UT32"
+  },
+  {
+    "Rule": "Social Stigma of Artificial Beings",
+    "Category": [
+      "Setting",
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "32",
+    "Link": "UT32"
+  },
+  {
+    "Rule": "Accessory Perk for Robots/Artificial Beings",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "33",
+    "Link": "UT33"
+  },
+  {
     "Rule": "Robots and Society",
     "Category": [
       "Setting"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "33",
+    "Link": "UT33"
+  },
+  {
+    "Rule": "The Skill Computer Programming (AI) Represents How Robots Think",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "33",
+    "Link": "UT33"
+  },
+  {
+    "Rule": "The Skill Electronics Repair (Computers) is What's Used to Repair Robot Brains",
+    "Category": [
+      "Skills"
     ],
     "Book": "Ultra-Tech",
     "Page": "33",
@@ -80630,9 +83294,28 @@
     "Link": "UT34"
   },
   {
+    "Rule": "The Skill Mechanic (Robotics) is Used to Repair Robot Bodies",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "34",
+    "Link": "UT34"
+  },
+  {
     "Rule": "Controlling and Reprogramming AIs",
     "Category": [
       "Setting"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "35",
+    "Link": "UT35"
+  },
+  {
+    "Rule": "Robots have the Machine Meta-Trait Which Includes Injury Tolerance (Unliving)",
+    "Category": [
+      "Traits",
+      "Injury"
     ],
     "Book": "Ultra-Tech",
     "Page": "35",
@@ -80649,7 +83332,297 @@
     "Link": "UT35"
   },
   {
-    "Rule": "Android Template",
+    "Rule": "Disguise for Swarms",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "36",
+    "Link": "UT36"
+  },
+  {
+    "Rule": "Power Supplies for Swarms (TL10 and TL11)",
+    "Category": [
+      "Mechanism",
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "36",
+    "Link": "UT36"
+  },
+  {
+    "Rule": "Fighting Swarmbots",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "37",
+    "Link": "UT37"
+  },
+  {
+    "Rule": "Swarm Type Table and Statistics Table",
+    "Category": [
+      "Mechanism",
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "37",
+    "Link": "UT37"
+  },
+  {
+    "Rule": "Attaché Case, Briefcase, Portfolio (TL9, DR 8, $80, 2 lbs., LC4)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "38",
+    "Link": "UT38"
+  },
+  {
+    "Rule": "Bioplas Contact Lenses (TL10, $20)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "38",
+    "Link": "UT38"
+  },
+  {
+    "Rule": "Cleaning Gel (TL9, $7, 1.5 lbs)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "38",
+    "Link": "UT38"
+  },
+  {
+    "Rule": "Clothing, Imprint Circuits (TL9, $10)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "38",
+    "Link": "UT38"
+  },
+  {
+    "Rule": "Depilatory Cream (TL10, $10, 0.1 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "38",
+    "Link": "UT38"
+  },
+  {
+    "Rule": "Digital Shampoo (TL10, $10/application)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "38",
+    "Link": "UT38"
+  },
+  {
+    "Rule": "Grooming Spray (TL10, $10, 0.1 lb. (30 uses). LC4)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "38",
+    "Link": "UT38"
+  },
+  {
+    "Rule": "Pocket Pack (TL9, $25, 0.75 lbs)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "38",
+    "Link": "UT38"
+  },
+  {
+    "Rule": "Smart Brush (TL9, $50, 0.5 lbs., B/24 hr.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "38",
+    "Link": "UT38"
+  },
+  {
+    "Rule": "Smart Hairspray (TL10, $2/application (lasts 1 week))",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "38",
+    "Link": "UT38"
+  },
+  {
+    "Rule": "Biomimetic Swimsuit (TL9, $100, 0.2 lbs. ($150, 0.3 lbs. with fins))",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "39",
+    "Link": "UT39"
+  },
+  {
+    "Rule": "Bioplas Swimsuit (TL10, $100, 0.1 lb. ($150, 0.2 lbs. with fins))",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "39",
+    "Link": "UT39"
+  },
+  {
+    "Rule": "Buzz Fabric (TL10, Two Times Cost for Armor or Suit)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "39",
+    "Link": "UT39"
+  },
+  {
+    "Rule": "Computer Clothing (TL9, Cmplx 3, stores 10 GB, $100, 0.5 lbs., 2B/20 hr. LC4)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "39",
+    "Link": "UT39"
+  },
+  {
+    "Rule": "Living Suitspray (TL11, $100 for both, 0.25 lbs. LC4)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "39",
+    "Link": "UT39"
+  },
+  {
+    "Rule": "Responsive Fabric (“Memswear”) (TL10, Three Times Cost of Regular Clothing)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "39",
+    "Link": "UT39"
+  },
+  {
+    "Rule": "Slicksuit Spray (TL10, $40, 0.25 lbs. LC3)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "39",
+    "Link": "UT39"
+  },
+  {
+    "Rule": "Suitspray (TL10, $4, 0.25 lbs. Flakes off in two days if not removed, LC4)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "39",
+    "Link": "UT39"
+  },
+  {
+    "Rule": "Varicloth (TL9, Three Times the Cost of Normal Clothing)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "39",
+    "Link": "UT39"
+  },
+  {
+    "Rule": "Video Suitspray (TL10, $20, 0.25 lbs. LC4)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "39",
+    "Link": "UT39"
+  },
+  {
+    "Rule": "Clothing Belt (TL11^, $1,000, 0.5 lbs., 2B/2 days. LC4)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "40",
+    "Link": "UT40"
+  },
+  {
+    "Rule": "Cybervox (TL9, $200, 2.5 lbs., C/10 hr. LC4)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "40",
+    "Link": "UT40"
+  },
+  {
+    "Rule": "Ecstasy Machine (TL9, $500, 0.5 lbs., 2A/24 hr., LC2)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "40",
+    "Link": "UT40"
+  },
+  {
+    "Rule": "Euphoria Machine (TL9, $100, 0.1 lb., A/100 hr. LC3)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "40",
+    "Link": "UT40"
+  },
+  {
+    "Rule": "Holoventure (TL10^, $150/day)",
+    "Category": [
+      "Service"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "40",
+    "Link": "UT40"
+  },
+  {
+    "Rule": "Neurostimulator (TL9, $100, 0.2 lb., A/1 hr. LC3)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "40",
+    "Link": "UT40"
+  },
+  {
+    "Rule": "Swarmwear (TL10, DR 1)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "40",
+    "Link": "UT40"
+  },
+  {
+    "Rule": "Android Lenses: Child, Artificial Womb TL10",
+    "Category": [
+      "Template"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "41",
+    "Link": "UT41"
+  },
+  {
+    "Rule": "Android Template [111 points] (TL9 to TL12 models)",
     "Category": [
       "Template"
     ],
@@ -80667,6 +83640,33 @@
     "Link": "UT41"
   },
   {
+    "Rule": "Psychosonic Instrument (TL11^, $20,000, 5 lbs., B/10 hr. LC3)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "41",
+    "Link": "UT41"
+  },
+  {
+    "Rule": "Cable Jack (TL9, $5, negligible weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "42",
+    "Link": "UT42"
+  },
+  {
+    "Rule": "Communication Signals, Distance and Skills to Pick Up Signals",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "43",
+    "Link": "UT43"
+  },
+  {
     "Rule": "Communicators Table (Ultra-Tech)",
     "Category": [
       "Reference",
@@ -80675,6 +83675,262 @@
     "Book": "Ultra-Tech",
     "Page": "43",
     "Link": "UT43"
+  },
+  {
+    "Rule": "IR Communicators (TL9)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "43",
+    "Link": "UT43"
+  },
+  {
+    "Rule": "Optical Cable (TL9, costs $0.10 and weighs 0.01 pounds per yard)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "43",
+    "Link": "UT43"
+  },
+  {
+    "Rule": "Standard Comm Sizes",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "43",
+    "Link": "UT43"
+  },
+  {
+    "Rule": "IR Communicator (Large (TL9): 25-mile range. $2,000, 50 lbs., 2D/10 hr. LC3)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "IR Communicator (Medium (TL9): 2.5-mile range. $500, 5 lbs., 2C/10 hr., LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "IR Communicator (Micro (TL9): 5-yard range. $5, neg., AA/100 hr. LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "IR Communicator (Small (TL9): 500-yard range. $100, 0.5 lbs., 2B/10 hr., LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "IR Communicator (Tiny (TL9): 50-yard range. $20, 0.05 lbs., 2A/10 hr. LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Laser Communicator (Large (TL9): 5K-mile range. $10K, 50 lbs., 2D/10 hr., LC3)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Laser Communicator (Medium (TL9): 500-mile range. $2K, 5 lbs., 2C/10 hr., LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Laser Communicator (Micro (TL9): 1,000-yard range, $20, neg., AA/100 hr. LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Laser Communicator (Small (TL9): 50-mile range. $400, 0.5 lbs., 2B/10 hr. LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Laser Communicator (Tiny (TL9): 5-mile range. $100, 0.05 lbs., 2A/10 hr. LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Laser Communicator (Very Large (TL9): 50K-mile range. $40K, 400 lbs., ext pwr. LC3)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Laser Communicators (TL9)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Laser-Retinal Imaging (TL9)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Radio Communicator (Large (TL9): 1K-mile range. $4K, 50 lbs., 2D/10 hr. LC3)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Radio Communicator (Medium (TL9): 100-mile range. $1K, 5 lbs., 2C/10 hr. LC3)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Radio Communicator (Micro (TL9): 200-yard range, $10, neg., AA/100 hr. LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Radio Communicator (Small (TL9): 10-mile range. $200, 0.5 lbs., 2B/10 hr. LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Radio Communicator (Tiny (TL9): 1-mile range. $50, 0.05 lbs., 2A/10 hr. LC4)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Radio Communicator (Very Large (TL9): 10K-mile range. $20K, 400 lbs., ext power. LC3)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Radio Communicators (TL9)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Sonar Communicators (TL9)",
+    "Category": [
+      "Electronics",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "44",
+    "Link": "UT44"
+  },
+  {
+    "Rule": "Neutrino Communications",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "45",
+    "Link": "UT45"
+  },
+  {
+    "Rule": "Software Encryption",
+    "Category": [
+      "Software"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "46",
+    "Link": "UT46"
   },
   {
     "Rule": "Neural Interfaces",
@@ -80688,6 +83944,15 @@
     "Link": "UT48"
   },
   {
+    "Rule": "Holoprojector",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "52",
+    "Link": "UT52"
+  },
+  {
     "Rule": "Virtual Reality Rules",
     "Category": [
       "Setting"
@@ -80695,6 +83960,15 @@
     "Book": "Ultra-Tech",
     "Page": "53",
     "Link": "UT53"
+  },
+  {
+    "Rule": "Sensies",
+    "Category": [
+      "Software"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "57",
+    "Link": "UT57"
   },
   {
     "Rule": "Sensies Rules",
@@ -80812,6 +84086,33 @@
     "Link": "UT98"
   },
   {
+    "Rule": "Holobelt",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "98",
+    "Link": "UT98"
+  },
+  {
+    "Rule": "Voice Mask (TL9, $200, 0.1 lb., B/20 hr. LC3)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "98",
+    "Link": "UT98"
+  },
+  {
+    "Rule": "Programmable Camouflage",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "99",
+    "Link": "UT99"
+  },
+  {
     "Rule": "Computer Intrusion Rules",
     "Category": [
       "Skills"
@@ -80880,6 +84181,15 @@
     "Link": "UT113"
   },
   {
+    "Rule": "Neural Disruptors",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "121",
+    "Link": "UT121"
+  },
+  {
     "Rule": "Guns and Launchers Table (Ultra-Tech)",
     "Category": [
       "Reference",
@@ -80905,6 +84215,15 @@
       "Reference",
       "Weapons",
       "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "149",
+    "Link": "UT149"
+  },
+  {
+    "Rule": "Tactical Programs",
+    "Category": [
+      "Software"
     ],
     "Book": "Ultra-Tech",
     "Page": "149",
@@ -80941,9 +84260,27 @@
     "Link": "UT162"
   },
   {
+    "Rule": "Neurolash",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "165",
+    "Link": "UT165"
+  },
+  {
     "Rule": "Armor Materials Table (Ultra-Tech)",
     "Category": [
       "Reference",
+      "Gear"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "170",
+    "Link": "UT170"
+  },
+  {
+    "Rule": "Self-regenerating Bioplas",
+    "Category": [
       "Gear"
     ],
     "Book": "Ultra-Tech",
@@ -81137,6 +84474,15 @@
     "Link": "UT209"
   },
   {
+    "Rule": "Slickskin",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "214",
+    "Link": "UT214"
+  },
+  {
     "Rule": "Brain Implants Table",
     "Category": [
       "Reference",
@@ -81191,6 +84537,15 @@
     "Rule": "Low and Very-Low-Res Mind Copies",
     "Category": [
       "Setting"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "220",
+    "Link": "UT220"
+  },
+  {
+    "Rule": "Mind Emulation (“Ghost”) Programs",
+    "Category": [
+      "Software"
     ],
     "Book": "Ultra-Tech",
     "Page": "220",
@@ -85575,6 +88930,16 @@
   },
   {
     "Rule": "Wounding Modifiers and Zombies",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Zombies",
+    "Page": "110",
+    "Link": "Z110"
+  },
+  {
+    "Rule": "Zombie Damage Table, Wounding Modifiers",
     "Category": [
       "Combat",
       "Injury"
