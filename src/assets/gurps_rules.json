@@ -3989,7 +3989,7 @@
     "Link": "B86"
   },
   {
-    "Rule": "Speak with Animals",
+    "Rule": "Speak Underwater",
     "Category": [
       "Traits"
     ],
@@ -3998,7 +3998,7 @@
     "Link": "B87"
   },
   {
-    "Rule": "Speak Underwater",
+    "Rule": "Speak with Animals",
     "Category": [
       "Traits"
     ],
@@ -5958,6 +5958,15 @@
     "Link": "B183"
   },
   {
+    "Rule": "Diagnosis Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "187",
+    "Link": "B187"
+  },
+  {
     "Rule": "Flying Leap",
     "Category": [
       "Skills"
@@ -6067,9 +6076,27 @@
     "Link": "B211"
   },
   {
+    "Rule": "Musical Instrument (specialization) Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "211",
+    "Link": "B211"
+  },
+  {
     "Rule": "Parry Missile Weapons Skill",
     "Category": [
       "Combat",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "212",
+    "Link": "B212"
+  },
+  {
+    "Rule": "Performance Skill",
+    "Category": [
       "Skills"
     ],
     "Book": "Basic",
@@ -9333,7 +9360,7 @@
     "Link": "B378"
   },
   {
-    "Rule": "Damage Modifiers Can't Reduce Damage Below 0 Unless it's Crushing",
+    "Rule": "Damage Modifiers Can't Reduce Damage Below 1 for non-crushing, or below 0 for crushing",
     "Category": [
       "Injury"
     ],
@@ -21848,6 +21875,15 @@
     "Link": "DF11:34"
   },
   {
+    "Rule": "Backstabber",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "35",
+    "Link": "DF11:35"
+  },
+  {
     "Rule": "Thief Power-Ups",
     "Category": [
       "Traits"
@@ -21930,6 +21966,70 @@
     "Link": "DF12:9"
   },
   {
+    "Rule": "Fukiya, Ninja Blowpipe (Shoots Darts or Powders, Uses Blowpipe Stats)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "12",
+    "Link": "DF12:12"
+  },
+  {
+    "Rule": "Fukumi-Bari, Mouth Needles (Blowpipe, thr-4 pi-, Hold HP/2 in Mouth, $5, 0.1 lb.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "12",
+    "Link": "DF12:12"
+  },
+  {
+    "Rule": "Han-Kyu, Half-Bow (Short Bow Hidden in a Sleeve, Short Bow Stats, $100)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "12",
+    "Link": "DF12:12"
+  },
+  {
+    "Rule": "Jutte (Jitte/Sai, sw cr, thr cr, +2 to Disarm, $40, 1 lb., ST 6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "12",
+    "Link": "DF12:12"
+  },
+  {
+    "Rule": "Kama (Axe/Mace, sw cut, sw imp, Hook, $40, 2 lbs., ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "12",
+    "Link": "DF12:12"
+  },
+  {
+    "Rule": "Kittate (Iron Pick and Candleholder, Treat as Pick)",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "12",
+    "Link": "DF12:12"
+  },
+  {
+    "Rule": "Kusarigama (Kusari, sw+2 cr Chain, sw+2 cut Kama, Reach 1-2, $80, 4.5 lbs., ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "12",
+    "Link": "DF12:12"
+  },
+  {
     "Rule": "Ninja Gear (Dungeon Fantasy 12)",
     "Category": [
       "Gear"
@@ -21937,6 +22037,53 @@
     "Book": "Dungeon Fantasy 12",
     "Page": "12",
     "Link": "DF12:12"
+  },
+  {
+    "Rule": "Hook Rules (Weapon Skill-5 to Snag Head, Limb, Weapon, or Shield)",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
+  },
+  {
+    "Rule": "Kusarijutte (Kusari, sw+2 cr, Reach 1-2, $80, 3.5 lbs., ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
+  },
+  {
+    "Rule": "Metsubushi (Palm-Sized Blowgun for Powders, 1-yd Range, 1 Minute to Load)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
+  },
+  {
+    "Rule": "Neko-De, Bladed Hand (Brawling, sw-2 cut, Hand Climbing Spikes, $100, 1 lb., ST 6)",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
+  },
+  {
+    "Rule": "Ninja Weapon Modifier (Black and Quiet, +2 Holdout, Counts as Ninja Weapon, +0.5 CF)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
   },
   {
     "Rule": "Ninja Weapon Modifier Weapon Black",
@@ -21948,6 +22095,203 @@
     "Link": "DF12:13"
   },
   {
+    "Rule": "Ninja-To (Shortsword, sw cut, thr+1 imp, $400, 2 lbs., ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
+  },
+  {
+    "Rule": "Okusarigama (Scythe with Kusari, sw+4 cut When Swung by Chain at ST 15, $95, 10 lbs.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
+  },
+  {
+    "Rule": "Sai (Jitte/Sai, sw cr, thr imp, Throwable, +2 to Disarm, $60, 1.5 lbs., ST 7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
+  },
+  {
+    "Rule": "Shuriken (Star or Spike, Spike Does thr-2 imp, Also Used to Claw, $3, 0.1 lb.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
+  },
+  {
+    "Rule": "Tanto (Chisel-Pointed Large Knife, Large Knife Stats)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
+  },
+  {
+    "Rule": "Tonfa (Tonfa, sw cr, thr cr, Uses Brawling Parry if Better, $40, 1.5 lbs., ST 7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "13",
+    "Link": "DF12:13"
+  },
+  {
+    "Rule": "Ninja Melee and Ranged Weapon Tables",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "14",
+    "Link": "DF12:14"
+  },
+  {
+    "Rule": "Blowpipe Mount (Necklace Lets You Ready and Fire a Metsubushi in 1 sec, $10, 1 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "15",
+    "Link": "DF12:15"
+  },
+  {
+    "Rule": "Climbing Pole, Collapsible, 10 ft. (Collapses to 2 ft., No Climbing Roll, $100, 6 lbs.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "15",
+    "Link": "DF12:15"
+  },
+  {
+    "Rule": "Firebox, Ninja's (Waterproof Hot-Stone Fire Starter for 24 hrs., $20, 1 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "15",
+    "Link": "DF12:15"
+  },
+  {
+    "Rule": "Folding Raft (Holds Two People or 200 lbs., $150, 10 lbs.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "15",
+    "Link": "DF12:15"
+  },
+  {
+    "Rule": "Ninja-To Saya (Hollow Sheath, Snorkel, Ladder, Blowpipe, Adds $300, 1 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "15",
+    "Link": "DF12:15"
+  },
+  {
+    "Rule": "Tabi, Inflatable (Walk on Water at DX, DR 1 to Feet, $50, 2 lbs.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "15",
+    "Link": "DF12:15"
+  },
+  {
+    "Rule": "Tabi, Inflatable, Acid-Resistant (DR 3 vs. Corrosion, $200, 2 lbs.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "15",
+    "Link": "DF12:15"
+  },
+  {
+    "Rule": "Tabi, Stealthy (+1 Stealth vs. Hearing, $100, 0.5 lb.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "15",
+    "Link": "DF12:15"
+  },
+  {
+    "Rule": "Tabi, Traction (+1 Climbing and Footing, -1 Stealth vs. Hearing, $75, 0.5 lb.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "15",
+    "Link": "DF12:15"
+  },
+  {
+    "Rule": "Torch, Waterproof (Stays Lit on 1-5 When Doused, $12, 1 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "15",
+    "Link": "DF12:15"
+  },
+  {
+    "Rule": "Armored Ninja Suit Option (DR 1, +3 CF, +6 lbs.)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "16",
+    "Link": "DF12:16"
+  },
+  {
+    "Rule": "Blinding Gas Poison, Grenade (HT-2 or Blind for 1d Minutes, $300, 1 lb.)",
+    "Category": [
+      "Poison",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "16",
+    "Link": "DF12:16"
+  },
+  {
+    "Rule": "Blowpipe Powders, Ninja (Grenades Converted to Powder, 1-yd Area, Same Cost)",
+    "Category": [
+      "Poison",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "16",
+    "Link": "DF12:16"
+  },
+  {
+    "Rule": "Mind Fog Poison, Grenade (HT-3 or -3 DX and IQ for 1 Minute, $300, 1 lb.)",
+    "Category": [
+      "Poison",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "16",
+    "Link": "DF12:16"
+  },
+  {
     "Rule": "Ninja Chemicals Poisons Powders",
     "Category": [
       "Poison"
@@ -21955,6 +22299,279 @@
     "Book": "Dungeon Fantasy 12",
     "Page": "16",
     "Link": "DF12:16"
+  },
+  {
+    "Rule": "Ninja Suit (Black Hooded Outfit, Base for Suit Options, $150, 2 lbs.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "16",
+    "Link": "DF12:16"
+  },
+  {
+    "Rule": "Paralytic Slime Poison, Utility (HT-2 or Paralyzed for 2dx10 Minutes, $500, 0.5 lb.)",
+    "Category": [
+      "Poison",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "16",
+    "Link": "DF12:16"
+  },
+  {
+    "Rule": "Barbed Ninja's Kusari (+1 cr, -2 to Escape, $210, 5 lbs., Barbed Kusarigama $175)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Chunin No Sai (Balanced, Penetrating When Thrown, Ninja Talent 3+, $4,210, 1.5 lbs.)",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Dark Ninja Suit Option (+2 Stealth vs. Vision, +1 Invisibility Art, Ninja Talent 1+, +3 CF)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Heavily Armored Ninja Suit Option (DR 2, +6 CF, +10 lbs.)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Light Ninja Suit Option (Weightless for Encumbrance, Ninja Talent 1+, +3 CF)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Ninja Mail Suit Option (DR 3, Not Light or Quiet, +14 CF, +23 lbs.)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Pitch Dark Ninja Suit Option (+4 Stealth vs. Vision, +2 Invisibility Art, +19 CF)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Quiet Ninja Suit Option (+2 Stealth vs. Hearing, Ninja Talent 1+, +3 CF)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Reversible Ninja Suit Option (Disguise as Peasant or Townsperson, +1 CF)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Superior Weapon Holder Ninja Suit Option (7 + Ninja Talent Slots, +29 CF, +2 lbs.)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Supremely Quiet Ninja Suit Option (+4 Stealth vs. Hearing, Ninja Talent 2+, +19 CF)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Weapon Holder Ninja Suit Option (3 + Ninja Talent Slots Ignore Encumbrance, +9 CF, +2 lbs.)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "17",
+    "Link": "DF12:17"
+  },
+  {
+    "Rule": "Concealable Sai (Baton Springs Open into Fine Sai, $210, 1.5 lbs.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "18",
+    "Link": "DF12:18"
+  },
+  {
+    "Rule": "Extending Bo (Quarterstaff and Climbing Pole, Extends in 1 sec, $400, 4 lbs.)",
+    "Category": [
+      "Weapons",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "18",
+    "Link": "DF12:18"
+  },
+  {
+    "Rule": "Folding Han-Kyu (Short Bow Folds to 6 in., $300, 2 lbs.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "18",
+    "Link": "DF12:18"
+  },
+  {
+    "Rule": "Fukumi-Bari of Piercing (Armor Divisor (2), +1 to Hit, Ninja Talent 2+, $50, 0.1 lbs.)",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "18",
+    "Link": "DF12:18"
+  },
+  {
+    "Rule": "Hollow Tanto (Fine Knife with 3-Dose Poison Reservoir, $450, 1 lb.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "18",
+    "Link": "DF12:18"
+  },
+  {
+    "Rule": "Jonin No Ninja-To (Quality Rises with Ninja Talent, Throwable Tsuba, $17,835, 3 lbs.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "18",
+    "Link": "DF12:18"
+  },
+  {
+    "Rule": "Nandemo Kusari (Kusari, Kusarigama, or Kusarijutte, $1,035, 5 lbs., Barbed $1,265)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "18",
+    "Link": "DF12:18"
+  },
+  {
+    "Rule": "Shokosu Gi (Ninja Mail Suit, Catfall, Danger Sense, Ninja Talent 3+, $100,000, 23 lbs.)",
+    "Category": [
+      "Magic",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "18",
+    "Link": "DF12:18"
+  },
+  {
+    "Rule": "Shuriken of Piercing (Armor Divisor (2), +1 to Hit, Ninja Talent 2+, $50, 0.1 lbs.)",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "18",
+    "Link": "DF12:18"
+  },
+  {
+    "Rule": "Storm Shuriken (Splits into 1d Extra Shuriken, Rapid Fire, One Use, $100, 0.1 lb.)",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "19",
+    "Link": "DF12:19"
+  },
+  {
+    "Rule": "Storm Shuriken, Flaming (+1 Burning Damage per Shuriken, $250, 0.1 lb.)",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "19",
+    "Link": "DF12:19"
+  },
+  {
+    "Rule": "Storm Shuriken, Poisoned (Monster Drool on Each Shuriken, $150, 0.1 lb.)",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "19",
+    "Link": "DF12:19"
+  },
+  {
+    "Rule": "Tobu Tabi (Super Jump 1 for Ninja, $4,000, 1 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "19",
+    "Link": "DF12:19"
+  },
+  {
+    "Rule": "Ultimate Saya (Indestructible, +2 Holdout, 15-ft. Climbing Rope, $75,000, 2 lbs.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "19",
+    "Link": "DF12:19"
+  },
+  {
+    "Rule": "Untrustworthy Tonfas (Hidden Spring Blades, Cut or Imp, $80, 1.75 lbs. Each)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy 12",
+    "Page": "19",
+    "Link": "DF12:19"
   },
   {
     "Rule": "Delvers Gear Kits",
@@ -29231,10 +29848,55 @@
     "Link": "DFDS25"
   },
   {
+    "Rule": "Aristocratic Attire (Double Courtly Couture Benefits, $600+, 2 lbs.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "30",
+    "Link": "DFDS30"
+  },
+  {
+    "Rule": "Courtly Couture (+1 Reactions and Merchant, Allows Sharp-Dressed 1, $240+, 2 lbs.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "30",
+    "Link": "DFDS30"
+  },
+  {
     "Rule": "Dressed to Kill Swashbucklers Clothing",
     "Category": [
       "Gear",
       "Setting"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "30",
+    "Link": "DFDS30"
+  },
+  {
+    "Rule": "Fancy Clothing Wear and Tear (Each Damaging Hit Ruins 10% of Value)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "30",
+    "Link": "DFDS30"
+  },
+  {
+    "Rule": "Outlandish Clothing Modifier (-1 DX, Foes -1 to Hit with Combat Haberdashery, +0 CF)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "30",
+    "Link": "DFDS30"
+  },
+  {
+    "Rule": "Regal Robes (Triple Courtly Couture Benefits, $1,200+, 2 lbs.)",
+    "Category": [
+      "Gear"
     ],
     "Book": "Dungeon Fantasy Denizens Swashbucklers",
     "Page": "30",
@@ -29248,6 +29910,463 @@
     "Book": "Dungeon Fantasy Denizens Swashbucklers",
     "Page": "30",
     "Link": "DFDS30"
+  },
+  {
+    "Rule": "Boots, Ordinary (DR 2 Feet, $80, 3 lbs.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "31",
+    "Link": "DFDS31"
+  },
+  {
+    "Rule": "Capes and Cloaks, Swashbuckler (Caped Crusader, DB 1 or 2, Lose 10% Value per Block)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "31",
+    "Link": "DFDS31"
+  },
+  {
+    "Rule": "Domino Mask (Hides Identity in Action, $25, 0.25 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "31",
+    "Link": "DFDS31"
+  },
+  {
+    "Rule": "Fencing Mask (DR 2 to Skull, Eyes, and Face from Front, $50, 3 lbs.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "31",
+    "Link": "DFDS31"
+  },
+  {
+    "Rule": "Knee-High Boots (DR 2 Feet, Legs on 1-3, +1 Holdout, $110, 5 lbs.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "31",
+    "Link": "DFDS31"
+  },
+  {
+    "Rule": "Large Wig (DR 1 to Head and Neck, Slips Off if Grabbed, $500, 6 lbs.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "31",
+    "Link": "DFDS31"
+  },
+  {
+    "Rule": "Leather Cloak (+1 DR from Behind, Light $40, 4 lbs., Heavy $100, 10 lbs.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "31",
+    "Link": "DFDS31"
+  },
+  {
+    "Rule": "Sexy Clothing Modifier (+1 to +3 Sex Appeal, +1 to +9 CF, 1 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "31",
+    "Link": "DFDS31"
+  },
+  {
+    "Rule": "Small Wig (DR 1 to Skull, Slips Off if Grabbed, $75, 1 lb.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "31",
+    "Link": "DFDS31"
+  },
+  {
+    "Rule": "Thigh-High Boots (DR 2 Feet and Legs, +2 Holdout, $140, 7 lbs.)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "31",
+    "Link": "DFDS31"
+  },
+  {
+    "Rule": "Absurd Rapier (Broadsword, sw+1 cut, thr+1 imp, Reach 1-3, $1,500, 4.5 lbs., ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Backsword (Broadsword, sw+1 cut, thr+1 imp, Hilt Punch, $550, 3 lbs., ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Bastard Sword (Broadsword or Two-Handed Sword, sw+1 cut, $650, 5 lbs., ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Broadsword (sw+1 cut, thr+1 cr, $500, 3 lbs., ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Cavalry Saber (Broadsword, sw+1 cut, thr+1 imp, $500, 3 lbs., ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Cutlass (Shortsword, sw cut, thr+1 imp, Hilt Punch, $500, 2 lbs., ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Edged Rapier (Broadsword or Rapier, sw cut, thr+1 imp, Reach 1-2, $1,000, 3 lbs., ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Estoc (Broadsword, thr+2 imp, sw+1 cr, Targets Chinks in Armor, $500, 3 lbs., ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Longsword (Broadsword or Two-Handed Sword, sw+1 cut, thr+2 imp, $700, 4 lbs., ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Swashbuckler Weapons Table (Classic Swords and Knives)",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Thrown Swords (DX-4 or Thrown Weapon (Sword), Acc 0, Range x0.5/x1)",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Thrusting Bastard Sword (Broadsword or Two-Handed, sw+1 cut, thr+2 imp, $750, 5 lbs.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Thrusting Broadsword (sw+1 cut, thr+2 imp, $600, 3 lbs., ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Tip Slash (Thrusting Weapon Swung for Cutting Damage at Impaling -2)",
+    "Category": [
+      "Combat",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Wig Powder (+1 Reactions in Polite Society, +1 to Track by Scent, $12 per Use)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "32",
+    "Link": "DFDS32"
+  },
+  {
+    "Rule": "Dagger (Main-Gauche, thr-1 imp, Throwable, $20, 0.25 lb., ST 5)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Dress Smallsword (Smallsword, thr imp, Reach C-1, $300, 1 lb., ST 5)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Greatsword (Two-Handed Sword, sw+3 cut, thr+2 cr, $800, 7 lbs., ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Large Knife (Main-Gauche, sw-2 cut, thr imp, Throwable, $40, 1 lb., ST 6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Light Edged Rapier (Rapier, sw-1 cut, thr+1 imp, $700, 2.25 lbs., ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Light Rapier (Rapier, thr+1 imp, $400, 2 lbs., ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Long Knife (Main-Gauche or Shortsword, sw-1 cut, thr imp, $120, 1.5 lbs., ST 7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Main-Gauche (sw-3 cut, thr imp, Hilt Gives Hand DR 4, $50, 1.25 lbs., ST 6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Rapier (thr+1 imp, Reach 1-2, $500, 2.75 lbs., ST 9)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Rondel Dagger (Main-Gauche, thr imp, Targets Chinks in Armor, $40, 1 lb., ST 6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Saber (sw-1 cut, thr+1 imp, $700, 2 lbs., ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Shortsword, Revised (sw cut, thr+1 imp, $400, 2 lbs., ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Small Knife (Main-Gauche, sw-3 cut, thr-1 imp, Throwable, $30, 0.5 lb., ST 5)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Smallsword (thr+1 imp, $400, 1.5 lbs., ST 5)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Stiletto (Main-Gauche, thr-1 imp, Targets Chinks in Armor, $20, 0.25 lb., ST 5)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Thrusting Greatsword (Two-Handed Sword, sw+3 cut, thr+3 imp, $900, 7 lbs., ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "33",
+    "Link": "DFDS33"
+  },
+  {
+    "Rule": "Astounding Swing-Line (Self-Anchoring Lariat, 7 FP, $20,800, Whip Version 13 FP $19,200)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "34",
+    "Link": "DFDS34"
+  },
+  {
+    "Rule": "Basket Hilt Weapon Modifier (Hilt Punch at thr, Hand DR 4, +0.25 lb., +0.25 CF)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "34",
+    "Link": "DFDS34"
+  },
+  {
+    "Rule": "Elaborate Hilt Weapon Modifier (+1 Parry, +0.25 lbs., +0.5 CF)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "34",
+    "Link": "DFDS34"
+  },
+  {
+    "Rule": "Whippy Blade Weapon Modifier (-1 to Enemy Block and Parry, +1 Tip Slash Damage, +3 CF)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "34",
+    "Link": "DFDS34"
+  },
+  {
+    "Rule": "Hero's Mask (Daredevil, -3 Self-Control Rolls, Power Item 4 FP, $7,500, 0.25 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "35",
+    "Link": "DFDS35"
+  },
+  {
+    "Rule": "Indestructible Garb Enchantment (Clothing Never Loses Value, +$12,000)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "35",
+    "Link": "DFDS35"
+  },
+  {
+    "Rule": "Scabbard of the Smith (+1 Damage, Repairs Broken Blades, $8,600 to $24,900)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "35",
+    "Link": "DFDS35"
+  },
+  {
+    "Rule": "Swift-Strike Enchantment (Fast-Draw and Rapid Strike, +1 $4,000, +2 $16,000, +3 $80,000)",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Swashbucklers",
+    "Page": "35",
+    "Link": "DFDS35"
   },
   {
     "Rule": "Thief (Denizens PC Class)",
@@ -29361,6 +30480,107 @@
     "Link": "DFDT31"
   },
   {
+    "Rule": "Armor-Piercing Weapon Modifier (-1 Damage, Armor Divisor (2), +3 or +9 CF)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Binding Cord (HP 6, DR 1, Restrains Victims, $40, 0.5 lb., Wire 2x Cost)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Caltrops, Armor-Piercing (Armor Divisor (2), Piercing Damage, $10, 0.5 lb.)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Clatterbug (Thrown Caged Beetle Makes Noise, $30, 1 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Clomper (Clockwork Device Mimics Footsteps, $200, 2 lbs.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Collapsible Weapon Modifier (Half Length +2 Holdout +4 CF, 1/5 Length +4 Holdout +9 CF)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Compact Equipment Modifier (+1 Holdout for +4 CF, +2 Holdout for +9 CF)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Counterfeiter's Kit (Good +1 $6,000, 2 lbs., Fine +2 $24,000, 10 lbs.)",
+    "Category": [
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Droner (Psychic Warble, -4 to Psis and Elder Things, One Use, $1,600, 1 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Light Equipment Modifier (Weight Reduced by 1/3, +1 CF, Not for Armor or Weapons)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Parrying Knife Modifier (Removes -1 Parry, -1 Holdout, +0.25 CF, +0.25 lb.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
     "Rule": "Thief Concoctions (Denizens)",
     "Category": [
       "Gear"
@@ -29379,6 +30599,435 @@
     "Link": "DFDT33"
   },
   {
+    "Rule": "Thieves' Equipment Modifier (Ignore Weight for Climbing and Stealth, +3 CF)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Undercover Equipment Modifier (Clothing or Armor, +1 Holdout +4 CF, +2 Holdout +19 CF)",
+    "Category": [
+      "Gear",
+      "Armor"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "33",
+    "Link": "DFDT33"
+  },
+  {
+    "Rule": "Forger's Kit (Good +1 $250, 2 lbs., Fine +2 $1,000, 10 lbs.)",
+    "Category": [
+      "Gear",
+      "Skills"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Gnomish Razor Wire (15-yd Coil, DX-5 per yd to Pass, $400, 15 lbs.)",
+    "Category": [
+      "Gear",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Grenade Exploder (Timed Device Shatters Four Grenade Potions, $250, 2 lbs.)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Holdout Crowbar (-1 Forced Entry, Bulk -2 for Holdout, $50, 1 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Instant Trip Line (Glued 2-yd Trip Wire, Traps vs. Per, One Use, $50, 0.5 lb.)",
+    "Category": [
+      "Gear",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Magetrap (Astral Leg-Hold Trap Blocks Spells, Skill 15 $320 to Skill 25 $6,400)",
+    "Category": [
+      "Gear",
+      "Magic",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Nageteppo, Lightning (HT or Stunned Within 2 yds, $240, 0.2 lb.)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Nageteppo, Poison Gas (HT or 1d Toxic and Coughing Within 2 yds, $240, 0.2 lb.)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Nageteppo, Sleeping Gas (HT+2 or Fall Asleep Within 2 yds, $240, 0.2 lb.)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Nageteppo, Superior (10x Effect Duration, 5x Cost)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Nageteppo, Thunder (HT or Hard of Hearing Within 10 yds, $40, 0.2 lb.)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Saucer-Grenade (Thrown Grenade Disc, thr-2 cr, Acc 2, $500, 1 lb.)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Trap-Finder's Kit (Good +1 $250, 2 lbs., Fine +2 $1,250, 10 lbs.)",
+    "Category": [
+      "Gear",
+      "Traps"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "34",
+    "Link": "DFDT34"
+  },
+  {
+    "Rule": "Acrobatics Potion, Drinkable (+5 Acrobatics for 1d hrs., $700, 0.5 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Advanced Repeating Crossbow Cartridge (Pistol $350, 6 Bolts, Full-Size $500, 10 Bolts)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Clumsiness Potion, Grenade (2-yd Radius, -3 DX per Dose for 1d Minutes, $900, 1 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Combustion Potion, Grenade (3d Burn per sec for 2d sec, $1,500, 1 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Debilitation Potion, Grenade (2-yd Radius, -3 HT per Dose for 1d Minutes, $1,600, 1 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Elder-Spawn Draught, Drinkable (Double-Jointed for 1d hrs., $1,000, 0.5 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Garrote, Clockwork (Self-Tightening, ST 12 Rising to ST 18, $300, 0.5 lb.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Garrote, Multi-Looped (per Loop -1 to Parry It, +1 ST, +9 CF, up to 4 Loops)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Garrote, Saw-Tooth (Armor Divisor (2), Breaks on 16+, $18, neg.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Grenade Bolt or Arrow (Delivers Grenade Potion, -2 per Die, -1 Acc, 1/5 Range, $6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Reversible Clothing (Turns Inside Out as a Disguise, $240, 2 lbs.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Skyrik Cloak (+4 Camouflage and Stealth When Still, $32,000, 2 lbs.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "35",
+    "Link": "DFDT35"
+  },
+  {
+    "Rule": "Alchemist Glue, Utility (Quick Contest of ST vs. 15 to Pull Apart, $500, 0.5 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Bladeburn, Utility (+1d Burning Follow-Up on Weapon for 30 sec, $100, 0.5 lb.)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Corpsebane Poison, Utility (Undead Only, 4d Injury or 2d on HT, $100, 0.5 lb.)",
+    "Category": [
+      "Poison",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Darkflare, Utility (Blinds Those with Darkvision, HT-4 Roll, $450, 0.5 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Gnomish Grease, Grenade (2-yd Radius, As Grease Spell for 1 hr., $50, 1 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Meteoric Iron Brew, Drinkable (-5 to Locate User by Magic for 1d hrs., $450, 0.5 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Monster Musk, Grenade (Attracts Animals, Hybrids, and Slimes, $100, 1 lb.)",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Powders (Grenades as Powder, Neg. Weight, HT-Based Throwing, Acc 0, Range 1)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Spirit Tar, Utility (Weapon Affects Insubstantial Beings for 1 hr., $200, 0.5 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Sticky, Grenade (Binding ST 10, DR 3, $500, 1 lb.)",
+    "Category": [
+      "Gear",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Weasel Juice Poison, Pop-sicle, Utility (2 FP and Half Move on Failed HT, $150, 0.5 lb.)",
+    "Category": [
+      "Poison",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Wood Elf Soap, Utility (-4 to Track Bather by Scent for 24 hrs., $300, 0.5 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "36",
+    "Link": "DFDT36"
+  },
+  {
+    "Rule": "Acrobat's Clothing (DR 2, Parkour Bonuses, Power Item 5 FP, $30,000, 2 lbs.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "37",
+    "Link": "DFDT37"
+  },
+  {
+    "Rule": "Assayer's Eye (Artifact Lore, Analyze Magic, Power Item 25 FP, $65,000, 0.5 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "37",
+    "Link": "DFDT37"
+  },
+  {
+    "Rule": "Cutpurse's Friend (Very Fine Knife, +10 Pickpocket Margin, 7 FP, $10,000, 0.5 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "37",
+    "Link": "DFDT37"
+  },
+  {
+    "Rule": "Fabulous Animal, Cat (Lockpicking Cat Figurine, Power Item 10 FP, $40,000, 1 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "37",
+    "Link": "DFDT37"
+  },
+  {
+    "Rule": "Fabulous Animal, Paired Ravens (Spy Raven Figurines, Power Item 10 FP, $92,000, 1 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "37",
+    "Link": "DFDT37"
+  },
+  {
     "Rule": "Thief Magic Items (Denizens)",
     "Category": [
       "Gear",
@@ -29387,6 +31036,66 @@
     "Book": "Dungeon Fantasy Denizens Thieves",
     "Page": "37",
     "Link": "DFDT37"
+  },
+  {
+    "Rule": "Backstabbing Enchantment (+3 Stealth, +2 Damage, $20,000, up to $180,000)",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "38",
+    "Link": "DFDT38"
+  },
+  {
+    "Rule": "Paranoid Peter's Picks (+4 Lockpicking, +2 Traps, Power Item 10 FP, $45,000, 2 lbs.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "38",
+    "Link": "DFDT38"
+  },
+  {
+    "Rule": "Portable Pit (Creates 6 ft. Deep Hole, Power Item 10 FP, $120,000, 1 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "38",
+    "Link": "DFDT38"
+  },
+  {
+    "Rule": "Quick-Draw Bandoleer (24 lbs. Weigh 6 lbs., +2 Fast-Draw, 12 FP, $49,200, 1 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "38",
+    "Link": "DFDT38"
+  },
+  {
+    "Rule": "Rapid Fire Enchantment (Crossbow RoF +1 $4,000, +2 $16,000, +3 $80,000)",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "38",
+    "Link": "DFDT38"
+  },
+  {
+    "Rule": "Unlimited Daggers Sheath (Endless Throwing Daggers, Power Item 1 FP, $20,000, 0.15 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Dungeon Fantasy Denizens Thieves",
+    "Page": "38",
+    "Link": "DFDT38"
   },
   {
     "Rule": "Armor Enchantment Table",
@@ -31335,6 +33044,16 @@
     "Book": "Dungeon Fantasy RPG: Adventurers",
     "Page": "38",
     "Link": "DFA38"
+  },
+  {
+    "Rule": "Expert Backstabbing",
+    "Category": [
+      "DFRPG",
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "39",
+    "Link": "DFA39"
   },
   {
     "Rule": "Special Thief Traits",
@@ -90505,6 +92224,15 @@
     "Link": "UT70"
   },
   {
+    "Rule": "Domed Cities",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Ultra-Tech",
+    "Page": "71",
+    "Link": "UT71"
+  },
+  {
     "Rule": "Flexible House, Smart House (TL10, Sapient House AI, +2 Housekeeping, 3-Bedroom $100K)",
     "Category": [
       "Setting",
@@ -90516,15 +92244,6 @@
   },
   {
     "Rule": "Space Habitats (TL9-11, O'Neill Cylinder, Stanford Torus, Bernal Sphere, Dyson Tree)",
-    "Category": [
-      "Setting"
-    ],
-    "Book": "Ultra-Tech",
-    "Page": "71",
-    "Link": "UT71"
-  },
-  {
-    "Rule": "Domed Cities",
     "Category": [
       "Setting"
     ],
