@@ -3172,6 +3172,15 @@
     "Link": "B23"
   },
   {
+    "Rule": "Literacy and Illiteracy",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "24",
+    "Link": "B24"
+  },
+  {
     "Rule": "Tech Level and Starting Wealth",
     "Category": [
       "Attributes"
@@ -3418,7 +3427,70 @@
     "Link": "B46"
   },
   {
+    "Rule": "Damage Resistance, Absorption",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "46",
+    "Link": "B46"
+  },
+  {
+    "Rule": "Damage Resistance, Ablative",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "47",
+    "Link": "B47"
+  },
+  {
+    "Rule": "Damage Resistance, Directional",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "47",
+    "Link": "B47"
+  },
+  {
+    "Rule": "Damage Resistance, Force Field",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "47",
+    "Link": "B47"
+  },
+  {
+    "Rule": "Damage Resistance, Hardened",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "47",
+    "Link": "B47"
+  },
+  {
+    "Rule": "Damage Resistance, Reflection",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "47",
+    "Link": "B47"
+  },
+  {
     "Rule": "Danger Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "47",
+    "Link": "B47"
+  },
+  {
+    "Rule": "Danger Sense is included in Precognition",
     "Category": [
       "Traits"
     ],
@@ -5853,6 +5925,15 @@
     "Link": "B161"
   },
   {
+    "Rule": "Mental Quirks",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "162",
+    "Link": "B162"
+  },
+  {
     "Rule": "Workaholic",
     "Category": [
       "Traits"
@@ -5870,6 +5951,61 @@
     "Book": "Basic",
     "Page": "162",
     "Link": "B162"
+  },
+  {
+    "Rule": "Albinism [-10]",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "165",
+    "Link": "B165"
+  },
+  {
+    "Rule": "Modifying Existing Disadvantages",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "165",
+    "Link": "B165"
+  },
+  {
+    "Rule": "Physical Quirks",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "165",
+    "Link": "B165"
+  },
+  {
+    "Rule": "Limitations on Disadvantages reduce the cost of the Disadvantage",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "166",
+    "Link": "B166"
+  },
+  {
+    "Rule": "Taking Penalties to Skill Rolls via Quirk or a \"negative Talent\"",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "166",
+    "Link": "B166"
+  },
+  {
+    "Rule": "A Skills Controlling Attribute",
+    "Category": [
+      "Attributes",
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "167",
+    "Link": "B167"
   },
   {
     "Rule": "Tech-Level Modifiers",
@@ -5929,7 +6065,7 @@
     "Link": "B173"
   },
   {
-    "Rule": "Acrobatics DX/Hard Skill",
+    "Rule": "Acccounting IQ/Hard, Defaults: IQ-6, Finance-4, Mathematics (Statistics)-5, or Merchant-5",
     "Category": [
       "Skills"
     ],
@@ -5938,7 +6074,7 @@
     "Link": "B174"
   },
   {
-    "Rule": "Acting, IQ/Average Skill",
+    "Rule": "Acrobatics DX/Hard Skill, Default DX-6",
     "Category": [
       "Skills"
     ],
@@ -5947,7 +6083,34 @@
     "Link": "B174"
   },
   {
-    "Rule": "Animal Handling, IQ/Average, Must Specialize",
+    "Rule": "Acting, IQ/Average, Defaults: IQ-5, Performance-2, or Public Speaking-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "174",
+    "Link": "B174"
+  },
+  {
+    "Rule": "Administration IQ/Average, Defaults: IQ-5 or Merchant-3.",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "174",
+    "Link": "B174"
+  },
+  {
+    "Rule": "Alchemy / TL IQ/Very Hard, No Default",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "174",
+    "Link": "B174"
+  },
+  {
+    "Rule": "Animal Handling, IQ/Average, Must Specialize, Defualt: IQ-5",
     "Category": [
       "Skills"
     ],
@@ -5956,13 +6119,67 @@
     "Link": "B175"
   },
   {
-    "Rule": "Armoury / TL, IQ Average, Must Specialize",
+    "Rule": "Armoury / TL, IQ/Average, Must Specialize",
     "Category": [
       "Skills"
     ],
     "Book": "Basic",
     "Page": "178",
     "Link": "B178"
+  },
+  {
+    "Rule": "Artist, IQ/Hard Skill, Default IQ-6, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "179",
+    "Link": "B179"
+  },
+  {
+    "Rule": "Autohypnosis, Will/Hard, Default Meditation-4, 20-Skill Concentration secs to perform",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "179",
+    "Link": "B179"
+  },
+  {
+    "Rule": "Blind Fighting, Per/VHard, Prereq: Trained By a Master or Weapon Master",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "180",
+    "Link": "B180"
+  },
+  {
+    "Rule": "Body Control, HT/VHard, Prerequisites: Trained by a Master, Breath Control, and Meditation",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "181",
+    "Link": "B181"
+  },
+  {
+    "Rule": "Body Language, Per/Average, Defaults: Detect Lies-4 or Psychology-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "181",
+    "Link": "B181"
+  },
+  {
+    "Rule": "Body Sense, DX/Hard, Defaults: DX-6 or Acrobatics-3",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "181",
+    "Link": "B181"
   },
   {
     "Rule": "Boxing Striking Skill",
@@ -5994,7 +6211,7 @@
     "Link": "B183"
   },
   {
-    "Rule": "Diagnosis Skill",
+    "Rule": "Diagnosis / TL, IQ/Hard, Defaults: IQ-6, First Aid-8, Physician-4, or Veterinary-5",
     "Category": [
       "Skills"
     ],
@@ -6003,7 +6220,160 @@
     "Link": "B187"
   },
   {
-    "Rule": "Flying Leap",
+    "Rule": "Dreaming, Will/Hard, Default: Will-6",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "188",
+    "Link": "B188"
+  },
+  {
+    "Rule": "Driving / TL, DX/Average, Defaults: DX-5 or IQ-5, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "188",
+    "Link": "B188"
+  },
+  {
+    "Rule": "Dropping Skill, DX/A, Defaults: DX-3 or Throwing-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "189",
+    "Link": "B189"
+  },
+  {
+    "Rule": "Engineer / TL, IQ/H, Prerequisites: Mathematics (Applied) at TL5+, + others, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "190",
+    "Link": "B190"
+  },
+  {
+    "Rule": "Skills for Design, Repair, and Use",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "190",
+    "Link": "B190"
+  },
+  {
+    "Rule": "Entrallment Skills, Will/Hard, Captivate, Persuade, Suggest",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "191",
+    "Link": "B191"
+  },
+  {
+    "Rule": "Entrallment Skill, Will/Hard, Sway Emotions",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "192",
+    "Link": "B192"
+  },
+  {
+    "Rule": "Erotic Art, DX/Average, Defaults: DX-5 or Acrobatics-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "192",
+    "Link": "B192"
+  },
+  {
+    "Rule": "Escape, DX/Hard, Default: DX-6, 1st attempt 1 minute, subsequent attempts 10 minutes",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "192",
+    "Link": "B192"
+  },
+  {
+    "Rule": "Esoteric Medicine, Per/Hard, Default: Perception-6, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "192",
+    "Link": "B192"
+  },
+  {
+    "Rule": "Exorcism, Will/Hard, Defaults: Will-6, Religious Ritual-3, Ritual Magic-3, or Theology-3",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "193",
+    "Link": "B193"
+  },
+  {
+    "Rule": "Explosives / TL, IQ/Average, Defaults: IQ-5 and others, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "194",
+    "Link": "B194"
+  },
+  {
+    "Rule": "Farming / TL, IQ/Average, Defaults: IQ-5, Biology-5, or Gardening-3",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "194",
+    "Link": "B194"
+  },
+  {
+    "Rule": "Fast-Draw, DX/Easy, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "194",
+    "Link": "B194"
+  },
+  {
+    "Rule": "Fast-Talk, IQ/Average, Defaults: IQ-5 or Acting-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "195",
+    "Link": "B195"
+  },
+  {
+    "Rule": "Filch, DX/Avarage, Defaults: DX-5, Pickpocket-4, or Sleight of Hand-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "195",
+    "Link": "B195"
+  },
+  {
+    "Rule": "First Aid / TL, IQ/Average, Defaults: IQ-4, Esoteric Medicine, Physician, or Veterinary-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "195",
+    "Link": "B195"
+  },
+  {
+    "Rule": "Flying Leap, IQ/Hard, No Default, Prereqs: TbaM or WM, and both Jumping and Power Blow",
     "Category": [
       "Skills"
     ],
@@ -6012,7 +6382,43 @@
     "Link": "B196"
   },
   {
-    "Rule": "Performing Actions in Zero-G Uses the Skill Free Fall",
+    "Rule": "Forced Entry, DX/Easy, No Default",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "196",
+    "Link": "B196"
+  },
+  {
+    "Rule": "Forensics / TL, IQ/Hard, Defaults: IQ-6 or Criminology-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "196",
+    "Link": "B196"
+  },
+  {
+    "Rule": "Forgery / TL, IQ/Hard, Defaults: IQ-6 or Counterfeiting-2",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "196",
+    "Link": "B196"
+  },
+  {
+    "Rule": "Fortune Telling, IQ/Average, Defaults: IQ-5, Fast-Talk-3, or Occultism-3",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "196",
+    "Link": "B196"
+  },
+  {
+    "Rule": "Free Fall, DX/Average, Defaults: DX-5 or HT-5",
     "Category": [
       "Skills"
     ],
@@ -6021,9 +6427,135 @@
     "Link": "B197"
   },
   {
+    "Rule": "Gardening, IQ/Easy, Defaults: IQ-4 or Farming-3",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "197",
+    "Link": "B197"
+  },
+  {
+    "Rule": "Performing Actions in Zero-G Uses Free Fall Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "197",
+    "Link": "B197"
+  },
+  {
+    "Rule": "Gesture, IQ/Easy, Default: IQ-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "198",
+    "Link": "B198"
+  },
+  {
+    "Rule": "Group Performance, IQ/Average, Defaults: IQ-5 and others, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "198",
+    "Link": "B198"
+  },
+  {
+    "Rule": "Guns / TL, DX/Easy, Default: DX-4, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "198",
+    "Link": "B198"
+  },
+  {
+    "Rule": "Hazardous Materials / TL, DX/Average, Default: IQ-5, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "199",
+    "Link": "B199"
+  },
+  {
+    "Rule": "Heraldry, IQ/Average, Defaults: IQ-5 or Savoir-Faire (High Society)-3",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "199",
+    "Link": "B199"
+  },
+  {
+    "Rule": "Herb Lore / TL, IQ/Very Hard, No Default, Prerequisite: Naturalist",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "199",
+    "Link": "B199"
+  },
+  {
+    "Rule": "Hidden Lore, IQ/Average, Defaults: None, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "199",
+    "Link": "B199"
+  },
+  {
+    "Rule": "Hiking, HT/Average, Default: HT-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "200",
+    "Link": "B200"
+  },
+  {
+    "Rule": "History, IQ/Hard, Default: IQ-6, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "200",
+    "Link": "B200"
+  },
+  {
+    "Rule": "Holdout, IQ/Average, Defaults: IQ-5 or Sleight of Hand-3",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "200",
+    "Link": "B200"
+  },
+  {
+    "Rule": "Housekeeping, IQ/Easy, Default: IQ-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "200",
+    "Link": "B200"
+  },
+  {
+    "Rule": "A Hypnotic Trance Lasts 1d Hours",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "201",
+    "Link": "B201"
+  },
+  {
     "Rule": "Beam Innate Attack",
     "Category": [
-      "Traits"
+      "Skills"
     ],
     "Book": "Basic",
     "Page": "201",
@@ -6032,7 +6564,7 @@
   {
     "Rule": "Breath Innate Attack",
     "Category": [
-      "Traits"
+      "Skills"
     ],
     "Book": "Basic",
     "Page": "201",
@@ -6041,7 +6573,34 @@
   {
     "Rule": "Gaze Innate Attack",
     "Category": [
-      "Traits"
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "201",
+    "Link": "B201"
+  },
+  {
+    "Rule": "Hypnotism, IQ/Hard, No Default",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "201",
+    "Link": "B201"
+  },
+  {
+    "Rule": "Immovable Stance, DX/Hard, No Default, Prereq: Trained by a Master",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "201",
+    "Link": "B201"
+  },
+  {
+    "Rule": "Intelligence Analysis / TL, IQ/Hard, Defaults: IQ-6 or Strategy (any)-6",
+    "Category": [
+      "Skills"
     ],
     "Book": "Basic",
     "Page": "201",
@@ -6050,14 +6609,51 @@
   {
     "Rule": "Projectile Innate Attack",
     "Category": [
-      "Traits"
+      "Skills"
     ],
     "Book": "Basic",
     "Page": "201",
     "Link": "B201"
   },
   {
-    "Rule": "Judo Grappling Skill",
+    "Rule": "Interrogation, IQ/Average, Defaults: IQ-5, Intimidation-3, or Psychology-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "202",
+    "Link": "B202"
+  },
+  {
+    "Rule": "Invisibility Art, IQ/Very Hard, Prereqs: TbaM, and both Hypnotism and Stealth at 14+",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "202",
+    "Link": "B202"
+  },
+  {
+    "Rule": "Jeweler / TL, IQ/Hard, Defaults: IQ-6, Smith (Copper)-4, or Smith (Lead and Tin)-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "202",
+    "Link": "B202"
+  },
+  {
+    "Rule": "Judo, DX/Hard, Grappling Skill, No Default",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "203",
+    "Link": "B203"
+  },
+  {
+    "Rule": "Jumping Skill, DX/Easy, No Default, May Increase Jump Distance",
     "Category": [
       "Skills"
     ],
@@ -6066,7 +6662,27 @@
     "Link": "B203"
   },
   {
-    "Rule": "Jumping Skill",
+    "Rule": "Karate, DX/Hard, Striking Skill, No Default",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "203",
+    "Link": "B203"
+  },
+  {
+    "Rule": "Kiai, IQ/Hard, No Default, Prerequisite: Trained by a Master or Weapon Master",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "203",
+    "Link": "B203"
+  },
+  {
+    "Rule": "Knot-Tying, DX/Easy, Defaults: DX-4, Climbing-4, or Seamanship-4.",
     "Category": [
       "Skills"
     ],
@@ -6075,14 +6691,78 @@
     "Link": "B203"
   },
   {
-    "Rule": "Karate (Striking) Skill",
+    "Rule": "Law, IQ/Hard, Default: IQ-6, Must Specialize",
     "Category": [
-      "Combat",
       "Skills"
     ],
     "Book": "Basic",
-    "Page": "203",
-    "Link": "B203"
+    "Page": "204",
+    "Link": "B204"
+  },
+  {
+    "Rule": "Leadership, IQ/Average, Default: IQ-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "204",
+    "Link": "B204"
+  },
+  {
+    "Rule": "Leatherworking, DX/East, Default: DX-4",
+    "Category": [
+      "Skills",
+      "Crafting"
+    ],
+    "Book": "Basic",
+    "Page": "205",
+    "Link": "B205"
+  },
+  {
+    "Rule": "Lifting, DX/Average, No Default",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "205",
+    "Link": "B205"
+  },
+  {
+    "Rule": "Literature, IQ/Hard, Default: IQ-6,",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "205",
+    "Link": "B205"
+  },
+  {
+    "Rule": "Complementary Skills",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "206",
+    "Link": "B206"
+  },
+  {
+    "Rule": "Machinist / TL, IQ/Average, Defaults: IQ-5 or Mechanic (any)-5",
+    "Category": [
+      "Skills",
+      "Crafting"
+    ],
+    "Book": "Basic",
+    "Page": "206",
+    "Link": "B206"
+  },
+  {
+    "Rule": "Makeup / TL, IQ/Easy, Defaults: IQ-4 or Disguise-2",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "206",
+    "Link": "B206"
   },
   {
     "Rule": "Picking a Lock Takes One Minute, Lockpicking",
@@ -6094,6 +6774,24 @@
     "Link": "B206"
   },
   {
+    "Rule": "Masonry, IQ/Easy, Default: IQ-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "207",
+    "Link": "B207"
+  },
+  {
+    "Rule": "Mathematics / TL, IQ/Hard, Defaults: IQ-6 and others, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "207",
+    "Link": "B207"
+  },
+  {
     "Rule": "Mechanic (TL7+ Robotics, TL9+ Micromachines, TL10+ Nanomachines)",
     "Category": [
       "Skills"
@@ -6103,7 +6801,116 @@
     "Link": "B207"
   },
   {
-    "Rule": "Musical Instrument (specialization) Skill",
+    "Rule": "Meditation, Will/Hard, Defaults: Will-6 or Autohypnosis-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "207",
+    "Link": "B207"
+  },
+  {
+    "Rule": "Melee Weapons Skills (Fencing Weapons, Flails, Impact Weapons, Pole Weapons, Swords)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "208",
+    "Link": "B208"
+  },
+  {
+    "Rule": "At TL4 or less Meteorology is called Weather Sense",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "209",
+    "Link": "B209"
+  },
+  {
+    "Rule": "Melee Weapons Skills (Whips and Other Weapons like Tonfa)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "209",
+    "Link": "B209"
+  },
+  {
+    "Rule": "Mental Strength, Will/Easy, No Default, Prereqs: Trained by a Master or Weapon Master",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "209",
+    "Link": "B209"
+  },
+  {
+    "Rule": "Merchant, IQ/Average, Defaults: IQ-5, Finance-6, or Market Analysis-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "209",
+    "Link": "B209"
+  },
+  {
+    "Rule": "Metallurgy / TL, IQ/Hard, Defaults: Chemistry-5, Jeweler-8, or Smith (any)-8",
+    "Category": [
+      "Skills",
+      "Crafting"
+    ],
+    "Book": "Basic",
+    "Page": "209",
+    "Link": "B209"
+  },
+  {
+    "Rule": "Mimicry, IQ/Hard, Defaults: IQ-6 and others, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "210",
+    "Link": "B210"
+  },
+  {
+    "Rule": "Mind Block, Will/Average, Defaults: Will-5 or Meditation-5, Mundane Skill for Anyone",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "210",
+    "Link": "B210"
+  },
+  {
+    "Rule": "Mount, DX/Average, Default: DX-5, This Skill is for Actual Mounts, not People Riding Mounts",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "210",
+    "Link": "B210"
+  },
+  {
+    "Rule": "Musical Composition, IQ/Hard, Defaults: Musical Instrument-2, or to Poetry-2 for song",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "210",
+    "Link": "B210"
+  },
+  {
+    "Rule": "Musical Influence, IQ/Very Hard, No Default, Cinematic Skill, Prereqs: See Book Text",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "210",
+    "Link": "B210"
+  },
+  {
+    "Rule": "Musical Instrument, IQ/Hard, Must Specialize",
     "Category": [
       "Skills"
     ],
@@ -6112,7 +6919,7 @@
     "Link": "B211"
   },
   {
-    "Rule": "Observation Skill based on Perception",
+    "Rule": "Naturalist, IQ/Hard, Defaults: IQ-6 or Biology-3",
     "Category": [
       "Skills"
     ],
@@ -6121,7 +6928,43 @@
     "Link": "B211"
   },
   {
-    "Rule": "Parry Missile Weapons Skill",
+    "Rule": "Navigation / TL, IQ/Average, Defaults: See Book Text",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "211",
+    "Link": "B211"
+  },
+  {
+    "Rule": "Observation, Per/Average, Defaults: Perception-5 or Shadowing-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "211",
+    "Link": "B211"
+  },
+  {
+    "Rule": "Occultism, IQ/Average, Default: IQ-5, Setting-Dependent Specialization",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "211",
+    "Link": "B211"
+  },
+  {
+    "Rule": "Packing, IQ/Average, Defaults: IQ-5 or Animal Handling (Equines)-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "211",
+    "Link": "B211"
+  },
+  {
+    "Rule": "Parry Missile Weapons, DX/Hard, No Default",
     "Category": [
       "Combat",
       "Skills"
@@ -6131,7 +6974,7 @@
     "Link": "B212"
   },
   {
-    "Rule": "Performance Skill",
+    "Rule": "Performance, IQ/Average, Defaults: IQ-5, Acting-2, or Public Speaking-2",
     "Category": [
       "Skills"
     ],
@@ -6140,7 +6983,44 @@
     "Link": "B212"
   },
   {
-    "Rule": "Pharmacy, Herbal and Synthetic (Before, During and After TL5 described)",
+    "Rule": "Pharmacy / TL, IQ/Hard, Herbal and Synthetic (Before, During and After TL5 described)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "213",
+    "Link": "B213"
+  },
+  {
+    "Rule": "Philosophy, IQ/Hard, Default: IQ-6",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "213",
+    "Link": "B213"
+  },
+  {
+    "Rule": "Physician / TL, IQ/Hard, Defaults: IQ-7, First Aid-11, or Veterinary-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "213",
+    "Link": "B213"
+  },
+  {
+    "Rule": "Physiology / TL, IQ/Hard, Defaults: IQ-6, Diagnosis-5, Physician-5, or Surgery-5",
+    "Category": [
+      "Skills",
+      "Medical"
+    ],
+    "Book": "Basic",
+    "Page": "213",
+    "Link": "B213"
+  },
+  {
+    "Rule": "Pickpocket, DX/Hard, Defaults: DX-6, Filch-5, or Sleight of Hand-4",
     "Category": [
       "Skills"
     ],
@@ -6186,7 +7066,7 @@
     "Link": "B214"
   },
   {
-    "Rule": "Poisons / TL",
+    "Rule": "Poisons / TL, IQ/Hard, Defaults: IQ-6, Chemistry-5, Pharmacy (any)-3, or Physician-3",
     "Category": [
       "Poisons",
       "Skills"
@@ -6196,7 +7076,7 @@
     "Link": "B214"
   },
   {
-    "Rule": "Politics",
+    "Rule": "Politics, IQ/Average, Defaults: IQ-5 or Diplomacy-5",
     "Category": [
       "Skills"
     ],
@@ -6205,7 +7085,7 @@
     "Link": "B215"
   },
   {
-    "Rule": "Power Blow",
+    "Rule": "Power Blow, Will/Hard, No Default, Prerequisite: Trained by a Master or Weapon Master",
     "Category": [
       "Skills"
     ],
@@ -6214,7 +7094,7 @@
     "Link": "B215"
   },
   {
-    "Rule": "Pressure Points",
+    "Rule": "Pressure Points, IQ/Hard, No Default, Prereqs: Trained by a Master or Weapon Master",
     "Category": [
       "Skills"
     ],
@@ -6223,7 +7103,7 @@
     "Link": "B215"
   },
   {
-    "Rule": "Pressure Secrets",
+    "Rule": "Pressure Secrets, IQ/Very Hard, No Default, Warning: Unrealistic and Potentially Unbalancing",
     "Category": [
       "Skills"
     ],
@@ -6232,7 +7112,16 @@
     "Link": "B215"
   },
   {
-    "Rule": "Psychology",
+    "Rule": "Professional Skill, Represents Various Job Skills, See Book Text for Details",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "215",
+    "Link": "B215"
+  },
+  {
+    "Rule": "Propaganda / TL, IQ/Average, Defaults: IQ-5, Merchant-5, or Psychology-4",
     "Category": [
       "Skills"
     ],
@@ -6241,7 +7130,7 @@
     "Link": "B216"
   },
   {
-    "Rule": "Public Speaking",
+    "Rule": "Psychology, IQ/Hard, Defaults: IQ-6 or Sociology-4, Specialization Dependent on Setting",
     "Category": [
       "Skills"
     ],
@@ -6250,7 +7139,7 @@
     "Link": "B216"
   },
   {
-    "Rule": "Push",
+    "Rule": "Public Speaking, IQ/Average, Defaults: IQ-5, Acting-5, Performance-2, or Politics-5.",
     "Category": [
       "Skills"
     ],
@@ -6259,7 +7148,16 @@
     "Link": "B216"
   },
   {
-    "Rule": "Religious Ritual",
+    "Rule": "Push, DX/Hard, No Default, Prerequisite: Trained by a Master, Chi Power",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "216",
+    "Link": "B216"
+  },
+  {
+    "Rule": "Religious Ritual, IQ/Hard, Defaults: Ritual Magic (same)-6 or Theology (same)-4",
     "Category": [
       "Skills"
     ],
@@ -6268,7 +7166,7 @@
     "Link": "B217"
   },
   {
-    "Rule": "Research / TL",
+    "Rule": "Research / TL, IQ/Average, Defaults: IQ-5 or Writing-3, Prereqs: Literacy and TL8+ Comp. Op.",
     "Category": [
       "Skills"
     ],
@@ -6277,7 +7175,7 @@
     "Link": "B217"
   },
   {
-    "Rule": "Riding (Must Specialize)",
+    "Rule": "Riding, DX/Average, Must Specialize, Defaults: DX-5 or Animal Handling (same)-3",
     "Category": [
       "Skills"
     ],
@@ -6286,7 +7184,7 @@
     "Link": "B217"
   },
   {
-    "Rule": "Scrounging Skill based on Perception",
+    "Rule": "Ritual Magic, IQ/Very Hard, Default: Religious Ritual (same)-6, Must Specialize",
     "Category": [
       "Skills"
     ],
@@ -6295,13 +7193,162 @@
     "Link": "B218"
   },
   {
-    "Rule": "Search Skill based on Perception",
+    "Rule": "Running, HT/Average, Default: HT-5, Training in Sprints and Long-Distance Running",
+    "Category": [
+      "Skills",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "218",
+    "Link": "B218"
+  },
+  {
+    "Rule": "Savoir-Faire, IQ/Easy, Defaults: IQ-4 and others, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "218",
+    "Link": "B218"
+  },
+  {
+    "Rule": "Scrounging, Per/Easy, Default: Perception-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "218",
+    "Link": "B218"
+  },
+  {
+    "Rule": "Search, Per/Average, Defaults: Perception-5 or Criminology-5",
     "Category": [
       "Skills"
     ],
     "Book": "Basic",
     "Page": "219",
     "Link": "B219"
+  },
+  {
+    "Rule": "Sex Appeal, HT/Average, Default: HT-3",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "219",
+    "Link": "B219"
+  },
+  {
+    "Rule": "Shadowing, IQ/Average, Defaults: IQ-5, Observation-5, or Stealth-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "219",
+    "Link": "B219"
+  },
+  {
+    "Rule": "Shield, DX/Easy, Default: DX-4, Must Specialize (Shield, Buckler, Force)",
+    "Category": [
+      "Skills",
+      "Combat",
+      "Armor"
+    ],
+    "Book": "Basic",
+    "Page": "220",
+    "Link": "B220"
+  },
+  {
+    "Rule": "Shiphandling / TL, IQ/Hard, Defaults: IQ-6 and others, Prereqs: See Book Text",
+    "Category": [
+      "Skills, Vehicles"
+    ],
+    "Book": "Basic",
+    "Page": "220",
+    "Link": "B220"
+  },
+  {
+    "Rule": "Singing, HT/Easy, Default: HT-4",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "220",
+    "Link": "B220"
+  },
+  {
+    "Rule": "Sleight of Hand, DX/Hard, Default: Filch-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "221",
+    "Link": "B221"
+  },
+  {
+    "Rule": "Smith / TL, IQ/Average, Defaults: IQ-5 and others",
+    "Category": [
+      "Skills",
+      "Crafting"
+    ],
+    "Book": "Basic",
+    "Page": "221",
+    "Link": "B221"
+  },
+  {
+    "Rule": "Smuggling, IQ/Average, Default: IQ-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "221",
+    "Link": "B221"
+  },
+  {
+    "Rule": "Sociology, IQ/Hard, Defaults: IQ-6, Anthropology-3, or Psychology-4.",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "221",
+    "Link": "B221"
+  },
+  {
+    "Rule": "Soldier / TL, IQ/Average, Default: IQ-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "221",
+    "Link": "B221"
+  },
+  {
+    "Rule": "Speed-Reading, IQ/Average, No Default, modified by Eidetic and Photographic Memory",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "222",
+    "Link": "B222"
+  },
+  {
+    "Rule": "Sports, DX/Average, Defaults: DX-5 and others, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "222",
+    "Link": "B222"
+  },
+  {
+    "Rule": "Stage Combat, DX/Average, Def: Combat Art or Sport-2, a combat skill-3, or Performance?3",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "222",
+    "Link": "B222"
   },
   {
     "Rule": "Stealth Penalty -5 to Skill if Moving Faster than 1 Hex per Round",
@@ -6313,7 +7360,25 @@
     "Link": "B222"
   },
   {
-    "Rule": "Sumo Wrestling Grappling Skill",
+    "Rule": "Stealth, DX/Average, Defaults: DX-5 or IQ-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "222",
+    "Link": "B222"
+  },
+  {
+    "Rule": "Strategy, IQ/Hard, Defaults: IQ-6, Intelligence Analysis-6, or Tactics-6",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "222",
+    "Link": "B222"
+  },
+  {
+    "Rule": "Streetwise, IQ/Average, Default: IQ-5",
     "Category": [
       "Skills"
     ],
@@ -6322,7 +7387,168 @@
     "Link": "B223"
   },
   {
-    "Rule": "Wrestling Grappling Skill",
+    "Rule": "Sumo Wrestling, DX/Average, No Default, Grappling Skill",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "223",
+    "Link": "B223"
+  },
+  {
+    "Rule": "Surgery / TL, IQ/Very Hard, Prereq: First Aid or Physician, Defaults: See Book Text",
+    "Category": [
+      "Skills",
+      "Medical"
+    ],
+    "Book": "Basic",
+    "Page": "223",
+    "Link": "B223"
+  },
+  {
+    "Rule": "Survival, Per/Average, Defaults: Perception-5 or Naturalist (same planet)-3, Must Specialize",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "223",
+    "Link": "B223"
+  },
+  {
+    "Rule": "Swimming, HT/Easy, Default: HT-4.",
+    "Category": [
+      "Skills",
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "224",
+    "Link": "B224"
+  },
+  {
+    "Rule": "Symbol Drawing, IQ/Hard, Setting-Dependent Effects of Symbols/Runes",
+    "Category": [
+      "Skills",
+      "Setting"
+    ],
+    "Book": "Basic",
+    "Page": "224",
+    "Link": "B224"
+  },
+  {
+    "Rule": "Tactics, IQ/Hard, Defaults: IQ-6 or Strategy (any)-6, Used for Small Groups and for Self",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "224",
+    "Link": "B224"
+  },
+  {
+    "Rule": "Teaching, IQ/Average, Default: IQ-5.",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "224",
+    "Link": "B224"
+  },
+  {
+    "Rule": "Teamster, IQ/Average, Defaults: IQ-5, Animal Handling (same)-4, or Riding (same)-2",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "225",
+    "Link": "B225"
+  },
+  {
+    "Rule": "Thaumatology, IQ/Very Hard, Conditional Default: IQ-7, See Book Text",
+    "Category": [
+      "Skills",
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "225",
+    "Link": "B225"
+  },
+  {
+    "Rule": "Theology, IQ/Hard, Defaults: IQ-6 or Religious Ritual (same)-4",
+    "Category": [
+      "Skills",
+      "Divinity"
+    ],
+    "Book": "Basic",
+    "Page": "226",
+    "Link": "B226"
+  },
+  {
+    "Rule": "Throwing, Throwing Art, and Thrown Weapon (3 separate skills)",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "226",
+    "Link": "B226"
+  },
+  {
+    "Rule": "Tracking, Per/Average, Defaults: Perception-5 or Naturalist-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "226",
+    "Link": "B226"
+  },
+  {
+    "Rule": "Traps / TL, IQ/Average, Defaults: IQ-5 or Lockpicking-3, See Book Text for Details",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "226",
+    "Link": "B226"
+  },
+  {
+    "Rule": "Urban Survival, Per/Average, Default: Perception-5.",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "228",
+    "Link": "B228"
+  },
+  {
+    "Rule": "Ventriloquism, IQ/Hard, No Default",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "228",
+    "Link": "B228"
+  },
+  {
+    "Rule": "Wrestling, DX/Average, No Default, Grappling Skill",
+    "Category": [
+      "Skills",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "228",
+    "Link": "B228"
+  },
+  {
+    "Rule": "Writing, IQ/Average, Default: IQ-5",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Basic",
+    "Page": "228",
+    "Link": "B228"
+  },
+  {
+    "Rule": "Zen Archery, IQ/Very Hard, No Default, Prereqs: Many, See Book Text",
     "Category": [
       "Skills"
     ],
@@ -6459,6 +7685,15 @@
     "Link": "B263"
   },
   {
+    "Rule": "Astral Entity Meta-Trait",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "263",
+    "Link": "B263"
+  },
+  {
     "Rule": "Domestic Animal and Wild Animal Meta-Traits -30 CP each",
     "Category": [
       "Traits"
@@ -6478,6 +7713,15 @@
   },
   {
     "Rule": "Quadruped Meta-Trait -35 CP",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "263",
+    "Link": "B263"
+  },
+  {
+    "Rule": "Spirit",
     "Category": [
       "Traits"
     ],
@@ -6644,6 +7888,15 @@
     "Book": "Basic",
     "Page": "281",
     "Link": "B281"
+  },
+  {
+    "Rule": "Fur Loincloth and Fur Tunic (TL0, DR1*)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Basic",
+    "Page": "283",
+    "Link": "B283"
   },
   {
     "Rule": "Low-Tech Armor Table",
@@ -10549,6 +11802,15 @@
     "Link": "B401"
   },
   {
+    "Rule": "Handcuffing Someone with Ready Handcuffs Takes 2 Seconds",
+    "Category": [
+      "Physical Act"
+    ],
+    "Book": "Basic",
+    "Page": "401",
+    "Link": "B401"
+  },
+  {
     "Rule": "Pulling Punches",
     "Category": [
       "Combat"
@@ -10579,6 +11841,15 @@
     "Rule": "Turning Your Blade",
     "Category": [
       "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "401",
+    "Link": "B401"
+  },
+  {
+    "Rule": "Tying up a Person with Ropes Takes One Minute",
+    "Category": [
+      "Physical Act"
     ],
     "Book": "Basic",
     "Page": "401",
@@ -10717,6 +11988,16 @@
     "Rule": "Neck Snap",
     "Category": [
       "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "404",
+    "Link": "B404"
+  },
+  {
+    "Rule": "Snapping a Cloak to Feint or Grapple",
+    "Category": [
+      "Combat",
+      "Gear"
     ],
     "Book": "Basic",
     "Page": "404",
@@ -30529,6 +31810,686 @@
     "Link": "DF9:37"
   },
   {
+    "Rule": "Dungeon Fantasy Career Guide (Index to Every DF Profession, Lens, Power-Up and Loadout)",
+    "Category": [
+      "Templates",
+      "Setting"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "3",
+    "Link": "DFCG3"
+  },
+  {
+    "Rule": "Career Guide Entry Format (General Type, Preferred Environment, Template, Lenses, Power-Ups)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "4",
+    "Link": "DFCG4"
+  },
+  {
+    "Rule": "Dagger-Marked Professions (Too Lighthearted, Technological or Unorthodox for Classic Crawls)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "4",
+    "Link": "DFCG4"
+  },
+  {
+    "Rule": "Profession General Types (Cunning, Mystical, Warrior, [F] Familiar, [P] Power Item)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "4",
+    "Link": "DFCG4"
+  },
+  {
+    "Rule": "Profession Preferred Environments (Dungeon, Town, Wilderness, No Preference)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "4",
+    "Link": "DFCG4"
+  },
+  {
+    "Rule": "Know Your Stuff (Dungeon Fantasy Series Abbreviation Key and Collection Checklist)",
+    "Category": [
+      "Reference",
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "5",
+    "Link": "DFCG5"
+  },
+  {
+    "Rule": "Artificer Career Entry (Cunning, Dungeon, Town, Template DF 4)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "6",
+    "Link": "DFCG6"
+  },
+  {
+    "Rule": "Assassin Career Entry (Cunning-Warrior, Dungeon, Town, Template DF 12)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "6",
+    "Link": "DFCG6"
+  },
+  {
+    "Rule": "Barbarian Career Entry (Warrior-Cunning, Dungeon, Wilderness, Template DF 1, DFD Barbarians)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "6",
+    "Link": "DFCG6"
+  },
+  {
+    "Rule": "Bard Career Entry (Mystical-Cunning, Town, Template DF 1)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "6",
+    "Link": "DFCG6"
+  },
+  {
+    "Rule": "Beastmaster Career Entry (Mystical-Cunning, Wilderness, Template Pyramid #3/60)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "7",
+    "Link": "DFCG7"
+  },
+  {
+    "Rule": "Blob Career Entry (Warrior, Dungeon, Template Pyramid #3/72)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "7",
+    "Link": "DFCG7"
+  },
+  {
+    "Rule": "Carnie Career Entry (Mystical-Cunning, Town, Template Pyramid #3/114)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "7",
+    "Link": "DFCG7"
+  },
+  {
+    "Rule": "Chevalier Career Entry (Warrior, Wilderness, Template Pyramid #3/122)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "7",
+    "Link": "DFCG7"
+  },
+  {
+    "Rule": "Cleric Career Entry (Mystical, No Preference, Template DF 1)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "7",
+    "Link": "DFCG7"
+  },
+  {
+    "Rule": "Commander Career Entry (Warrior-Cunning, No Preference, Template Pyramid #3/122)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "8",
+    "Link": "DFCG8"
+  },
+  {
+    "Rule": "Demolisher Career Entry (Warrior, Dungeon, Template Pyramid #3/36)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "8",
+    "Link": "DFCG8"
+  },
+  {
+    "Rule": "Demonologist Career Entry (Mystical, Dungeon, Template DF 9)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "8",
+    "Link": "DFCG8"
+  },
+  {
+    "Rule": "Demon-Slayer Career Entry (Warrior-Mystical, Dungeon, Template DF 20)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "8",
+    "Link": "DFCG8"
+  },
+  {
+    "Rule": "Dragon Career Entry (Warrior-Cunning, Dungeon, Wilderness, Template Pyramid #3/72)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "8",
+    "Link": "DFCG8"
+  },
+  {
+    "Rule": "Druid Career Entry (Mystical-Cunning, Wilderness, Template DF 1)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "8",
+    "Link": "DFCG8"
+  },
+  {
+    "Rule": "Dwarf Career Entry (Warrior-Cunning, Dungeon, Template Pyramid #3/50)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "9",
+    "Link": "DFCG9"
+  },
+  {
+    "Rule": "Elementalist Career Entry (Mystical, No Preference, Template DF 9)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "9",
+    "Link": "DFCG9"
+  },
+  {
+    "Rule": "Elf Career Entry (Cunning-Mystical, Wilderness, Template Pyramid #3/50)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "9",
+    "Link": "DFCG9"
+  },
+  {
+    "Rule": "Evil Cleric Career Entry (Mystical, Dungeon, Template DF 1, DF 3)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "9",
+    "Link": "DFCG9"
+  },
+  {
+    "Rule": "Holy Warrior Career Entry (Warrior-Mystical, Dungeon, Template DF 1)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "9",
+    "Link": "DFCG9"
+  },
+  {
+    "Rule": "Imitator Career Entry (Special, Special, Template Pyramid #3/72)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "10",
+    "Link": "DFCG10"
+  },
+  {
+    "Rule": "Incanter Career Entry (Mystical, No Preference, Template DF 19)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "10",
+    "Link": "DFCG10"
+  },
+  {
+    "Rule": "Innkeeper Career Entry (Cunning, Town, Template DF 10)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "10",
+    "Link": "DFCG10"
+  },
+  {
+    "Rule": "Justiciar Career Entry (Cunning-Warrior, No Preference, Template Pyramid #3/10)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "10",
+    "Link": "DFCG10"
+  },
+  {
+    "Rule": "Knight Career Entry (Warrior, No Preference, Template DF 1)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "10",
+    "Link": "DFCG10"
+  },
+  {
+    "Rule": "Mage-Slayer Career Entry (Warrior-Mystical, Dungeon, Town, Template DF 20)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "11",
+    "Link": "DFCG11"
+  },
+  {
+    "Rule": "Martial Artist Career Entry (Warrior-Cunning, No Preference, Template DF 1)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "11",
+    "Link": "DFCG11"
+  },
+  {
+    "Rule": "Mentalist Career Entry (Mystical-Cunning, No Preference, Template DF 14)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "11",
+    "Link": "DFCG11"
+  },
+  {
+    "Rule": "Monster Slaver Career Entry (Cunning-Warrior, Dungeon, Wilderness, Template Pyramid #3/47)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "11",
+    "Link": "DFCG11"
+  },
+  {
+    "Rule": "Musketeer Career Entry (Warrior-Cunning, No Preference, Template Pyramid #3/36)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "11",
+    "Link": "DFCG11"
+  },
+  {
+    "Rule": "Mystic Knight Career Entry (Warrior-Mystical, No Preference, Template Pyramid #3/13)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "12",
+    "Link": "DFCG12"
+  },
+  {
+    "Rule": "Necromancer Career Entry (Mystical, Dungeon, Template DF 9)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "12",
+    "Link": "DFCG12"
+  },
+  {
+    "Rule": "Ninja Career Entry (Cunning-Warrior, No Preference, Template DF 12)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "12",
+    "Link": "DFCG12"
+  },
+  {
+    "Rule": "Psychic Slayer Career Entry (Warrior-Mystical, Dungeon, Template Pyramid #3/76)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "12",
+    "Link": "DFCG12"
+  },
+  {
+    "Rule": "Scholar Career Entry (Cunning-Mystical, No Preference, Template DF 4)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "12",
+    "Link": "DFCG12"
+  },
+  {
+    "Rule": "Scout Career Entry (Warrior-Cunning, Dungeon, Wilderness, Template DF 1)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "13",
+    "Link": "DFCG13"
+  },
+  {
+    "Rule": "Shaman Career Entry (Mystical-Cunning, Wilderness, Template DF 9)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "13",
+    "Link": "DFCG13"
+  },
+  {
+    "Rule": "Shield-Bearer Career Entry (Warrior, Dungeon, Template Pyramid #3/118)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "13",
+    "Link": "DFCG13"
+  },
+  {
+    "Rule": "Sorcerer Career Entry (Mystical, No Preference, Template Pyramid #3/82)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "13",
+    "Link": "DFCG13"
+  },
+  {
+    "Rule": "Swashbuckler Career Entry (Warrior-Cunning, Dungeon, Town, Template DF 1, DFD Swashbucklers)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "14",
+    "Link": "DFCG14"
+  },
+  {
+    "Rule": "Thief Career Entry (Cunning, Dungeon, Town, Template DF 1)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "14",
+    "Link": "DFCG14"
+  },
+  {
+    "Rule": "Undead-Slayer Career Entry (Warrior-Mystical, Dungeon, Template DF 20)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "14",
+    "Link": "DFCG14"
+  },
+  {
+    "Rule": "Unholy Warrior Career Entry (Warrior-Mystical, Dungeon, Template DF 1, DF 3)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "14",
+    "Link": "DFCG14"
+  },
+  {
+    "Rule": "Unknowable Thing Career Entry (Mystical-Cunning, Dungeon, Template Pyramid #3/72)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "15",
+    "Link": "DFCG15"
+  },
+  {
+    "Rule": "Wizard Career Entry (Mystical, No Preference, Template DF 1)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "15",
+    "Link": "DFCG15"
+  },
+  {
+    "Rule": "Wrestler Career Entry (Warrior, Dungeon, Town, Template Pyramid #3/111)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "15",
+    "Link": "DFCG15"
+  },
+  {
+    "Rule": "Death Knight General Lens (50 points, Pyramid #3/50 pp. 13-14, Not for Necromancers)",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "16",
+    "Link": "DFCG16"
+  },
+  {
+    "Rule": "Demon Knight General Lens (50 points, Pyramid #3/50 p. 14, Not for Demonologists)",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "16",
+    "Link": "DFCG16"
+  },
+  {
+    "Rule": "General Lenses Table (Career Guide, Lenses for Almost Any Template, Cost and Location)",
+    "Category": [
+      "Reference",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "16",
+    "Link": "DFCG16"
+  },
+  {
+    "Rule": "Who Do I Send? Environment (Best Professions for Dungeons, Town or Wilderness Campaigns)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "16",
+    "Link": "DFCG16"
+  },
+  {
+    "Rule": "Agent Budget PC Template (125 points, Roguish Merchant, Likes Town, DF 15, pp. 4-6)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Apprentice Budget PC Template (125 points, Junior Wizard or Summoner, DF 15 pp. 6-8, DF 19)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Archer Budget PC Template (125 points, Ranged Combat Specialist, DF 15, pp. 8-9)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Brute Budget PC Template (125 points, Tough, Strong Melee Thug, DF 15, pp. 9-10)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Cultist Budget PC Template (62 points, Spellcasters' Gofer, Test Subject, DF 15, pp. 18-21)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Cutpurse Budget PC Template (125 points, Lurker, Mugger and Pickpocket, DF 15, pp. 10-12)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Guard Budget PC Template (62 points, Stops Arrows for Pay, DF 15, pp. 21-22)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Initiate Budget PC Template (125 points, Junior Priest or Shaman, DF 15, pp. 12-14)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Killer Budget PC Template (125 points, Sneaky, Murderous Thug, DF 15, pp. 14-15)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Laborer Budget PC Template (62 points, Hey, You! Carry This, DF 15, pp. 22-23)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Like to Customize? (Custom Professions from 125-Point Lenses, DF 15)",
+    "Category": [
+      "Reference",
+      "Lens"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "On a Budget? (Henchman Templates as Sub-250-Point PCs, 62 and 125 Points)",
+    "Category": [
+      "Reference",
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Sage Budget PC Template (125 points, Obscure Knowledge Specialist, DF 15, pp. 15-16)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Servant Budget PC Template (62 points, Cooks, Cleans, Tastes Potions, DF 15, pp. 23-24)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Skirmisher Budget PC Template (125 points, Light, Quick Melee Fighter, DF 15, pp. 16-17)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Squire Budget PC Template (125 points, Heavy, Armored Melee Fighter, DF 15, pp. 17-18)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Torch-Bearer Budget PC Template (62 points, Light the Way, Chump, DF 15, p. 25)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Who Do I Send? Abilities (Professions for Cunning, Mystical or Warrior Party Roles)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
+    "Rule": "Wilderness Guide Budget PC Template (62 points, Me Know Secret Path, DF 16, pp. 11-12)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Dungeon Fantasy Career Guide 2020",
+    "Page": "17",
+    "Link": "DFCG17"
+  },
+  {
     "Rule": "Alla Breve",
     "Category": [
       "Magic",
@@ -46622,6 +48583,419 @@
     "Book": "Gun Fu",
     "Page": "41",
     "Link": "GF41"
+  },
+  {
+    "Rule": "Describing Guns (Step-by-Step Process to Turn Real Gun Data into GURPS Stats)",
+    "Category": [
+      "Calculations",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "4",
+    "Link": "GS4"
+  },
+  {
+    "Rule": "Gun Stats Unit Conversions (Metric to U.S. Customary for Gun Formulas)",
+    "Category": [
+      "Calculations",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "4",
+    "Link": "GS4"
+  },
+  {
+    "Rule": "Gun Terminology (Glossary of Firearm Terms Used by Gun Stats)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "4",
+    "Link": "GS4"
+  },
+  {
+    "Rule": "Gun Timeline",
+    "Category": [
+      "Setting",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "15",
+    "Link": "GS15"
+  },
+  {
+    "Rule": "Gun Data (Real-World Data to Research, Caliber, Action, Feed System, Weights, Velocity)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "16",
+    "Link": "GS16"
+  },
+  {
+    "Rule": "Action Table (Gun Stats)",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "17",
+    "Link": "GS17"
+  },
+  {
+    "Rule": "Feed System Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "18",
+    "Link": "GS18"
+  },
+  {
+    "Rule": "Gun Statistics (Formulas for Damage, Acc, Range, Wt., RoF, Shots, Bulk, Rcl, ST, Cost, LC)",
+    "Category": [
+      "Calculations",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "21",
+    "Link": "GS21"
+  },
+  {
+    "Rule": "Kinetic Energy Damage (Gun Damage Formula from Projectile Weight and Muzzle Velocity)",
+    "Category": [
+      "Calculations",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "22",
+    "Link": "GS22"
+  },
+  {
+    "Rule": "Rounding Gun Damage",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "22",
+    "Link": "GS22"
+  },
+  {
+    "Rule": "Type of Piercing Damage (pi-, pi, pi+ or pi++ by Caliber)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "22",
+    "Link": "GS22"
+  },
+  {
+    "Rule": "Accuracy Table (Gun Stats)",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "23",
+    "Link": "GS23"
+  },
+  {
+    "Rule": "Gun Range (Half-Damage and Max Range Formulas, Using Actual Range Data)",
+    "Category": [
+      "Calculations",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "23",
+    "Link": "GS23"
+  },
+  {
+    "Rule": "RoF Table (Gun Stats)",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "25",
+    "Link": "GS25"
+  },
+  {
+    "Rule": "High-Cyclic Controlled Bursts (Cyclic Rate 2,000+ rpm per Barrel, Marked # After RoF)",
+    "Category": [
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Gun Stats",
+    "Page": "26",
+    "Link": "GS26"
+  },
+  {
+    "Rule": "Shots and Reloading Time (Shots+1 for Closed Bolt, (i) per Round, Muzzleloader Formula)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "26",
+    "Link": "GS26"
+  },
+  {
+    "Rule": "Bulk Table (Gun Stats)",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "27",
+    "Link": "GS27"
+  },
+  {
+    "Rule": "Reloading Time Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "27",
+    "Link": "GS27"
+  },
+  {
+    "Rule": "Gun Recoil, ST, Cost and Legality Class (Gun Stats Formulas)",
+    "Category": [
+      "Calculations",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "28",
+    "Link": "GS28"
+  },
+  {
+    "Rule": "Gun Skill (Handguns and Long Arms, Mounted Weapons, Direct or Indirect Fire)",
+    "Category": [
+      "Weapons",
+      "Skills"
+    ],
+    "Book": "Gun Stats",
+    "Page": "29",
+    "Link": "GS29"
+  },
+  {
+    "Rule": "Gun Notes (Accessory Rails, Integral Sights and Suppressors, Lasers, Muzzle Brakes)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "30",
+    "Link": "GS30"
+  },
+  {
+    "Rule": "Number of Loaders (Mounted Weapons Needing Loading Assistance)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "30",
+    "Link": "GS30"
+  },
+  {
+    "Rule": "Recoilless Backblast (60-Degree Cone, Counterblast burn, Countershot cr)",
+    "Category": [
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Gun Stats",
+    "Page": "30",
+    "Link": "GS30"
+  },
+  {
+    "Rule": "Alternative Ammunition (Simple and Complex Methods for Ammo Besides the Reference Load)",
+    "Category": [
+      "Calculations",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "31",
+    "Link": "GS31"
+  },
+  {
+    "Rule": "Equivalent Projectile Names Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "32",
+    "Link": "GS32"
+  },
+  {
+    "Rule": "Kinetic Projectiles (Solid, Chain Shot, AP, APHC, APDS, Hollow-Point, Drug, Frangible)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "33",
+    "Link": "GS33"
+  },
+  {
+    "Rule": "Kinetic Projectiles Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "33",
+    "Link": "GS33"
+  },
+  {
+    "Rule": "Incendiary Projectiles (TL6, I Suffix, Ignite Fuel, Ammunition and Flammable Structures)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "34",
+    "Link": "GS34"
+  },
+  {
+    "Rule": "Multiple-Projectile Ammunition (Canister, Grapeshot, Shotshell, Shrapnel)",
+    "Category": [
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Gun Stats",
+    "Page": "34",
+    "Link": "GS34"
+  },
+  {
+    "Rule": "Multiple-Projectile Ammunition Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "35",
+    "Link": "GS35"
+  },
+  {
+    "Rule": "Explosive Projectiles (LE, APEX, HE, HEC, SAPHE, APHEX, HEAT, HEDP, HESH, Thermobaric)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "36",
+    "Link": "GS36"
+  },
+  {
+    "Rule": "Explosive Projectiles Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "36",
+    "Link": "GS36"
+  },
+  {
+    "Rule": "Explosive Projectile Damage (KE, Conventional Explosive, Fragmentation, Shaped-Charge)",
+    "Category": [
+      "Calculations",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "37",
+    "Link": "GS37"
+  },
+  {
+    "Rule": "Cargo Projectiles (Illumination, Gas, Smoke, White Phosphorus)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "38",
+    "Link": "GS38"
+  },
+  {
+    "Rule": "Ammunition Upgrades (Airburst, Tracer, Base-Bleed and Other Projectile Options)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "39",
+    "Link": "GS39"
+  },
+  {
+    "Rule": "Cargo Projectiles Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "39",
+    "Link": "GS39"
+  },
+  {
+    "Rule": "Resolving Airburst Attacks (TL5-6 Time Fuse +3 to Hit Area, TL7-8 Proximity Fuse)",
+    "Category": [
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Gun Stats",
+    "Page": "39",
+    "Link": "GS39"
+  },
+  {
+    "Rule": "Tracer Bullets, TL6",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "39",
+    "Link": "GS39"
+  },
+  {
+    "Rule": "Cartridge Information, Weight per Shot (WPS) and Cost per Shot (CPS)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "40",
+    "Link": "GS40"
+  },
+  {
+    "Rule": "Pojectile Upgrades Table",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "40",
+    "Link": "GS40"
+  },
+  {
+    "Rule": "Gun Stats Worked Examples (PGM Hécate II Rifle, Model 1841 6-pounder, M256 120mm Gun)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "41",
+    "Link": "GS41"
+  },
+  {
+    "Rule": "Weight Listings for Guns show X/Y, X Weight of Gun, Y Weight of a fully loaded Magazine",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "42",
+    "Link": "GS42"
+  },
+  {
+    "Rule": "Gun Research Resources and Checklist (Where to Find Real-World Gun Data)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Gun Stats",
+    "Page": "46",
+    "Link": "GS46"
   },
   {
     "Rule": "Allfather's Guidance [22 or 32 points]",
@@ -70939,6 +73313,15 @@
     "Link": "LTC1:17"
   },
   {
+    "Rule": "Chordophones: Lute, Dulcimer, Fiddle, Guitar, Harp, Lyre, Psaltery, Zither",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Low Tech Companion 1",
+    "Page": "18",
+    "Link": "LTC1:18"
+  },
+  {
     "Rule": "Cannot Read Music Quirk",
     "Category": [
       "Attributes",
@@ -76327,6 +78710,15 @@
   },
   {
     "Rule": "Targeted Attacks",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Martial Arts",
+    "Page": "68",
+    "Link": "MA68"
+  },
+  {
+    "Rule": "Using Targeted Attacks Makes an Attacker Predictable, +1 to Defend after the second TA",
     "Category": [
       "Combat"
     ],
@@ -95356,6 +97748,15 @@
     "Link": "PU2:17"
   },
   {
+    "Rule": "Named Possession, Item Earns Enchantment Points when Used in Heroic Ways",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Power-Ups 2: Perks",
+    "Page": "19",
+    "Link": "PU2:19"
+  },
+  {
     "Rule": "Obscure True Name Perk",
     "Category": [
       "Traits"
@@ -99929,6 +102330,60 @@
     "Link": "PY68:16"
   },
   {
+    "Rule": "Imitator PC Template",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Pyramid #3/72",
+    "Page": "30",
+    "Link": "PY72:30"
+  },
+  {
+    "Rule": "Imitation Abilities and Imitation Talent",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Pyramid #3/72",
+    "Page": "31",
+    "Link": "PY72:31"
+  },
+  {
+    "Rule": "Imitation Power Modifier -10%",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Pyramid #3/72",
+    "Page": "31",
+    "Link": "PY72:31"
+  },
+  {
+    "Rule": "New Imitation Ability: Emulation, Prereq: Imitation Talent 1",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Pyramid #3/72",
+    "Page": "31",
+    "Link": "PY72:31"
+  },
+  {
+    "Rule": "Imitator Power-Ups",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Pyramid #3/72",
+    "Page": "33",
+    "Link": "PY72:33"
+  },
+  {
+    "Rule": "New Power-Up: Bane Weaponry",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Pyramid #3/72",
+    "Page": "35",
+    "Link": "PY72:35"
+  },
+  {
     "Rule": "A Familiar Path (Familiars)",
     "Category": [
       "Creatures",
@@ -104121,9 +106576,8 @@
     "Link": "S51"
   },
   {
-    "Rule": "Bioships",
+    "Rule": "Bioroids",
     "Category": [
-      "Vehicles",
       "Setting"
     ],
     "Book": "Space",
@@ -104138,6 +106592,16 @@
     "Book": "Space",
     "Page": "53",
     "Link": "S53"
+  },
+  {
+    "Rule": "Bioships",
+    "Category": [
+      "Vehicles",
+      "Setting"
+    ],
+    "Book": "Space",
+    "Page": "54",
+    "Link": "S54"
   },
   {
     "Rule": "Computers and Communications (Space)",
@@ -104158,6 +106622,15 @@
     "Link": "S56"
   },
   {
+    "Rule": "Diamondoid and Nanotubes",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Space",
+    "Page": "58",
+    "Link": "S58"
+  },
+  {
     "Rule": "Nanotechnology (Space Setting)",
     "Category": [
       "Setting"
@@ -104165,6 +106638,15 @@
     "Book": "Space",
     "Page": "58",
     "Link": "S58"
+  },
+  {
+    "Rule": "Microbot Cyberswarms",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Space",
+    "Page": "59",
+    "Link": "S59"
   },
   {
     "Rule": "Weapons and Defenses Technology Areas (Space)",
@@ -104526,6 +107008,15 @@
     "Link": "S190"
   },
   {
+    "Rule": "3D Spatial Sense (also Basic page 34)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "219",
+    "Link": "S219"
+  },
+  {
     "Rule": "Advantages Disadvantages and Skills (Space)",
     "Category": [
       "Traits"
@@ -104535,9 +107026,578 @@
     "Link": "S219"
   },
   {
+    "Rule": "Alternate Identity (also Basic page 39)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "219",
+    "Link": "S219"
+  },
+  {
+    "Rule": "Charisma (also Basic page 41)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "219",
+    "Link": "S219"
+  },
+  {
+    "Rule": "Cultural Adaptability (also Basic page 46)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "219",
+    "Link": "S219"
+  },
+  {
+    "Rule": "Cultural Familiarity  (also Basic page 23)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "219",
+    "Link": "S219"
+  },
+  {
+    "Rule": "Digital Mind  (also Basic page 48)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "219",
+    "Link": "S219"
+  },
+  {
+    "Rule": "Addiction (also Basic page 122)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "G-Experience (also Basic page 57)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "High TL (also Basic page 23)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "Improved G-Tolerance (also Basic page 60)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "Languages  (also Basic page 23)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "Magery  (also Basic page 66)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "Racial Memory (also Basic page 78)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "Resistant (also Basic page 80)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "Social Chameleon (also Basic page 86)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "Status (also Basic page 28)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "Talents (also Basic page 89)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "Zeroed (also Basic page 100)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "220",
+    "Link": "S220"
+  },
+  {
+    "Rule": "Amnesia (also Basic page 123)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "221",
+    "Link": "S221"
+  },
+  {
+    "Rule": "Appearance (also Basic page 21)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "221",
+    "Link": "S221"
+  },
+  {
+    "Rule": "Bad Sight (also Basic page 123)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "221",
+    "Link": "S221"
+  },
+  {
+    "Rule": "Cannot Speak (also Basic page 125)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "221",
+    "Link": "S221"
+  },
+  {
+    "Rule": "Code of Honor (Asteroid Miner, Ethical Psionic, Hacker, Mercenary)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "221",
+    "Link": "S221"
+  },
+  {
+    "Rule": "Dependency (also Basic page 130)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "221",
+    "Link": "S221"
+  },
+  {
+    "Rule": "Disturbing Voice (also Basic page 132)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "221",
+    "Link": "S221"
+  },
+  {
+    "Rule": "Electrical (also Basic page 134)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "221",
+    "Link": "S221"
+  },
+  {
+    "Rule": "Enemies (also Basic page 135)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "221",
+    "Link": "S221"
+  },
+  {
+    "Rule": "Fragile (also Basic page 136)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "221",
+    "Link": "S221"
+  },
+  {
+    "Rule": "G-Intolerance (also Basic page 137)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "222",
+    "Link": "S222"
+  },
+  {
+    "Rule": "Increased Life Support (also Basic page 139)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "222",
+    "Link": "S222"
+  },
+  {
+    "Rule": "Lecherousness, as it Applies to Aliens (also Basic page 142)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "222",
+    "Link": "S222"
+  },
+  {
+    "Rule": "Lifebane, as it Applies to Aliens (also Basic page 142)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "222",
+    "Link": "S222"
+  },
+  {
+    "Rule": "Pacifism (also Basic page 148)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "222",
+    "Link": "S222"
+  },
+  {
+    "Rule": "Phobias (Radiophobia, Cyberphobia, Space)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "222",
+    "Link": "S222"
+  },
+  {
+    "Rule": "Restricted Diet (also Basic page 151)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "222",
+    "Link": "S222"
+  },
+  {
+    "Rule": "Social Stigmat, as it Applies to Psionics, Aliens, Robots (also Basic page 155)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "222",
+    "Link": "S222"
+  },
+  {
+    "Rule": "Stress Atavism (also Basic page 156)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "223",
+    "Link": "S223"
+  },
+  {
+    "Rule": "Supernatural Features (also Basic page 157)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "223",
+    "Link": "S223"
+  },
+  {
+    "Rule": "Susceptible (also Basic page 158)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "223",
+    "Link": "S223"
+  },
+  {
+    "Rule": "Unusual Biochemistry (also Basic page 160)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "223",
+    "Link": "S223"
+  },
+  {
+    "Rule": "Vulnerability (also Basic page 161)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "223",
+    "Link": "S223"
+  },
+  {
+    "Rule": "Weakness (also Basic page 161)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "223",
+    "Link": "S223"
+  },
+  {
+    "Rule": "Weirdness Magnet (also Basic page 161)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "223",
+    "Link": "S223"
+  },
+  {
+    "Rule": "Bioengineering (also Basic page 180)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "224",
+    "Link": "S224"
+  },
+  {
+    "Rule": "Boating / TL, Hydrofoils,  (also Basic page 180)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "224",
+    "Link": "S224"
+  },
+  {
+    "Rule": "Environment Suit / TL,  Hydrosuit, (also Basic page 192)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "224",
+    "Link": "S224"
+  },
+  {
+    "Rule": "Erotic Art, Must Specialize by Species,  (also Basic page 192)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "224",
+    "Link": "S224"
+  },
+  {
+    "Rule": "Explosives, Nuclear Demolition  (also Basic page 194)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "224",
+    "Link": "S224"
+  },
+  {
+    "Rule": "Hypnotism, as it Applies to Aliens (also Basic page 201)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "224",
+    "Link": "S224"
+  },
+  {
+    "Rule": "Linguistics, New Specialization Comparitive,  (also Basic page 205)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "224",
+    "Link": "S224"
+  },
+  {
+    "Rule": "Xenophilia (also Basic page 162)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Space",
+    "Page": "224",
+    "Link": "S224"
+  },
+  {
+    "Rule": "Zero-G Acrobatics, Astrobatics, Defaults to Aerobatics-2",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "224",
+    "Link": "S224"
+  },
+  {
+    "Rule": "Lip Reading Aliens (also Basic page 205)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "225",
+    "Link": "S225"
+  },
+  {
+    "Rule": "Medical Skills on Aliens (also Basic page 205)",
+    "Category": [
+      "Skills",
+      "Medical",
+      "Injury"
+    ],
+    "Book": "Space",
+    "Page": "225",
+    "Link": "S225"
+  },
+  {
+    "Rule": "Mimicry, Alien Speech Specialization (also Basic page 210)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "225",
+    "Link": "S225"
+  },
+  {
+    "Rule": "Paleontology, Specialized by World-Type (also Basic page 212)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "225",
+    "Link": "S225"
+  },
+  {
+    "Rule": "Piloting / TL, Possible Hyperspace Specialization (also Basic page 214)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "225",
+    "Link": "S225"
+  },
+  {
+    "Rule": "Savoir-Faire, By Alien Society (also Basic page 218)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "225",
+    "Link": "S225"
+  },
+  {
     "Rule": "Astronaut (Space Template)",
     "Category": [
       "Templates"
+    ],
+    "Book": "Space",
+    "Page": "226",
+    "Link": "S226"
+  },
+  {
+    "Rule": "Social Sciences Specialize by Civilization (also Basic page 210)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "226",
+    "Link": "S226"
+  },
+  {
+    "Rule": "Spacer  (also Basic page 185)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "226",
+    "Link": "S226"
+  },
+  {
+    "Rule": "Submarine, Free-Floating Sub Specialization (also Basic page 223)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "226",
+    "Link": "S226"
+  },
+  {
+    "Rule": "Tactics Skill Could Use a TL Specification",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "226",
+    "Link": "S226"
+  },
+  {
+    "Rule": "Urban Survival, Use in Alien Cities (also Basic page 228)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Space",
+    "Page": "226",
+    "Link": "S226"
+  },
+  {
+    "Rule": "Weird Science in Space Campaigns (also Basic page 228)",
+    "Category": [
+      "Skills"
     ],
     "Book": "Space",
     "Page": "226",
@@ -109094,6 +112154,607 @@
     "Book": "Tactical Shooting",
     "Page": "79",
     "Link": "TS79"
+  },
+  {
+    "Rule": "Boarding Suit (Solar Patrol, TL6+3, DR 10, $12000, 20 lbs. LC4)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "28",
+    "Link": "TSP28"
+  },
+  {
+    "Rule": "Commando Suit (Solar Patrol, TL6+3, Reinforced Flexible Suit, DR 15, $20000, 25 lbs. LC3)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "28",
+    "Link": "TSP28"
+  },
+  {
+    "Rule": "Space Suit (Solar Patrol, TL6+3, DR 5, Two 4-hr. Oxygen Tanks, $2000, 15 lbs. LC4)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "28",
+    "Link": "TSP28"
+  },
+  {
+    "Rule": "Space Suit Helmet (Solar Patrol, TL6+3, Bubble Helmet, DR 4, $500, 5 lbs. LC4)",
+    "Category": [
+      "Armor"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "28",
+    "Link": "TSP28"
+  },
+  {
+    "Rule": "Space Suit Requirement (Solar Patrol, Ships Must Carry Suits for All Aboard Plus 10%)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "28",
+    "Link": "TSP28"
+  },
+  {
+    "Rule": "Space Suit Table (Solar Patrol)",
+    "Category": [
+      "Reference",
+      "Armor"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "28",
+    "Link": "TSP28"
+  },
+  {
+    "Rule": "Atomic Guns (Solar Patrol, TL6+3, Adjustable Damage in 1 sec., Each Shot Uses a Full Charge)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "29",
+    "Link": "TSP29"
+  },
+  {
+    "Rule": "Gooper (Solar Patrol, TL6+2, Entangling Chemical Pistol, Binding-12, DR 4, $1,500. LC4)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "29",
+    "Link": "TSP29"
+  },
+  {
+    "Rule": "Mark I and Mark II Lasers (Solar Patrol, TL6+1 to 6+2, Mark II Dial-Down Intensity)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "29",
+    "Link": "TSP29"
+  },
+  {
+    "Rule": "Weapon Table (Solar Patrol, Laser Pistols and Rifles, Atomic Pistols and Rifles, Gooper)",
+    "Category": [
+      "Reference",
+      "Weapons"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "29",
+    "Link": "TSP29"
+  },
+  {
+    "Rule": "Maintenance Crawlspaces (Solar Patrol, Fat -4 to DX-Based Skills, Very Fat Cannot Enter)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "30",
+    "Link": "TSP30"
+  },
+  {
+    "Rule": "Spaceship Decks (Solar Patrol, Command, Engineering, Crew, Passenger, Cargo, Weapons)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "30",
+    "Link": "TSP30"
+  },
+  {
+    "Rule": "Atomic Guns on Spaceships (Solar Patrol, Roll 1d Plus Miss Margin for Collateral Damage)",
+    "Category": [
+      "Weapons",
+      "Combat"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "31",
+    "Link": "TSP31"
+  },
+  {
+    "Rule": "Speed and Travel (Solar Patrol, Safe Cruising Speed 0.1c, Earth to Mars in a Week)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "31",
+    "Link": "TSP31"
+  },
+  {
+    "Rule": "Running Hot, Maximum Burn (Solar Patrol, Mechanic-4, Speed x2 per 2 Points, 10 rads/Day)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "32",
+    "Link": "TSP32"
+  },
+  {
+    "Rule": "Running Warm (Solar Patrol, +10% Speed, Mechanic (Electron Drives)-2 Each Day)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "32",
+    "Link": "TSP32"
+  },
+  {
+    "Rule": "Travel Times Table (Solar Patrol, Earth to Luna, Mars, Belt, Jupiter, Venus, Mercury)",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "32",
+    "Link": "TSP32"
+  },
+  {
+    "Rule": "Audie Murphy-Class Patrol Ship (Solar Patrol, Crew 3-10, Atomic Guns, Nega-Barrier DR 550)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "33",
+    "Link": "TSP33"
+  },
+  {
+    "Rule": "Corsair (Solar Patrol, Rebuilt Pirate Raider, Dual-Barrel Lasers 8dx5(2) burn)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "33",
+    "Link": "TSP33"
+  },
+  {
+    "Rule": "Lifeboat (Solar Patrol, Five Bunks, 100 Man-Days Life Support, Million-Mile Beacon)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "33",
+    "Link": "TSP33"
+  },
+  {
+    "Rule": "Patton-Class Patrol Cruiser (Solar Patrol, Heavy Warship, Can Land, Nega-Barrier DR 800)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "33",
+    "Link": "TSP33"
+  },
+  {
+    "Rule": "Spacecraft Table (Solar Patrol)",
+    "Category": [
+      "Reference",
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "33",
+    "Link": "TSP33"
+  },
+  {
+    "Rule": "Jovian Conqueror (Solar Patrol, Crew 100 Plus 250 Troops, Overcharged Drives)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "34",
+    "Link": "TSP34"
+  },
+  {
+    "Rule": "Jovian Pacifier (Solar Patrol, Ground-Attack Disc, -4 to Aim in Space Combat)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "34",
+    "Link": "TSP34"
+  },
+  {
+    "Rule": "Jovian Sky-Scourer (Solar Patrol, Needle Fighter, Crew 10, Nose Atomic Gun 10dx5(4) burn)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "34",
+    "Link": "TSP34"
+  },
+  {
+    "Rule": "Martian War Sphere (Solar Patrol, Mind Master Ship, No Weapons, Field DR 600)",
+    "Category": [
+      "Vehicles"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "34",
+    "Link": "TSP34"
+  },
+  {
+    "Rule": "Solar Patrol Archetypes (Solar Patrol, Space Marines, Traders, Pirates)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "35",
+    "Link": "TSP35"
+  },
+  {
+    "Rule": "Claim to Hospitality (Solar Patrol, Patrolmen or Belt and Luna Travelers, 5 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "36",
+    "Link": "TSP36"
+  },
+  {
+    "Rule": "Damage Resistance (Solar Patrol, Brawlers and Space Marines up to DR 2)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "36",
+    "Link": "TSP36"
+  },
+  {
+    "Rule": "Solar Patrol Advantages (No Supernatural or Exotic Traits Except Racial, No Psis, Cyberware)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "36",
+    "Link": "TSP36"
+  },
+  {
+    "Rule": "Accelerene (Solar Patrol, +2 DX for 2 hrs., Then -1 DX for 4 hrs., Expensive, Illegal)",
+    "Category": [
+      "Gear",
+      "Medical"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "37",
+    "Link": "TSP37"
+  },
+  {
+    "Rule": "Gadgeteer (Solar Patrol, Any Character May Have 25-Point Version, 50 for Geniuses)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "37",
+    "Link": "TSP37"
+  },
+  {
+    "Rule": "Legal Enforcement Powers (Solar Patrol, Lieutenant and Above Buy 5-Point Level)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "37",
+    "Link": "TSP37"
+  },
+  {
+    "Rule": "Rainbow Petals (Solar Patrol, Venusian Hallucinogen, Highly Addictive, Illegal)",
+    "Category": [
+      "Gear",
+      "Medical"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "37",
+    "Link": "TSP37"
+  },
+  {
+    "Rule": "Social Regard (Solar Patrol, Patrolmen Normally Have 1 Point)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "37",
+    "Link": "TSP37"
+  },
+  {
+    "Rule": "Solar Patrol Addictions (Alcohol -15, Tobacco -5 or -1, Caffeine -1)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "37",
+    "Link": "TSP37"
+  },
+  {
+    "Rule": "Solar Patrol Disadvantages (No Supernatural or Exotic Disadvantages for Humans)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "37",
+    "Link": "TSP37"
+  },
+  {
+    "Rule": "Code of Honor (Solar Patrolman's) (-15 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "38",
+    "Link": "TSP38"
+  },
+  {
+    "Rule": "Code of Honor (Trader's) (Solar Patrol, -5 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "38",
+    "Link": "TSP38"
+  },
+  {
+    "Rule": "Code of Honor (Villain's) (Solar Patrol, -5 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "38",
+    "Link": "TSP38"
+  },
+  {
+    "Rule": "Engineer's Hands (Ham-Fisted Variant, Only for Non-Technical Work -40%, -3 or -6 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "38",
+    "Link": "TSP38"
+  },
+  {
+    "Rule": "Focused Bloodlust (Solar Patrol, Hatred of a Single Group, -5 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "38",
+    "Link": "TSP38"
+  },
+  {
+    "Rule": "Armoury (Solar Patrol, Atomic Guns and Nega-Barriers, Mind Master Tech -4, Overlord -1)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "39",
+    "Link": "TSP39"
+  },
+  {
+    "Rule": "Final Stand (New Disadvantage, Self-Control to Sacrifice Yourself for Mission, -10 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "39",
+    "Link": "TSP39"
+  },
+  {
+    "Rule": "Solar Patrol Skills (TL6+3 Default, Magical Skills Forbidden)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "39",
+    "Link": "TSP39"
+  },
+  {
+    "Rule": "Space Sickness (Solar Patrol, Earth League Military Can't Have It, Requires Secret)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "39",
+    "Link": "TSP39"
+  },
+  {
+    "Rule": "Electronics Operation (Force Shields) for Nega-Barriers (Solar Patrol)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "40",
+    "Link": "TSP40"
+  },
+  {
+    "Rule": "Environment Suit (Solar Patrol, Everyone Has It at DX-1, Lacking It Is a -1 Quirk)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "40",
+    "Link": "TSP40"
+  },
+  {
+    "Rule": "Esoteric Medicine (Solar Patrol, Venusian or Martian Healing, -4 on Humans Except Vithaani)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "40",
+    "Link": "TSP40"
+  },
+  {
+    "Rule": "Infomat Skills (Solar Patrol, Computer Operation, Hacking and Programming at -1 to -6)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "40",
+    "Link": "TSP40"
+  },
+  {
+    "Rule": "Paleontology (Solar Patrol, Use as Biology at -1 on Venus)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "41",
+    "Link": "TSP41"
+  },
+  {
+    "Rule": "Physics (Solar Patrol, World Jumpers -4 to Post-Newtonian Uses)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "41",
+    "Link": "TSP41"
+  },
+  {
+    "Rule": "Shiphandling (Solar Patrol, Lieutenant First Class Needs IQ-2 for Command)",
+    "Category": [
+      "Skills"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "41",
+    "Link": "TSP41"
+  },
+  {
+    "Rule": "Unaided Navigation (Technique, Hard, Navigation-10, Find Position by the Stars)",
+    "Category": [
+      "Techniques"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "41",
+    "Link": "TSP41"
+  },
+  {
+    "Rule": "Solar Patrol Officer (Solar Patrolman Lens, +24 points)",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "42",
+    "Link": "TSP42"
+  },
+  {
+    "Rule": "Solar Patrolman (Template, 147 points)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "42",
+    "Link": "TSP42"
+  },
+  {
+    "Rule": "Space Marine (Solar Patrolman Lens, 0 points, ST and HT 12, IQ 10, Beam Weapons (Rifle))",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "42",
+    "Link": "TSP42"
+  },
+  {
+    "Rule": "Patrol Cadet (Solar Patrol Template, 54 points)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "43",
+    "Link": "TSP43"
+  },
+  {
+    "Rule": "Scientist (Solar Patrol Template, 64 points, Science! Wildcard Skill Option)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "43",
+    "Link": "TSP43"
+  },
+  {
+    "Rule": "Engineer (Solar Patrol Template, 74 points)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "44",
+    "Link": "TSP44"
+  },
+  {
+    "Rule": "Pirate (Solar Patrol Template, 85 points)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "44",
+    "Link": "TSP44"
+  },
+  {
+    "Rule": "Callistan Warrior (Solar Patrol Template, 67 points, Deserter from the Overlord)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "45",
+    "Link": "TSP45"
+  },
+  {
+    "Rule": "Trader (Solar Patrol Template, 65 points)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "45",
+    "Link": "TSP45"
+  },
+  {
+    "Rule": "Belter (Solar Patrol Template, 89 points)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "46",
+    "Link": "TSP46"
+  },
+  {
+    "Rule": "Salishal Warrior (Callistan Warrior Lens, +14 points, Venusian Who Lives Among Humans)",
+    "Category": [
+      "Lens"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "46",
+    "Link": "TSP46"
+  },
+  {
+    "Rule": "Explorer (Solar Patrol Template, 105 points)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Tales of the Solar Patrol",
+    "Page": "47",
+    "Link": "TSP47"
   },
   {
     "Rule": "Animated Character Meta-Trait",
