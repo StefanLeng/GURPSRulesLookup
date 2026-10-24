@@ -44974,6 +44974,611 @@
     "Link": "FFE25"
   },
   {
+    "Rule": "Alternative Histories (Fishfolk Without Elder Things, Fishfolk as Sea Orcs)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "4",
+    "Link": "FFF4"
+  },
+  {
+    "Rule": "Fishfolk Life (Bathyal Zone, 3,300 to 13,000 Feet, 100 to 400 Atmospheres, 39°F)",
+    "Category": [
+      "Environment",
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "4",
+    "Link": "FFF4"
+  },
+  {
+    "Rule": "Fishfolk Racial Origins (Khilâdir, Zûh and Hazrik, Reft into Two Peoples)",
+    "Category": [
+      "Setting",
+      "Divinity"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "4",
+    "Link": "FFF4"
+  },
+  {
+    "Rule": "Brine Pools (Blood Agent, 1 Toxic per Second Plus 1d Seconds, Gills Are Mucous Membranes)",
+    "Category": [
+      "Environment",
+      "Hazard",
+      "Poison"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "5",
+    "Link": "FFF5"
+  },
+  {
+    "Rule": "Cultural Familiarity (Fishfolk, Covers All Three Tribes)",
+    "Category": [
+      "Setting",
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "5",
+    "Link": "FFF5"
+  },
+  {
+    "Rule": "Fishfolk Religion and Ancestor Spirits",
+    "Category": [
+      "Divinity",
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "5",
+    "Link": "FFF5"
+  },
+  {
+    "Rule": "Fishfolk Tribes (Reavers, Tainted, Redeemed)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "5",
+    "Link": "FFF5"
+  },
+  {
+    "Rule": "Hydrothermal Vents (140°F Water Does 1d-3 Burn per Second, +1 per Additional 50°F)",
+    "Category": [
+      "Environment",
+      "Hazard"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "5",
+    "Link": "FFF5"
+  },
+  {
+    "Rule": "Mussel Fields and Undersea Volcanoes (Fishfolk Food and Obsidian Sources)",
+    "Category": [
+      "Environment",
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "5",
+    "Link": "FFF5"
+  },
+  {
+    "Rule": "Fishfolk Gods (Founder Figures, Hazrik, Khilâdir, Zûh, Other Gods)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "6",
+    "Link": "FFF6"
+  },
+  {
+    "Rule": "Fishfolk Religious Rituals (Sacrifice, Drawn-Out Ceremonies, Mistakes Invalidate the Rite)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "6",
+    "Link": "FFF6"
+  },
+  {
+    "Rule": "Fishfolk Divination (Blood Sacrifice, Haruspicy, Breaking Objects, Casting Lots)",
+    "Category": [
+      "Divinity"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "7",
+    "Link": "FFF7"
+  },
+  {
+    "Rule": "Fishfolk Social Organization (Three-Caste System, Two-Layered Structure, Work Gangs)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "7",
+    "Link": "FFF7"
+  },
+  {
+    "Rule": "Fishfolk Language and Names (Written in Scratches, Read by Touch Like Braille)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "8",
+    "Link": "FFF8"
+  },
+  {
+    "Rule": "Fishfolk Settlements (100 to 300 Fishfolk, Burial Pits, Crafting Area, Libraries, Sharks)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "8",
+    "Link": "FFF8"
+  },
+  {
+    "Rule": "Fishfolk Life Stages (Spawning, The Choosing, Adulthood at 25, Death and Burial Rituals)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "9",
+    "Link": "FFF9"
+  },
+  {
+    "Rule": "Fishfolk Music and Timing Songs (Glass Harmonica, Glass Xylophone)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "10",
+    "Link": "FFF10"
+  },
+  {
+    "Rule": "Fishfolk Sagas (The Story of Dabor, Spiller of Blood)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "10",
+    "Link": "FFF10"
+  },
+  {
+    "Rule": "Singing and Magic (Fishfolk Magery Has Song -40%, -1 or -2 to Fright Checks Near Ceremonies)",
+    "Category": [
+      "Magic",
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "10",
+    "Link": "FFF10"
+  },
+  {
+    "Rule": "Fishfolk Art (Sonar and Touch Sculpture, -5 to Connoisseur Without Sonar or Sensitive Touch)",
+    "Category": [
+      "Setting",
+      "Skills"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "11",
+    "Link": "FFF11"
+  },
+  {
+    "Rule": "Fishfolk Race Relations (Reavers, Tainted, Redeemed)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "11",
+    "Link": "FFF11"
+  },
+  {
+    "Rule": "Unspeakable Cults (Surface Worshipers of Hazrik, Sea Rose Initiation)",
+    "Category": [
+      "Setting",
+      "Organizations",
+      "Divinity"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "11",
+    "Link": "FFF11"
+  },
+  {
+    "Rule": "Fishfolk (59 points)",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "12",
+    "Link": "FFF12"
+  },
+  {
+    "Rule": "Fishfolk Physiology (Fishfolk Specialty for Medical Skills, -5 Default to Other Species)",
+    "Category": [
+      "Skills",
+      "Medical"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "12",
+    "Link": "FFF12"
+  },
+  {
+    "Rule": "Fishfolk Crossbreeds (Unusual Background, Buy Fishfolk Traits Individually)",
+    "Category": [
+      "Traits",
+      "Templates"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "13",
+    "Link": "FFF13"
+  },
+  {
+    "Rule": "Fishfolk in Dungeon Fantasy (Playable Fishfolk Need Social Stigma (Savage) -10)",
+    "Category": [
+      "Setting",
+      "Templates"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "13",
+    "Link": "FFF13"
+  },
+  {
+    "Rule": "Fishfolk Life on Land (Immerse 1 Hour a Day, 60-Gallon Barrel, 4 Quarts of Water Daily)",
+    "Category": [
+      "Environment",
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "13",
+    "Link": "FFF13"
+  },
+  {
+    "Rule": "Fishfolk Lifecycle (Eggs Twice a Year, Adult at 25, Age Normally at 60)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "13",
+    "Link": "FFF13"
+  },
+  {
+    "Rule": "Fishfolk Psychology (Reaver, Tainted and Redeemed Common Disadvantages)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "13",
+    "Link": "FFF13"
+  },
+  {
+    "Rule": "Rhythm of Life Underwater (Fishfolk 120-Hour Cycle, 40 Hours Sleep, 80 Hours Activity)",
+    "Category": [
+      "Setting",
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "13",
+    "Link": "FFF13"
+  },
+  {
+    "Rule": "Bad Sight (Low Resolution, Fishfolk, -4 to Spot, -8 for Fine Details, -25 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "14",
+    "Link": "FFF14"
+  },
+  {
+    "Rule": "Can Drink Salt Water (Fishfolk Perk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "14",
+    "Link": "FFF14"
+  },
+  {
+    "Rule": "Fishfolk Common Advantages (Exotic Traits Enabled by Racial Gifts Perk)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "14",
+    "Link": "FFF14"
+  },
+  {
+    "Rule": "Fishfolk Common Disadvantages (Social Stigma -10 or -15 in Surface Campaigns)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "14",
+    "Link": "FFF14"
+  },
+  {
+    "Rule": "Fishfolk Ink Sac (Tainted, Obscure 4 Smell and Obscure 10 Vision, 4/day, 34 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "14",
+    "Link": "FFF14"
+  },
+  {
+    "Rule": "Fishfolk Toxic Bite (Tainted, Toxic Attack 1d, Follow-Up Teeth, Agony, 3/day, 10 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "14",
+    "Link": "FFF14"
+  },
+  {
+    "Rule": "Flexible Schedule (Fishfolk Perk, Adapt from 40-Hour Sleep Cycle)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "14",
+    "Link": "FFF14"
+  },
+  {
+    "Rule": "Megahertz Sonar (Fishfolk, +4 for Fine Relief, 200 yds. Underwater, 2 yds. in Air, 20 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "14",
+    "Link": "FFF14"
+  },
+  {
+    "Rule": "Power Investiture (Fishfolk, Song -40%)",
+    "Category": [
+      "Traits",
+      "Divinity"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "14",
+    "Link": "FFF14"
+  },
+  {
+    "Rule": "Anatomy of a Raid (Fishfolk, 10-20 Raiders, Night Attacks, Weak at Range)",
+    "Category": [
+      "Combat",
+      "Setting"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "15",
+    "Link": "FFF15"
+  },
+  {
+    "Rule": "Restricted Diet (Fishfolk, Fresh Meat, x2 Ration Cost, -4 Survival When Foraging, -10 points)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "15",
+    "Link": "FFF15"
+  },
+  {
+    "Rule": "Tooth-and-Claw (Fishfolk Martial Arts Style, 5 points)",
+    "Category": [
+      "Styles"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "15",
+    "Link": "FFF15"
+  },
+  {
+    "Rule": "Breathe Brine (Water Spell, Breathe in Brine Pools, Cost 2, Maintain 1)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "16",
+    "Link": "FFF16"
+  },
+  {
+    "Rule": "Brine Cloud (Water Spell, HT-4 or 1d-2 Toxic per Second, Underwater Only, Base Cost 2)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "16",
+    "Link": "FFF16"
+  },
+  {
+    "Rule": "Dark Rebirth (Body Control Curse, Turns Target into Tainted Fishfolk, Cost 10)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "16",
+    "Link": "FFF16"
+  },
+  {
+    "Rule": "Fishfolk Spells (Preferred Colleges, Planar Summons Prerequisite)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "16",
+    "Link": "FFF16"
+  },
+  {
+    "Rule": "Partial Shapeshifting (Ink Sac and Venom Gland, Magery 3, Duration 1 Hour)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "16",
+    "Link": "FFF16"
+  },
+  {
+    "Rule": "Remove Taint (Healing Spell, Requires Sacrifice of a Buck or Ram, Cost 100)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "17",
+    "Link": "FFF17"
+  },
+  {
+    "Rule": "Summon Leviathan (Animal Spell, Calls a Kraken-Class Sea Monster, Cost 400, 1 Hour to Cast)",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "17",
+    "Link": "FFF17"
+  },
+  {
+    "Rule": "Fishfolk Nourisher (Profession, Farmers and Craftsmen)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "18",
+    "Link": "FFF18"
+  },
+  {
+    "Rule": "Fishfolk Priest (Profession, Clerics, Sages, Healers, Diplomats)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "18",
+    "Link": "FFF18"
+  },
+  {
+    "Rule": "Divine Magic for Fishfolk Priests (Advantages with Divine -10%)",
+    "Category": [
+      "Divinity",
+      "Magic",
+      "Powers"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "19",
+    "Link": "FFF19"
+  },
+  {
+    "Rule": "Fishfolk Warrior (Profession, Fighters and Traders)",
+    "Category": [
+      "Professions"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "19",
+    "Link": "FFF19"
+  },
+  {
+    "Rule": "Giant Mantis Shrimp (Fishfolk Pet, ST 10, DX 14, Striker, SM 0, 100 lbs.)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "20",
+    "Link": "FFF20"
+  },
+  {
+    "Rule": "Riding Shark (Fishfolk Mount, ST 14, Water Move 9, SM +1, 350 lbs.)",
+    "Category": [
+      "Mounts",
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "20",
+    "Link": "FFF20"
+  },
+  {
+    "Rule": "Sea Rose (Hallucinogenic Fungus, HT-4 to Resist, Totally Addictive, $25 per Dose)",
+    "Category": [
+      "Poison",
+      "Medical"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "20",
+    "Link": "FFF20"
+  },
+  {
+    "Rule": "Titanic Squid (Fishfolk Pet, ST 15, Ink Sac, Toxic Bite, Extra Arms, SM +1, 400 lbs.)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "20",
+    "Link": "FFF20"
+  },
+  {
+    "Rule": "Black Pearl (Fishfolk Settlement Relic, DR 2, HP 500, Energy Reserve 100, Higher Purpose)",
+    "Category": [
+      "Magic",
+      "Divinity"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "21",
+    "Link": "FFF21"
+  },
+  {
+    "Rule": "Coral Dagger (Casts Dark Rebirth at Power 15 on Injury, Wooden Stake Stats, $5,000)",
+    "Category": [
+      "Magic",
+      "Weapons"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "21",
+    "Link": "FFF21"
+  },
+  {
+    "Rule": "Undersea Lotus (Neurotoxin, HT-2, 2d Toxic per Hour for 1d Cycles, $2,500 to $5,000 per Dose)",
+    "Category": [
+      "Poison"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "21",
+    "Link": "FFF21"
+  },
+  {
+    "Rule": "Visionary Coral (Smoked, Grants One Use of Blessed, $500 to $1,000 per Dose, 0.1 lb.)",
+    "Category": [
+      "Gear",
+      "Divinity"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "21",
+    "Link": "FFF21"
+  },
+  {
+    "Rule": "Cultist's Regalia (Crown is 20-Point Powerstone, Scepter Grants Power Investiture 2)",
+    "Category": [
+      "Magic",
+      "Divinity"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "22",
+    "Link": "FFF22"
+  },
+  {
+    "Rule": "Fisherman's Net (Cultist Reward, +4 to Fishing, Drains 1 FP per Hour, 20 lbs.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "22",
+    "Link": "FFF22"
+  },
+  {
+    "Rule": "She's Mask (Amphibious, Doesn't Breathe (Gills), Pressure Support 3, $11,400, 1 lb.)",
+    "Category": [
+      "Magic",
+      "Gear"
+    ],
+    "Book": "Fantasy Folk: Fishfolk",
+    "Page": "22",
+    "Link": "FFF22"
+  },
+  {
     "Rule": "Goblins (Mean)",
     "Category": [
       "Templates",
@@ -101868,6 +102473,654 @@
     "Link": "PY36:21"
   },
   {
+    "Rule": "Computer Complexity 1 through 16, 6 Comparable to the Human Brain",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "16",
+    "Link": "PY37:16"
+  },
+  {
+    "Rule": "Thinking Machines",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "16",
+    "Link": "PY37:16"
+  },
+  {
+    "Rule": "Blood Swarm Viral Computers (TL11, Cmplx +3. $1,000. LC3, 1 yd radius radio)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "17",
+    "Link": "PY37:17"
+  },
+  {
+    "Rule": "Quarter TLs (Examples of TLs from 1930 to 2010)",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "17",
+    "Link": "PY37:17"
+  },
+  {
+    "Rule": "Smartcell Computers (TL11, Cmplx 3 at TL11, neg weight and cost)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "17",
+    "Link": "PY37:17"
+  },
+  {
+    "Rule": "Brilliant Mist, Several Hundred Sq Yds of Aerostat Nanoswarms (TL11, Cmplx +4. $5,000,000. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Computer Implant (TL9), Minor Procedure, $1,000. LC4",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Desktop Computer (TL7.75, Small Computer and Standard Terminal, $1,000, 12 lbs. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Grain Computer Implant (TL9), Implant Radio with Grain Computer, Simple Procedure, $120. LC4",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Grain Computer, Cmplx 3 at TL9, Cmplx 6 at TL11, $1, 0.0002 lbs",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "High-End Smart Phone (TL8.75, Small Computer, Touch-Screen, Radio, $1,550, 0.33 lbs. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Laptop (TL8, Compact Light Duty Small Computer, 3-hr. Battery, $2,650, 1.6 lbs. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Microswarm Computer (TL10), with grain computer cluster, Cmplx +2. $10,000, 1 lb, 50 yd radio range",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Nanocomputer, Cmplx 2 at TL9.5, Cmplx 5 at TL11, neg cost and weight",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "PDA (TL8, Compact Light Duty Pocket Computer and Datapad Terminal, $750, 0.075 lbs.)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Pebble Computer (TL8.75), Cmplx 3 at TL8.75, Cmplx 7 at TL11. $10, 0.002 lbs",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Pebble Computer Cell Phone, $50, 0.1 lb. LC4",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Pocket Computer (TL8, PDA-Sized, Cmplx 2 at TL8, Cmplx 3 at TL8.25, Cmplx 7 at TL11, $250)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Slate Tablet (TL8.5, Laptop with Touch-Screen Terminal, $4,500, 1 lb.)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Small Computer (TL7.75, Cmplx 2 at TL7.75, Cmplx 3 at TL8, Cmplx 8 at TL11, $500, 2 lbs.)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Smart Mist, Aerostat Nanoswarm with Smartcells (TL11, Cmplx +3. $2,000. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Smart Phone (TL8.75, PDA with Radio, $800, 0.08 lbs. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Smart Robes (TL9.5, Cloth Small Computer and Touch-Screen, $10,000, 4.5 lbs., 18 sq. ft.)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Tiny Computer (TL8.5, Wristwatch-Sized, Cmplx 3 at TL8.5, Cmplx 7 at TL11, $100, 0.02 lbs.)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Workstation (TL7.75, Cmplx 3 at TL7.75, Cmplx 8 at TL11, $2,000, 20 lbs.)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "18",
+    "Link": "PY37:18"
+  },
+  {
+    "Rule": "Analytical Engine (TL5+1, Steampunk Mainframe and Primitive Terminal, $6.05 Million. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Grand Calculator (TL5+3^, Steampunk Macroframe, 10 Terminals, Cmplx 4, $100.5 Million. LC2)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Jupiter Brain (TL12, Gas-Giant-Sized Computer, Cmplx 14, $1 Septillion)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Living City (TL10.25, Planetoid Computer, Cmplx 10 at TL10.25, 11 at TL11, $1 Quadrillion)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Macroframe (TL7, Room-Sized, Cmplx 2 at TL7, Cmplx 9 at TL11, $10 Million, 10 tons)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Mainframe (TL6.75, Big Iron, Cmplx 1 at TL6.75, Cmplx 8 at TL11, $600,000, 1 ton)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Megacomputer (TL9.25, Office Building, Cmplx 7 at TL9.25, Cmplx 9 at TL11, $1 Billion)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Microcluster (TL8.25, Several Dozen Workstations, Cmplx One Quarter-TL Better, $50,000. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Minicomputer (TL7, Server Rack, Cmplx 1 at TL7 to Cmplx 4 at TL8, Cmplx 8 at TL11, $40,000)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Planetary Brain (TL11, Earth-Sized Computer, Cmplx 12, $1 Quintillion, 1 Trillion tons)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Server Farm (TL8.5, Hundreds of Thousands of Workstations, Cmplx +2, $1 Billion, 5,000 tons)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Shell Computer, Matrioshka Brain (TL12, Layered Dyson Shells, Cmplx 15, $1 Decillion)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Skyscraper Computer (TL9.5, Cmplx 8 at TL9.5, Cmplx 10 at TL11, $1 Trillion, 1 Million tons)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Small Cluster (TL8.25, A Few Thousand Workstations, Cmplx +1, $5 Million, 25 tons. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Tiny Cluster (TL8.25, Few Hundred Workstations, Cmplx Two Quarter-TLs Better, $500,000. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "19",
+    "Link": "PY37:19"
+  },
+  {
+    "Rule": "Advanced Computer Option (TL8, +2 in Contests vs. Same Cmplx, x10 Cost, LC -1)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Biocomputer Option (TL9, Built from Neurons, x2 Cost and Weight, Cmplx -1)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Cloth Computer Option (TL9.25, Cloth Substrate, Destroyed if Broken, x5 Cost, x2 Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Compact Computer Option (TL6.75, -2 to Modify or Repair, x2 Cost, x0.5 Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Computer Options (Customize a Computer, Each Option Taken Only Once)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Dedicated Computer Option (TL5, Runs One Program Only, Cmplx +1, x2 Cost and Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Exotic Computer Options (Availability and Combinations Depend on the Setting)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Faster Than Light Computer Option (TL^, +4 in Contests per x10 Lightspeed, Cost Varies)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Heavy Duty Computer Option (TL6.75, +2 in Contests vs. Same Cmplx, x2 Cost and Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Light Duty Computer Option (TL7.25, -2 in Contests vs. Same Cmplx, x0.5 Cost and Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Miniature Computer Option (TL6.75, -5 to Modify or Repair, x4 Cost, x0.3 Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Multiple Cores Computer Option (TL5, Each Extra Core +100% Cost and Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Obsolete Computer Option (TL6, Previous Quarter-TL x0.25 Cost, x0.5 per Further Quarter-TL)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Old Computer Option (TL8, -2 in Contests vs. Same Cmplx, x0.5 Cost)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Paper Computer Option (TL9, Flexible Paper Substrate, x3 Cost, x2 Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Quantum Computer Option (TL9, Cmplx -3 at TL8 to -1 at TL10, Default at TL11-12)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Regenerating Computer Option (TL10, Heals 1 HP per 6 hrs., x5 Cost, Cmplx -1)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Rugged Computer Option (TL7, +2 HT and to Modify or Repair, x2 Cost and Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Semi-Flexible Computer Option (TL8.75, Rollable Substrate, x2 Cost and Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Shell Cluster (TL12, Thousands of Shell Computers, Cmplx 16, Centuries per Task)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Solar-Sail Computer Option (TL10, 250 sq. ft. per lb., x5 Cost, x2 Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Steampunk Computer Option (TL5^, Mechanical Computer with Steam Engine, x10 Cost, x5 Weight)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "20",
+    "Link": "PY37:20"
+  },
+  {
+    "Rule": "Computer Interfaces (Battery-Powered Interfaces +2% Cost and Weight per Hour)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "21",
+    "Link": "PY37:21"
+  },
+  {
+    "Rule": "Hands-Free Terminal (TL8.25, Head-Mounted Monitor, -1 DX Until TL9, $2,000, 10 lbs. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "21",
+    "Link": "PY37:21"
+  },
+  {
+    "Rule": "Machine Interface (TL5, Levers, Tubes or Data Port, No Added Weight or Cost)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "21",
+    "Link": "PY37:21"
+  },
+  {
+    "Rule": "Primitive Terminal (TL6, Paper Tape and Card Punches, 1 hr. to Set Up, $5,000, 500 lbs. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "21",
+    "Link": "PY37:21"
+  },
+  {
+    "Rule": "Quantum Computing (Square Root of Classical Time Divided by Cmplx Factor, Search Tasks)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "21",
+    "Link": "PY37:21"
+  },
+  {
+    "Rule": "Standard Terminal (TL7, Keyboard and Monitor, $500, 50 lbs., x0.2 Weight at TL8. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "21",
+    "Link": "PY37:21"
+  },
+  {
+    "Rule": "Tattoo Computer Option (TL10, Ink Circuits Tattooed or Printed on a Surface, x10 Cost)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "21",
+    "Link": "PY37:21"
+  },
+  {
+    "Rule": "Terminal (TL6, Keyboard and View Screen, TL10^ Holographic +$2,000)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "21",
+    "Link": "PY37:21"
+  },
+  {
+    "Rule": "Terminal Options (Command Center +2, Luxurious +1, Portable -1, Datapad -2, Wrist-Top -4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "21",
+    "Link": "PY37:21"
+  },
+  {
+    "Rule": "Touch-Screen Terminal (TL8.5, Thin Glass Monitor with Camera and Mike, $1,000, 5 lbs. LC4)",
+    "Category": [
+      "Electronics"
+    ],
+    "Book": "Pyramid #3/37",
+    "Page": "21",
+    "Link": "PY37:21"
+  },
+  {
     "Rule": "Old School Dwarf Template, Race as Profession",
     "Category": [
       "Templates"
@@ -109681,6 +110934,24 @@
     "Link": "SP2:11"
   },
   {
+    "Rule": "High Precision Watch (TL6), $1,000, 0.6 lbs",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "13",
+    "Link": "SP2:13"
+  },
+  {
+    "Rule": "Pocket Maritime Chronometer (TL5), $500, 0.5 lbs",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "13",
+    "Link": "SP2:13"
+  },
+  {
     "Rule": "Timepieces",
     "Category": [
       "Setting"
@@ -109688,6 +110959,51 @@
     "Book": "Steampunk 2",
     "Page": "13",
     "Link": "SP2:13"
+  },
+  {
+    "Rule": "Songbird's Cage (TL3), $8,000, 6 lbs, Cmplx -2",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "14",
+    "Link": "SP2:14"
+  },
+  {
+    "Rule": "The Alexandrian Machine (TL2), $50,000, 120 lbs, Cmplx -1, calculator",
+    "Category": [
+      "Mechanism"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "14",
+    "Link": "SP2:14"
+  },
+  {
+    "Rule": "The Analytical Engine (TL5+1), $500,000, Cmplx 2, needs a steam engine to run it",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "14",
+    "Link": "SP2:14"
+  },
+  {
+    "Rule": "The Difference Engine (TL5), calculates polynomials, $100,000, 4.5 tons",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "14",
+    "Link": "SP2:14"
+  },
+  {
+    "Rule": "The Ultimate Engine (TL5+1), $100 million, 60 tons, Cmplx 4, requires large external steam engine",
+    "Category": [
+      "Gear"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "14",
+    "Link": "SP2:14"
   },
   {
     "Rule": "Automatons and Mechanical Men",
@@ -109706,6 +111022,96 @@
     "Book": "Steampunk 2",
     "Page": "18",
     "Link": "SP2:18"
+  },
+  {
+    "Rule": "Heliograph (TL5+1), $100 and 50 lbs (Steampunk)",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "19",
+    "Link": "SP2:19"
+  },
+  {
+    "Rule": "Telegraph Set (TL5), $150, 3 lbs, comes with a dry battery that's good for an hour",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "19",
+    "Link": "SP2:19"
+  },
+  {
+    "Rule": "Automatic Telegraph (TL5), 300-400 words per minute, $7,500, 100 lbs",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "20",
+    "Link": "SP2:20"
+  },
+  {
+    "Rule": "Military Telephone (TL6), with hand crank, $50, 5lbs",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "20",
+    "Link": "SP2:20"
+  },
+  {
+    "Rule": "Register Telegraph (TL5), prints messages on paper for decoding later, $5,000, 30 lbs",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "20",
+    "Link": "SP2:20"
+  },
+  {
+    "Rule": "Stock Ticker (TL6), $3,000, 25lbs, renting a stock ticker line $200 per month",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "20",
+    "Link": "SP2:20"
+  },
+  {
+    "Rule": "Telephone (TL6): $25, 3 lbs",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "20",
+    "Link": "SP2:20"
+  },
+  {
+    "Rule": "Telephone Switchboard (TL6), portable 10-line switchboard, $1,000, 50 lbs",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "20",
+    "Link": "SP2:20"
+  },
+  {
+    "Rule": "Teletype (TL6), sends and printes text via phone line, $7,500, 200 lbs, renting $500/month",
+    "Category": [
+      "Gear",
+      "Electronics"
+    ],
+    "Book": "Steampunk 2",
+    "Page": "20",
+    "Link": "SP2:20"
   },
   {
     "Rule": "Mundane Garb (Steampunk)",
