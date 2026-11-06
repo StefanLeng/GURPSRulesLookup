@@ -3254,6 +3254,15 @@
     "Link": "B35"
   },
   {
+    "Rule": "Affliction",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "35",
+    "Link": "B35"
+  },
+  {
     "Rule": "Allies",
     "Category": [
       "Traits"
@@ -3263,13 +3272,22 @@
     "Link": "B36"
   },
   {
-    "Rule": "Frequency of Appearance",
+    "Rule": "Frequency of Appearance (including Constantly ×4)",
     "Category": [
       "Traits"
     ],
     "Book": "Basic",
     "Page": "36",
     "Link": "B36"
+  },
+  {
+    "Rule": "Ally Power and Ally Group",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "37",
+    "Link": "B37"
   },
   {
     "Rule": "Altered Time Rate",
@@ -3279,6 +3297,24 @@
     "Book": "Basic",
     "Page": "38",
     "Link": "B38"
+  },
+  {
+    "Rule": "Familiar, Familiars (Minion, Summonable, Sympathy, Unwilling)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "38",
+    "Link": "B38"
+  },
+  {
+    "Rule": "Alternate Identity",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "39",
+    "Link": "B39"
   },
   {
     "Rule": "Dual-Wielding Ambidexterity",
@@ -3291,7 +3327,25 @@
     "Link": "B39"
   },
   {
-    "Rule": "Arm ST",
+    "Rule": "Amphibious",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "40",
+    "Link": "B40"
+  },
+  {
+    "Rule": "Animal Empathy",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "40",
+    "Link": "B40"
+  },
+  {
+    "Rule": "Arm ST and Arm DX",
     "Category": [
       "Traits"
     ],
@@ -3316,6 +3370,42 @@
     "Book": "Basic",
     "Page": "40",
     "Link": "B40"
+  },
+  {
+    "Rule": "Brachiator",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "41",
+    "Link": "B41"
+  },
+  {
+    "Rule": "Breath-Holding, Breath Holding",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "41",
+    "Link": "B41"
+  },
+  {
+    "Rule": "Catfall",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "41",
+    "Link": "B41"
+  },
+  {
+    "Rule": "Chameleon",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "41",
+    "Link": "B41"
   },
   {
     "Rule": "Channeling",
@@ -3345,6 +3435,15 @@
     "Link": "B41"
   },
   {
+    "Rule": "Clairsentience",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "42",
+    "Link": "B42"
+  },
+  {
     "Rule": "Claws (Blunt, Sharp, Hooves)",
     "Category": [
       "Traits"
@@ -3363,6 +3462,15 @@
     "Link": "B43"
   },
   {
+    "Rule": "Clinging",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "43",
+    "Link": "B43"
+  },
+  {
     "Rule": "Combat Reflexes",
     "Category": [
       "Traits"
@@ -3373,6 +3481,15 @@
   },
   {
     "Rule": "Common Sense",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "43",
+    "Link": "B43"
+  },
+  {
+    "Rule": "Compartmentalized Mind",
     "Category": [
       "Traits"
     ],
@@ -3517,6 +3634,24 @@
     "Link": "B47"
   },
   {
+    "Rule": "Destiny",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "48",
+    "Link": "B48"
+  },
+  {
+    "Rule": "Detect",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "48",
+    "Link": "B48"
+  },
+  {
     "Rule": "Digital Mind",
     "Category": [
       "Traits"
@@ -3589,6 +3724,24 @@
     "Link": "B52"
   },
   {
+    "Rule": "Enhanced Tracking",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "53",
+    "Link": "B53"
+  },
+  {
+    "Rule": "Extended Lifespan",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "53",
+    "Link": "B53"
+  },
+  {
     "Rule": "Extra Attack",
     "Category": [
       "Traits",
@@ -3597,6 +3750,16 @@
     "Book": "Basic",
     "Page": "53",
     "Link": "B53"
+  },
+  {
+    "Rule": "A Normal Human Can Only Buy 1 Extra Attack",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "54",
+    "Link": "B54"
   },
   {
     "Rule": "Extra Attack with All-Out Attack or Rapid Strike",
@@ -3609,6 +3772,69 @@
     "Link": "B54"
   },
   {
+    "Rule": "Extra Head",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "54",
+    "Link": "B54"
+  },
+  {
+    "Rule": "Extra Legs",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "54",
+    "Link": "B54"
+  },
+  {
+    "Rule": "Extra Life",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "55",
+    "Link": "B55"
+  },
+  {
+    "Rule": "Extra Mouth",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "55",
+    "Link": "B55"
+  },
+  {
+    "Rule": "Favor (one-shot favor, once used it's removed)",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "55",
+    "Link": "B55"
+  },
+  {
+    "Rule": "Fearlessness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "55",
+    "Link": "B55"
+  },
+  {
+    "Rule": "Filter Lungs",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "55",
+    "Link": "B55"
+  },
+  {
     "Rule": "Fit and Very Fit",
     "Category": [
       "Traits"
@@ -3618,6 +3844,24 @@
     "Link": "B55"
   },
   {
+    "Rule": "Flexibility",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "56",
+    "Link": "B56"
+  },
+  {
+    "Rule": "Flight",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "56",
+    "Link": "B56"
+  },
+  {
     "Rule": "Gadgeteer",
     "Category": [
       "Traits"
@@ -3625,6 +3869,15 @@
     "Book": "Basic",
     "Page": "56",
     "Link": "B56"
+  },
+  {
+    "Rule": "G-Experience",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "57",
+    "Link": "B57"
   },
   {
     "Rule": "Gizmos",
@@ -3645,7 +3898,25 @@
     "Link": "B57"
   },
   {
+    "Rule": "Growth",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "58",
+    "Link": "B58"
+  },
+  {
     "Rule": "Gunslinger",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "58",
+    "Link": "B58"
+  },
+  {
+    "Rule": "Hard to Kill",
     "Category": [
       "Traits"
     ],
@@ -3679,6 +3950,24 @@
     "Book": "Basic",
     "Page": "59",
     "Link": "B59"
+  },
+  {
+    "Rule": "Illuminated",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "60",
+    "Link": "B60"
+  },
+  {
+    "Rule": "Improved G-Tolerance",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "60",
+    "Link": "B60"
   },
   {
     "Rule": "Injury Tolerance",
@@ -3746,6 +4035,24 @@
     "Link": "B64"
   },
   {
+    "Rule": "Legal Enforcement Powers",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "65",
+    "Link": "B65"
+  },
+  {
+    "Rule": "Legal Immunity",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "65",
+    "Link": "B65"
+  },
+  {
     "Rule": "Less Sleep (2 CP/level, max 4 levels, 1 hour less sleep per level)",
     "Category": [
       "Traits"
@@ -3764,9 +4071,27 @@
     "Link": "B65"
   },
   {
+    "Rule": "Lightning Calculator",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "66",
+    "Link": "B66"
+  },
+  {
     "Rule": "Limitation Cost Reduction Applies to Magery 1+ (not Magery 0)",
     "Category": [
       "Magic",
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "66",
+    "Link": "B66"
+  },
+  {
+    "Rule": "Longevity",
+    "Category": [
       "Traits"
     ],
     "Book": "Basic",
@@ -3812,10 +4137,30 @@
     "Link": "B67"
   },
   {
+    "Rule": "Cannot Combine Magic Resistance and Magery",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "67",
+    "Link": "B67"
+  },
+  {
+    "Rule": "Magic Resistance",
+    "Category": [
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Basic",
+    "Page": "67",
+    "Link": "B67"
+  },
+  {
     "Rule": "Mana Damper (Area Effect, Switchable)",
     "Category": [
-      "Magic",
-      "Traits"
+      "Traits",
+      "Magic"
     ],
     "Book": "Basic",
     "Page": "67",
@@ -3825,6 +4170,51 @@
     "Rule": "Mana Enhancer (Area Effect, Switchable)",
     "Category": [
       "Magic",
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "68",
+    "Link": "B68"
+  },
+  {
+    "Rule": "Medium",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "68",
+    "Link": "B68"
+  },
+  {
+    "Rule": "Metabolism Control",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "68",
+    "Link": "B68"
+  },
+  {
+    "Rule": "Microscopic Vision",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "68",
+    "Link": "B68"
+  },
+  {
+    "Rule": "Mimicry",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "68",
+    "Link": "B68"
+  },
+  {
+    "Rule": "Mind Control",
+    "Category": [
       "Traits"
     ],
     "Book": "Basic",
@@ -4179,7 +4569,106 @@
     "Link": "B94"
   },
   {
+    "Rule": "Tunneling",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "94",
+    "Link": "B94"
+  },
+  {
+    "Rule": "Ultrahearing",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "94",
+    "Link": "B94"
+  },
+  {
+    "Rule": "Ultrasonic Speech",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "94",
+    "Link": "B94"
+  },
+  {
+    "Rule": "Ultravision",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "94",
+    "Link": "B94"
+  },
+  {
+    "Rule": "Unaging",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "95",
+    "Link": "B95"
+  },
+  {
     "Rule": "Unfazeable",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "95",
+    "Link": "B95"
+  },
+  {
+    "Rule": "Universal Digestion",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "95",
+    "Link": "B95"
+  },
+  {
+    "Rule": "Unkillable",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "95",
+    "Link": "B95"
+  },
+  {
+    "Rule": "Unusual Background",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "95",
+    "Link": "B95"
+  },
+  {
+    "Rule": "Vacuum Support",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "95",
+    "Link": "B95"
+  },
+  {
+    "Rule": "Versatile",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "95",
+    "Link": "B95"
+  },
+  {
+    "Rule": "Vibration Sense",
     "Category": [
       "Traits"
     ],
@@ -4206,6 +4695,33 @@
     "Link": "B96"
   },
   {
+    "Rule": "Voice",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "97",
+    "Link": "B97"
+  },
+  {
+    "Rule": "Walk on Air",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "97",
+    "Link": "B97"
+  },
+  {
+    "Rule": "Walk on Liquid",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "97",
+    "Link": "B97"
+  },
+  {
     "Rule": "Warp",
     "Category": [
       "Traits"
@@ -4213,6 +4729,33 @@
     "Book": "Basic",
     "Page": "97",
     "Link": "B97"
+  },
+  {
+    "Rule": "Wealth",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "99",
+    "Link": "B99"
+  },
+  {
+    "Rule": "Weapon Master",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "99",
+    "Link": "B99"
+  },
+  {
+    "Rule": "Wild Talent [20 pts/level]",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "99",
+    "Link": "B99"
   },
   {
     "Rule": "Perks",
@@ -4260,7 +4803,7 @@
     "Link": "B102"
   },
   {
-    "Rule": "Armor Divisor Enhancement",
+    "Rule": "Armor Divisor",
     "Category": [
       "Enhancements"
     ],
@@ -4989,6 +5532,16 @@
     "Link": "B113"
   },
   {
+    "Rule": "Banshee's Wail and Dragon's Breath Attacks",
+    "Category": [
+      "Traits",
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "114",
+    "Link": "B114"
+  },
+  {
     "Rule": "Preparation Required",
     "Category": [
       "Limitations"
@@ -5601,7 +6154,52 @@
     "Link": "B143"
   },
   {
+    "Rule": "Megalomania",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "144",
+    "Link": "B144"
+  },
+  {
     "Rule": "Miserliness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "144",
+    "Link": "B144"
+  },
+  {
+    "Rule": "Missing Digit",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "144",
+    "Link": "B144"
+  },
+  {
+    "Rule": "Motion Sickness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "144",
+    "Link": "B144"
+  },
+  {
+    "Rule": "Night Blindness",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Basic",
+    "Page": "144",
+    "Link": "B144"
+  },
+  {
+    "Rule": "Nightmares",
     "Category": [
       "Traits"
     ],
@@ -7039,7 +7637,7 @@
     "Link": "B213"
   },
   {
-    "Rule": "Piloting (Aerospace, Autogyro, Contragravity, Flight Pack, Glider, Heavy Airplane, Helicopter)",
+    "Rule": "Piloting (Aerospace, Autogyro, Contragravity, Flight Pack, Glider, Heavy Airplane)",
     "Category": [
       "Skills"
     ],
@@ -7048,7 +7646,7 @@
     "Link": "B214"
   },
   {
-    "Rule": "Piloting (HP Airplane, HP Spacecraft, Light Airplane, Lighter than Air, Lightsail, Low-G Wings)",
+    "Rule": "Piloting (Helicopter, HP Airplane, HP Spacecraft, Light Airplane, Lighter than Air)",
     "Category": [
       "Skills"
     ],
@@ -7057,7 +7655,7 @@
     "Link": "B214"
   },
   {
-    "Rule": "Piloting (LP Spacecraft, Ultralight, Vertol)",
+    "Rule": "Piloting (Lightsail, Low-G Wings, LP Spacecraft, Ultralight, Vertol)",
     "Category": [
       "Skills"
     ],
@@ -7804,9 +8402,153 @@
     "Link": "B270"
   },
   {
+    "Rule": "Axe, TL0 (Damage: swing+2 cut, Reach 1, Unblanced, $50, 4 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Bastard Sword, swung, TL3 (Damage: swing+1 cut, Reach 1 and 2, Unbal., $650, 5 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Bastard Sword, thrust, TL3 (Damage: thrust+1 crush, Reach 2, Unbal., $650, 5 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Blackjack or Sap, TL1 (Damage: thrust crush, Reach C, $20, 1 lb, ST 7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Brass Knuckles, TL1 (Damage: thrust crush, Reach C, $10, 0.25 lbs)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Broadsword, swung, TL2 (Damage: swing+1 cut, Reach 1, $500, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Broadsword, thrust, TL2 (Damage: thrust+1 crush, Reach 1, $500, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Cavalry Saber, swung, TL4 (Damage: swing+1 cut, Reach 1, $500, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Cavalry Saber, thrust, TL4 (Damage: thrust+1 impaling, Reach 1, $500, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Hatchet, TL0 (Damage: swing cut, Reach 1, $40, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Katana, swung, TL3 (Damage: swing+1 cut, Reach 1 and 2, $650, 5 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Katana, thrust, TL3 (Damage: thrust+1 impaling, Reach 1, $650, 5 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Light Club, swung, TL0 (Damage: swing+1 crush, Reach 1, $5, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Light Club, thrust, TL0 (Damage: thrust+1 crush, Reach 1, $5, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Mace, TL2 (Damage: swing+3 crush, Reach 1, Unbalanced, $50, 5 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
     "Rule": "Melee Weapons Table",
     "Category": [
       "Reference",
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Pick, TL3 (Damage: swing+1 impaling, Reach 1, Unbalanced, $70, 3 lbs, ST 10)",
+    "Category": [
       "Weapons"
     ],
     "Book": "Basic",
@@ -7823,6 +8565,645 @@
     "Link": "B271"
   },
   {
+    "Rule": "Small Mace, TL2 (Damage: swing+2 crush, Reach 1, Unbalanced, $35, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Stun Gun, TL8 (Damage: HT-3(0.5) aff, Reach C and 1, No Parry, $100, 1 lb, ST 2)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Throwing Axe, TL0 (Damage: swing+2 cut, Reach 1, Unblanced, $60, 4 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Thrusting Bastard Sword, swung, TL3 (Dmg: swing+1 cut, Rch 1-2, Unbal., $750, 5 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Thrusting Bastard Sword, thrust, TL3 (Dmg: thrust+2 imp, Rch 2, Unbal., $750, 5 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Thrusting Broadsword, swung, TL2 (Damage: swing+1 cut, Reach 1, $600, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Thrusting Broadsword, thrust, TL2 (Damage: thrust+2 impaling, Reach 1, $600, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "271",
+    "Link": "B271"
+  },
+  {
+    "Rule": "Dagger, TL1 (Damage: thrust-1 impaling, Reach C, -1 Parry, $20, 0.25 lbs, ST 5)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Glaive, swung, TL1 (Damage: swing+3 cut, Reach 2 and 3, Unbalanced, $100, 8 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Glaive, thrust, TL1 (Damage: thrust+3 impaling, Reach 1 to 3, Unbalanced, $100, 8 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Halberd, swung cut, TL3 (Dmg: swing+5 cut, Reach 2 and 3, Unbal., $150, 12 lbs, ST 13)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Halberd, swung impaling, TL3 (Dmg: swing+4 imp, Reach 2 and 3, Unbal., $150, 12 lbs, ST 13)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Halberd, thrust, TL3 (Dmg: thrust+3 impaling, Reach 1 to 3, Unbal., $150, 12 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Kusari, TL3 (Damage: swing+2 crush, Reach 1 to 4, -2 Parry, Unbalanced, $70, 5 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Lance, TL2 (Damage: thrust+3 impaling, Reach 4, No Parry, $60,6 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Large Knife, swung, TL0 (Damage: swing-2 cut, Reach C and 1, -1 Parry, $40, 1 lb, ST 6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Large Knife, thrust, TL0 (Damage: thrust impaling, Reach C, -1 Parry, $40, 1 lb, ST 6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Morningstar, TL3 (Damage: swing+3 crush, Reach 1, Unbalanced, $80, 6 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Naginata, swung, TL2 (Damage: swing+2 cut, Reach 1 and 2, Unbalanced, $100, 6 lbs, ST 9)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Naginata, thrust, TL2 (Damage: thrust+3 impaling, Reach 2, $100, 6 lbs, ST 9)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Nanchaku, TL3 (Damage: swing+1 crush, Reach 1, Unbalanced, $20, 2 lbs, ST 7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Poleaxe, swung crush, TL3 (Dmg: swing+4 crush, Reach 2 and 3, Unbal., $120, 10 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Poleaxe, swung cut, TL3 (Dmg: swing+4 cut, Reach 2 and 3, Unbal., $120, 10 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Small Knife, swung, TL0 (Damage: swing-3 cut, Reach C and 1, -1 Parry, $30, 0.5 lb, ST 5)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Small Knife, thrust, TL0 (Damage: thrust-1 impaling, Reach C, -1 Parry, $30, 0.5 lb, ST 5)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Wooden Stake, TL0, (Damage: thr(0.5) imp, Reach C, -1 Parry, $4, 0.5 lbs, ST 5)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "272",
+    "Link": "B272"
+  },
+  {
+    "Rule": "Baton, swung, TL0 (Dmg: swing crush, Reach 1, $20, 1 lb., ST 6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Baton, thrust, TL0 (Dmg: thrust crush, Reach 1, $20, 1 lb., ST 6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Cattle Prod, TL7 (Dmg: 1d-3 burn, Reach 1, $50, 2 lbs. ST 3, linked HT-3(0.5) aff)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Cutlass, swung, TL4 (Dmg: swing cut, Reach 1, $300, 2 lbs. ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Cutlass, thrust, TL4 (Dmg: thrust impaling, Reach 1, $300, 2 lbs. ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Javelin, TL1 (Damage: thrust+1 impaling, Reach 1, $30, 2 lbs., ST 6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Long Spear, one hand, TL2 (Dmg: thrust+2 imp, Reach 2 and 3, Unbalanced, $60, 5 lbs., ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Long Spear, two hands, TL2 (Dmg: thrust+3 imp, Reach 2 and 3, $60, 5 lbs., ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Naginata, swung, TL2 (Dmg: swing+2 crush, Rch 1-2, Unbal., $100, 6 lbs., ST 9, 2 hands)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Naginata, thrust, TL2 (Dmg: thrust+2 crush, Rch 1-2, Unbal., $100, 6 lbs., ST 9, 2 hands)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Quarterstaff, swung, TL0 (Dmg: swing+2 crush, Rch 1-2, +2 Parry, $10, 4 lbs, ST 7, 2 hands)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Quarterstaff, thrust, TL0 (Dmg: thrust+2 crush, Rch 1-2, +2 Parry, $10, 4 lbs, ST 7, 2 hands)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Rapier, TL4 (Dmg: thrust+1 impaling, Reach 1 and 2, Fencing Parry, $500, 2.75 lbs, ST 9)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Saber, swung, TL4 (Dmg: swing-1 cut, Reach 1, Fencing Parry, $700, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Saber, thrust, TL4 (Dmg: thrust+1 impaling, Reach 1, Fencing Parry, $700, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Shield, Shield Bash with Spike, TL1 (Dmg: thrust+1 crush, Reach 1, No Parry, +$20, +5 lbs)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Shield, Shield Bash, TL0 (Dmg: thrust crush, Reach 1, No Parry, cost/weight vary by shield)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Short Staff, swung, TL0 (Dmg: swing crush, Reach 1, Fencing Parry, $20, 1 lb., ST6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Short Staff, thrust, TL0 (Dmg: thrust crush, Reach 1, Fencing Parry, $20, 1 lb., ST6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Shortsword, swing, TL2 (Dmg: swing cut, Reach 1, $400, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Shortsword, thrust, TL2 (Dmg: thrust impaling, Reach 1, $400, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Smallsword, TL4 (Dmg: thrust+1 impaling, Reach 1,Fencing Parry, $400, 1.5 lbs. ST 5)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Spear, one hand, TL0 (Dmg: thrust+2 impaling, Reach 1, $40, 4 lbs., ST 9)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Spear, two hands, TL0 (Dmg: thrust+3 impaling, Reach 1 and 2, $40, 4 lbs., ST 9)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "273",
+    "Link": "B273"
+  },
+  {
+    "Rule": "Bastard Sword, 2H, swung, TL3 (Dmg: swing+2 cut, Rch 1 and 2, $650, 5 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Bastard Sword, 2H, thrust, TL3 (Dmg: thrust+2 crush, Reach 2, $650, 5 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Chainsaw, TL6 (Damage: swing+1d cut, Reach 1, No Parry, $150, 13 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Flail, TL2 (Damage: swing+4 crush, Reach 1 and 2, Unbalanced, $100, 8 lbs, ST 13)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Great Axe, TL1 (Damage: swing+3 cut, Reach 1 and 2, Unbalanced, $100, 8 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Greatsword, swung, TL3 (Damage: swing+3 cut, Reach 1 and 2, $800, 7 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Greatsword, thrust, TL3 (Damage: thrust+2 crush, Reach 2, $800, 7 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Katana, 2H, swung, TL3 (Damage: swing+2 cut, Reach 1 and 2, $650, 5 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Katana, 2H, thrust, TL3 (Damage: thrust+1 impaling, Reach 1, $650, 5 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Maul, TL0 (Damage: swing+4 crush, Reach 1 and 2, Unbalanced, $80, 12 lbs, ST 13)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Naginata, 2H Sword, swung, TL2 (Dmg: swing+3 cut, Rch 2, Unbal., $100, 6 lbs, ST 9)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Naginata, 2H Sword, thrust, TL2 (Damage: thrust+3 imp, Rch 2, $100, 6 lbs, ST 9)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Quarterstaff, 2H Sword, swung, TL0 (Dmg: swing+2 crush, Rch 1 and 2, $10, 4 lbs, ST 9)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Quarterstaff, 2H Sword, thrust, TL0 (Damage: thrust+1 crush, Reach 2, $10, 4 lbs, ST 9)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Scythe, swung cut, TL1 (Damage: swing+2 cut, Reach 1, Unbalanced, $15, 5 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Scythe, swung impaling, TL1 (Dmg: swing imp, Rch 1, Unbalanced, $15, 5 lbs, ST 11)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Thrusting Bastard Sword, 2H, sw, TL3 (Dmg: swing+2 cut, Rch 1 and 2, $750, 5 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Thrusting Bastard Sword, 2H, thrust, TL3 (Dmg: thrust+3 imp, Rch 2, $750, 5 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Thrusting Greatsword, swung, TL3 (Dmg: swing+3 cut, Reach 1 and 2, $900, 7 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Thrusting Greatsword, thrust, TL3 (Dmg: thrust+3 impaling, Reach 2, $900, 7 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
+    "Rule": "Warhammer, TL3 (Dmg: swing+3 imp, Rch 1 and 2, Unbalanced, $100, 7 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
     "Rule": "Weapon Quality (Cheap, Good, Fine, Very Fine)",
     "Category": [
       "Weapons"
@@ -7832,7 +9213,79 @@
     "Link": "B274"
   },
   {
+    "Rule": "Whip, TL1 (Damage: swing-2(0.5) crush, Reach 1 to 7, -2 Parry, Unbal., $20, 2 lbs, ST var.)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "274",
+    "Link": "B274"
+  },
+  {
     "Rule": "Blade Composition",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
+    "Rule": "Blowpipe, TL0 (1d-3 pi-, Acc 1, Range x4, $30, 1/0.05, Shots 1(2), ST 2, Bulk -6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
+    "Rule": "Bolas, TL0 (thr-1 cr, Acc 0, Range x3, $20, 2 lbs, Shots T(1), ST 7, Bulk -2)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
+    "Rule": "Composite Bow, TL1 (thr+3 imp, Acc 3, Rng x20/x25, $900, 4/0.1, Shots 1(2), ST 10, Bulk -7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
+    "Rule": "Gladius, Roman Shortsword",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
+    "Rule": "Heavy Cloak, thrown, TL1 (special, Acc 1, Range 2, $50, 5 lbs, Shots T(1), ST 8, Bulk -6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
+    "Rule": "Light Cloak, thrown, TL1 (special, Acc 1, Range 2, $20, 2 lbs, Shots T(1), ST 5, Bulk -4)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
+    "Rule": "Longbow, TL0 (thr+2 imp, Acc 3, Range x15/x20, $200, 3/0.1, Shots 1(2), ST 11, Bulk -8)",
     "Category": [
       "Weapons"
     ],
@@ -7851,6 +9304,24 @@
     "Link": "B275"
   },
   {
+    "Rule": "Regular Bow, TL0 (thr+1 imp, Acc 2, Range x15/x20, $100, 2/0.1, Shots 1(2), ST 10, Bulk -7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
+    "Rule": "Short Bow, TL0 (thr imp, Acc 1, Range x10/x15, $50, 2/0.1, Shots 1(2), ST 7, Bulk -6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "275",
+    "Link": "B275"
+  },
+  {
     "Rule": "Silver Weapons",
     "Category": [
       "Weapons"
@@ -7858,6 +9329,222 @@
     "Book": "Basic",
     "Page": "275",
     "Link": "B275"
+  },
+  {
+    "Rule": "Atlatl with Dart, TL0 (sw-1 imp, Acc 1, Range x3/x4, $20, 1 lb, ST 5, Bulk -3)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Atlatl with Javelin, TL0 (sw+1 imp, Acc 3, Range x2/x3, $30, 2 lbs, ST 6, Bulk -4)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Atlatl, TL0 ($20, 1 lb, Shots 1(1))",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Crossbow, TL2 (thr+4 imp, Acc 4, Range x20/x25, $150, 6/0.06, Shots 1(4), ST 7, Bulk -6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Dagger, thrown, TL1 (thr-1 imp, Acc 0, Range x0.5/x1, $20, 0.25 lbs, ST 5, Bulk -1)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Goat's Foot, TL3 (Crossbow/Prodd Cocking Lever, $50, 2 lbs, Reload 20 sec, ST 7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Harpoon, TL2 (thr+5 imp, Acc 2, Range x1/x1.5, $60, 6 lbs, Shots T(1), ST 11, Bulk -6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Hatchet, thrown, TL0 (sw cut, Acc 1, Range x1.5/x2.5, $40, 2 lbs, ST 8, Bulk -2)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Javelin, thrown, TL1 (thr+1 imp, Acc 3, Range x1.5/x2.5, $30, 2 lbs, ST 6, Bulk -4)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Large Knife, thrown, TL0 (thr imp, Acc 0, Range x0.8/x1.5, $40, 1 lb, ST 6, Bulk -2)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Large Net, TL0 (special, Acc 1, Range special, $40, 20 lbs, Shots T(1), ST 11, Bulk -6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Lariat, TL1 (special, Acc 0, Range special, $40, 3 lbs, Shots T(spec.), ST 7, Bulk -2)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Mace, thrown, TL2 (sw+3 cr, Acc 1, Range x0.5/x1, $50, 5 lbs, ST 12, Bulk -4)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Melee Net, TL2 (special, Acc 1, Range special, $20, 5 lbs, Shots T(1), ST 8, Bulk -4)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Pistol Crossbow, TL3 (thr+2 imp, Acc 1, Rng x15/x20, $150, 4/0.06, Shots 1(4), ST 7, Bulk -4)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Prodd, TL3 (thr+4 pi, Acc 2, Range x20/x25, $150, 6/0.06, Shots 1(4), ST 7, Bulk -6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Shuriken, TL3 (thr-1 cut, Acc 1, Range x0.5/x1, $3, 0.1 lbs, Shots T(1), ST 5, Bulk 0)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Sling, TL0 (sw pi, Acc 0, Range x6/x10, $20, 0.5/0.05, Shots 1(2), ST 6, Bulk -4)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Small Knife, thrown, TL0 (thr-1 imp, Acc 0, Range x0.5/x1, $30, 0.5 lbs, ST 5, Bulk -1)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Small Mace, thrown, TL2 (sw+2 cr, Acc 1, Range x1/x1.5, $35, 3 lbs, ST 10, Bulk -3)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Spear, thrown, TL0 (thr+3 imp, Acc 2, Range x1/x1.5, $40, 4 lbs, ST 9, Bulk -6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Staff Sling, TL1 (sw+1 pi, Acc 1, Range x10/x15, $20, 2/0.05, Shots 1(2), ST 7, Bulk -6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Throwing Axe, thrown, TL0 (sw+2 cut, Acc 2, Range x1/x1.5, $60, 4 lbs, ST 11, Bulk -3)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
+  },
+  {
+    "Rule": "Wooden Stake, thrown, TL0 (thr(0.5) imp, Acc 0, Range x0.5/x1, $4, 0.5 lbs, ST 5, Bulk -2)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Basic",
+    "Page": "276",
+    "Link": "B276"
   },
   {
     "Rule": "Hand Grenades and Incendiaries Table",
@@ -11248,7 +12935,7 @@
     "Link": "B388"
   },
   {
-    "Rule": "Wild Swings",
+    "Rule": "Wild Swing, Wild Swings",
     "Category": [
       "Combat"
     ],
@@ -11739,9 +13426,98 @@
     "Link": "B398"
   },
   {
+    "Rule": "Crushing Damage to the Groin, against Males, does double Shock damage (Up to -8)",
+    "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "399",
+    "Link": "B399"
+  },
+  {
     "Rule": "Impaling Wounding Modifier reduced to x1 against Arm or Leg",
     "Category": [
-      "Combat"
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "399",
+    "Link": "B399"
+  },
+  {
+    "Rule": "Targeting an Opponent's Arms or Legs (-2 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "399",
+    "Link": "B399"
+  },
+  {
+    "Rule": "Targeting an Opponent's Eye (-9 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "399",
+    "Link": "B399"
+  },
+  {
+    "Rule": "Targeting an Opponent's Face (-5 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "399",
+    "Link": "B399"
+  },
+  {
+    "Rule": "Targeting an Opponent's Groin (-3 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "399",
+    "Link": "B399"
+  },
+  {
+    "Rule": "Targeting an Opponent's Hands or Feet (-4 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "399",
+    "Link": "B399"
+  },
+  {
+    "Rule": "Targeting an Opponent's Neck (-5 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "399",
+    "Link": "B399"
+  },
+  {
+    "Rule": "Targeting an Opponent's Skull (-7 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "399",
+    "Link": "B399"
+  },
+  {
+    "Rule": "Targeting an Opponent's Vitals (-3 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
     ],
     "Book": "Basic",
     "Page": "399",
@@ -11755,6 +13531,15 @@
     "Book": "Basic",
     "Page": "399",
     "Link": "B399"
+  },
+  {
+    "Rule": "Halve Hit Location Penalties for Attempts to Grapple",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "400",
+    "Link": "B400"
   },
   {
     "Rule": "Large-Area Injury",
@@ -11775,7 +13560,7 @@
     "Link": "B400"
   },
   {
-    "Rule": "Striking at Weapons",
+    "Rule": "Striking at Weapons, -5 to hit Reach C melee weapon or Pistol, -4 to hit Reach 1 melee weapon",
     "Category": [
       "Combat"
     ],
@@ -11784,7 +13569,16 @@
     "Link": "B400"
   },
   {
-    "Rule": "Targeting Chinks in Armor",
+    "Rule": "Targeting Chinks in Armor (-8 to hit)",
+    "Category": [
+      "Combat"
+    ],
+    "Book": "Basic",
+    "Page": "400",
+    "Link": "B400"
+  },
+  {
+    "Rule": "Use Random Hit Location for a Wild Swing or for Shooting Blind",
     "Category": [
       "Combat"
     ],
@@ -15280,6 +17074,86 @@
   {
     "Rule": "Special Hit Locations (Ear, Nose, Jaw, Spine, Pelvis, Joints, Arteries)",
     "Category": [
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "566",
+    "Link": "B566"
+  },
+  {
+    "Rule": "Targeting an Opponent's Abdomen (-1 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "566",
+    "Link": "B566"
+  },
+  {
+    "Rule": "Targeting an Opponent's Ear (-7 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "566",
+    "Link": "B566"
+  },
+  {
+    "Rule": "Targeting an Opponent's Jaw (-6 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "566",
+    "Link": "B566"
+  },
+  {
+    "Rule": "Targeting an Opponent's Joints (-5 or -7 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "566",
+    "Link": "B566"
+  },
+  {
+    "Rule": "Targeting an Opponent's Nose (-7 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "566",
+    "Link": "B566"
+  },
+  {
+    "Rule": "Targeting an Opponent's Pelvis (-3 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "566",
+    "Link": "B566"
+  },
+  {
+    "Rule": "Targeting an Opponent's Spine (-8 to hit)",
+    "Category": [
+      "Combat",
+      "Injury"
+    ],
+    "Book": "Basic",
+    "Page": "566",
+    "Link": "B566"
+  },
+  {
+    "Rule": "Targeting an Opponent's Veins or Arteries (-5 or -8 to hit)",
+    "Category": [
+      "Combat",
       "Injury"
     ],
     "Book": "Basic",
@@ -23238,6 +25112,15 @@
     "Link": "DF11:22"
   },
   {
+    "Rule": "Alternate Forms as Power-Ups",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "23",
+    "Link": "DF11:23"
+  },
+  {
     "Rule": "Demonologist Power-Ups",
     "Category": [
       "Traits"
@@ -23257,6 +25140,15 @@
   },
   {
     "Rule": "Elementalist Power-Ups",
+    "Category": [
+      "Traits"
+    ],
+    "Book": "Dungeon Fantasy 11",
+    "Page": "25",
+    "Link": "DF11:25"
+  },
+  {
+    "Rule": "Friendly Undergrowth Perk for Druids",
     "Category": [
       "Traits"
     ],
@@ -30093,6 +31985,141 @@
     "Link": "DF5:5"
   },
   {
+    "Rule": "Anaconda",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "6",
+    "Link": "DF5:6"
+  },
+  {
+    "Rule": "Bear",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "6",
+    "Link": "DF5:6"
+  },
+  {
+    "Rule": "Boar",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "6",
+    "Link": "DF5:6"
+  },
+  {
+    "Rule": "Giant Eagle",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "7",
+    "Link": "DF5:7"
+  },
+  {
+    "Rule": "Gorilla",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "7",
+    "Link": "DF5:7"
+  },
+  {
+    "Rule": "Great Cat (Panther)",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "7",
+    "Link": "DF5:7"
+  },
+  {
+    "Rule": "Cheetah, Lion, and Tiger Lens for Great Cat",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "8",
+    "Link": "DF5:8"
+  },
+  {
+    "Rule": "Hound",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "8",
+    "Link": "DF5:8"
+  },
+  {
+    "Rule": "Insect Swarm",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "9",
+    "Link": "DF5:9"
+  },
+  {
+    "Rule": "Kangaroo",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "9",
+    "Link": "DF5:9"
+  },
+  {
+    "Rule": "Timber Wolf Lens for Hound",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "9",
+    "Link": "DF5:9"
+  },
+  {
+    "Rule": "Kraken",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "10",
+    "Link": "DF5:10"
+  },
+  {
+    "Rule": "Shark",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "10",
+    "Link": "DF5:10"
+  },
+  {
+    "Rule": "Stallion",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "11",
+    "Link": "DF5:11"
+  },
+  {
+    "Rule": "Wolverine and Skunk Lens",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Dungeon Fantasy 5",
+    "Page": "11",
+    "Link": "DF5:11"
+  },
+  {
     "Rule": "Divine (Un)Holy Allies",
     "Category": [
       "Creatures",
@@ -31037,7 +33064,7 @@
     "Link": "DF8:12"
   },
   {
-    "Rule": "Materials Table (36 Types. Like Ale, Distilled Liquor, Mead, Rice Wine, Grape Wine, Green Tea)",
+    "Rule": "Materials Table (36 Types Like Ale, Distilled Liquor, Mead, Rice Wine, Grape Wine, Green Tea)",
     "Category": [
       "Consumables"
     ],
@@ -31083,7 +33110,7 @@
     "Link": "DF8:14"
   },
   {
-    "Rule": "Household Items Table, 13 Personal Items (Like Mask, Parasol, Pipe, Tinderbox, Walking Stick, Wigs)",
+    "Rule": "Household Items Table, 13 Personal (Like Mask, Parasol, Pipe, Tinderbox, Walking Stick, Wigs)",
     "Category": [
       "Gear"
     ],
@@ -31092,7 +33119,7 @@
     "Link": "DF8:15"
   },
   {
-    "Rule": "Household Items Table, 14 Furniture (Like Chair, Couch, Mattress, Pillow, Rug / Carpet, Tapestry)",
+    "Rule": "Household Items Table, 14 Furniture (Like Chair, Couch, Mattress, Rug / Carpet, Tapestry)",
     "Category": [
       "Gear"
     ],
@@ -31101,7 +33128,7 @@
     "Link": "DF8:15"
   },
   {
-    "Rule": "Household Items Table, 6 Sculptures/Figurines (Like Clay, Bone, Ivory, Stone, Porcelain/Faience)",
+    "Rule": "Household Items Table, 6 Sculptures/Figurines (Like Clay, Bone, Ivory, Porcelain/Faience)",
     "Category": [
       "Gear"
     ],
@@ -31202,7 +33229,7 @@
     "Link": "DF8:21"
   },
   {
-    "Rule": "Healing Table (Bandages, Healing Kit, First Aid Kit, Spidersilk Bandages, Surgical Instruments)",
+    "Rule": "Healing Table (Bandages Incl. Spidersilk, First Aid Kit, Healing Kit, Surgical Instruments)",
     "Category": [
       "Gear",
       "Medical"
@@ -31230,7 +33257,7 @@
     "Link": "DF8:22"
   },
   {
-    "Rule": "Light and Optics (Like Alchemist's Matches, Burning Stone, Beeswax Candle, Corrective Spectacles)",
+    "Rule": "Light and Optics (Like Alchemist's Matches, Burning Stone, Candle, Corrective Spectacles)",
     "Category": [
       "Gear"
     ],
@@ -31248,7 +33275,7 @@
     "Link": "DF8:23"
   },
   {
-    "Rule": "Religious Gear (Like Religious Symbol and Blessed Religious Symbol, Portable Shrine, Holy Water)",
+    "Rule": "Religious Gear (Like Religious Symbol, Blessed Symbol, Portable Shrine, Holy Water)",
     "Category": [
       "Gear",
       "Divinity"
@@ -38633,7 +40660,19 @@
     "Rule": "Magery",
     "Category": [
       "DFRPG",
-      "Traits"
+      "Traits",
+      "Magic"
+    ],
+    "Book": "Dungeon Fantasy RPG: Adventurers",
+    "Page": "41",
+    "Link": "DFA41"
+  },
+  {
+    "Rule": "Magery Level Capped at 6",
+    "Category": [
+      "DFRPG",
+      "Traits",
+      "Magic"
     ],
     "Book": "Dungeon Fantasy RPG: Adventurers",
     "Page": "41",
@@ -44129,6 +46168,151 @@
     "Link": "F43"
   },
   {
+    "Rule": "Bird of Paradise",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "47",
+    "Link": "F47"
+  },
+  {
+    "Rule": "Herecine, Large Carniverous Plant",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "47",
+    "Link": "F47"
+  },
+  {
+    "Rule": "Manticore",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "48",
+    "Link": "F48"
+  },
+  {
+    "Rule": "Moly (Herb), Resistance Against Hostile Magic",
+    "Category": [
+      "Medical"
+    ],
+    "Book": "Fantasy",
+    "Page": "48",
+    "Link": "F48"
+  },
+  {
+    "Rule": "Mountain Ant",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "48",
+    "Link": "F48"
+  },
+  {
+    "Rule": "Panther",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "49",
+    "Link": "F49"
+  },
+  {
+    "Rule": "Unicorn",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "49",
+    "Link": "F49"
+  },
+  {
+    "Rule": "Rukh, Giant Bird of Prey, 520 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "50",
+    "Link": "F50"
+  },
+  {
+    "Rule": "Chimera",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "51",
+    "Link": "F51"
+  },
+  {
+    "Rule": "Wendigo, Spirit, 330 pts",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Fantasy",
+    "Page": "52",
+    "Link": "F52"
+  },
+  {
+    "Rule": "Golem, -25 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "53",
+    "Link": "F53"
+  },
+  {
+    "Rule": "Lilith, Adam's First Wife, 714 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "54",
+    "Link": "F54"
+  },
+  {
+    "Rule": "Brontes, Cyclops, 670 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "55",
+    "Link": "F55"
+  },
+  {
+    "Rule": "Tiamat, Dragon-ish looking, 1,200 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "56",
+    "Link": "F56"
+  },
+  {
+    "Rule": "Alternative Lycanthropies",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "60",
+    "Link": "F60"
+  },
+  {
+    "Rule": "Marshfolk Halflings",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy",
+    "Page": "61",
+    "Link": "F61"
+  },
+  {
     "Rule": "Industrial Magic",
     "Category": [
       "Setting",
@@ -44137,6 +46321,235 @@
     "Book": "Fantasy",
     "Page": "67",
     "Link": "F67"
+  },
+  {
+    "Rule": "Sanctity",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy",
+    "Page": "101",
+    "Link": "F101"
+  },
+  {
+    "Rule": "How Many Mages?",
+    "Category": [
+      "Setting"
+    ],
+    "Book": "Fantasy",
+    "Page": "103",
+    "Link": "F103"
+  },
+  {
+    "Rule": "Centaur",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "105",
+    "Link": "F105"
+  },
+  {
+    "Rule": "Devilfish",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "105",
+    "Link": "F105"
+  },
+  {
+    "Rule": "Superior Horse",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "106",
+    "Link": "F106"
+  },
+  {
+    "Rule": "Djinni, 247 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "107",
+    "Link": "F107"
+  },
+  {
+    "Rule": "Dragon, 300 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "107",
+    "Link": "F107"
+  },
+  {
+    "Rule": "Dwarf, 35 pts",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Fantasy",
+    "Page": "107",
+    "Link": "F107"
+  },
+  {
+    "Rule": "Elf, 70 pts",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Fantasy",
+    "Page": "108",
+    "Link": "F108"
+  },
+  {
+    "Rule": "Faerie, 140 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "108",
+    "Link": "F108"
+  },
+  {
+    "Rule": "Ghoul, 0 pts",
+    "Category": [
+      "Undead"
+    ],
+    "Book": "Fantasy",
+    "Page": "108",
+    "Link": "F108"
+  },
+  {
+    "Rule": "Halfling, 20 pts",
+    "Category": [
+      "Templates"
+    ],
+    "Book": "Fantasy",
+    "Page": "109",
+    "Link": "F109"
+  },
+  {
+    "Rule": "Imp, 125 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "109",
+    "Link": "F109"
+  },
+  {
+    "Rule": "Myrmidon Worker and Warrior",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "110",
+    "Link": "F110"
+  },
+  {
+    "Rule": "Orc, -9 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "110",
+    "Link": "F110"
+  },
+  {
+    "Rule": "Selkie, 90 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "110",
+    "Link": "F110"
+  },
+  {
+    "Rule": "Selkie,Human Form, 80 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "110",
+    "Link": "F110"
+  },
+  {
+    "Rule": "Troll, male and female versions",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "111",
+    "Link": "F111"
+  },
+  {
+    "Rule": "Vampire, 80 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "111",
+    "Link": "F111"
+  },
+  {
+    "Rule": "Ancestral Spirit, Undead Lens, 125 pts",
+    "Category": [
+      "Undead",
+      "Lens"
+    ],
+    "Book": "Fantasy",
+    "Page": "112",
+    "Link": "F112"
+  },
+  {
+    "Rule": "Vampire Mage, 135 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "112",
+    "Link": "F112"
+  },
+  {
+    "Rule": "Werewolf, 29 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Fantasy",
+    "Page": "112",
+    "Link": "F112"
+  },
+  {
+    "Rule": "Ghost, 175 pts",
+    "Category": [
+      "Undead",
+      "Lens"
+    ],
+    "Book": "Fantasy",
+    "Page": "113",
+    "Link": "F113"
+  },
+  {
+    "Rule": "Lich, 105 pts",
+    "Category": [
+      "Undead",
+      "Lens"
+    ],
+    "Book": "Fantasy",
+    "Page": "113",
+    "Link": "F113"
+  },
+  {
+    "Rule": "Wight, 80 pts",
+    "Category": [
+      "Undead",
+      "Lens"
+    ],
+    "Book": "Fantasy",
+    "Page": "113",
+    "Link": "F113"
   },
   {
     "Rule": "Archer",
@@ -71190,6 +73603,87 @@
     "Link": "LT63"
   },
   {
+    "Rule": "Backsword, with Brawling Skill, TL4 (Dmg: thrust crush, Reach C, $550, 3 lbs, Hilt Punch)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Cestus, TL2 (Damage: thrust crush, Reach C, $50, 1 lb)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Combat Fan, slash, TL3 (Dmg: thrust-2 cut, Reach C, $40, 1 lb, ST 6)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Combat Fan, thrust, TL3 (Dmg: thrust crush, Reach C, $40, 1 lb, ST 7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Cutlass, TL4 (Dmg: thrust crush, Reach C, $500, 2 lbs, Hilt Punch)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Hook Sword, TL3 (Dmg: thrust-1 cut, Reach C, $200, 3 lbs, Hilt Punch)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Khopesh, swung, TL1 (Dmg: swing+1 cut, Reach 1, Unbalanced, $450, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Khopesh, thrust, TL1 (Dmg: thrust-2 cut, Reach 1, Unbalanced, $450, 3 lbs, ST 10, Hook)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Knobbed Club, TL0 (Damage: swing+1 crush, Reach 1, $20, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
     "Rule": "Melee Weapons Table (Low Tech)",
     "Category": [
       "Reference",
@@ -71198,6 +73692,411 @@
     "Book": "Low Tech",
     "Page": "65",
     "Link": "LT65"
+  },
+  {
+    "Rule": "Myrmex, TL1 (Damage: thrust crush, Reach C, $20, 0.25 lbs)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Qian Kun Ri Yue Dao, TL3 (Dmg: thrust-1 cut, Reach C, $250, 3 lbs, Hilt Punch)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Round Mace, TL0 (Damage: swing+2 crush, Reach 1, Unbalanced, $35, 5 lbs, ST 12)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Sickle, swung, TL1 (Dmg: swing cut, Reach 1, $40, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Sickle, swung, TL1 (Dmg: swing impaling, Reach 1, Unbalanced, $40, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Sickle, thrust, TL1 (Dmg: thrust-2 cut, Reach 1, Unbalanced, $40, 2 lbs, ST 8, Hook)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Small Axe, TL0 (Damage: swing+1 cut, Reach 1, Unbalanced, $45, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Small Round Mace, TL0 (Damage: swing+1 crush, Reach 1, Unbalanced, $25, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Small Throwing Axe, TL0 (Damage: swing+1 cut, Reach 1, Unbalanced, $50, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "65",
+    "Link": "LT65"
+  },
+  {
+    "Rule": "Bokken, swing, TL3 (Dmg: swing+1 crush, Reach 1, $40, 3 lbs., ST 9, 1H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "66",
+    "Link": "LT66"
+  },
+  {
+    "Rule": "Bokken, thrust, TL3 (Dmg: thrust+1 crush, Reach 1, $40, 3 lbs., ST 9, 1H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "66",
+    "Link": "LT66"
+  },
+  {
+    "Rule": "Longsword, swing, TL3 (Dmg: swing+1 cut, Reach 1, $700, 4 lbs, ST 10, One Handed)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "66",
+    "Link": "LT66"
+  },
+  {
+    "Rule": "Longsword, thrust, TL3 (Dmg: thrust+2 impaling, Reach 1-2, $700, 4 lbs, ST 10, One Handed)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "66",
+    "Link": "LT66"
+  },
+  {
+    "Rule": "Backsword, swing, TL4 (Dmg: swing+1 cut, Reach 1, $550, 3 lbs, Hilt Punch, ST 10, 1H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "66",
+    "Link": "LT66"
+  },
+  {
+    "Rule": "Backsword, thrust, TL4 (Dmg: thrust+1 imp, Reach 1, $550, 3 lbs, Hilt Punch, ST 10, 1H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "66",
+    "Link": "LT66"
+  },
+  {
+    "Rule": "Edged Rapier, swung, TL4 (Dmg: swing cut, Reach 1 and 2, Fencing Parry, $1000, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "68",
+    "Link": "LT68"
+  },
+  {
+    "Rule": "Edged Rapier, thrust, TL4 (Dmg: thrust+1 imp, Reach 1-2, Fencing Parry, $1000, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "68",
+    "Link": "LT68"
+  },
+  {
+    "Rule": "Jian, swung, TL3 (Dmg: swing cut, Reach 1, Fencing Parry, $700, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "68",
+    "Link": "LT68"
+  },
+  {
+    "Rule": "Jian, thrust, TL3 (Dmg: thrust+1 impaling, Reach 1 and 2, Fencing Parry, $700, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "68",
+    "Link": "LT68"
+  },
+  {
+    "Rule": "Light Edged Rapier, swung, TL4 (Dmg: swing-1 cut, Rch 1, Fencing Parry, $700, 2.25 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "68",
+    "Link": "LT68"
+  },
+  {
+    "Rule": "Light Edged Rapier, thrust, TL4 (thrust+1 imp, Rch 1, Fencing Parry, $700, 2.25 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "68",
+    "Link": "LT68"
+  },
+  {
+    "Rule": "Light Rapier, TL4 (Dmg: thrust+1 imp, Reach 1, Fencing Parry, $400, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "68",
+    "Link": "LT68"
+  },
+  {
+    "Rule": "Dress Smallsword, TL4 (Dmg: thrust imp, Rch C and 1, Fencing Parry, $300, 1 lb, ST 5)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Dusack, swung, TL2 (Damage: swing crush, Reach 1, $30, 1.5 lbs, ST 7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Dusack, thrust, TL2 (Damage: thrust crush, Reach 1, $30, 1.5 lbs, ST 7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Falchion, swung, TL2 (Damage: swing+1 cut, Reach 1, $400, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Falchion, thrust, TL2 (Damage: thrust-2 impaling, Reach 1, $400, 3 lbs, ST 10)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Heavy Spear, slash, TL1 (Dmg: thrust+3 cut, Rch 3, Unbal., $90, 6 lbs., ST 11, 2 Hands)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Heavy Spear, thrust, TL1 (Dmg: thrust+4 imp, Rch 2 and 3, Unbal., $90, 6 lbs., ST 11, 2H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Large Katar, swung, TL2 (Damage: swing-1 cut, Reach 1, $400, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Large Katar, thrust, TL2 (Damage: thrust+2 impaling, Reach 1, $400, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Large Quadrens, TL2 (Damage: thrust+2(0.5) impaling, Reach 1, $400, 3 lbs, ST 9)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Small Falchion, swung, TL2 (Damage: swing cut, Reach 1, $200, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Small Falchion, thrust, TL2 (Damage: thrust-2 impaling, Reach 1, $200, 2 lbs, ST 8)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "69",
+    "Link": "LT69"
+  },
+  {
+    "Rule": "Bokken, swing, TL3 (Dmg: swing+2 crush, Reach 1, $40, 3 lbs., ST 9, 2H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "70",
+    "Link": "LT70"
+  },
+  {
+    "Rule": "Bokken, thrust, TL3 (Dmg: thrust+1 crush, Reach 1, $40, 3 lbs., ST 9, 2H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "70",
+    "Link": "LT70"
+  },
+  {
+    "Rule": "Great Axe, TL1 (Dmg: swing+4 cut, Reach 1 and 2, Unbalanced, $100, 8 lbs., ST 12, 2H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "70",
+    "Link": "LT70"
+  },
+  {
+    "Rule": "Long Axe, TL2 (Dmg: swing+3 cut, Reach 1 and 2, Unbalanced, $75, 6 lbs., ST 11, 2H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "70",
+    "Link": "LT70"
+  },
+  {
+    "Rule": "Longsword, swing, TL3 (Dmg: swing+1 cut, Reach 1, $700, 4 lbs, ST 9, 2 Handed)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "70",
+    "Link": "LT70"
+  },
+  {
+    "Rule": "Longsword, thrust, TL3 (Dmg: thrust+3 impaling, Reach 1 and 2, $700, 4 lbs, ST 9, 2 Handed)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "70",
+    "Link": "LT70"
+  },
+  {
+    "Rule": "Tetsubo, swing, TL2 (Dmg: swing+3 crush, Reach 1 and 2, Unbalanced, $100, 10 lbs., ST 13, 2H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "70",
+    "Link": "LT70"
+  },
+  {
+    "Rule": "Tetsubo, thrust, TL2 (Dmg: thrust+2 crush, Reach 2, $100, 10 lbs., ST 12, 2H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "70",
+    "Link": "LT70"
+  },
+  {
+    "Rule": "Tonfa, swung, TL3 (Dmg: swing crush, Reach 1, $40, 1.5 lbs., ST 7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "70",
+    "Link": "LT70"
+  },
+  {
+    "Rule": "Tonfa, thrust, TL3 (Dmg: thrust crush, Reach C and 1, $40, 1.5 lbs., ST 7)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "70",
+    "Link": "LT70"
+  },
+  {
+    "Rule": "Warhammer, TL3 (Dmg: swing+4 imp, Reach 1 and 2, Unbalanced, $100, 7 lbs., ST 12, 2H)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Low Tech",
+    "Page": "70",
+    "Link": "LT70"
   },
   {
     "Rule": "Alternate Arrows",
@@ -71209,7 +74108,7 @@
     "Link": "LT73"
   },
   {
-    "Rule": "Bows Crossbows and Rated ST",
+    "Rule": "Bows, Crossbows and Rated ST",
     "Category": [
       "Weapons"
     ],
@@ -77330,6 +80229,15 @@
     "Link": "M12"
   },
   {
+    "Rule": "If Injured While Holding a Missile Spell Roll vs. Will. Failure: Harm Yourself",
+    "Category": [
+      "Magic"
+    ],
+    "Book": "Magic",
+    "Page": "12",
+    "Link": "M12"
+  },
+  {
     "Rule": "Missile Spells",
     "Category": [
       "Magic"
@@ -81434,6 +84342,177 @@
     "Link": "MA214"
   },
   {
+    "Rule": "Chukonu, Repeating Crossbow",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "214",
+    "Link": "MA214"
+  },
+  {
+    "Rule": "Chung Bong, Korean Baton, Use Short Staff stats",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Cutlass, hilt encloses hand, gives weapon hand DR4",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Daab, Thai Shortsword",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Dai-Kyu, Japanese Composite Bow",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Dan Bong, Korean Short Baton",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Dan Sang Gum, Korean Shortsword, Treat as Small Falchion",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Dao, One-Handed Chinese Sword",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Dhot, Burmese Baton",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Dusack, sturdy wooden Shortsword, also called Rudis or Waster",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Eku, Okinawan, a large oar used as a makeshift polearm",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Épée, blunt-tipped French Smallsword",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Escrima Stick, Philippino Short Staff",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Fei Biao, Chinese Flying Dart",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "215",
+    "Link": "MA215"
+  },
+  {
+    "Rule": "Fukiya, Japanese Ninja Blowpipe",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "216",
+    "Link": "MA216"
+  },
+  {
+    "Rule": "Gada, Indian giant two-handed Mace",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "216",
+    "Link": "MA216"
+  },
+  {
+    "Rule": "Glaive, European polearm, used in varied ways",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "216",
+    "Link": "MA216"
+  },
+  {
+    "Rule": "Greatsword, European, two-handed, spikes to protect hands",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "216",
+    "Link": "MA216"
+  },
+  {
+    "Rule": "Halberd, European polearm",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "216",
+    "Link": "MA216"
+  },
+  {
     "Rule": "Weapon Quality and Custom Quality Levels",
     "Category": [
       "Weapons"
@@ -81441,6 +84520,24 @@
     "Book": "Martial Arts",
     "Page": "216",
     "Link": "MA216"
+  },
+  {
+    "Rule": "Han-Kyu, Japanese Shortbow",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "217",
+    "Link": "MA217"
+  },
+  {
+    "Rule": "Hishi, Japanese Dagger",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "217",
+    "Link": "MA217"
   },
   {
     "Rule": "Horse-Cutter, Heavy and Light",
@@ -81519,6 +84616,24 @@
     "Link": "MA224"
   },
   {
+    "Rule": "Combat Fan, a metal version of the Folding Fan, Japanese Tessen",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "226",
+    "Link": "MA226"
+  },
+  {
+    "Rule": "Hook Sword, Enables Use of the Hook Technique (MA74)",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "226",
+    "Link": "MA226"
+  },
+  {
     "Rule": "Minimum ST to Wield a Weapon and Penalties for Low ST",
     "Category": [
       "Weapons",
@@ -81527,6 +84642,96 @@
     "Book": "Martial Arts",
     "Page": "226",
     "Link": "MA226"
+  },
+  {
+    "Rule": "Estoc, European edgeless thrusting sword held in Defensive Grip",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "227",
+    "Link": "MA227"
+  },
+  {
+    "Rule": "Hanbo, Japanese Jo",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "227",
+    "Link": "MA227"
+  },
+  {
+    "Rule": "Dagger, Rondel Dagger, or Stiletto",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "228",
+    "Link": "MA228"
+  },
+  {
+    "Rule": "Fire Wheel, Chinese Slashing Wheel",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "228",
+    "Link": "MA228"
+  },
+  {
+    "Rule": "Foil, French, A whippy sport-fencing sword, treat as Dress Smallsword",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "229",
+    "Link": "MA229"
+  },
+  {
+    "Rule": "Forest Bill, English Dueling Bill",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "229",
+    "Link": "MA229"
+  },
+  {
+    "Rule": "Fuscina, Ancient Roman Trident",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "229",
+    "Link": "MA229"
+  },
+  {
+    "Rule": "Horse-Cutter, Chinese, polearm with a heavy chopping blade",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "229",
+    "Link": "MA229"
+  },
+  {
+    "Rule": "Discus, Ancient Greece",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "231",
+    "Link": "MA231"
+  },
+  {
+    "Rule": "Flying Dart, Chinese. A throwing blade with a ring handle, Use Small or Large Throwing Knife",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Martial Arts",
+    "Page": "231",
+    "Link": "MA231"
   },
   {
     "Rule": "Defendu Martial Arts Style",
@@ -90253,7 +93458,7 @@
     "Link": "MH3:21"
   },
   {
-    "Rule": "Albino Alligators",
+    "Rule": "Albino Alligator",
     "Category": [
       "Creatures"
     ],
@@ -101525,6 +104730,24 @@
     "Link": "PT39"
   },
   {
+    "Rule": "Burnt-Gaunt Men",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/1",
+    "Page": "34",
+    "Link": "PY1:34"
+  },
+  {
+    "Rule": "Gaunt Black Badger",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/1",
+    "Page": "35",
+    "Link": "PY1:35"
+  },
+  {
     "Rule": "Chara (Demon)",
     "Category": [
       "Creatures"
@@ -101604,6 +104827,15 @@
     "Book": "Pyramid #3/101",
     "Page": "24",
     "Link": "PY101:24"
+  },
+  {
+    "Rule": "Egyptian / Nile Crocodile Stat Block",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/11",
+    "Page": "25",
+    "Link": "PY11:25"
   },
   {
     "Rule": "The Wrestler PC Profession Template",
@@ -102219,6 +105451,42 @@
     "Link": "PY26:8"
   },
   {
+    "Rule": "Deathfangs",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/27",
+    "Page": "5",
+    "Link": "PY27:5"
+  },
+  {
+    "Rule": "Flying Leeches",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/27",
+    "Page": "5",
+    "Link": "PY27:5"
+  },
+  {
+    "Rule": "Venusian Dragonflies",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/27",
+    "Page": "5",
+    "Link": "PY27:5"
+  },
+  {
+    "Rule": "Venusian Romper",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/27",
+    "Page": "6",
+    "Link": "PY27:6"
+  },
+  {
     "Rule": "Psionics Represented by Magic Spells as Skills",
     "Category": [
       "Psionics",
@@ -102518,7 +105786,7 @@
     "Link": "PY37:17"
   },
   {
-    "Rule": "Brilliant Mist, Several Hundred Sq Yds of Aerostat Nanoswarms (TL11, Cmplx +4. $5,000,000. LC4)",
+    "Rule": "Brilliant Mist (TL11, Aerostat Nanoswarm Over Hundreds of Sq Yds, Cmplx +4, $5,000,000. LC4)",
     "Category": [
       "Electronics"
     ],
@@ -102581,7 +105849,7 @@
     "Link": "PY37:18"
   },
   {
-    "Rule": "Microswarm Computer (TL10), with grain computer cluster, Cmplx +2. $10,000, 1 lb, 50 yd radio range",
+    "Rule": "Microswarm Computer (TL10, Grain Computer Cluster, Cmplx +2, 50 yd Radio, $10,000, 1 lb)",
     "Category": [
       "Electronics"
     ],
@@ -103121,6 +106389,147 @@
     "Link": "PY37:21"
   },
   {
+    "Rule": "Changeling, 200 pts",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "5",
+    "Link": "PY45:5"
+  },
+  {
+    "Rule": "Ghost, 200 pts",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "5",
+    "Link": "PY45:5"
+  },
+  {
+    "Rule": "Mummy, 200 pts (Locust Form, 170 pts)",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "6",
+    "Link": "PY45:6"
+  },
+  {
+    "Rule": "Mummy (Scarab Form, 170 pts)",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "7",
+    "Link": "PY45:7"
+  },
+  {
+    "Rule": "Seelie, 200 pts, Dashing Noble Fae",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "7",
+    "Link": "PY45:7"
+  },
+  {
+    "Rule": "The Lost God stat block",
+    "Category": [
+      "Creatures",
+      "Divinity"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "8",
+    "Link": "PY45:8"
+  },
+  {
+    "Rule": "Mutant Necrophage Zombie Predator",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "13",
+    "Link": "PY45:13"
+  },
+  {
+    "Rule": "Changeling stat block",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "25",
+    "Link": "PY45:25"
+  },
+  {
+    "Rule": "Goblin stat block",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "25",
+    "Link": "PY45:25"
+  },
+  {
+    "Rule": "Goblin Swarm stat block",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "26",
+    "Link": "PY45:26"
+  },
+  {
+    "Rule": "Fae Crafted Weapons",
+    "Category": [
+      "Weapons"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "27",
+    "Link": "PY45:27"
+  },
+  {
+    "Rule": "Redcap stat block",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "27",
+    "Link": "PY45:27"
+  },
+  {
+    "Rule": "Unseelie",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "28",
+    "Link": "PY45:28"
+  },
+  {
+    "Rule": "Yuki Onna, Japanese Spirits of Snow and Ice",
+    "Category": [
+      "Creatures",
+      "Supernatural"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "29",
+    "Link": "PY45:29"
+  },
+  {
+    "Rule": "Random Monster Creation Table",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/45",
+    "Page": "35",
+    "Link": "PY45:35"
+  },
+  {
     "Rule": "Old School Dwarf Template, Race as Profession",
     "Category": [
       "Templates"
@@ -103340,6 +106749,33 @@
     "Book": "Pyramid #3/50",
     "Page": "21",
     "Link": "PY50:21"
+  },
+  {
+    "Rule": "Giant Crab",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/50",
+    "Page": "23",
+    "Link": "PY50:23"
+  },
+  {
+    "Rule": "Draco-Wasp",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/50",
+    "Page": "25",
+    "Link": "PY50:25"
+  },
+  {
+    "Rule": "Orcs, Sons of Sarn",
+    "Category": [
+      "Creatures"
+    ],
+    "Book": "Pyramid #3/50",
+    "Page": "25",
+    "Link": "PY50:25"
   },
   {
     "Rule": "Abominable and Animated Snowman",
@@ -110997,7 +114433,7 @@
     "Link": "SP2:14"
   },
   {
-    "Rule": "The Ultimate Engine (TL5+1), $100 million, 60 tons, Cmplx 4, requires large external steam engine",
+    "Rule": "The Ultimate Engine (TL5+1, Cmplx 4, Needs Large Steam Engine, $100 Million, 60 tons)",
     "Category": [
       "Gear"
     ],
